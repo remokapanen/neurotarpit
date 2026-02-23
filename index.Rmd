@@ -1,0 +1,22 @@
+--- 
+title: "Neurotieteiden tärpit"
+author: "Janne Vahala, Sami Mustonen"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+documentclass: book
+bibliography: [book.bib, packages.bib]
+# url: your book url like https://bookdown.org/yihui/bookdown
+# cover-image: path to the social sharing image like images/cover.jpg
+description:
+link-citations: yes
+github-repo: rstudio/bookdown-demo
+---
+
+# About 
+
+Alta löytyy vuosien 2022-2025 neurologian tentteihin rakennettuja vastauksia pdf-muodossa vuosittain jaoteltuna. Neurokirurgian kotitentin tärpit löytyy wikistä vastauksineen. 
+
+- [Apricus (2025)](images/Apricus.pdf)
+- [Vividus (2024)](images/Vividus.pdf)
+- [Cupidus (2023)](images/Cupidus.pdf)
+- [Invictus (2022)](images/Invictus.pdf)
