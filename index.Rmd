@@ -1,6 +1,6 @@
 --- 
 title: "Neurotieteiden tärpit"
-author: "Janne Vahala, Sami Mustonen"
+author: "Remo Kapanen, Janne Vahala, Sami Mustonen"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 documentclass: book
@@ -12,11 +12,37 @@ link-citations: yes
 github-repo: rstudio/bookdown-demo
 ---
 
-# About 
+# Kiitokset 
 
-Alta löytyy vuosien 2022-2025 neurologian tentteihin rakennettuja vastauksia pdf-muodossa vuosittain jaoteltuna. Neurokirurgian kotitentin tärpit löytyy wikistä vastauksineen. 
+Vuosien 2025-2022 mallivastauksista osa on Jannen ja Samin rakentamia, iso kiitos heille.
 
-- [Apricus (2025)](images/Apricus.pdf)
-- [Vividus (2024)](images/Vividus.pdf)
-- [Cupidus (2023)](images/Cupidus.pdf)
-- [Invictus (2022)](images/Invictus.pdf)
+## Tentistä {#Tentista}
+
+Tentit koostuvat viime vuosina parista esseetyylisestä kysymyksestä, parista lyhytvastauksellisesta potilastapauksesta ja sitten muutamasta O/V-väittämästä. Jos aiheuttaa merkittävää haittaa potilaan terveydelle, niin pisteet sen kysymyksen suhteen nollille. 
+
+Toistuvia aiheita ovat mm. 
+
+<li>AVH (riskitekijät, etiologia, akuuttihoito, sekundaaripreventio, TIA-kohtauksen kiireellisyys, ajokielto)</li>
+<li>Epilepsia (altistavat tekijät, ensikouristajan tutkimukset päivystyksessä ja jatkossa, seuranta-aika päivystyksessä, ajokielto)</li>
+<li>Epilepsian erottaminen synkopeesta</li>
+<li>Keskushermostoinfektiot (erityisesti miten erottaa aseptinen/septinen meningiitti oirekuvan ja likvorin perusteella ja miten hoito eroaa; enkefaliitti kokonaisuutena myös tärkeä)</li>
+<li>Myastenia gravis (oirekuva, status, selvittelyt)</li>
+<li>Parkinsonin tauti (oirekuva, status, selvittelyt, lääkityksessä huomioitavat asiat)</li>
+<li>Essentiaalinen vapina ja sen erottaminen Parkinsonin taudista</li>
+<li>Levottomat jalat (oirekuva, diagnoosi, hoito, sekundaariset tekijät, augmentaatio)</li>
+<li>ALS (oirekuva, status, diagnostiikka)</li>
+<li>MS-tauti (oirekuva, status, eri tyypit, diagnostiikka)</li>
+<li>Optikusneuriitti (oirekuva, sen yhteys MS-tautiin)</li>
+<li>Polyneuropatia ja ohutsäieneuropatia (oirekuva, status, aiheuttajat, diagnostiikka)</li>
+<li>Guillain-Barrén oireyhtymän oirekuva, kiirellisyys (päivystykseen aina) ja hoito</li>
+<li>Päänsärkytyypit ja niiden erottelu toisistaan</li>
+<li>Päänsäryn red flags</li>
+<li>Migreenin estohoito</li>
+<li>Migreeniaura vs AVH/amaurosis fugax</li>
+<li>Sarjoittaisen päänsäryn oirekuva, akuuttihoito ja estohoito</li>
+<li>Trigeminusneuralgian oirekuva ja hoito</li>
+<li>Delirium</li>
+<li>Etenevien muistisairaustyyppien peruspiirteet</li>
+<li>Aivovammojen vaikeusasteen määrittely</li>
+<li>KNF:n tuki neuropaattisessa kivussa ja tajuttomuudessa</li>
+<li>Neuromodulaatiohoitojen mahdollisuus (HIFU ja DBS)</li>

@@ -1,0 +1,368 @@
+# 2021 
+
+## Tentti 
+
+Kaksi samaa kysymystä kuin tulevina vuosina (54-vuotiaan TIA-kohtaus ja Parkinson-potilaan lääkemuutokset). Ei niitä uudestaan.
+
+### Näkövaikeuksia vanhuksella
+
+Toimit Naantalin terveyskeskuslääkärinä. Vastaanotolle tulee 85-vuotias nainen, jolla on näkövaikeutta. Hän kävi hiljattain kaihileikkauksessa mutta sen jälkeenkään näkö ei ole korjaantunut. Potilas kertoo, että aamulla näkö on vähän parempi mutta heikkenee päivän mittaan ja illalla näkee vain edessä seisovan henkilön varpaat. Tutkit potilaan ja toteat että silmät ovat lähes ummessa, silmäluomet roikkuvat kummassakin silmässä. Toteat että bilateraalinen ptoosi on todennäköisin syy potilaan näkövaikeudelle.
+
+- a. Mihin asioihin kiinnität erityisesti huomiota/mihin seikkoihin haluat lisätietoja haastatellessasi potilasta (listaa 4 tärkeintä)
+- b. Mihin asioihin kiinnität huomiota tutkiessasi potilasta (listaa 4 tärkeintä)
+- c. Mitkä ovat todennäköisimmät erotusdiagnostiset vaihtoehtosi (mainitse 2 tärkeintä)
+- d. Millä lisätutkimuksilla erikoissairaanhoidossa saadaan lisävalaistusta asiaan? 
+
+<div class="">
+  <button class="solution-button"
+          data-label="a"
+          data-hide-label="a - Piilota vastaus">
+    a
+  </button>
+  <div class="solution-content">
+
+Potilaan oirekuva viittaa okulaariseen myastenia gravikseen. Selvittelyssä kiinnostaa mm.
+
+<li>Potilaan perussairaudet (varsinkin autoimmuunisairaudet) ja lääkitys (aina tärkeää tietää)</li>
+<li>Milloin oireet alkoivat ja kuinka nopeasti ne ovat edenneet?</li>
+<li>Onko muita oireita (kaksoiskuvat, kipu silmien liikkeessä, väsymistä kehon muissa osissa, puheen väsymistä/artikulaation heikentymistä, nielemisvaikeuksia, hengitysoireita (hengitysraskaus on kriittinen myasteenisen kriisin riskin arvioimiseksi), yleisoireita) ja miten oireet vaihtelevat päivän/rasituksen myötä?</li>
+<li>Miten vaikuttaa toimintakykyyn?</li>
+
+  </div>
+</div>
+
+<div class="">
+  <button class="solution-button"
+          data-label="b"
+          data-hide-label="b - Piilota vastaus">
+    b
+  </button>
+  <div class="solution-content">
+
+Väsymystestit tärkeitä (pyydetään potilasta katsomaan yläviistoon n. minuutin ajan -> pahentaa ptoosia. Samoin silmien räpäyttely toistuvasti johtaa riippuluomen voimistumiseen). Myös muut lihakset voi kokeilla (esim. sorpien naputus, käsien nyrkistys, alaraajojen kannatus). Väsyykö puhe keskustelun aikana; meneekö dysartriseksi/honottavaksi?
+
+Silmien liikehdintä kiinnostaa, koska liikerajoitukset tai tulehdukset voivat aiheuttaa myös näköhäiriöitä: Tarkistetaan silmien liikeradat kaikkiin suuntiin. Onko rajoituksia tai ilmeneekö kipua liikuttaessa; kaksoiskuvia ääriasennoissa?
+
+Jääpakkaustestiä voi myös käyttää tukemaan myastenian diagnoosia. Asetetaan jääpussi suljetun luomen päälle. Ptoosi usein korjaantuu hetkellisesti kylmän vaikutuksesta (kylmä estää asetyylikoliiniesteraasia). 
+
+Statuksessa tietysti myasteniakohdisteisten selvitysten lisäksi yleisesti aina kiinnostaa kognitio, orientoituminen, yleisstatus ja -vointi sekä kattava neurologinen status (hyvä esim. tiedostaa, että myasteniassa refleksit yleensä normaalit). Yleisstatuksessa voi koittaa nopeasti etsiä mm. laskimodilataation merkkejä kaulan alueella (viittaisi tymooman aiheuttamaan superior vena cava syndroomaan; myastenia joskus johtuu tymooman paraneoplastisesta reaktiosta ja tymooma voi harvoin painaa yläonttolaskimoa johtaen laskimostaasiin).
+  </div>
+</div>
+
+<div class="">
+  <button class="solution-button"
+          data-label="c"
+          data-hide-label="c - Piilota vastaus">
+    c
+  </button>
+  <div class="solution-content">
+
+Myastenia gravis on vahvin diagnoosi (diurnaalisen vaihtelun takia), mutta tietysti myös seniili ptoosi eli ikääntymisen aiheuttama riippuluomi on mahdollinen. Ikääntyminen ja kaihileikkauksessa käytetty luomenlevitin voivat vaurioittaa luomen kohottajalihaksen jännettä. Tässä oireisto on kuitenkin yleensä vakio, eikä siinä pitäisi olla voimakasta päivittäisvaihtelua.
+
+---
+
+Hornerin oireyhtymä ja CN III-halvaukset ovat epätodennäköisiä, koska ne ovat yleensä toispuolisia ja niihin liittyy muita oireita kuin vain ptoosi (eivätkä myöskään vaihtele päivän mittaa). 
+  </div>
+</div>
+
+<div class="">
+  <button class="solution-button"
+          data-label="d"
+          data-hide-label="d - Piilota vastaus">
+    d
+  </button>
+  <div class="solution-content">
+
+Myasthenia graviksen ensisijaisia diagnostisia tutkimuksia ovat myastenia-EMG (normaali ei riitä; sisältää jitter-tutkimuksen (single-fibre EMG, yksisyy-EMG) ja toistostimulaatiot (repetitive nerve stimulation, RNS)) ja vasta-ainelabrat (AChR ja tarvittaessa MuSK). Joskus käytetään myös Tensilon-testiä (Edrofonia antaessa potilaan oireet väistyvät hetkellisesti nopeasti), mutta sen käyttö on vähentynyt. 
+
+Myastenia-diagnoosin jälkeen otetaan myös thorax-TT ja selvitetään onko tymoomaa tai kateenkorvan hyperplasiaa (kateenkorvan hyperplasia todetaan n. 70 %:lla potilaista, hyvänlaatuinen tymooma n. 10 %:lla). Tymektomiaa harkitaan yleistyneessä myasteniassa, jos potilas on alle 60-vuotias ja ainakin jos on AChRAb-positiivinen (vaikka ei olisikaan tymoomaa; tymektomiasta on silti usein hyötyä). Potilas ei tosin ole ehkä ikänsä takia ensimmäinen leikkauskandidaatti. 
+  </div>
+</div>
+
+### Vaimo käskenyt kävelyvaikeuksien takia vastaanotolle
+
+Potilas on 72-vuotias mies, joka sairastaa verenpainetautia ja hyperlipidemiaa. Lääkityksenä hänellä on ACE-estäjä ja statiini. Hänen tulee vastaanotollesi vaimon patistelemana hitaasti, vuoden sisään kehittyneiden voimattomuudesta johtuvien kävelyvaikeuksien vuoksi. Potilas ko-operoi hieman huonosti ja vähättelee ongelmiaan. Muita oireita hän ei spontaanisti tuo esiin. 
+
+Statuksessa toteat mm. ikään nähden hieman vilkkaat jänneheijasteet, mutta ko-operaatio ongelmien vuoksi löydös on epävarma. Vaimeista-sammuneista heijasteista ei kuitenkaan ole kyse.
+
+- a. Mihin seikkoihin kiinnität erityistä huomiota potilaan anamneesissa ja statuksessa?
+- b. Tarvitaanko kuvantamistutkimuksia, ja jos tarvitaan, niin mitä ja millä kysymyksenasettelulla? Mitä muita tutkimuksia voidaan harkita?
+- c. Kun tilaamasi tutkimukset on tehty, potilas tulee kontrolliin. Oireet ovat potilaan mielestä progredioineet. Luettele neljä neurologista sairautta, joihin potilaan oireet voisivat viitata ja kyseisiin tauteihin liittyvät keskeisimmät statuslöydökset, sekä löydökset teettämissäsi tutkimuksissa?
+
+<div class="">
+  <button class="solution-button"
+          data-label="a"
+          data-hide-label="a - Piilota vastaus">
+    a
+  </button>
+  <div class="solution-content">
+
+<li>Perussairaudet (ja niiden hoitotaso) ja lääkitys</li>
+  <ul>
+    <li>Esim. AVH-riskitekijät, kuten hypertensio, hyperlipidemia, uniapnea, diabetes, sydänsairaudet, protromboottiset tilat, aurallinen migreeni yms)</li>
+  </ul>
+<li>Elintavat</li>
+  <ul>
+    <li>Tupakointi, alkoholi, huumeet, ylipaino...</li>
+  </ul>
+<li>Milloin oireet tarkalleen alkaneet ensikerran ja onko kehittyminen ollut tasaista / portaittaista / pahentunut lyhyessä ajassa?</li>
+<li>Onko ollut taustalla AVH-oireisiin sopivia kohtauksia?</li>
+<li>Onko voimattomuutta muuallakin kuin jaloissa?</li>
+<li>Vaihtelevatko oireet päivän mittaan tai paheneeko merkittävästi rasituksessa? Auttaako mikään oireisiin?</li>
+<li>Muita oireita?</li>
+
+
+---
+
+Statuksessa jänneheijasteet katsottu jo, mutta myös Babinski tulee katsoa. Tietysti myös lihasvoimat, lihasatrofia, lihastonus, sensoriikka, koordinaatio yms yleiseen neurologiseen statukseen kuuluvat. Tarkasti arvio myös yläraajoista.
+
+Kävelyn arvioiminen vastaanotolla on äärimmäisen tärkeää (ataktista, spastista, myötäliikkeet, basis, ryhti, askelpituus yms). Yleisesti kognitio on tärkeää arvioida (vastaanotolla karkeasti, myöhemmin tarkemmin). Ekstrapyramidaalioireiden arviointi (bradykinesia, rigiditeetti). Vapinaa (levossa, kannatuksessa, intentiona)? 
+  </div>
+</div>
+
+<div class="">
+  <button class="solution-button"
+          data-label="b"
+          data-hide-label="b - Piilota vastaus">
+    b
+  </button>
+  <div class="solution-content">
+
+Potilaalla on riskitekijät  pienten ja suurten suonten tautiin ja siten aivotapahtumiinkin. Toisaalta voi myös olla hydrokefalusta (normaalipainen hydrokefalus aiheuttaa kävelyongelmia, virtsankarkailua ja dementiaa; ei kaikkia aina ja kävelyongelmat yleisimmät) tai jopa tuumori taustalla. 
+
+Tärkein ensimmäinen kuvantamistutkimus näiden selvittelyssä on pään MRI (TT jos akuutimpaa oirekuvaa epäilee). Kysymyksenasetteluna voisi olla: Infarktin merkkejä? Aivokammioiden koko? Virtausestettä? 
+
+Toisaalta ikäihmisillä raajaongelmat voivat johtua rangan alueen muutoksista ja ahtaumista, joten selkärangan MRI (varsinkin rinta- ja kaularangan alueelta johtuen ylämotoneuronilöydöksistä) voi myös olla aiheellista. Kysymykseasetteluna tässä siis: "Onko selkäytimen kompressiota?"
+
+Jos löytyisi alamotoneuronivaurioita esim. käsistä (atrofiaa yms), niin voisi miettiä myös ALS:ää. Tällöin ENMG näyttäisi alamotoneuronin vaurion. 
+
+Muita tutkimuksia, joita voidaan miettiä on CERAD (jos herää epäily kognitiivisesta alenemasta) ja myös lihasheikkouden ja kognitiivisen aleneman peruslabroja voidaan ottaa (esim. PVK, CK, B12, TSH). Jos MRI:ssä on viittaavaa normaalipaineiseen hydrokefaliaan (NPH), niin tap test (likvorin otto -> oireiden paraneminen).
+
+  </div>
+</div>
+
+<div class="">
+  <button class="solution-button"
+          data-label="c"
+          data-hide-label="c - Piilota vastaus">
+    c
+  </button>
+  <div class="solution-content">
+
+Mahdollisesti aivoverenkiertohäiriöt taustalla; varsinkin pienten suonten tauti. Potilaalla voi olla motorisia/ sensorisia oireita ja taudin edetessä muistin alenemaa
+(vaskulaarinen dementia). 
+
+<li>Ylämotoneuronin vauriokuva ja sensoriset puutokset</li>
+<li>Muistiongelmat, mielialan laskua, toimintakyvyn alenema ja hidastuminen; mahdollisesti jopa vaskulaarista parkinsonismia</li>
+<li>MRI:ssä voi nähdä pienten suonten taudissa subkortikaalisia lakunainfarkteja ja valkean aineen muutokset, jota kutsutaan leukoaraioosiksi. Suurten suonten taudissa infarkteja olisi erityisesti korteksilla.</li>
+
+---
+
+Kaula-/rintarangan ahtauma 
+
+<li>Ylämotoneuronin löydökset jaloissa; kaularangan ahtaumassa yläraajojen alamotoneuronivaurio mahdollinen (kompressio voi osua etusarven alamotoneuroneihin tai hermojuuriin)</li>
+<li>MRI näyttää ahtauman paikan</li>
+
+---
+
+Normaalipaineinen hydrokefalia (NPH) 
+
+<li>Oiretriadi: Kävelyvaikeus, virtsankarkailu ja kognition lasku; kaikkia ei aina esiinny samaan aikaan ja kävelyvaikeus on yleisin oire. Mahdollinen ylämotoneuronin vauriokuva.</li>
+<li>Voi näkyä MRI:ssä aivokammioiden laajentumisena. Voidaan myös ottaa lannepistosta likvoria pois ja jos oireet paranevat, niin se viittaa vahvasti diagnoosiin.</li>
+
+---
+
+ALS 
+
+<li>Ala- ja ylämotoneuronin vauriokuva, ei yleensä sensorisia puutoksia. Usein alkaa distaalisista raajoista tai bulbaarisesti (puhe ja nielemisongelmat). Usein kognitiivistakin alentumaa (kuitenkin vain harovin dementiatasoista). </li>
+<li>Ensisijainen diagnostiikkaa tukeva tutkimus on ENMG (todetaan alemman motoneuronin degeneraatiolöydös eli esim. faskikulaatioita, fibrillaatioita) ja sen lisäksi tarvitaan pään ja selkäytimen MRI muiden sairauksien poissulkemiseksi (MRI on usein normaali ALS:ssa)</li>
+
+---
+
+Parkinsonin tauti
+
+<li>Motorisista oireista lepovapina, rigiditeetti, hypokinesia, tasapainovaikeudet, kävelyongelmat, mikgrofia...</li>
+<li>Diagnoosi on ensisijaisesti kliininen; MRI käytetään muiden asioiden poissulkemiseen, labroilla ei voi todeta</li>
+
+  </div>
+</div>
+
+### Tapaturman jälkeinen voinnin heikentyminen
+
+Toimit työterveyshuollossa lääkärinä. Vastaanotollesi on varannut ajan 32-v nainen, koska kokee ettei selviä työssään tämänhetkisen vointinsa puolesta. Potilas on toimistovirkailija, joka on tehnyt samaa työtä jo kuuden vuoden ajan. Hänellä on kymmenkunta vuotta sitten ollut muutaman kk masennusjakso silloisen elämäntilanteen takia. Tuolloin hän ei ollut vielä työelämässä, vaan opiskeli. Lisäksi hänellä on todettu 5 v sitten kilpirauhasen vajaatoiminta autoimmuunityreoidiitin pohjalta, ja tähän on tyroksiinikorvaushoito. Kilpirauhasarvot on tarkistettu viimeksi 3 kk sitten.
+
+Potilas kertoo olleensa vajaa kaksi viikkoa sitten työmatkalla pyöräilytapaturmassa, jossa hän alikulusta tullessaan törmäsi toiseen pyöräilijään. Hän ei osaa kertoa tapauksen yksityiskohtia, koska ei muista niitä kunnolla, Hän oli kuitenkin törmäyksen seurauksena kaatunut lyöden päänsä. Kypärä oli käytössä, mutta kypärä oli vasemmasta sivustaan iskun voimasta haljennut. Hän ei loukannut itseään muuten vähäistä kyynärpään ihorikkoa lukuun ottamatta. Ambulanssi oli hälytetty paikalle ja hänet oli viety tarkistettavaksi Tyks akuuttiin, josta hänet oli kotiutettu samana päivänä. Pään kuvauksia ei ollut tehty. Hänellä on päivystyksessä käynnistä vain hataria muistikuvia. 
+
+Päivystyksessä oli puhuttu aivotärähdyksestä ja hänelle oli kirjoitettu 3 pv sairauslomaa sekä kehotettu ottamaan työterveyshuoltoon yhteyttä, jos ei koe olevansa sairausloman jälkeen työkykyinen. Tapaturma sattui keskiviikkona, ja loppuviikon hän muistaa pääosin vain nukkuneensa. Ensimmäisinä päivinä oli päänsärkyä, lievää huonovointisuutta ja lievää huimausta, mutta ne tuntuvat korjaantuneen. Hän oli palannut sairausloman päätyttyä töihin seuraavana maanantaina ja ollut viime viikon töissä. 
+
+Hän kokee vointinsa menneen kyseisen viikon aikana huonompaan suuntaan, hän ei ole töiden jälkeen jaksanut tehdä kotonaan mitään, vaan on illat lähinnä vain levännyt/nukkunut. Töihin keskittyminen on ollut hyvin hankalaa, ja toimiston muut äänet aiheuttavat sen, että hän menettää ajatuksen kokonaan siitä mitä oli tekemässä. Hän on unohdellut asioita ja joutunut kirjoittamaan kaiken muistiin, koska ei muuten muista asioita hoitaa. Työpaikan palavereissa hän ei ole kyennyt seuraamaan keskusteluja, ja työtoverit ovat ihmetelleet miten hän on niin poissaolevan oloinen, kun on yleensä työpaikan eloisimpia. Työtehtävät ovat sujuneet hyvin hitaasti ja hän on tehnyt virheitä, joita ei ole huomannut, ja esimies on antanut niistä palautetta. 
+
+Kotona puoliso on ihmetellyt väsymystä ja muistin pätkimistä sekä sitä, että on tuntunut räjähtelevän pikkuasioista, mikä ei ole kuulunut luonteeseen. Kun viikonloppukaan ei tuntunut parantavan tilannetta, hän varasi tämän ajan.
+
+- a. Luettele enintään viisi esitietoihin liittyvää asiaa, joita pyrit vastaanotolla täydentämään.
+- b. Luettele viisi seikkaa joihin statuksessa lähinnä kiinnität huomiota.
+- c. Mistä tutkittavan asiassa voi olla kysymys, luettele lyhyesti mitä vaihtoehtoja lähinnä asiassa on?
+- d. Teetkö jotain hoidollisia ratkaisuja potilaan asiassa, jos niin luettele lyhyesti mitä?
+- e. Miten jatkat potilaan asiaa eteenpäin? Vastaa yhdellä lauseella.
+
+<div class="">
+  <button class="solution-button"
+          data-label="a"
+          data-hide-label="a - Piilota vastaus">
+    a
+  </button>
+  <div class="solution-content">
+
+Esitiedot:
+
+<li>Päihteiden käyttö (tietysti myös perussairaudet ja lääkitys tarkistetaan suullisesti potilastietojärjestelmän lisäksi)</li>
+<li>Aivovamman vaikeusasteen arvioiminen: Mistä lähtien pystyy muodostamaan yhtenäisiä muistikuvia (PTA:n pituus)? Oliko tajuttomuutta ja jos oli niin kuinka pitkään? (Jos mahdollista, soitan vastaanotolta puolisolle ja kysyn alkuvaiheen tapahtumia ja puolison havaintoja ja sitä, oliko alkupäivinä kotona selvää muistiongelmaa)</li>
+<li>Muita oireita? Kouristelu, päänsärky, sekavuus, pahoinvointi, oksentelu, motoriikka, kipu varsinkin niskan alueella, pystyykö kääntelemään päätä, infektio-oireita?..</li>
+<li>Psyykkinen vointi ennen tapaturmaa ja nyt</li>
+<li>Aiemmat aivovammat / onko jo lapsuudessa viittaavaa kehityksellisistä ongelmista, jotka voisivat vaikuttaa vamman toipumisennusteeseen</li>
+
+  </div>
+</div>
+
+
+<div class="">
+  <button class="solution-button"
+          data-label="b"
+          data-hide-label="b - Piilota vastaus">
+    b
+  </button>
+  <div class="solution-content">
+
+Status: 
+
+<li>Tajunnan taso, orientaatio ja kognitio (lyhyt muisti esim. voi käskeä pistämään mieleen 3 sanaa ja sitten tentata nämä myöhemmin) ja keskittyminen (esim. kuukauden takaperin)</li>
+<li>Fokaalisten löydösten arviointi (pupillireaktiot, kasvojen symmetria tunnossa/motorisesti, kielelliset toiminnot, raajojen voima/tunto/refleksit/koordinaatio)</li>
+<li>Tasapaino ja kävely (Romberg, tandem, normaali kävely); vestibulaarisen ja pikkuaivojen toimintahäiriön arviointi</li>
+<li>Näön arviointi (jopa yli puolella aivovammapotilaista on alkuvaiheessa näönkäytön ongelmia, kuten yhteisnäön vaikeutta tai näön sumentumista. Nämä oireet on tärkeää tunnistaa, koska ne voivat altistaa päänsärylle tai aiheuttaa muulla tavoin kuormitusta toipumisvaiheessa. Näönkäytön terapiaa kehitetään, ja pitkittyneistä oireista kärsivät kannattaa ohjata silmätautien erikoisalalle)</li>
+<li>Psykiatrinen status (ja tietysti yleisstatuskin -> arvioidaan murtumia ja niskan toimintaa yms)</li>
+
+  </div>
+</div>
+
+<div class="">
+  <button class="solution-button"
+          data-label="c"
+          data-hide-label="c - Piilota vastaus">
+    c
+  </button>
+  <div class="solution-content">
+
+Jos ei mitään akuutteja psykiatrisia kuormitustekijöitä nouse esiin, epäilen aivotärähdystä vakavampaa aivovammaa, ja se vaihtoehto edellyttää joka tapauksessa lisäselvityksiä. Kyseessä sinänsä voi olla lieväkin aivovamma (PTA max 24h ja tajuttomuus max 30min), mutta 10-20% lievänkin aivovamman kärsineistä potilaista kehittää pitkittyneitä oireita jopa >6kk ajaksi. 
+
+---
+
+Potilaalla kuitenkin voi olla vakavimmillaan ilmaantunut ICH (potilasta ei olla kuvattu) tai krooninen subduraalihematooma. Ovat kuitenkin epätodennäköisiä ilman fokaalisia löydöksiä. 
+
+Mahdollisesti voi tietysti miettiä masennusta/ahdistuneisuutta (liittyen tai ei liittyen vammaan) tai jopa kilpirauhasen vajaatoiminnan dekompensaatiota. Potilas voi olla myös sairastunut CNS-infektioon, mutta oirekuva nyt ei olisi sille ihan tyypillisin.
+  </div>
+</div>
+
+<div class="">
+  <button class="solution-button"
+          data-label="d"
+          data-hide-label="d - Piilota vastaus">
+    d
+  </button>
+  <div class="solution-content">
+
+Kirjoitan potilaalle 2 vk sairauslomaa ja kehotan häntä tulemaan uudelleen käymään ennen sairausloman päättymistä. Psykoedukaatio tärkeää: Selitetään potilaalle, että oireet ovat tyypillisiä ja yleensä ohimeneviä, mutta toipuminen vaatii aikaa ja asteittaista kuormituksen lisäämistä. Tämä vähentää ahdistusta. 
+
+Teen kiireellisen konsultaatiopyynnön neurologille, joka päättää jatkotutkimukset. Varmistan, että potilas on tehnyt ilmoituksen työtapaturmasta ja pyydän tarvittaessa hoitajaa/sosiaalityöntekijää avustamaan potilasta ilmoituksen tekemisessä. Kehotan potilasta sairausloman aikana huolehtimaan ulkoilusta ja fyysisestä kunnosta mutta välttämään rasitusta, sekä huolehtimaan riittävästä levosta. Kehotan häntä olemaan toistaiseksi ajamatta autoa, ja keskustelemaan ajokyvystä neurologin kanssa, kirjaan asian myös konsultaatiopyyntöön.
+
+Mahdollisesti TSH kilpirauhasen hoitotasapainon varmistamiseksi.
+
+Jos statuksen tai anamneesin perusteella huolestuisin enemmän, tarvittaessa puhelinkonsultaatio ja arvio potilaan lähetyksestä päivystykseen pään kuvaukseen. Muutenkin oireiden selvästi pahentuessa niin päivystykseen kannattaa mennä (ohje potilaalle ja läheisille). 
+
+  </div>
+</div>
+
+<div class="">
+  <button class="solution-button"
+          data-label="e"
+          data-hide-label="e - Piilota vastaus">
+    e
+  </button>
+  <div class="solution-content">
+
+Potilas saa jatkaa rauhallista palautumista kotonaan ja neurologin ohjauksen mukaan jatkoarviot aivovammapolinikalla 
+  </div>
+</div>
+
+### Elämän vaikein päänsärky ja SAV
+
+Toimit erikoistuvan vaiheen lääkärin sijaisena TYKS Neurokeskuksessa neurokirurgian vastuualueella. Päivystykseen on tullut 52 v. aikaisemmin lievää verenpainetautia lukuun ottamatta terveenä ollut naispotilas. Hänelle alkoi samana aamuna äkillisesti ilman edeltävää tekijää äkillinen, ”elämän vaikein” päänsärky. Päänsäryn alkuun liittyi myös muutaman sekunnin kestänyt tajunnan hämärtyminen ja puheen tuoton vaikeus. Kliinisen oirekuvan perusteella epäilet perustellusti lukinkalvon alaista aivoverenvuotoa (SAV). 
+
+- a. SAV:n etiologia (luettele kolme) ja diagnostiikka?
+- b. SAV:n riskitekijät ja potilaan ennuste sekä siihen vaikuttavat tekijät?
+- c. SAV:n tavallisimman etiologisen tekijän hoitovaihtoehdot
+
+<div class="">
+  <button class="solution-button"
+          data-label="a"
+          data-hide-label="a - Piilota vastaus">
+    a
+  </button>
+  <div class="solution-content">
+
+Primaarisen subaraknoidaalivuodon (ei-traumaattisen) selvästi yleisin aiheuttaja on aivovaltimoaneurysman puhkeaminen (n. 80% tapauksista). Mahdollisesti voi myös olla AV-malformaation tai muun verisuoniepämuodostaman (esim. kavernoottisen hemangiooman eli kavernooman tai arterivenoosin fistelin) vuoto (n. 5%). Sekundaarinen subaraknoidaalivuoto syntyy yleensä vamman seurauksena. 
+
+SAV:n diagnostiikassa tärkeimmät tutkimukset ovat natiivi-pään-TT (näkyy TT:ssä valkoisena likvoritiloissa sellan kohdalla, fissura Sylviissa, hemisfäärien välissä tai takakuopassa; sensitiivisin ensimmäisten muutaman tunnin aikana; vähenee 93 %:iin 24 tunnissa ja 57-85 %:iin kuudessa päivässä) ja sen perään TT-angiografia osoittamaan aneurysma(t). Tarvittaessa digitaalinen katetriangiografia (DSA). Lannepisto tulee tehdä, jos SAV-epäily on kliinisesti vahva, mutta TT on negatiivinen; veri likvorissa (ihan makroskooppisestikin väri voi olla kellertävä tai verinen; tarkemmassa analyysissä PAD-tutkimus (siderofaagit) tai spektroskopia (hemoglobiinin hajoamistuotteet)) viittaa SAV:hen.
+
+Noin 10 %:ssa vuodoista ei ole neuroradiologisesti todettavaa syytä, jolloin angiografiatutkimus yleensä vielä uusitaan, mutta mikäli siinäkään ei syytä löydy, on kyseessä hyvän ennusteen perimesenkefaalinen vuoto. Non-aneurysmaattisen perimesenkefaalisen vuodon syy on toistaiseksi vielä tuntematon, mutta eri tutkimusten mukaan syyksi on epäilty muun muassa hyvin pienen aivovaltimon eli niin sanotun perforantin vuotoa tai laskimoperäistä vuotoa.
+  </div>
+</div>
+
+<div class="">
+  <button class="solution-button"
+          data-label="b"
+          data-hide-label="b - Piilota vastaus">
+    b
+  </button>
+  <div class="solution-content">
+
+Tärkeimmät riskitekijät ovat 
+
+<li>Ikä (SAV:n esiintyvyys painottuu työikäiseen väestöön (keski-ikä 55 v) – toisin kuin aivoinfarkti ja aivoverenvuoto)</li>
+<li>Naissukupuoli</li>
+<li>Sukualtistus (esim. suvussa esiintyneet aneurysmat tai polykystinen munuaistauti)</li>
+<li>Tupakointi</li>
+<li>Runsas alkoholinkäyttö</li>
+<li>Verenpainetauti</li>
+
+---
+
+Ennuste ei ole mikään maailman paras ja kyseessä on hengenvaarallinen tila. Aneurysmaattisia SAV-tapauksia diagnosoidaan Suomessa n. 340-500 potilaalla vuodessa. N. 30-50 % vuotopotilaista kuolee 12 kk:n kuluessa vuodon seuraamuksiin (10-15 % kuolee jo ennen sairaalaan saapumista). Noin 30 % jää henkiin neurologisesti vammautuneena ja 20-25 % toipuu ennalleen tai lähes ennalleen. 
+
+<li>Riskitekijöitä kuolleisuudelle ovat mm. tajuttomuus, korkea ikä (>65), samanaikainen aivoverenvuoto, aivokammiovuoto, akuutti hydrokefalus</li>
+<li>Kuolleisuus yli 90 %, jos tullessa tajuton ja kipuun ekstensiovaste</li>
+<li>Kuolleisuus alle 5 %, jos tullessa täysin tajuissaan ja hyväkuntoinen</li>
+
+  </div>
+</div>
+
+<div class="">
+  <button class="solution-button"
+          data-label="c"
+          data-hide-label="c - Piilota vastaus">
+    c
+  </button>
+  <div class="solution-content">
+
+Yleisin etiologinen tekijä on siis aneurysman vuoto. Varmistamisen jälkeen tehdään heti konsultaatio neurokirurgialle. SAV-potilas kuuluu akuutisti tehohoitoon tai tehovalvontaan, ei vuodeosastolle.
+
+Sen akuuttihoitoon kuuluu välittömän uusintavuodon ehkäisy traneksaamihapolla ja 48h:n kuluessa (monissa lähteissä sanotaan viimeistään seuraavana päivänä) vuodosta aneurysman sulkeminen. Vaihtoehtoja ovat kirurginen ja suonensisäinen hoito; tilanne, aneurysman anatomia ja hoitotiimin kokemus ratkaisevat valinnan. 
+
+<li>Kirurgisessa hoidossa tehdään kraniotomian kautta aneurysman kaulan mikrokirurginen sulku titaanisella puristimella (klipsaus). Valitaan
+erityisesti, jos aneurysman muoto on epäedullinen coilaukselle tai siihen liittyy merkittävä aivonsisäinen hematooma, joka on evakuoitava.</li>
+<li>Endovaskulaarinen hoito tehdään nivusvaltimon kautta katetrin avulla. Aneurysmapussi täytetään ohuilla lankakeräsillä (koilaus), jotka hyydyttävät aneurysman. On nykyään ensisijainen hoitomuoto monissa tapauksissa</li>
+
+---
+
+Neuroteholla vitaalien, elektrolyyttien, sokeritasapainon, nesteytyksen yms monitorointi, ICP:n monitorointi ja aivovaltimospasmien ehkäisy nimodipiinilla (SAV aiheuttaa usein ympärilleen vasospasmin ja voi tyypillisesti n. 4-14pv kohdalla aiheuttaa mahdollisesti jopa iskeemisen aivoinfarktin. Tätä spasmeilua estetään nimodipiinilla (kalsiumkanavan salpaaja)). Sitä käytetään myös jo kehittyneen spasmin hoitoon (samalla usein "tripla H" eli hypertensio, hypervolemia ja hemodiluutio auttaa perfuusion ylläpidossa; angioplastia tarvittaessa).
+  </div>
+</div>
