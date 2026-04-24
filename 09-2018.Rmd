@@ -144,7 +144,81 @@ Tärkeää on dehydraation korjaus sekä usein annetaan ns. migreenitippa (ketor
 
 ### AVH riskitekijät ja sekundaaripreventio
 
+<div class="">
+  <button class="solution-button"
+          data-label="c"
+          data-hide-label="c - Piilota vastaus">
+    c
+  </button>
+  <div class="solution-content">
+
+AVH:n sekundaripreventio on todella tärkeää varsinkin alkuvaiheissa, koska AVH:n uusiutusmisriski on suurimmillaan ensimmäisten päivien ja 
+viikkojen aikana, pitkäaikaisuusintariski 6,4%/vuosi (vaihtelee tietysti etiologian mukaan). Kaikille AVH-potilaille tehdään etiologian mukainen arvio sekundaaripreventiivisen verenkiertoon vaikuttavasta lääkityksestä ja sen aloitusajankohdasta. 
+
+<li>Jos potilaalla on eteisvärinä, niin AK-hoito on ensisijainen sekundaaripreventiivinen hoito. Nykyään ensisijaisesti käytetään NOAC-lääkitystä (varfariini jos läppäperäinen eteisvärinä). Eteisvärinää pitää aktiivisesti etsiä AVH-potilailta. </li>
+<li>Jos potilaalla on suurten suonten ateroskleroosi (pääasiassa kaulavaltimot) ja AVH:n puolella merkittävä kaulavaltimostenoosi (>50%), niin ensisijainen hoito on endarterektomia 2vk sisällä siihen soveltuvilla ja jatkoon klopidogreeli tai ASA+pyridamoli. Jos ahtauman aste on alle 50 %, niin ensisijainen hoito on pelkkä lääkehoito ilman kirurgiaa.</li>
+<li>Pienten suonten taudissa tehdään vuotoriskin arvio ja jos se on pieni, niin ensisijaisesti aloitetaan klopidogreeli tai ASA+pyridamoli. Jos vuotoriski on iso, niin ASA yleensä.</li>
+<li>Kaulavaltimodissekaatiossa infarktitilanteessa voidaan akuuttivaihe hoitaa liuotuksella kriteerien muutoin täyttyessä. Lääkehoidon tavoite liuotushoidon jälkeen – ja silloin kun potilas ei ole sitä saanut – on ehkäistä iskemian uusiutuminen ja lääkkeinä käytetään antikoagulaatiohoitoa tai asetyylisalisyylihappoa (ASA) tai DAPT-hoitoa, joista ensin mainittu on Suomessa yleisempää. Hoitoa jatketaan yleensä kuuden kuukauden ajan, minkä jälkeen, jos on jäänyt merkittävä stenoosi (arvioidaan kontrolli-CTA:lla/MRA:lla), siirrytään asetyylisalisyylihappoon. </li>
+
+---
+
+On myös äärimmäisen tärkeää saada yleiset riskitekijät aisoihin. Tärkeimpiä muokattavissa olevia riskitekijöitä ovat hyperlipidemia, hypertensio, hyperglykemia, kuorsaus ja uniapnea ja elintavat (tupakointi, alkoholin runsas käyttö, ylipaino, vähäinen liikunta). 
+
+<li>Tavoite on yleensä LDL <1.4, mutta voi olla <1.8, jos kyseessä ei ole erittäin suuren riskin potilas (FINRISKI <15%, ei ole diabetesta, ei munuaisten vajaatoimintaa ja etiologiana on jokin muu kuin ateroskleroosi tai pienten suonten tauti).</li>
+  <ul>
+    <li>Hoitona siis korkea-annoksinen statiini, tarvittaessa etsetimibi ja jopa PCSK9-estäjä</li>
+  </ul>
+<li>Verenpaineen suhteen tavoite  kotimittauksissa <130/80 tai niin matala kuin ilman merkittäviä haittoja voidaan saavuttaa</li>
+<li>Elintapamuutokset tärkeitä (tupakoimattomuus, alkoholin käyttö suositusmääriin, liikapainon vähentäminen, liikuntaa väh. 30 min päivässä, ruokavalio kuntoon yms yms.</li>
+
+
+![](images/avhetiologioidenlääkehoito.png)
+
+  </div>
+</div>
+
 ### Neurologiset näköhäiriöt
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+Neurologiset näköhäiriöt syntyvät, kun aivojen alueet, jotka vastaanottavat ja käsittelevät näköaistimuksia, vaurioituvat tai toimivat poikkeavasti. Yleisimpiä neurologisia näköhäiriöitä ovat:
+
+Näköhermotulehdus (optikusneuriitti)
+<li>Voi aiheuttaa äkillistä näön heikkenemistä, erityisesti toisen silmän alueella. Oireet voivat sisältää näön sumentumista, väriherkkyyden heikkenemistä sekä silmän takana tuntuvaa kipua, erityisesti liikuttaessa silmää. Oireisiin liittyy myös usein väsymystä ja huonovointisuutta</li>
+<li>Näköhermotulehdus voi liittyä moniin sairauksiin, kuten multippeliskleroosiin (MS-tauti), ja se voi uusiutua.</li>
+
+---
+
+Aivoverenkiertohäiriöt 
+
+<li>A. ophtalmican TIA-kohtaus johtaa äkilliseen toispuoleiseen sokeuteen (amaurosis fugax)</li>
+<li>Homonyymi hemianopia (samanpuoleisen näkökentän puoliskon puutos molemmista silmistä) voi johtua PCA:n (yleensä makula säästynyt) tai MCA:n infarktista</li>
+<li>Superiorinen tai inferiorinen kvadrantanopia yleensä johtuu MCA:n infarktista</li>
+
+---
+
+Migreeniaura 
+
+<li>Migreenin näköaura on usein vähitellen minuuttien kuluessa kehittyvä positiivinen näköoire. Positiivisellä näkoireella tarkoitetaan näkökenttään ilmestyviä ylimääräisiä ilmiöitä, kuten sahalaitakuviota tai väreilyä. Migreenin auraoire kestää tavallisesti 5-60 minuuttia. Migreeniaura usein edeltää migreenipäänsärkyä ja siihen voi liittyä myös muita liitännäisoireita.</li>
+
+---
+
+Muut vauriot, sairaudet ja tuumorit 
+
+<li>Tuumorit, jotka painavat optista kiasmaa, voivat aiheuttaa bitemporaalista hemianopiaa (esim. kraniofaryngeoomat lapsilla tai hypofyysiadenoomat aikuisilla)</li>
+<li>Silmän liikehermojen halvaus (voi olla mm. AVH, tuumori tai trauma taustalla) -> diplopia yleistä</li>
+<li>Myasthenia gravis aiheuttaa usein diplopiaa silmän liikehermojen heikkouden ja ptoosin takia</li>
+
+
+![](images/näkörataleesiot.png)
+  </div>
+</div>
 
 ## Uusintatentti
 
@@ -152,8 +226,118 @@ Taas potilastapauksista vain otsikot, joten skipattu ne. Aiheina ilmeisesti epil
 
 ### Subduraalihematooman syyt, oireet, hoito
 
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+Subduraalivuoto (SHD) = Veri kertyy kovakalvon (dura mater) ja lukinkalvon (arachnoidea mater) väliin
+
+<li>Taustalla usein trauma, joka voi varsinkin vahuksilla olla hyvinkin lievä. Yli 50-vuotiailla (ja varsinkin alkoholisteilla atrofian takia) vähäinenkin vamma voi aiheuttaa verenvuodon, sillä laskimoiden vapaana kulkeva matka pitenee.</li>
+<li>Kyseessä on laskimovuoto (johtuu aivokuorelta durasinuksiin kulkevien siltaavien laskimoiden repeämisestä. Laajenee tämän takia hitaammin kuin epiduraalinen vuoto. Yleisimmin vanhusten vamma.</li>
+
+---
+
+Oireena voi akuutissa vuodossa olla nopeakin tajunnan heikkeneminen/muut neurologiset oireet, mutta krooninen vuoto voi olla hyvinkin hitaasti kehittyvä (viikkojen aikana kehittyvä sekavuus, muistihäiriöt, päänsärky yms.)
+
+---
+
+Oireisen akuutin subduraalihematooman ensisijainen hoito on yleensä kraniotomia ja kroonisen vuodon hoito taas trepanaatio (Burr hole). Leikkauskriteerinä paksuus yli 10 mm tai puutosoireita tai tajunnan tason lasku. Veri poistetaan -> helpottaa oireita (käytännössä siis sama hoito kuin epiduraalihematoomassa, mutta kiirellisyys on vähäisempi, koska ei ole valtimovuoto kyseessä)
+
+<li>Suuri osa akuuteista vuodoista paranee konservatiivisella hoidolla, kuolleisuus on kymmeniä prosentteja (kroonisessa parempi)</li>
+
+![](images/kallonsisäisetvuodot.png)
+![](images/aivovammat.png)
+  </div>
+</div>
+
 ### Diabeettinen neuropatia
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+Diabeteksessa voi tapahtua hermojen osmoottisia vaurioita, kun glukoosia muutetaan sorbitoliksi kudoksissa aldoosireduktaasin toimesta; reaktioreittiä kutsutaan polyolitieksi. Sorbitoli on hyvin osmoottista ja kertyessään soluihin aiheuttaa niiden turvotusta ja vaurioita. 
+
+N. 50% diabeetikoista kehittää lopulta polyneuropatian (diagnoosihetkellä on jo jopa 20%:lla; yleisempää tyypin 2 diabeteksessa). Diabeettinen neuropatia affisioi yleensä niin somaattisia hermoja (sensorisia ja motorisia) kuin autonomisiakin hermoja. Käytännössä affisioi kaikkia ääreishermoja (myös aivohermoja; yleisimmin CN III) kehon eri osissa. Tavallisin ja eniten tutkittu diabeettisen neuropatian muoto on distaalinen sensomotorinen neuropatia eli raajojen ääreishermoihin ja tuntoaistiin ja lihasten toimintaan vaikuttava hermovaurio (stocking-glove neuropathy = hansikas-sukka-tyyppisesti ja symmetrisesti ylä- ja alaraajoissa). 
+
+<li>Tavallisimmat oireet ovat jalkaterien puutuminen tai pistely, vihlovat tai polttelevat kivut ja tuntohäiriöt. Noin puolella neuropatia voi olla täysin oireeton, mikä korostaa seulonnan merkitystä</li>
+<li>Tyypillisesti neuropatian oireet tuntuvat voimakkaammin levossa, esimerkiksi öisin. Tilanteen vaikeutuessa oireet ilmenevät myös proksimaalisemmin alaraajoissa ja myös käsissä.</li>
+<li>Statuksessa kosketustunnon heikkeneminen (monofilamenttikoe), värinätunnon häviäminen (ääniraudalla) sekä akillesheijasteen puuttuminen ovat herkimmät diabeettisen neuropatian kliiniset osoittajat. Mittaavat paksujen hermosäikeiden toimintaa; ohutsäieneuropatian diagnoosi perustuu pitkälti tyypillisiin oireisiin (kipu, lämpötilan erotuskyky alentunut), mutta haastavissa tapauksissa voidaan tutkia QST, ihobiopsia tai CHEP.</li>
+<li>Vasaravarpaat ja pes cavus ovat yleisiä löydöksiä. Kuvaavat voiman ja venyvyyden epätasapainoa fleksorien/ekstensorien välillä neuropatiasta johtuen. Alentunut tunto raajoissa myös johtaa virheasentojen pahenemiseen. Vaikein komplikaatio on Charcot'n jalka (muistuttaa septistä niveltulehdusta tai ruusua, ja prosessi johtaa nivelten tuhoutumiseen, jalkaholvin romahtamiseen ja epämuodostumiin)</li>
+
+---
+
+Autonominen neuropatia voi affisioida elinjärjestelmiä laajasti, esim: 
+
+<li>GI-kanava (mm. gastropareesi, oksentelutaipumus, ripuli/ummetus)</li>
+<li>Virtsarakko (mm. rakon täyttymisen havaitsemattomuus, rakon osittainen tyhjentäminen)</li>
+<li>Verenkiertoelimistö (lepotakykardia, ortostaattinen hypotensio, angina pectoris -oireiden puuttuminen, erektiohäiriöt)</li>
+<li>Iho (hikoiluhäiriöt; esim. jaloissa hikoilun väheneminen -> jalkojen iho tulee kuivaksi ja haavautumisriski lisääntyy. Samalla kuitenkin voi esiintyä liiallista hikoilua esim. pään alueen hikoilupuuskina, erityisesti ruokailun yhteydessä (gustatorinen hikoilu))</li>
+
+  </div>
+</div>
+
 
 ### Essentiaalisen vapinan kliininen kuva
 
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+Essentiaalinen vapina (ET) on yleisin patologisen aktiovapinan syy (Esiintyvyydeksi on arvioitu 1 % väestöstä; yli 65-vuotiaiden ikäryhmässä se on noin 5 % ja vanhimmassa ikäryhmässä jopa 20 %. Voi ilmaantua jopa lapsuudessa.). Voimakkaasti perinnöllinen, mutta selkeää geenivirhettä ei vielä ole osoitettu; periytynee autosomissa vallitsevasti. Selvintä vapina on kannatusasennossa, kuten eteen ojennetuissa käsissä. Lepovapina ei ole tyypillistä (mahdollista kuitenkin; ns. ET +). 
+
+Johto-oireena on yleensä molempien käsien aktio- ja asentovapina. Vapinaa voi olla myös vartalolla, jaloissa, äänessä ja päässä, jossa se on usein kääntöä sivulle (”ei-ei”-liike; hyvä huomata, että jos on tällaista pään vapinaa, niin silloin tila ei viittaa Parkinsonin tautiin). Psyykkinen jännitys lisää vapinaa, joka on pahinta seurassa, kuten kahvikutsuilla (ns. kahvikuppineuroosi). Vapina pahenee käden tarkkuutta vaativissa tehtävissä (esim. nimikirjoitus) ja usein lievenee jo vähäisen alkoholin nauttimisen jälkeen (tärkeä piirre ja tulee muistaa kysyä)s. 
+
+Status on yleensä muuten löydöksetön. Tauti ei etene mitenkään erityisen nopeasti yleensä (ei-degeneratiivinen sairaus) ja jos vapina pysyy muuttumattomana (vain liikevapinana ilman muita oireita) kolmen vuoden ajan, on tilastollisesti erittäin epätodennäköistä, että kyseessä olisi Parkinson (ennen kolmea vuotta voi ET olla kyllä työdiagnoosi ja epäily, mutta yleensä virallinen diagnoosi tehdään vasta 3v kohdalla). 
+
+  </div>
+</div>
+
 ### Epilepsiapotilas perusterveydenhuollossa a) Diagnostiikka b) Seuranta
+
+<div class="">
+  <button class="solution-button"
+          data-label="a"
+          data-hide-label="a - Piilota vastaus">
+    a
+  </button>
+  <div class="solution-content">
+
+Selvitetään kohtauskuvaus ja muu anamneesi. Statustetaan potilas ja voidaan ottaa perustason tutkimukset (EKG, pvk, crp, gluk, na, k, krea, ca, CK, ALAT, TSH, tarvittaessa GT, PEth, U-huumeet). 
+
+Jos kohtausoire sopii epileptiseksi, on voimakas/motorinen/tajunnanhäiriö ja potilas on tk-arviossa samana päivänä, niin tehdään päivystyslähete ESH-arvioon (tällöin labrat ja tutkimukset voi ottaa sielläkin, jos saatavuus on hidas/huono TK:ssa). Jos kyseessä ei ole ensikouristaja, niin ei aina tarvitse päivystysarviota, vaan voi konsultoida tarpeen mukaan neurologia. 
+
+Jos oirekuva on lievä/epäspesifi, potilas on hakeutunut arvioon vasta päivien kuluttua kohtauksesta ja neurologinen status normaali, mutta herättää epilepsiaepäilyn → 1-7 vrk lähete neurologialle (epilepsiaepäilyssä muista asettaa potilas ajokieltoon). 
+
+Jos kohtausoire ei ole selvästi epileptinen, kannattaa selvitellä kardiologista taustaa tarkemmin (kardiologin konsultaatio tarpeen mukaan). 
+  </div>
+</div>
+
+<div class="">
+  <button class="solution-button"
+          data-label="b"
+          data-hide-label="b - Piilota vastaus">
+    b
+  </button>
+  <div class="solution-content">
+
+Kohtauksettoman potilaan seuranta siirretään tk:hon. Siellä yleinen terveydentilan seuranta, reseptien uusinnat sekä mahdollisten turvakokeiden ohjelmointi ja seuranta. Ajokyvyn ja työkyvyn jatkuva arviointi kuuluu tehtäviin. Hoidon yhteydessä tulisi myös huomioida epilepsiaan ilman suoraa syy-yhteyttä yhdistyvät liitännäissairaudet, kuten oppimishäiriöt, autismikirjon häiriöt, depressio ja AVH-riskitekijät. 
+
+Epilepsiapotilas kuuluu päivystykseen, jos kouristaa ja kohtauksen kesto on pitkittynyt (yli 5min; tk:ssa voidaan antaa bentsot ja lähettää päivystykseen), esiintyy useita kohtauksia 24h sisällä (sarjakohtaus) tai tajunnan palautuminen pitkittyy/esiintyy uusia neurologisia oireita. 
+
+Poliklinikalle tehdään lähete, jos seurannassa oleva pitkään kohtauksettomana ollut potilas saa epilepsiakohtauksen (epilepsian hoidon tavoitteena yleensä on kohtauksettomuus ilman merkittäviä haittavaikutuksia), suunnittelee raskautta (tai on raskaana), toivoo lääkityksen lopettamista tai kokee lääkitysongelmia. Jos potilaalla hoitokontakti neurologialla epilepsian suhteen niin hän voi itse aina olla epilepsia-asioissa virka-aikaan yhteydessä poliklinikalle ellei toisin ole ohjeistettu.
+
+  </div>
+</div>

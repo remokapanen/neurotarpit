@@ -160,4 +160,8 @@ essentiaalisen-vapinan-kliininen-kuva
 epilepsiapotilas-perusterveydenhuollossa-a-diagnostiikka-b-seuranta
 section-8
 tentti-4
+polyneuropatia-1
+toistuvat-tajunnanmenetykset
+parkinsonin-taudin-neljä-pääoiretta-ja-niiden-erotusdiagnostiikka
+aivoinfarktipotilaan-komplikaatioiden-esto-ja-hoito-avh-yksikössä
 palaute
