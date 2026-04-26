@@ -1,0 +1,50 @@
+# 2007 
+
+## Tentti 
+
+Wikissä ei sinänsä vuotta mainittu (ilmeisesti tämä tentti ollut kurssilla nimeltä Magnum), mutta sijaitsee vuoden 2008 alla. Kaksi kysymystä kirjattu ja toinen niistä oli ilmeisesti potilastapaus, mutta siitä ei ole tarkkaa kuvausta (kirjoitettu näin: "Potilastapaus 25-vuotiaan naisen alaselkäkivusta (ilm. pissiitti"). 
+
+### Aivohalvauspotilaan kuntoutus ja kotiuttaminen tk:n vuodeosastolta
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+Keskushermoston erilaistuneet hermosolut eivät jostain syystä kykene aksonaaliseen regeneraatioon keskushermoston alueella, joten kuntoutuminen ei sinänsä ole täydellistä paranemista vauriosta. Keskushermosto kuitenkin pystyy ns. plastisiin muutoksiin eli muutoksiin, joissa terveet aivoalueet esim. vaurioalueen vieressä tai vastakkaisessa aivopuoliskossa ottavat hoitaakseen vaurioituneen alueen tehtäviä (neuroplastisuus). Tämän takia aktiivinen harjoittelu on tärkeää, koska se vahvistaa uusien ratojen muodostumista. Palautumista ajaa myös esim. aivoinfarktin jälkeen turvotuksen häviäminen tai metabolian korjaantuminen varsinaisen pysyvän vaurion ympäriltä. Kuntoutuminen on yhdistelmä paranemista, uudelleen oppimista ja sopeutumista. 
+
+---
+
+Aivohalvauspotilaan (aivoinfarkti tai aivoverenvuoto) kuntoutus ja kotiuttaminen on moniammatillinen prosessi (lääkäri, sairaanhoitaja, fysioterapeutti, toimintaterapeutti, puheterapeutti, neuropsykologi, sosiaalityöntekijä), jossa tavoitteena on palauttaa potilaan toimintakyky sellaiseksi, että selviytyminen kotona on turvallista ja tuettua (tavoitteena siis aiemman toimintakyvyn palautuminen tai mahdollisimman hyvä toimintakyky). Kuntoutus alkaa heti, kun potilaan tila on neurologisesti ja hemodynaamisesti stabiili. Akuutti–subakuutti vaihe (0–3 kk sairastumisesta) on kuntoutumisen kannalta tehokkain.
+
+Kuntoutuksen on perustuttava yksilölliseen arvioon, sillä diagnoosi itsessään ei kerro mitään aiheutuneen vaurion asteesta tai toimintakyvystä. Tulee siis selvittää, mitä potilas on ennen pystynyt tekemään, mitä hän nyt pystyy tekemään ja mitä hänen tulee pystyä tulevaisuudessa tekemään. Asumisolot, työkuviot, yksilöllinen resistenssi yms. tekijät vaikuttavat paljon kuntoutuksen suunnitteluun. Suunnitelma tehdään yhdessä kuntoutujan kanssa; omaiset usein mukana. Kuntoutus ehkäisee komplikaatioita, 
+lyhentää sairaalassaoloaikaa ja vähentää avun tarvetta. 
+
+---
+
+Lääkärinä voi kuntoutumista auttaa luomalla toipumiselle yleisesti hyvät puitteet (unen, ravitsemuksen, nesteytyksen ja ympäristön tukeminen). Muiden sairauksien hoitaminen on myös tärkeää. Jälkiongelmien havaitseminen isossa roolissa kuntoutumista myös; varsinkin kipua ja mielialaongelmia (post-stroke depression) ilmenee AVH:n jälkeen usein -> näiden havaitseminen ja hoito tärkeää. Yksi yleisistä jälkiongelmista on spastisuus, joten tarvittaessa sen hoito (esim. baklofeeni tai titsanidi). 
+
+Komplikaatioiden ehkäiseminen on aina pidettävä mielessä (nielemisfunktion arviointi -> aspiraatiopneumonian ehkäiseminen, syvien laskimotukosten ehkäisy tukisukilla ja antitrombooteilla ja mobilisaatiolla yms). Sekundaariprevention jatkuva toteutus myös tärkeää (akuutissa vaiheessa todnäk jo määrätty etiologian mukainen AK- tai antitromboottihoito). Tietysti myös riskitekijöiden minimointi tärkeää (LDL, verenpaine).  
+
+Tulee antaa tietoa ja realistista toivoa sekä potilaalle että omaisille, sekä korostaa potilaan omaa roolia prosessissa.
+
+
+---
+
+Fysioterapeutit ovat tärkeitä motorisen toiminnan ja fyysisen toimintakyvyn arvioimisessa, palauttamisessa ja myös apuvälineiden valitsemisessa. Toimintaterapeutit voivat arvioida potilaan selviytymistä arkielämän toiminnoissa, ohjata vapaa-ajan toimintojen suunnittelua ja kuntouttaa yläraajojen hienomotorisia toimintoja. Puheterapeutut voivat arvioida kielellisiä häiriöitä, nielun toimintaa (syömistäkin ajatellen) ja arvioivat kommunikaatiossa tai nielemistoiminnoissa tarvittavat apuvälineet. Neuropsykologit arvioiuvat kognitiivisia toimintoja ja antavat kuntoutusta tarvittaessa (tehostaa aivojen plastisuutta). Kuntoutusohjaajat koordinoivat ja seuraavat kuntoutusta avohoidossa (kuntoutumista on myös ns. ylläpitävä kuntoutus (kuntoutuksen tarve ei siis välttämättä lopu tilanteen vakiintumiseen)). Sosiaalityöntekijät selvittävät kuntoutujan sosiaalietuudet ja auttavat tukipalveluiden järjestämisessä. 
+
+---
+
+Kotiutumista voidaan miettiä, kun potilas pystyy siirtymään itsenäisesti (tai vähäisellä tuella) asunnossaan, nielemistoiminto on turvallinen ja lääkehoito on vakiintunut ja potilas (tai kotipalvelu/omainen) pystyy siitä huolehtimaan. Potilas voi kotiutua arviointitiimin kanssa ja sen yhteydessä arvioidaan kotihoidon tarpeita. 
+
+Osastojakson aikana jo varhain arvioidaan jo potilaan tarvitsemaa jatkokuntoutusta. Aktiivista kuntoutusta jatketaan niin kauan kuin oleellista toipumista tapahtuu (toimintakykyä voidaan parantaa avokuntoutuksella kotiutumisen jälkeen  ainakin vuoden ajan). Kuntoutusta tuottavat mm. terveyskeskukset, sairaalat/kuntoutusosastot, yksityiset palveluntuottajat, vakuutusyhtiöt, KELA (alle 65-v vaikeavammaiset ja harkinnanvaraisesti muut, ammatillinen kuntoutus), kuntoutuslaitokset (Maskun Neurologinen kuntoutuskeskus, Kankaanpään kuntoutuskeskus, Validia kuntoutus) ja potilasyhdistykset (esim. Aivohalvaus- ja dysfasialiitto). 
+
+---
+
+Ajokyvyn arviointi on aina tärkeä osa AVH-tapauksia. Aivoinfarktissa ja ICH:ssa tulee aina R1-ajokortin suhteen vähintään 3kk ajokielto ja R2 vähintään 6kk (TIA:ssa R1 väh 1kk ja R2 väh 6kk). Ennen ajamiseen paluuta ajoterveysvaatimusten täyttymisen arviointi yleisimmin omassa terveyskeskuksessa yleisten ajoterveysvaatimusten mukaisesti. Näkökenttäpuutos tai neglect-oire aiheutavat yleensä pysyvän ajokiellon. Palautus vain silmälääkärin (ja tilanteen mukaan neurologin) arvion perusteella. R2 täyttyy vain jos potilaalla ei ole jäljellä lievää vaikeampia oireita eikä merkittäviä poikkeavia löydöksiä ja uusiutumisriski arvioidaan vähäiseksi. 
+
+  </div>
+</div>

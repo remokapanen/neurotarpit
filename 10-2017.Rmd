@@ -162,7 +162,571 @@ CNS-infektioepäilyssä (esim. potilaalla korkea kuume) likvor.
   </button>
   <div class="solution-content">
 
+Parkinsonin taudin pääoireet voi muistaa muistisäännöstä TRAPSS ja näistä neljä ensimmäistä eli TRAP ovat ns. pääoireet (S x2 on siis shuffling gait eli parkinsonimainen kävely ja small handwriting (mikrografia)).  
+
+<li>Tremor (lepovapina)</li>
+<li>Rigiditeetti (lihasjäykkyys)</li>
+<li>Akinesia/Bradykinesia</li>
+<li>Posturaalinen instabiliteetti (tasapainovaikeudet)</li>
+
+---
+
+Vapinan erotusdiagnostiikassa yleisin erotusdiagnostinen vaihtoehto on essentiaalinen vapina (ET). ET taas on aktiovapina (esiintyy käsiä kannatellessa ja tehdessä, esim. juodessa), on symmetristä, voi affisioida ääntä ja päätä, on usein suvuttaista ja lievittyy alkoholilla. Parkinsonin vapina taas on on lepovapinaa (esiintyy levossa ja lievittyy liikkeessä), voi olla asymmetristä tai symmetristä, ei yleensä affisioi päätä tai ääntä (Parkisnonin taudissa ääni kyllä voi mennä hiljaisemmaksi ja monotooniseksi, mutta äänivärinää ei yleensä esiinny; samoin päässä leuka voi vapista, mutta pään heilumista sivuille ei yleensä nähdä), ei lievity alkoholilla ja sukuyhteys on yleensä heikompi. 
+
+Tietysti myös tulee pitää mielessä lääkkeiden aiheuttama parkinsonismi (esim. psykoosilääkkeet ja muut antidopaminergit). 
+
+---
+
+Rigiditeetti on passiivisen liikkeen aikana tuntuvaa vastusta, joka ei riipu liikkeen nopeudesta (toisin kuin spastisuus, joka on ylemmän motoneuronin vaurion merkki ja vastus on nopeusriippuvaista (nopeampi passiivinen liike -> spastinen jäykkyys); liittyy myös kiihtyneet heijasteet). Usein mukana on "hammasratasilmiö", kun jäykkyyteen yhdistyy vapina.
+
+---
+
+Parkinsonismin ns. pakollinen oire diagnoosin kannalta on hypokinesia eli siis akinesia (liikkeen aloittamisen hitaus ja spontaanin liikehdinnän vähentyminen) tai bradykinesia (liikesuorituksen hitaus). Se näkyy mm. vaikeutena aloittaa liike, liikealan pienenemisenä (esim. mikrografia eli pieni käsiala) ja kasvojen ilmeettömyytenä (maskikasvot). Statuksessa toistoliikkeet (esim. DDK tai nyrkistys) hitaita ja usein myös decrementti nähtävissä. 
+
+Erotusdiagnostistesti mm. masennus tai hypotyreoosi voi olla hidastuneisuuden taustalla. Decrementissä voi myös miettiä mm. myastenia gravista, mutta se ei yleensä ilmene hitautena levon jälkeen. Tietysti vanhuksen yleinen rappeutuminen voi olla hitauden taustalla. 
+
+---
+
+Tasapainovaikeuksissa potilaan asento muuttuu etukumaraksi ja suunnanmuutokset kävellessä muuttuvat epävarmoiksi. Pull-testissä (retropulsion testi) potilasta vedetään yllättäen taaksepäin olkapäistä ja Parkinsonin taudissa potilaalla on vaikeaa saada tasapainoa vedon jälkeen (normaali vaste on alle 2 korjausaskelta). 
+
+Muita tasapaino- ja kävelyongelmien aiheuttajia ovat mm. normaalipaineinen hydrokefalia (NPH; triadina kävelyvaikeus, muistihäiriö ja virtsankarkailu), pikkuaivoatrofia alkoholismin takia, MS-tauti, korvaperäiset huimaukset, TULES-ongelmat yms.  
   </div>
 </div>
 
 ### Aivoinfarktipotilaan komplikaatioiden esto ja hoito AVH-yksikössä
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+Omatoimisilla potilailla hoito jatkuu akuutin hoidon (trombolyysi, endovaskulaaritoimenpiteet, vaikeaoireinen tila) jälkeen AVH-valvonnassa ja ei-omatoimisilla AVH-osastolla tai TK-vuodeosastolla. 
+
+Yleinen tavoite on fysiologisten muuttujien seuranta ja normalisointi sekä komplikaatioiden esto ja hoito. 
+
+---
+
+Verenpaine: alussa voidaan sallia korkeampikin paine; periaatteena on, ettei lievästi kohonnutta verenpainetta alenneta ja hypotensiota vältetään akuutissa vaiheessa aivoperfuusion turvaamiseksi. Yli 80 %:lla aivoinfarktipotilaista verenpaine kohoaa reaktiivisesti akuuttivaiheessa normalisoituen jälleen viikon kuluessa. Verenpaineen äkillinen laskeminen etenkin vasodilatoivilla lääkkeillä voi akuutissa vaiheessa heikentää aivojen perfuusiota. Jos verenpaine ylittää 220/120 mmHg:n tason, sitä hoidetaan aktiivisesti. Antikoagulaation ja trombolyysin yhteydessä verenpainetavoite on huomattavasti tiukempi – verenpaineen tulee tällöin olla alle 185/105 mmHg. Verenpaineen akuuttihoidossa ensisijaisia lääkkeitä ovat labetaloli ja enalapriili.
+
+---
+
+Hengitys- ja keuhkokomplikaatioiden ehkäisy on todella tärkeää. Aspiraatiokeuhkokuume selittää jopa neljänneksen aivoinfarktin akuutin vaiheen kuolleisuudesta. Testataan nielemiskykyä (valtaosalla aivoinfarktipotilaista esiintyy akuuttivaiheessa nielemisvaikeuksia, joten potilaalle ei anneta mitään suun kautta, kunnes nieleminen on asianmukaisesti testattu ja sen on todettu toimivan turvallisesti), pidetään asentoa sopivana, tarvittaessa annetaan antibiootteja (kaikkien tajuttomien tai pitkään maanneina löydettyjen tai oksentaneiden voidaan olettaa aspiroineen, aspiraatiokeuhkokuumeen mikrobilääkehoito aloitetaan herkästi). Akuutissa vaiheessa keuhkokuvasta havaitaan usein lievä verekkyyden korostuminen, joskus neurogeeninen keuhkoödeema.
+
+---
+
+Keuhkoembolia on tavallisimpia aivohalvauspotilaiden välittömiä kuolinsyitä. Riskiä voidaan vähentää varhaisella mobilisaatiolla, antiemboliasukilla ja ihonalaisella lyhytketjuisella hepariinilla.
+
+---
+
+Hyperglykemian hoito. 
+
+Joka viidennellä aivoinfarkti- tai aivoverenvuotopotilaalla todetaan suurentunut veren glukoosipitoisuus akuutissa vaiheessa. Hyperglykemian on osoitettu olevan yhteydessä akuutin vaiheen suurentuneeseen kuolleisuuteen, koska se altistaa infarktin laajentumiselle ja aivoödeemalle ja lisää selvästi infarktin vuotoriskiä, erityisesti rekanalisaation ja trombolyysin yhteydessä. Glukoosipitoisia infuusionesteitä tai oraalista glukoosia ei anneta lainkaan parin ensimmäisen päivän aikana, ja arvon 8 mmol/l ylittävää plasman glukoosipitoisuutta pienennetään lyhytvaikutteista insuliinia käyttäen myös potilailla, jotka eivät sairasta diabetesta.
+
+---
+
+Lievä lämmönnousu on tavallista aivoinfarktin akuutissa vaiheessa myös ilman infektiota. Koska kohonnut lämpötila jo itsessään huonontaa toipumisennustetta, jo 37,5 °C ylittävää kuumeilua on syytä hoitaa. Lämpöä voidaan laskea mekaanisesti keventämällä peitteitä tai tuulettimen avulla viilentäen, ja lääkkeiksi sopivat oraalinen ja suoneen annettava parasetamoli. Lämpötilan kontrollointi on oleellista erityisesti laajassa aivoinfarktissa, johon liittyy ödeemataipumusta, sillä jo yhdellä asteella voi olla ratkaiseva merkitys kallonsisäisen paineen kannalta. 
+
+---
+
+Usein potilaat ovat immobilisoituja akuutissa vaiheessa ja tämän takia makuuhaavat ovat riski -> asentohoito tärkeää. 
+
+
+---
+
+Riski rytmihäiriöille ja sydäninfarktille on koholla akuutissa vaiheessa -> näiden tilanteen seuraaminen telemetrialla ja tarvittaessa hoito. 
+
+---
+
+Muita yleisiä komplikaatioita ovat mm. delirium, traumat kaatumisen yhteydessä, nestetasapainon ongelmat yms. Näiden hoitaminen tyypilliseen tapaan kuuluu asiaan. 
+  </div>
+</div>
+
+### Väitteitä potilastapauksesta O/V (huom. tämä ja seuraavat potilastapaukset ulkomuistista kirjoitettuja; ei täysin samoja kuin tentissä silloin)
+
+23-v mies, kaatunut 2vko sitten skeittilaudalla, lyönyt päänsä. Omasta mielestä ei menettänyt tajuntaa, kaveri sanonut että oli muutaman minuutin tokkurainen. Tila palautui, meni kotiin. Illalla pahoinvointia ja väsyneisyyttä. Seuraavana päivänä pahoinvointi väistynyt ja alkanut takaraivolla tuntuva päänsärky. Ottanut siihen burana 600mg, josta saanut apua. (muistaakseni liittynyt jokin neurologinen oire). Nyt vastaanotolla orientoitunut ja asiallinen. Ei muistiaukkoja. Päätä särkee edelleen. Biceps ++/+, Triceps ++/+, patella +/+, akilles +/+. Oikeassa yläraajassa hieman spastisuutta. Aivohermostatuksessa ei poikkeavaa.
+
+- a. Potilaalla on vasemman plexuksen vaurio
+- b. Määräät 3kk ajokiellon tajunnanmenetyskohtauksen takia
+- c. Lähetät potilaan päivystyksenä neurologialle
+- d. Potilaalla on niskan retkahdusvamma
+- e. Potilaalla on keskivaikea aivovamma, koska oireet ovat jatkuneet kaksi viikkoa
+
+<div class="">
+  <button class="solution-button"
+          data-label="a"
+          data-hide-label="a - Piilota vastaus">
+    a
+  </button>
+  <div class="solution-content">
+
+Väärin 
+
+---
+
+Potilaan oikeanpuolisesti voimistuneet refleksit ja spastisuus viittaavat ylämotoneuronin vaurioon. Plexusvamma taas on ääreishermoston eli alamotoneuronin vaurio. 
+  </div>
+</div>
+
+<div class="">
+  <button class="solution-button"
+          data-label="b"
+          data-hide-label="b - Piilota vastaus">
+    b
+  </button>
+  <div class="solution-content">
+
+Väärin 
+
+---
+
+Aivovammoissa ajokieltoa tulee lievissä vammoissa 1kk, keskivaikeissa 3kk ja vähintään 6kk vaikeissa. Potilaalla vaikuttaa kertomuksen mukaan olevan lievä aivovamma, koska PTA ei ole yli päivää ja tajunnanmenetys ei ollut yli 30min. 
+  </div>
+</div>
+
+<div class="">
+  <button class="solution-button"
+          data-label="c"
+          data-hide-label="c - Piilota vastaus">
+    c
+  </button>
+  <div class="solution-content">
+
+Oikein 
+
+---
+
+Potilaalla paikallisia neurologisia puutosoireita pään vamman jälkeen -> vaatii pään kuvantamista (natiivi TT), joten lähetetään päivystykseen.
+
+![](images/päänvamma.png)
+  </div>
+</div>
+
+<div class="">
+  <button class="solution-button"
+          data-label="d"
+          data-hide-label="d - Piilota vastaus">
+    d
+  </button>
+  <div class="solution-content">
+
+Väärin 
+
+---
+
+Potilas lyönyt päätään, joten kyseessä ei ole tyypillinen niskan retkahdusvamma (whiplash eli piiskaniskuvamma), joka syntyy pään heilahtaessa äkillisesti ja hallitsemattomasti taaksepäin ja sen jälkeen voimakkaaseen etutaivutukseen (tyypillinen vammamekanismi on peräänajokolari). Piiskaniskuvammassa ei ole refleksin muuttumisia yms (vaikka ilmeneekin niskakipua, säteilykipua yläraajoihin, päänsärkyä yms). 
+
+![](images/whiplash.png)
+  </div>
+</div>
+
+<div class="">
+  <button class="solution-button"
+          data-label="e"
+          data-hide-label="e - Piilota vastaus">
+    e
+  </button>
+  <div class="solution-content">
+
+Väärin 
+
+---
+
+Keskivaikea aivovamma tarkoittaa, että potilaan GCS on 9-12 puolen tunnin kuluttua vammasta tai jossain vaiheessa sen jälkeen / tajuttomuus on 30min-24h / PTA on 24h-7vrk. Oireet kuten päänsärky ja jotkut kognitiiviset oireet kestävät usein lievässäkin vammassa monia viikkoja, mutta aivovamman vaikeusaste määräytyy GCS:n, tajuttomuuden keston ja posttraumaattisen amnesian keston perusteella. 
+
+![](images/aivovammavaikeusaste.png)
+  </div>
+</div>
+
+### Väitteitä potilastapauksesta O/V
+
+64-vuotias nainen, aamulla 6.30 alkanut huimaus, pahoinvointia, ei oksentanut. Katseen kohdistus ei onnistu. Aiemmin ollut kaksi kohtausta, päänsärkyä ja lievää tasapainovaikeutta. Tk vastaanotolla 12.30. Statuksessa jatkuva nystagmus. Romberg ei onnistu. Lievää dysmetriaa. 
+
+- a. teen epleyn manööverin, koska tyypillinen BPPV
+- b. epäily vestibulaarineuriitista, lähetän KNK päivystykseen
+- c. liuotushoitoa ei ole syytä harkita
+- d. lähetän päivystyksenä pään kuvauksiin
+- e. kiireellisenä lähetteenä MS-taudin poissulkuun
+
+<div class="">
+  <button class="solution-button"
+          data-label="a"
+          data-hide-label="a - Piilota vastaus">
+    a
+  </button>
+  <div class="solution-content">
+
+Väärin 
+
+---
+
+Hyvänlaatuinen asentohuimaus (BPPV) ilmenee max 1-2 min pituisina huimauskohtauksina, eikä statuksessa ilmene jatkuvaa nystagmusta, kuten tällä potilaalla.
+  </div>
+</div>
+
+
+<div class="">
+  <button class="solution-button"
+          data-label="b"
+          data-hide-label="b - Piilota vastaus">
+    b
+  </button>
+  <div class="solution-content">
+
+Väärin 
+
+---
+
+Potilaalla huimausta ja katseen kohdistuksen vaikeuksia -> epäily sentraalisesta prosessista eikä vestibulaarineuriitista.  
+  </div>
+</div>
+
+<div class="">
+  <button class="solution-button"
+          data-label="c"
+          data-hide-label="c - Piilota vastaus">
+    c
+  </button>
+  <div class="solution-content">
+
+Väärin 
+
+---
+
+Potilaan oirekuva on kestänyt kuusi tuntia (6.30-12.30). Liuotus on kyllä mahdollista 4,5h tunnin jälkeenkin ad 9h, mutta se vaatii perfuusiokuvantamista. Myös basilaaritrombooseissa (joka tilanne sinänsä voi olla), on liuotusikkuna normaalia pidempi (akuuteissa ad 12h ja hitaasti kehittyneissä jopa 48h).
+  </div>
+</div>
+
+<div class="">
+  <button class="solution-button"
+          data-label="d"
+          data-hide-label="d - Piilota vastaus">
+    d
+  </button>
+  <div class="solution-content">
+
+Oikein 
+
+---
+
+Potilaalla on huimaus ja katseen kohdistamisen ongelmia. Lievää dysmetriaa. Kävely/romberg vaikeaa. AVH-epäily ja tällöin vaatii päivystyksellisen pään TT:n. 
+
+![](images/vertigoalgo.png)
+  </div>
+</div>
+
+<div class="">
+  <button class="solution-button"
+          data-label="e"
+          data-hide-label="e - Piilota vastaus">
+    e
+  </button>
+  <div class="solution-content">
+
+Väärin 
+
+---
+
+AVH-epäily primaaristi kyseessä. 
+  </div>
+</div>
+
+### Väitteitä potilastapauksesta O/V
+
+54-v mies, muutaman kuukauden ajan käsien vapinaa. Viime aikoina ylitöitä, vaikeita asentoja työssä. Alkoa menee 12/vko tasaisesti vkloppuun painottuen. Nyt ei kolmeen päivään. Statuksessa kannatusvapinaa, kaikki muu norm. 
+
+- a. Todennäköisin vaihtoehto fysiologinen vapina 
+- b. Ei sovi alkoholin aiheuttamaksi 
+- c. Potilas epäilee itsellään Parkinsonin tautia. Sinulla on kuitenkin riittävät todisteet jättää lähete kirjoittamatta.
+- d. Alkoholin aiheuttaman polyneuropatian poissulkuun tulisi tehdä ENMG
+- e. Aloitat beetasalpaajan ja sovit puhelinkontrollin 1kk päähän
+
+<div class="">
+  <button class="solution-button"
+          data-label="a"
+          data-hide-label="a - Piilota vastaus">
+    a
+  </button>
+  <div class="solution-content">
+
+Oikein 
+
+---
+
+Potilaalla on kannatusvapina, joka on korostunut stressin (ylityöt), vaikeiden työasentojen (lihasväsymys) ja mahdollisesti alkoholin vieroitusoireiden tai runsaan käytön seurauksena. Korostunut fysiologinen vapina on tässä tilanteessa kaikkein todennäköisin selitys, kun muu status on normaali.
+  </div>
+</div>
+
+<div class="">
+  <button class="solution-button"
+          data-label="b"
+          data-hide-label="b - Piilota vastaus">
+    b
+  </button>
+  <div class="solution-content">
+
+Väärin 
+
+---
+
+Vapina on hyvin yleinen oire alkoholin vieroitusoireena. Vaikka 12 annosta/viikko ei täytä miehillä suuren riskin käyttöä, niin viikonloppuun painottuva juominen voi tarkoittaa toistuvia suuria annoksia ja niistä palautuessa voi ilmentyä vapinaa yms muita vieroitusoireita.
+  </div>
+</div>
+
+<div class="">
+  <button class="solution-button"
+          data-label="c"
+          data-hide-label="c - Piilota vastaus">
+    c
+  </button>
+  <div class="solution-content">
+
+Oikein 
+
+---
+
+Potilaalla ei ole mitään Parkinsonin tautiin viittavaa (lepovapina, rigiditeetti, hypokinesia, posturaalinen instabiliteetti). 
+  </div>
+</div>
+
+<div class="">
+  <button class="solution-button"
+          data-label="d"
+          data-hide-label="d - Piilota vastaus">
+    d
+  </button>
+  <div class="solution-content">
+
+Väärin 
+
+---
+
+Polyneuropatia aiheuttaa tyypillisesti tuntohäiriöitä, kipuja ja heijasteiden vaimenemista alaraajoissa, ei käsien kannatusvapinaa. ENMG ei ole ensilinjan tutkimus vapinan selvittelyssä. Lisäksi diagnoosi on ensisijaisesti kliininen. 
+  </div>
+</div>
+
+<div class="">
+  <button class="solution-button"
+          data-label="e"
+          data-hide-label="e - Piilota vastaus">
+    e
+  </button>
+  <div class="solution-content">
+
+Väärin (tai ainakin väärähkö)
+
+---
+
+Tärkeää on beetasalpaajan sijasta altistavien tekijöiden eliminointi ensin: Ylitöiden vähentäminen, riittävä lepo, alkoholinkäytön vähentäminen, kofeiinin rajoittaminen — tehostunut fysiologinen vapina usein häviää, kun provosoivat tekijät poistuvat. 
+
+Taustalla voi myös olla mm. hypertyreoosi, elektrolyyttiongelmia, hypoglykemiaa yms -> näiden tarkistaminen. 
+
+Oireenmukaisena hoitona kyllä voidaan käyttää epäselektiivistä beetasalpaajaa (propranololi), mutta taustasyyn selvittäminen ja lievittäminen on sitä tärkeämpää.
+  </div>
+</div>
+
+### 
+
+18-v mies. Juoksulenkillä tauolla parrua nostellessa alkanut kova päänsärky. Kehittynyt maksimiinsa noin tunnissa, VAS 8. Ei ennakko-oireita. Ei aiempaa migreenitaustaa. Äidin burana 600mg käyttänyt 1-2kpl/pvä, vain hetkellinen apu. Yrittänyt helpottaa kävelylenkillä, tämä vain pahentanut. Lievää dysfasiaa. Statuksessa sormiperimetriassa perifeerisesti näkökenttäpuutosta, oftalmoskopiassa valoarkuutta, papilla tasainen, venapulsaatio +/+.
+
+- a. Päivystyksenä TT SAV:n poissulkuun
+- b. Diagnosoit aurattoman migreenin
+- c. Jos TT-normaali, tehtävä likvor josta erytrofagit yms.
+- d. Potilaalla on lääkepäänsärky
+- e. Oirekuva ja löydökset sopivat kaikki aukottomasti migreeniin.
+
+
+<div class="">
+  <button class="solution-button"
+          data-label="a"
+          data-hide-label="a - Piilota vastaus">
+    a
+  </button>
+  <div class="solution-content">
+
+Oikein
+
+---
+
+Uusi, voimakas päänsärky ilman migreenitaustaa. Rasitukseen liittyvä alku. Neurologisia puutosoireita. Hälyttävä päänsärkytilanne ja vaatii päivystysselvittelyitä kallonsisäisten verenvuotojen suhteen -> natiivi-TT. 
+
+Vaikka särky kehittyi maksimiinsa tunnin kuluessa (eikä sekunneissa, kuten tyypillisimmässä "salamapäänsäryssä"), ponnistukseen liittyvä kova särky on aina aihe päivystykselliselle pään tietokonekerroskuvaukselle (TT). Joskus harvoin SAV voi kehittyä ad 1h, jos on pienempi verenvuoto. Läheskään kaikilta ei löydy mitään erityistä jatkotutkimuksissa -> useimmiten jonkinlaisia benignejä ponnistuspäänsärkyjä. 
+
+![](images/ottawasah.png)
+![](images/sahalgo.png)
+  </div>
+</div>
+
+<div class="">
+  <button class="solution-button"
+          data-label="b"
+          data-hide-label="b - Piilota vastaus">
+    b
+  </button>
+  <div class="solution-content">
+
+Väärin
+
+---
+
+Migreenidiagnoosia ei voi tehdä ensimmäisen rajun päänsäryn kohdalla ennen kuin vaaralliset syyt on suljettu pois. Lisäksi potilaalla on dysfasiaa ja näkökenttäpuutosta, jotka ovat neurologisia puutosoireita (aura-oireita tai fokaalisia löydöksiä), joten "auraton" ei joka tapauksessa sopisi kuvaan.
+  </div>
+</div>
+
+<div class="">
+  <button class="solution-button"
+          data-label="c"
+          data-hide-label="c - Piilota vastaus">
+    c
+  </button>
+  <div class="solution-content">
+
+Oikein
+
+---
+
+Jos TT on tehty <6 tuntia oireiden alusta ja on normaali, se sulkee SAV:n pois lähes varmasti (sensitiivisyys ~98,7 %) potilailla ilman fokaalisia neurologisia oireita. Tällä potilaalla on kuitenkin fokaalisia oireita (dysfasia, näkökenttäpuutos), jolloin nämä tutkimukset eivät ole yhtä yleispäteviä päde ja pelkkä negatiivinen TT ei ehkä riitä. Tekstistä myös ei ihan käy selväksi, kuinka kauan kohtauksen alusta on, mutta todennäköisesti >6h, jolloin likvor tulisi ottaa. 
+
+Verenvuodon merkkejä etsitään yleensä aikaisintaan 12 tuntia säryn alkamisesta. Livorista otetaan peruskokeet (solut, Prot, Gluk), spektri (näyte suojattava valolta) ja varaputket.
+
+![](images/sahalgo.png)
+  </div>
+</div>
+
+<div class="">
+  <button class="solution-button"
+          data-label="d"
+          data-hide-label="d - Piilota vastaus">
+    d
+  </button>
+  <div class="solution-content">
+
+Oikein / Väärin
+
+---
+
+Lääkepäänsärky kehittyy kuukausien kuluessa särkylääkkeiden liiallisesta käytöstä (yleensä > 10–15 päivänä kuukaudessa). Tämä särky alkoi äkillisesti parrua nostellessa.
+
+
+  </div>
+</div>
+
+
+<div class="">
+  <button class="solution-button"
+          data-label="e"
+          data-hide-label="e - Piilota vastaus">
+    e
+  </button>
+  <div class="solution-content">
+
+Väärin
+
+---
+
+Migreeni on mahdollinen (esim. hemipleginen migreeni tai auraoireinen migreeni), mutta ponnistusalku, kova voimakkuus (VAS 8) ensioireena ja objektiivinen näkökenttäpuutos statuksessa tekevät tilanteesta sekundaarisen päänsäryn (kuten SAV tai aivolaskimotukos), kunnes toisin todistetaan. Statuksen "perifeerinen näkökenttäpuutos" ei ole tyypillinen migreeniaura, joka on usein skintilloiva skotooma tai laajeneva sahalaitalinja.
+  </div>
+</div>
+
+### Väitteitä potilastapauksesta O/V
+
+84-vuotias mies, kr. FA, DM2, verenpainetauti. Asianmukaiset hoidot. Tyttären tuomana vastaanotolle. 6kk ajan liikkeiden hitautta, tuttujen nimien unohtelua, kävely muuttunut töpötteleväksi. Potilaan päivittäiset raha-asiat, kaupassakäynnit onnistuu, ajaa ammattimiehen taidolla (R1-kortti). Potilas itse mielestään täysin terve, ei ongelmaa arjessa. Statuksessa: kävely töpöttelevää, jalat tömähtävät maahan, käännöksissä sivuaskel. Myötäliikkeet tallella, symmetriset. Koordinaatiokokeissa (SNP, KPK, DDK) ei moitittavaa. Ei vapinaa. Noudaa kehoituksia, mutta hieman hitaasti. Biceps +/+, triceps +/+, akilles -/-, Babinski -/-. Värinätunto malleolitasolla heikentynyt. 
+
+- a. Lähetät potilaan neurologian muistipoliklinikalle muistilabroja ja CERAD:ia varten
+- b. Mikäli muistilabroissa tai CERADissa poikkeavaa, et kuitenkaan tee lähetettä, sillä pystyt toteamaan tyypillisen Alzheimerin taudin ja aloitat lääkityksen
+- c. Potilaan pää olisi syytä kuvata, vaikka muistilabrat olisivat normaalit
+- d. Oirekuva sopii deliriumiin
+- e. Toteat potilaan ajokelvottomaksi ja teet viranomaisilmotuksen
+
+<div class="">
+  <button class="solution-button"
+          data-label="a"
+          data-hide-label="a - Piilota vastaus">
+    a
+  </button>
+  <div class="solution-content">
+
+Väärin
+
+---
+
+Diagnostiikka aloitetaan perusterveydenhuollossa. Muistikoordinaattori/hoitaja tekee CERAD-testin ja lääkäri tilaa muistilaboratoriokokeet terveyskeskuksessa.
+  </div>
+</div>
+
+<div class="">
+  <button class="solution-button"
+          data-label="b"
+          data-hide-label="b - Piilota vastaus">
+    b
+  </button>
+  <div class="solution-content">
+
+Väärin
+
+---
+
+Oirekuva ei ole tyypillinen Alzheimer. Alzheimer alkaa yleensä episodisen muistin häiriöllä. Tällä potilaalla korostuvat kävelyn häiriö ("jalat tömähtävät maahan", töpöttely) ja lievä hidastuneisuus, mutta arjen toimintakyky on yllättävän hyvä (ajaa autoa, hoitaa raha-asiat).
+
+Näin iäkkäistä yleensä tehdään paikallisen saatavuuden rajoissa vähintään geriatrin konsultaatio (muistikeskukset!). Usein vaikka olisikin suhteellisen tyypillinen Alzheimer, niin yleensä silti tehdään lähete ESH, jossa otetaan MRI/PET ja muita tarvittavia erotusdiagnostisia selvittelyjä (esim. likvor).
+  </div>
+</div>
+
+<div class="">
+  <button class="solution-button"
+          data-label="c"
+          data-hide-label="c - Piilota vastaus">
+    c
+  </button>
+  <div class="solution-content">
+
+Oikein
+
+---
+
+Potilaalla on aika vahva NPH-epäily (normaalipaineinen hydrokefalia). Siihen kuuluu triadi: 1. Kävelyhäiriö (magneettikävely, jalat "liimautuvat" maahan), 2. Muistioireet (subkortikaalinen hidastuneisuus), 3. Virtsankarkailu (ei mainittu tässä, mutta tulee usein myöhemmin).
+
+Myös vaskulaariset muutokset (leukoaraioosi) ja siten vaskulaarisen dementian alku ovat mahdollisia FA:ta ja verenpainetautia sairastavalla.
+
+Pään kuvantaminen (MRI/CT) on välttämätön näiden erottamiseksi.
+  </div>
+</div>
+
+
+<div class="">
+  <button class="solution-button"
+          data-label="d"
+          data-hide-label="d - Piilota vastaus">
+    d
+  </button>
+  <div class="solution-content">
+
+Väärin
+
+---
+
+Oireet ovat kestäneet 6 kuukautta. Delirium on äkillinen (tunteja/päiviä kestävä) sekavuustila.
+  </div>
+</div>
+
+<div class="">
+  <button class="solution-button"
+          data-label="e"
+          data-hide-label="e - Piilota vastaus">
+    e
+  </button>
+  <div class="solution-content">
+
+Väärin
+
+---
+
+Diagnosoimaton muistihäiriö ei ole suora aihe ajokortin ottamiselle pois. Potilaan kanssa kyllä voi keskustella siitä, että nyt ei ole ehkä järkevää ajaa ennen kuin selvittelyt on käyty läpi. Potilas kuitenkin selviytyy päivittäisistä toiminnoista (raha-asiat, kaupassa käynti) ja ajaa tyttären mukaan "ammattimiehen taidolla" (R1-kortti). Tämä viittaa siihen, että kognitiivinen heikentyminen on vielä lievää. 
+
+Diagnosoidussakin muistisairaudessa on R1 mahdollinen (R2 aina kyllä kielto). R1-ajoterveyskriteerit: CDR 2-3 ajokielto (vähintään keskivaikea), CDR 0,5-1 selvitettävä (lievä kognitiivinen alenema - lievä dementia).
+
+![](images/dementiaajokyky.png)
+  </div>
+</div>

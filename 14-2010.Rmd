@@ -1,0 +1,57 @@
+# 2010 
+
+## Tentti 
+
+Kolme kysymystä ja niistä käytännössä kaikki on jo käyty läpi. Otettu yksi tähän, koska siinä on uusi aspekti, eli muistihäiriöpotilaan tutkiminen päivystyksessä. Muut kysymykset olivat "Aivoinfarktipotilaan komplikaatioiden esto ja hoito AVH yksikössä" ja "Polyneuropatia: etiologia, oireet, dg, hoito ja ennuste". 
+
+### Miten tutkit muistihäiriöpotilaan a) päivystyksessä b) terkkarin ajanvarausvastaanotolla c) neurologian polin vastaanotolla
+
+<div class="">
+  <button class="solution-button"
+          data-label="a"
+          data-hide-label="a - Piilota vastaus">
+    a
+  </button>
+  <div class="solution-content">
+
+Päivystyksessä pääasiassa etsitään äkillisesti madaltuneen kognitiivisen kyvyn syitä. Useimmiten siis selvitellään, onko potilaalla deliriumia. CAM- tai AT4-seuloilla deliriumin todennäköisyyttä voi arvioida ja anamneesilla (läheisiltä myös), statuksella (onko uusia puolieroja, niskajäykkyyttä, viitteitä mistään infektiosta yms), labroilla (esim. CRP, PVK, Na, K, Ca, Gluk, Krea, troponiinit, u-kemseul), koneselvittelyillä (esim. EKG) ja usein kuvantamisellakin (thx-rtg, usein pään TT) selvitellään deliriumin syytä. 
+
+Tietysti normaalistikin muistisairas potilas voi päätyä päivystykseen jostain toisesta syystä ilman deliriumiakin, jolloin pitää arvioida jatkoselvittelyiden tarvetta ja tarpeen mukaan tehdä lähete tarkempiin selvittelyihin tai ohjata potilasta/läheisiä hakeutumaan omaan terveyskeskukseen alkuselvittelyihin. 
+  </div>
+</div>
+
+
+<div class="">
+  <button class="solution-button"
+          data-label="b"
+          data-hide-label="b - Piilota vastaus">
+    b
+  </button>
+  <div class="solution-content">
+
+Perusterveydenhuollon lääkärin tärkein tehtävä muistihäiriöiden selvittelyssä on poikkeavan oireen tunnistaminen ja perusselvitys, johon kuuluu: 
+
+<li>potilaan ja läheisen kuuntelu ja kattava anamneesi tilanteesta</li>
+<li>kartoitetaan mahdollisia syitä (esim. mieliala (tukena masennuskyselyt, kuten PHQ-9; vanhuksilla esim. GDS-15), päihdekäyttö, lääkkeet, uni, stressitekijät, mahdolliset pään vammat)</li>
+<li>oirearvio (muistikyselyt)</li>
+<li>neurologinen perusstatus (ja yleisstatus ja psykiatrinen status)</li>
+<li>Aineenvaihduntahäiriöt (mm. hypotyreoosi, hyper- ja hypokalsemia)</li>
+<li>muistitestit (CERAD vanhuksille ensisijainen, MMSE useimmiten edenneissä tapauksissa ja seurannassa; MoCA myös käytössä paljon varsinkin työikäisillä); yleensä muistihoitaja tekee</li>
+<li>muistisairauksien peruslaboratoriotutkimukset (PVK, glukoosi, krea, natrium, kalium, kalsium, tsh+t4v, ALAT, GT, D-25, B12 vitamiini, harkinnanvaraisesti lipidit, lasko ja folaatti, EKG)</li>
+  </div>
+</div>
+
+
+<div class="">
+  <button class="solution-button"
+          data-label="c"
+          data-hide-label="c - Piilota vastaus">
+    c
+  </button>
+  <div class="solution-content">
+
+Erikoissairaanhoidossa tavoitteena on tarkka tyyppidiagnoosi (esim. Alzheimer vs. Lewyn kappale -tauti vs. otsa-ohimolohkorappeuma) ja hoidon optimointi.
+  
+Diagnostiikassa usein otetaan aivojen MRI, tarvittaessa muita kuvantamisia, kuten PET. Likvoria tarvitaan myös joskus (esim. mitataan alzheimerin merkkiaineita).
+  </div>
+</div>

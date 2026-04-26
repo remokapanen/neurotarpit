@@ -262,7 +262,7 @@ Perusterveydenhuollon lääkärin tärkein tehtävä muistihäiriöiden selvitte
 
 ---
 
-Jatkotutkimukset tilanteissa, joissa ei löydy selkeää hoidettavaa syytä, ovat yleensä ensisijaisesti pään MRI ja tilanteen mukaan jotain muitakin, kuten likvor (esim. Alzheimerissa voidaan löytää diagnostisia löydöksiä, kuten beeta-amyloidipeptidi 42:n pitoisuuden pieneneminen ja fosforyloituneen tau-proteiinin pitoisuuden suureneminen). Paikallisen saatavuuden ja ohjeistusten mukaan joskus tk:ssa pään MRI tai iäkkäillä esim. vuodon poissulkuun pään TT. Nykyisen työnjaon mukaan erikoislääkäri (neurologi, geriatri tai psykogeriatri) varmistaa diagnoosin ja laati ensivaiheen hoito-ohjeet ja mm. yhteenvedon tutkimuksista. 
+Jatkotutkimukset tilanteissa, joissa ei löydy selkeää hoidettavaa syytä, ovat yleensä ensisijaisesti pään MRI ja tilanteen mukaan jotain muitakin, kuten PET-kuvantaminen tai likvor (esim. Alzheimerissa voidaan löytää diagnostisia löydöksiä, kuten beeta-amyloidipeptidi 42:n pitoisuuden pieneneminen ja fosforyloituneen tau-proteiinin pitoisuuden suureneminen). Paikallisen saatavuuden ja ohjeistusten mukaan joskus tk:ssa pään MRI tai iäkkäillä esim. vuodon poissulkuun pään TT. Nykyisen työnjaon mukaan erikoislääkäri (neurologi, geriatri tai psykogeriatri) varmistaa diagnoosin ja laati ensivaiheen hoito-ohjeet ja mm. yhteenvedon tutkimuksista. 
 
   </div>
 </div>
