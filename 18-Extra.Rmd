@@ -1,0 +1,1532 @@
+# MEDigi -minitentit 
+
+MEDigissä (samassa paikassa kuin alkutentti) on oppimisen seurantaa varten minitenttejä eri aihepiireistä. Niiden kysymysten läpikäyminen voi olla hyvää lisäharjoittelua. Tähän koottu kaikki kysymykset kaikista minitenteistä. Kysymyksissä on aina vain yksi oikea vastaus. 
+
+## Aivoverenkiertohäiriöt {#AVH}
+
+### TIA-kohtauksen diagnoosi perustuu tyypillisiin löydöksiin TT-kuvassa
+
+- a. Oikein
+- b. Väärin
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+b - väärin 
+
+---
+
+TIA-kohtauksen diagnoosi perustuu anamneesiin. Pään TT kuuluu TIA-kohtauksen perusselvittelyihin, mutta iskeemisiä muutoksia ei nähdä.
+
+  </div>
+</div>
+
+### Aivoinfarktiepäilyssä pään TT kuvataan ainoastaan, mikäli potilas tulee sairaalaan alle 7 h sisällä oireiden alusta
+
+- a. Oikein 
+- b. Väärin 
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+b - väärin 
+
+---
+
+Pään TT tehdään yleensä kaikille aikaikkunasta huolimatta, sillä poissuljetaan verenvuoto. 
+  </div>
+</div>
+
+### Verkkokalvo-TIA:ssa (amaurosis fugax) molemmat silmät sokeutuvat kivuttomasti
+
+- a. Oikein 
+- b. Väärin 
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+b - väärin 
+
+---
+
+Amaurosis fugaxissa (a. ophtalmican TIA) vain toinen silmä sokeutuu tai sen näkö hämärtyy kivuttomasti. 
+  </div>
+</div>
+
+### Sinustromboosisssa VÄÄRIN:
+
+- a. Diagnosoidaan natiivi-TT:llä
+- b. Sijaitsee useimmiten sinus sagittalis superioriksessa tai sinus transversaliksessa
+- c. Oireena voi olla vaihtelevaa usein päiviä/viikkoja jatkuvaa päänsärkyä
+- d. Hoitona on AK-hoito vähintään 6 kk ajan
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+a 
+
+---
+
+Aivojen sinustromboosi diagnosoidaan ensisijaisesti MR-venografialla (tai TT-venografialla; TT-venografia on magneettivenografian veroinen sinustromboosin osoittamiseksi, mutta magneettikuvauksen etuna on parempi aivokudoksen muutosten erottelukyky sekä säteettömyys). Normaalin natiivi-TT-tutkimuksen tai veren pienen D-dimeeripitoisuuden perusteella ei voida luotettavasti sulkea pois sinustromboosin mahdollisuutta.
+
+a: Sinus sagittalis superioris on yleisin ja sinus transversalis toiseksi yleisin. Sinus sigmoidalis ja syvät laskimot ovat myös usein affisioituja; sinus cavernosuksen trombit harvinaisempia. Sinustromboosi ilmenee useimmiten hyperkoagulatiivisessa tilassa (esim. raskaus, maligniteetti, perinnöllinen hyytymisalttius, yhdistelmäehkäisy). Kattaa n. 0,5% kaikista avh:sta, n. 60% naisia.
+
+c: Kliininen kuva monimuotoinen: Päänsärky (90%), epileptiset kohtaukset (40%), fokaalioireet (40%), papillaturvotus (30%). Oireisto voi kehittyä akuutisti, mutta useimmiten päivien-viikkojen kuluessa progressiivisesti
+
+d: Sinustromboosin sairastaneiden potilaiden ennuste on paljon parempi kuin aivohalvauspotilaiden keskimäärin. Sinustromboosin hoidon kulmakivi on viivytyksettä aloitettu antikoagulaatio pienimolekyylisellä hepariinilla, myös silloin kun potilaalla todetaan sinustromboosiin liittyvää aivojensisäistä verenvuotoa. Kohonneen kallonsisäisen paineen alentaminen, epileptisten kohtausten esto ja hoito sekä kivunhoito ovat myös olennaisia.
+
+![](images/vst.png)
+  </div>
+</div>
+
+
+### Toispuoleinen halvausoire EI voi esiintyä oireena:
+
+- a. Takakierron infarktissa
+- b. Pikkuaivoinfarktissa
+- c. Aivorungon infarktissa
+- d. Karotisalueen infarktissa
+
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+b
+
+---
+
+Halvausoire syntyy pyramidiradan vauriossa, joten se voi syntyä esimerkiksi aivokuoren motorisen alueen infarktissa (etukierron aluetta) tai aivorungon infarktissa (takakierron aluetta), mikäli infarkti on pyramidiradan alueella. Pikkuaivoinfarktissa ei ole halvausoireita.
+
+Pikkuaivoinfarktin oireita ovat tavallisimmin huimaus, tasapainon epävarmuus ja ataksia liikkeissä. Myös mm. dysmetriaa, intentiovapinaa ja nystagmusta ilmenee usein. 
+  </div>
+</div>
+
+### Kaikille aivoinfarktin ja TIA:n sairastaneille tulisi harkita verenpaineen lääkehoitoa riippumatta verenpaineen lähtötasosta
+
+- a. Oikein 
+- b. Väärin 
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+a*
+
+---
+
+Kohonnut verenpaine on tärkein aivoinfarktien ja TIA-kohtausten hoidettavissa oleva riskitekijä. 20 mmHg korkeampaan systoliseen tai 10 mmHg korkeampaan diastoliseen verenpaineeseen liittyy keskimäärin aivohalvausriskin kaksinkertaistuminen. Suhde on nuorilla jyrkempi kuin vanhoilla. Suhde säilyy aina tasolle 115/75 mmHg saakka.
+
+Useimmiten hoitotavoitteeksi voi asettaa kotimittauksissa <130/80, mutta tietysti iäkkäillä geriatriset realiteetit ja haitat huomioiden voi olla sen tasoinen, että siitä ei aiheudu merkittäviä haittoja. 
+
+*Periaatteessa jos kysymyksen ottaa täysin kirjaimellisesti, niin eihän verenpainetta tarvitse tietystikään hoitaa, jos potilaalla on verenpaineet esim. 100/60, mutta tällainen tilanne harvoin on. Käytännössä kaikki siten voivat mahdollisesti hyötyä verenpaineen laskusta. NNT 45, jos verenpaine on koholla ja NNT 118, jos verenpaine on normaali.
+  </div>
+</div>
+
+### Kaula-/nikamavaltimon dissekaatiossa VÄÄRIN:
+
+- a. Ei esiinny alle 40-vuotiailla
+- b. Kyseessä on valtimon seinämän intiman ja/tai median repeämä ja verenvuoto kerrosten väliin
+- c. Tyypillisiä oireita ovat päänsärky, kasvo- tai kaulakipu ja Hornerin oireyhtymä.
+- d. Dissekaatiossa voidaan antaa aivoinfaktin i.v. trombolyysi normaalin hoitokäytännön mukaisesti
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+a
+
+---
+
+Alle 40-vuotiailla dissekaatio on yleisin aivoinfarktin syy. Tilan tunnistaminen on tärkeää, koska varhain aloitettu antikoagulanttihoito voi estää tukokseen liittyvän tromboosin etenemisen ja embolisaation, joka vasta johtaa infarktiin. Ensisijainen diagnostinen tutkimus on kaulasuonten tietokone- tai magneettiangiografia (tietysti aivoinfarktioireileville pään natiivi TT aina ensimmäiseksi poissulkemaan verenvuoto). 
+
+b: Valtimon seinämän kerrokset eroavat jostain syystä (trauma tai spontaani) -> verta virtaa intimaan -> hematooma seinämään -> tämä false lumen aiheuttaa valtimon stenoosia ja estää verenvirtausta aivoihin -> AVH
+
+c: Nämä oireet vievät pitkälti ajatuksia kaulavaltimon dissekoitumaan. Alkuoire on useimmiten toispuolinen tai silmäntakainen sykkivä päänsärky, joka voi muistuttaa migreeniä. Noin puolessa tapauksista kipua tuntuu myös kaulalla. Hornerin oireyhtymä tarkoittaa sympaattisen rungon hermovaurion aiheuttamaa oirekuvaa, jolle on tyypillistä seuraava triadi: ipsilateraalinen ptoosi + mioosi + anhidroosi. Lähtökohtaisesti uutena kehittynyt Hornerin syndrooma vaatiikin päivystystutkimuksia. Se voi myös liittyä mm.  sarjoittaiseen päänsärkyyn (Hortonin neuralgia, cluster headaches) ja keuhkojen yläosien kasvaimiin (pancoast tumor). 
+
+d: Jos oirekuvana akuutti neurologinen oirekuva (aivoinfarkti) -> tyypilliseen tapaan liuotushoito. Jos taas ei vaikuta infarktilta, niin aloitetaan antitromboottinen hoito -> AK-hoito (varfariini tai DOAC; vaihtoehtona ASA tai DAPT); Hoitoa jatketaan yleensä kuuden kuukauden ajan, minkä jälkeen, jos on jäänyt merkittävä stenoosi (arvioidaan kontrolli-CTA:lla/MRA:lla), siirrytään asetyylisalisyylihappoon. 
+
+  </div>
+</div>
+
+### Aivoinfarkti ja aivoverenvuoto erotetaan toisistaan kliinisten löydösten perusteella
+
+- a. Väärin
+- b. Oikein
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+a
+
+---
+
+Neurologiset oireet riippuvat vuodon tai infarktoituneen alueen sijainnista ja voivat siten olla molemmissa samanlaisia. Erotusdiagnostiikka tapahtuu aivojen natiivi-TT:llä. Natiivi-TT:tä ei siis oteta aivoinfarktiepäilyissä sen takia, että sillä todettaisiin aivoinfarkti, vaan ensisijaisesti siksi, että sillä poissuljetaan verenvuoto.
+  </div>
+</div>
+
+### Hemikraniektomia aivoinfarktin hoidossa
+
+- a. On rekanalisoiva toimenpide
+- b. Indikaationa on maligni MCA-infarkti
+- c. Lisää mahdollisuutta toipua täysin ennalleen
+- d. Ikä ei vaikuta hoitopäätökseen
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+b
+
+---
+
+Indikaationa on aivoinfarkteissa iso keskimmäisen aivovaltimon tukoksen aiheuttama infarkti. Laaja-alaiseen ja vaikeaan aivoinfarktiin voi liittyä merkittävä aivoturvotuksen riski, joka lisää kuolleisuutta ja vakavia komplikaatioita. Aivoturvotuksen aiheuttamasta oireesta käytetään maligni MCA-oireyhtymä nimitystä (käytännössä
+tämä tarkoittaa laajaa keskivaltimoalueen infarktia, jossa vaurio käsittää yli 50 % suonitusalueesta). Aivojen turvotus kehittyy tyypillisesti 1–2 vuorokauden jälkeen infarktiin sairastumisesta. Nuori ikä lisää aivoturvotuksen riskiä.
+
+a: Hemikraniekromia ei ole rekanalisoiva toimenpide, vaan sen tarkoituksena on vähentää aivoturvotuksen massavaikutusta. 
+
+c ja d: Alle 60-vuotiailla se vähentää huomattavasti kuolleisuutta ja mahdollisuutta toipua kohtalaiseen kuntoon, mutta toisaalta lisää merkittävästi myös päivittäisissä toimissa jatkuvasti apua tarvitsevien määrää. Yli 60-vuotiailla vähentää kuolleisuutta, mutta toisaalta ei lisää mahdollisuutta toipua kohtalaiseen kuntoon ja kaksinkertaistaa päivittäisissä toimissa apua tarvitsevien määrän, joten tässä ikäryhmässä hoitopäätös tehtävä erittäin suurta harkintaa käyttäen. 
+
+  </div>
+</div>
+
+### TIA-kohtauksessa
+
+- a. Oireet alkavat vähitellen
+- b. Oireisto on ohimenevä
+- c. Oireisto eroaa aivoinfarktin oireista
+- d. Aivoinfarktin riski ei ole lisääntynyt
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+b
+
+---
+
+Oireiden alku on äkillinen, oireet kehittyvät alle 5 minuutin aikana ja menevät usein ohi tunnissa, yleensä 2-15 min aikana. Oireet muistuttavat aivoinfarktia, mutta ovat ohimeneviä.
+
+d: TIA lisää aivoinfarktiriskiä 10-kertaiseksi verrattuna normaaliväestöön.
+  </div>
+</div>
+
+### TIA-kohtauksessa oireena on harvoin
+
+- a. Näköhäiriöinä valoilmiöt esim. sahalaitakuviot
+- b. Toispuoleinen raajaheikkous
+- c. Näkökenttäpuutos
+- d. Puheen tuoton häiriö
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+b
+
+---
+
+Oireiden alku on äkillinen, oireet kehittyvät alle 5 minuutin aikana ja menevät usein ohi tunnissa, yleensä 2-15 min aikana. Oireet muistuttavat aivoinfarktia, mutta ovat ohimeneviä.
+
+d: TIA lisää aivoinfarktiriskiä 10-kertaiseksi verrattuna normaaliväestöön.
+  </div>
+</div>
+
+### Kaulavaltimoahtauman operatiivinen hoito on indisoitu oireilevalla potilaalla, mikäli ahtauma on vähintään lievä eli 30-49 %
+
+- a. Oikein
+- b. Väärin
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+b
+
+---
+
+Jos potilas on sairastunut juuri AVH:n ja hänellä on kaulavaltimostenoosi, mutta ahtauman aste on alle 50 %, niin ensisijainen hoito on pelkkä lääkehoito ilman kirurgiaa. Kaulavaltimoahtauman operatiivisesta hoidosta on taas selkeää hyötyä potilaille, joilla on tuoreen TIA-oireen tai aivoinfarktin aiheuttanut samanpuoleinen tiukka >50% kaulavaltimoahtauma (hoitona ensisijaisesti endarterektomia 2vk sisällä). 
+  </div>
+</div>
+
+### TIA-kohtauksessa VÄÄRIN
+
+- a. Jos kohtauksesta on yli 2 vk, voi aloittaa estohoidon ja tehdä lähetteen neurologian poliklinikalle
+- b. Vaatii päivystyksellisiä tutkimuksia, mikäli tapahtuneesta alle 2 vk
+- c. Välitön tutkimus ja hoito vähentää aivoinfarktin riskiä merkittävästi
+- d. Sekundaaripreventioksi aloitetaan LMWH + dipyridamoli
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+d
+
+---
+
+Sekundaaripreventiona on ASA+dipyridamoli tai vaihtoehtoisesti klopidogreeli, sydänperäisen etiologian ollessa kyseessä AK-hoito
+
+![](images/avhetiologioidenlääkehoito.png)
+  </div>
+</div>
+
+### TIA-kohtauksen etiologisiin selvittelyihin kuuluu
+
+- a. Vaskulaaririskitekijöiden arviointi
+- b. Kaulasuonten TT-angio tai doppler-UÄ
+- c. EKG
+- d. Kaikki mainitut
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+d
+
+---
+
+EKG:lla etsitään pääasiassa eteisvärinää ja kaulasuonten kuvantamisella niiden ahtaumaa. 
+  </div>
+</div>
+
+### Aivoinfarktissa
+
+- a. Ensimmäiset oireet tulevat usein minuuttien kuluessa
+- b. Pysyvät vauriot syntyvät vasta yli vuorokauden kuluttua tukoksen synnystä
+- c. Tukoksen kestolla ei ole merkitystä pysyvään infarktin kokoon
+- d. Suurin osa tukoksista ilmenee vertebrobasilaarikierron alueella
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+a
+
+---
+
+Aivoinfarkteille on tyypillistä äkillisesti kehittyvät oireet
+
+b: Pysyvät vauriot kehittyvät tunneissa. 
+
+c: Mitä aiemmin tukos saadaan poistettua, sitä pienempi infarktoituneen alueen koko on ("time is brain")
+
+d: Suurin osa tukoksista on karotiskierron alueella. 
+
+  </div>
+</div>
+
+### SAV-potilaan hoitopaikkana toimii neurokirurgian vuodeosasto
+
+- a. Oikein
+- b. Väärin
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+b
+
+---
+
+SAV:n primaarivuodosta selvinnyt on välittömän uusintavuodon vaarassa, joten neurotehohoito on tarpeen. Mahdollisen aneurysman sulku tehdään yleensä viimeistään seuraavana päivänä.
+
+  </div>
+</div>
+
+### Kaula-/nikamavaltimon dissekaatioon liittyen VÄÄRIN:
+
+- a. Diagnosoidaan pään ja kaulasuonten CT/CTA:lla tai MRI/MRA:lla
+- b. Kirurginen hoito on tarpeen kaikille
+- c. Voi syntyä trauman seurauksena tai spontaanisti
+- d. Ennuste on hyvä, mikäli dissekaatio ei ehdi aiheuttaa distaalista embolisaatiota
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+b
+
+---
+
+Hoidetaan AK-hoidolla, mikä estää tukokseen liittyvän tromboosin etenemisen ja distaalisen embolisaation. Kirurginen tai endovaskulaarinen hoito erityistapauksissa.
+
+  </div>
+</div>
+
+### I.v. trombolyysi etukierron aivoinfarktissa voidaan tehdä, mikäli oireiden alusta on kulunut alle
+
+- a. 4.5 - 9 h
+- b. 48 h
+- c. 12 h
+- d. 24 h
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+a
+
+---
+
+I.v. trombolyysi on indisoitu, jos oireiden alusta on kulunut alle 4,5 h eikä ole kontraindikaatioita. I.v. trombolyysi voidaan antaa valikoiden 4,5 - 9 tunnin aikaikkunassa ja myös oireisina heränneille potilaille, mikäli perfuusio-CT:ssä ei todeta laajaa infarktia.
+
+b ja c: Poikkeuksena tyypillisiin aikaikkunoihin on kallonpohjavaltimon tukos (basilaaritromboosi), jossa annetaan liuotushoito, jos oireiden alusta on kulunut alle 12 tuntia (massiivinen oireisto) tai vaikeaksi etenevässä oireistossa alle 48 tuntia. Pidemmät rajat siksi, että basilaaritromboosin ennuste ilman rekanalisaatiota on todella huono (yli 90% kuolee).
+
+d: Tämä on trombektomian aikaikkuna
+
+![](images/avhkaavio.png)
+  </div>
+</div>
+
+### A. basilariksen tukoksessa aikaikkuna i.v. trombolyysille on alle:
+
+- a. 12 h
+- b. 4,5 h
+- c. 48 h
+- d. 24 h
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+c
+
+---
+
+Poikkeuksena tyypillisiin aikaikkunoihin on kallonpohjavaltimon tukos (basilaaritromboosi), jossa annetaan liuotushoito, jos oireiden alusta on kulunut alle 12 tuntia (massiivinen oireisto) tai vaikeaksi etenevässä oireistossa alle 48 tuntia. Pidemmät rajat siksi, että basilaaritromboosin ennuste ilman rekanalisaatiota on todella huono (yli 90% kuolee).
+
+![](images/kysbas.png)
+![](images/basilaaritukos.png)
+  </div>
+</div>
+
+### Sydänperäisen aivoembolian yleisin aiheuttaja on
+
+- a. Mekaaninen tekoläppä
+- b. Eteisvärinä
+- c. Dilatoiva kardiomyopatia
+- d. Sydäninfarkti
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+b
+
+---
+
+Periaatteessa kaikki voivat aiheuttaa trombien muodostumista ja siten embolisaatioita, mutta eteisvärinä on selvästi yleisin ja tärkein. 
+  </div>
+</div>
+
+### Dominantin hemisfäärin infarkti voi aiheuttaa globaalia afasiaa
+
+- a. Oikein
+- b. Väärin
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+a
+
+---
+
+Valtaosalla ihmisistä vasen aivopuolisko on dominantti kielellisten toimintojen osalta. Infarkti siellä voi siten aiheuttaa globaalia afasiaa eli sekä puheen tuottamisen (Brocan alue) että ymmärtämisen (Wernicken alue) häiriön. Yleensä taustalla on MCA:n laaja infarkti. 
+  </div>
+</div>
+
+### Mikä seuraavista EI ole aivoinfarktin liuotushoidon vasta-aihe
+
+- a. INR > 1.7
+- b. Kallonsisäinen verenvuoto
+- c. Potilaalla on käytössä klopidogreelilääkitys
+- d. Epäily endokardiitista
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+c
+
+---
+
+Käytössä oleva verihiutaleiden estolääkitys (kuten aspiriini tai klopidogreeli) ei ole liuotushoidon vasta-aihe. Taas aktiivinen AK-hoito on vasta-aihe. 
+
+a: INR mitataan yleensä vain, jos potilaalla on varfariini käytössä tai muuten epäillään hyytymishäiriötä. Jos varfariinin käyttäjällä on INR koholla, niin varfariini voidaan kumota (PCC+K-vitamiini) ja annostella liuotushoito. 
+
+b: Tämän poissulkemiseksi juuri otetaan pään TT ennen liutoushoitoa 
+
+d: Sydänläpän tulehdus (endokardiitti) voi aiheuttaa septisiä embolioita, jotka vaurioittavat suonen seinämää (mykoottiset aneurysmat). Näissä tilanteissa liuotushoitoon liittyy erittäin korkea aivoverenvuodon riski, ja siksi se on vasta-aihe.
+
+![](images/avhvasta-aiheet.png)
+  </div>
+</div>
+
+### Etukierron aivoinfarktissa alle 4,5 h aikaikkunassa sairaalaan saapuvista kaikille tehdään i.a. trombektomia
+
+- a. Oikein
+- b. Väärin
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+b
+
+---
+
+I.a. trombektomia tulee kyseeseen, mikäli potilaalla on proksimaalinen suonitukos eli ICA tai M1 ja M2 tukos ja i.v. trombolyysistä ei ole kliinistä tehoa (vain pieni osa proksimaalisista suonitukoksista aukeaa i.v. trombolyysillä) tai i.v. trombolyysille on kontraindikaatio.
+
+Trombektomian (MT) kriteerit aivoinfarktissa ovat seuraavat: 
+
+<li>Aikaikkuna 0-24h</li>
+<li>Akuutit suurten suonten oireiset tukokset TT- tai magneettiangiografiassa</li>
+<li>NIHSS >6 tai tapauskohtaisesti lievemmissäkin</li>
+<li>mRS 0-2 (aiempi toimintakyky korkeintaan lievästi rajoittunut)</li>
+<li>Ei vasta-aiheita (esim. liian laaja infarkti, jodiallergia, hoitoon soveltumaton anatomia)</li>
+
+![](images/infarktialgoritmi.png)
+
+  </div>
+</div>
+
+### Aivoinfarktin liuotushoito
+
+- a. Verenpaineen on oltava alle 185/100 mmHg
+- b. Oireisen aivoverenvuodon riski on noin 10 %
+- c. Tehoaa hyvin proksimaalisiin tukoksiin
+- d. Tehdään kaikille huolimatta siitä, olipa potilas ennestään omatoiminen tai ei
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+a
+
+---
+
+Systolinen verenpaine yli 185 tai diastolinen verenpaine yli 110, ellei verenpaineen alentaminen näihin rajoihin onnistu i.v. lääkkeillä, on merkattu relatiiviseksi vasta-aiheeksi liuotushoidolle. Yleisesti ottaen on kuitenkin syytä välttää koholla olevan verenpaineen merkittävää laskemista aivoinfarktin hoidon alkuvaiheessa, ellei ole syytä epäillä uhkaavaa elinvauriokomplikaatiota. Verenpainetta ei tule alentaa, jos ei olla liuottamassa potilasta ja verenpaine ei ylitä arvoa 220/120 mmHg. Jos taas liuotetaan niin tavoite on alle 185/110. Ensisijaisia verenpainelääkkeitä ovat labetaloli tai enalapriili i.v. 
+
+b: Oireisen ICH:n riski on noin 1-2 %.
+
+c: Liuotushoito tehoaa huonosti proksimaalisiin tukoksiin.
+
+d: Ennestään ei-omatoimisella potilaalla (mRS 3-5) liuotushoito on kontraindisoitu
+  </div>
+</div>
+
+### SAV:n diagnoosi perustuu ensisijaisesti
+
+- a. MRA:aan
+- b. Anamneesiin
+- c. TT-kuvaukseen
+- d. Likvornäytteeseen
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+c
+
+---
+
+Diagnoosi perustuu TT-kuvaukseen, jossa vuoto näkyy subaraknoidaalitilassa. TT-angiolla voidaan löytää mahdollinen vuotanut aneurysma. 
+
+a: MRA on paras sinustromboosin kuvantamistutkimus
+
+b: Anamneesi on tärkeä, mutta se ei ole suoraan diagnostinen 
+
+d: Jos TT on normaali tehdään tarvittaessa lumbaalipunktio, koska veren hemolyysin vuoksi pidemmän ajan kuluessa (6 -12 h) pään TT:ssä ei välttämättä enää erotu verta.
+  </div>
+</div>
+
+### Vertebrobasilaarialueen eli takakierron iskemiaan EI liity
+
+- a. Ataksia
+- b. Nielemisvaikeus
+- c. Neglect
+- d. Tajunnanhäiriö
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+c
+
+---
+
+Neglect liittyy yleensä etukierron iskemiaan
+
+a: Ataksia on tyypillistä takakierron iskemialle (affisioi helposti pikkuaivoja -> ataksia)
+
+b: Aivorungon alueen vaurio aiheuttaa bulbaarioireita, joista yleinen on dysfagia 
+
+d: Takakierron iskemiaan voi hyvinkin liittyä tajunnanhäiriö, mikäli kyseessä on a. basilariksen tukos. Aivorungossa sijaitsee vireyttä säätelevät laajat bilateraaliset verkostot, joista tärkein on ns. (A)RAS-systeemi (the (Ascending) Reticular Activating System). Tajunnan tilaa pystyy ylläpitämään vain toisen puolen toiminta -> fokaali korteksileesio tai vain toisen puolen talamuksen vaurio ei tyypillisesti johda tajuttomuuteen. Taas fokaali leesio esim. aivorungon tai alempien väliaivojen tasolla proksimaalisemmin järjestelmässä voi johtaa tajuttomuuteen anatomisen kompaktiuden takia. Leesion silti pitää siis yleensä affisioida molempia puolia esim. aivorungosta, mutta koska alue on niin kompakti, niin infarktit (esim. basilaristukos) ja kompressiot (esim. herniaatiosta) affisioivat aluetta bilateraalisesti
+
+  </div>
+</div>
+
+### Aivoinfarktin ja TIA:n estohoitona käytetään, kun etiologiana on pienten tai suurten suonien ateroskleroottinen tauti tai etiologia on epäselvä
+
+- a. ASA
+- b. ASA + dipyridamoli
+- c. DOAC
+- d. Varfariini
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+c
+
+---
+
+Ehkä yleisemmin kuitenkin klopidogreelia (Plavix).
+
+![](images/avhetiologioidenlääkehoito.png)
+  </div>
+</div>
+
+### Kaikki seuraavat ovat AVH:n riskitekijöitä; mikä näistä on merkittävin hoidettavissa oleva riskitekijä?
+
+- a. Dyslipidemia
+- b. Tupakointi
+- c. Verenpainetauti
+- d. Eteisvärinä
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+c
+
+---
+
+Kaikki näistä ovat tärkeitä riskitekijöitä, mutta verenpainetauti on tärkein. 20 mmHg korkeampaan systoliseen tai 10 mmHg korkeampaan diastoliseen verenpaineeseen liittyy keskimäärin aivohalvausriskin kaksinkertaistuminen. Suhde on nuorilla jyrkempi kuin vanhoilla. Suhde säilyy aina tasolle 115/75 mmHg saakka. Systolisen verenpaineen alentaminen 10 mmHg pienentää aivohalvausriskiä noin 35 %.
+
+![](images/avhriskitekijät.png)
+  </div>
+</div>
+
+### Mitä enemmän NIHSS -pisteitä aivoinfarktipotilas saa, sitä huonompi ennuste on
+
+- a. Väärin
+- b. Oikein
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+c
+
+---
+
+National Institute of Health Stroke Scale (NIHSS) on työkalu, jota käytetään arvioimaan AVH:n oirekuvaa ja vaikeusastetta. Sairastetun aivoinfarktin 13 keskeisintä oirealuetta pisteytetään ja summataan; 0 pistettä on normaali 
+
+![](images/nihsstaulukko.png)
+![](images/nihssohjeet.png)
+  </div>
+</div>
+
+### Yleisin sydänperäisen aivoinfarktin syy
+
+- a. Dilatoiva kardiomyopatia
+- b. Läppävegetaatio
+- c. Eteisvärinä
+- d. Sairastettu sydäninfarkti, joka johtaa kammion seinämän liikehäiriöön
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+c
+
+---
+
+Periaatteessa kaikki voivat embolisaation kautta aiheuttaa aivoinfarktin, mutta eteisvärinä on selvästi yleisin ja tärkein. 
+
+  </div>
+</div>
+
+### Stroke-TT kuvantamiseen kuuluu TT-angio, jonka avulla voidaan määrittää:
+
+- a. Onko potilaalla proksimaalinen valtimotukos
+- b. Onko potilaalla penumbraa
+- c. Onko potilaalla iskemia vai vuoto
+- d. Onko i.v. trombolyysi indisoitu
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+c
+
+---
+
+TT-angiolla määritetään kollateraalit ja onko osoitettavaa suonitukosta (joka voitaisiin mekaanisella trombiektomialla hoitaa). Parempi kollateraalikierto korreloi parempaan ennusteeseen.
+
+b: Tämä tehdään perfuusio-TT:llä
+
+c: Natiivi-TT:llä erotetaan iskemia ja vuoto. TT-perfuusiolla arvioidaan aivokudoksen tila.
+
+d: Liuotushoidon indikaatiot perustuvat mm. aikaikkunaan ja vasta-aiheisiin; natiivi-TT on tässä tärkeämpi, koska sillä poissuljetaan kallonsisäinen verenvuoto, joka on liuotuksen vasta-aihe
+  </div>
+</div>
+
+### Päivystykseen saapuu potilas, jolla todetaan CT:ssä aivoverenvuoto. Valitset aktiivisen hoitolinjan ja turvaat ensin peruselintoiminnot. Mitä sen jälkeen hoidoksi?
+
+- a. Liuotushoito alteplaasilla
+- b. AK-hoitoa saavilla hoidon kumoaminen
+- c. Annetaan FVIIa -hyytymistekijää
+- d. Päivystyksellinen leikkaus ja hematooman poisto
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+b
+
+---
+
+Esimerkiksi varfariinipotilailla hyytymistekijäkonsentraatti ja K-vitamiini. 
+
+a: Liuotushoito on aivoverenvuodoissa kontraindikoitu tietysti. Sitä käytetään iskeemisten infarktien hoitoon 
+
+c: FVIIa:sta ei ole näyttöä.
+
+d: Joskus leikkaushoito tarpeen, etenkin subkortikaalisessa vuodossa intrakraniaalisen massavaikutuksen vähentämiseksi. Yleensä kuitenkin ICH:t hoidetaan konservatiivisesti
+
+  </div>
+</div>
+
+### Aivovaltimotukoksen liuotus tapahtuu
+
+- a. LMWH:lla
+- b. Alteplaasilla
+- c. Rivaroksabaanilla
+- d. Reteplaasilla
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+b
+
+---
+
+tPA-analogit tenekteplaasi ja alteplaasi i.v. ovat ensisijaisia liuotuslääkkeitä aivoinfarkteissa. Tenekteplaasi (Metalyse) yleensä ensisijainen, koska nopeampi valmistella ja annetaan boluksena eikä vaadi infuusiota -> Tenekteplaasia käytettäessä siirto yliopistosairaalaan voidaan siis tehdä nopeammin kuin ennen. On myös monissa tutkimuksissa osoittautunut jopa tehokkaammaksi sekä on halvempi kuin alteplaasi (Actilyse); alteplaasi annostellaan lyhytkestoisen injektion lisäksi tunnin kestoisena infuusiona (alteplaasi-infuusion valmisteluun menee jonkin verran aikaa ja siksi alteplaasin lyhytkestoisen injektion ja infuusion aloittamisen väliin tulee yleensä viivettä) 
+
+tPA = Tissue Plasminogen Activator = kudosplasminogeenin aktivaattori. tPA muuttaa plasminogeenia plasmiiniksi; tPA on osa ihmisen normaalia fibrinolyysiä ja toteuttaa fibrinolyysin ensimmäisen vaiheen 
+
+Annokset: 
+
+<li>Tenekteplaasi boluksena 0,25 mg/kg</li>
+<li>Alteplaasia 0,9 mg/kg (kokonaisannos enintään 90 mg) perifeeriseen laskimoon 10 %:n boluksena ja loput yhden tunnin infuusiona</li>
+
+  </div>
+</div>
+
+### Vertebrobasilaarialueen eli takakierron iskemiaan EI liity
+
+- a. Afasia
+- b. Kaksoiskuvat
+- c. Eriasteiset halvausoireet
+- d. Huimaus
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+a
+
+---
+
+Jos takakierron iskemiassa on mukana puhehäiriö, niin se on usein dysartriaa, joka johtuu kielen ja nielun lihaksiston toimintahäiriöstä tai lihasten säätelyn häiriöstä. 
+
+Afasia liittyy etukierron iskemiaan ja erityisesti dominantin aivopuoliskon MCA-alueen infarkteihin 
+
+b: Kaksoiskuvia syntyy helposti aivorungon alueen vaurioissa, kun silmän liikkeitä säätelevät tumakkeet vaurioituvat
+
+c: Aivorungon kautta kulkevat kaikki raajojen liikkeitä säätelevät radat. Takakierron infarkti voi aiheuttaa jopa neliraajahalvauksen tai "locked-in" -oireyhtymän.
+
+d: Erityisesti pikkuaivoinfarkti tai aivorungon tasapainotumakkeiden iskemia aiheuttaa voimakasta kiertohuimausta ja tasapainohäiriöitä. Huimauksen yhteydessä on yleensä liitännäisoireita (aivorunkoinfarktissa aina, pikkuaivoinfarktissa useimmiten)
+  </div>
+</div>
+
+
+### SAV:n yleisin syy on
+
+- a. Aivovaltimoaneurysma
+- b. Trauma
+- c. Valtimosairauksien riskitekijät, erityisesti verenpainetauti ja tupakointi
+- d. AV-malformaatio
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+a (oikeasti b)
+
+---
+
+Primaarisen subaraknoidaalivuodon (ei-traumaattisen) selvästi yleisin aiheuttaja on aivovaltimoaneurysman puhkeaminen (n. 80% tapauksista). Mahdollisesti voi myös olla AV-malformaation tai muun verisuoniepämuodostaman (esim. kavernoottisen hemangiooman eli kavernooman tai arterivenoosin fistelin) vuoto (n. 5%). 
+
+Noin 10 %:ssa vuodoista ei ole neuroradiologisesti todettavaa syytä, jolloin angiografiatutkimus yleensä vielä uusitaan, mutta mikäli siinäkään ei syytä löydy, on kyseessä hyvän ennusteen perimesenkefaalinen vuoto. Non-aneurysmaattisen perimesenkefaalisen vuodon syy on toistaiseksi vielä tuntematon, mutta eri tutkimusten mukaan syyksi on epäilty muun muassa hyvin pienen aivovaltimon eli niin sanotun perforantin vuotoa tai laskimoperäistä vuotoa.
+
+b: Monissa lähteissä SAV:n yleisin aiheuttaja on trauma, mutta yleensä tenteissä halutaan, että tietää primaaristen subaraknoidaalivuotojen yleisimmän etiologian 
+  </div>
+</div>
+
+### Primaarisen ICH:n syynä on useimmiten
+
+- a. Valtimosairauksien riskitekijät, erityisesti verenpainetauti ja tupakointi
+- b. Aivoissa sijaitseva rakenteellinen tekijä esim. aneurysma
+- c. Huumeiden käyttö
+- d. AK-hoito tai antitromboottien käyttö
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+a
+
+---
+
+Hoitamaton verenpainetauti on ylivoimaisesti merkittävin primaarisen ICH:n aiheuttaja. Pitkäaikainen korkea verenpaine vaurioittaa aivojen syvien osien pieniä valtimoita, mikä tekee niiden seinämistä hauraita ja alttiita repeämiselle. Toinen yleinen syy on amyloidiangiopatia. 
+
+b, c: Sekundaarisen ICH:n taustalla 
+
+d: Myötävaikuttava tekijä ja riskitekijä, mutta ne eivät yleensä "aiheuta" vuotoa yksinään
+  </div>
+</div>
+
+### Eteisvärinä voi synnyttää vasempaan eteiskorvakkeeseen verihyytymän. Hyytymä ajautuu useimmiten aivojen etuverenkierron alueelle
+
+- a. Oikein
+- b. Väärin
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+a
+
+---
+
+Sydänperäinen embolia kulkee useimmiten carotis communikseen ja sieltä carotis internaan ja usein johonkin keskimmäisen aivovaltimon haaroista. Harvemmin takakierron alueelle.
+
+  </div>
+</div>
+
+## Epilepsia 
+
+### Nuoruusiän myoklonusepilepsiassa pitää paikkansa:
+
+- a. Lähes kaikilla on MRI:ssä poikkeavaa
+- b. Lähes kaikilla on tajuttomuus-kouristuskohtauksia
+- c. Lähes kaikilla epilepsialääkitys voidaan nopeasti lopettaa
+- d. Lähes kaikilla on poissaolokohtauksia
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+b
+
+---
+
+Nuoruusiän myokloninen epilepsia käsittää noin 4 % kaikista epilepsioista. Alkamisikä on 8–26 vuotta, mutta selvä alkamishuippu on todettavissa 12. ja 18. ikävuoden välillä. Myoklonisia nykäyksiä esiintyy joko yksittäisinä tai toistuvina tavallisesti yläraajojen ojentajalihaksissa tajunnan säilyessä normaalina. Nykinät esiintyvät etenkin aamuisin pian heräämisen jälkeen. Valvominen lisää kohtausriskiä. Neurologisessa tutkimuksessa ei tule poikkeavaa esiin.
+
+Myoklonioihin liittyy hyvin usein yleistyneitä tajuttomuus-kouristuskohtauksia, poissaolokohtauksia tai molempia. Tajuttomuus-kouristuskohtaukset ovat yleisimpiä ja lähes kaikilla (n. 90 %) potilaista ilmenee niitä. 
+
+a: Pään MRI on lähes poikkeuksetta normaali
+
+c: JME on luonteeltaan elinikäinen. Vaikka kohtaukset saadaan yleensä erittäin hyvin hallintaan lääkityksellä (esim. valproaatti tai levetirasetaami), kohtaukset uusiutuvat herkästi, jos lääkitys lopetetaan. Lääkehoito on useimmiten elinikäinen.
+  </div>
+</div>
+
+### Ohimolohkoepilepsia. Mikä seuraavista EI pidä paikkaansa?
+
+- a. Aivojen MRI on normaali
+- b. Kyseessä on paikallisalkuinen epilepsia
+- c. Alkaa yleisimmin lapsuudessa tai nuoruudessa
+- d. Voidaan hoitaa myös leikkauksella
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+a
+
+---
+
+Tavallisin symptomaattinen (rakenteellisesta syystä johtuva) tai kryptogeeninen paikallisalkuinen epilepsia on temporaali- eli ohimolohkoepilepsia. Ohimolohkoepilepsiassa MRI-kuvauksessa löytyy hyvin usein patologinen muutos. Tyypillisin löydös on hippokampusskleroosi (arpeutuminen ja kutistuminen, jonka taustalla voi mm. olla pitkittyneet kuumekouristukset lapsuudessa, aivoinfektiot tai status epilepticus), mutta syynä voi olla myös mm. hyvänlaatuinen kasvain, verisuoniepämuodostuma tai kortikaalinen dysplasia (kehityshäiriö).
+
+b: Potilaalla esiintyy tavallisimmin monimuotoisia paikallisalkuisia kohtauksia. Kohtauksen ennakkotuntemuksia esiintyy usein. Ohimolohkon sisäosista, amygdalasta ja hippokampuksesta, alkavissa kohtauksissa potilaalla on vaihtelevia subjektiivisia oireita, kuten epigastrinen aura (nouseva tuntemus ylävatsalta rintakehälle), déjà vu -elämys (ennen koetun tunne) ja pelon tai paniikin tunne. Jos kohtaukset alkavat ohimolohkon lateraaliosista tai operculum-alueelta, esiintyy näkö- tai kuuloharhoja, dysfasiaa, pään kääntymistä, toispuolisia tuntohäiriöitä tai haju-makuelämyksiä. 
+
+Ennakko-oireiden jälkeen ohimolohkoperäisissä kohtauksissa on tyypillistä toiminnan pysähtyminen, tuijotus ja tajunnan hämärtyminen. Kohtauksen aikana potilas ei pysty reagoimaan normaalisti ulkoisiin ärsykkeisiin eikä muista kohtauksen aikaisia tapahtumia. Kohtaukseen liittyvät olennaisesti automatismit, jotka ovat tahattomia, epätarkoituksenmukaisia liikkeitä tai liikesarjoja. Tavallisimmin automatismit ovat suun alueen mutristelua ja nieleskelyä, mutta oireet voivat olla myös varsin monimutkaisia liikesarjoja, esim. riisuuntumista tai pukeutumista. Osalla potilaista esiintyy myös toissijaisesti yleistyviä kohtauksia.
+
+c: Ohimolohkoepilepsia alkaa yleisimmin myöhäisessä lapsuusiässä ja nuoruusiällä, mutta se voi ilmaantua missä iässä tahansa. 
+
+d: Vaikean epilepsian hoidossa epilepsiakirurgialle vastaa parhaiten paikallisalkuinen ohimolohkoepilepsia, varsinkin hippokampusskleroosillinen. Amygdalohippokampektomia on tavallisin epilepsiakirurginen leikkaus. 
+  </div>
+</div>
+
+### Mikä seuraavista epilepsiatyypeistä on hankalahoitoisin?
+
+- a. Poissaoloepilepsia
+- b. Nuoruusiän myoklonusepilepsia
+- c. Unverricht-Lundborgin tauti
+- d. Lennox–Gastaut'n oireyhtymä
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+d
+
+---
+
+Lennox–Gastaut’n oireyhtymä (LGS) on vaikea, lapsuudessa (<8v) alkava epilepsiaoireyhtymä. EEG:ssä usein havaittavissa sekä fokaalisia purkaumia että yleistynyttä piikkiaktiivisuutta -> Potilaalla siis esiintyy paikallisalkuisia kohtauksia että suoraan yleistyviä kohtauksia. **Voivat johtaa kognitiivisen kyvyn taantumiseen (epileptiseen enkefalopatiaan).** Lennox-Gastaut’n oireyhtymän ennuste on usein heikko, koska epilepsian hyvän hoitotasapainon saavuttaminen voi olla vaikeaa ja toistuvat epilepsiakohtaukset heikentävät kognitiivisia taitoja. Arvioidaan, että noin 5 % lapsista menehtyy oireyhtymään ennen kymmentä ikävuottaan. 
+
+
+a: Ennuste on yleensä erinomainen. Kohtaukset reagoivat hyvin lääkitykseen (esim. etosuksimidi), ja suuri osa lapsista paranee sairaudesta kokonaan murrosikään mennessä.
+
+b: Nuoruusiän myoklonusepilepsia vastaa yleensä hyvin lääkkeisiin, vaikka lääkitys on usein elinikäinen
+
+c: Myokloniset kohtaukset liittyvät yleisimmin nuoruusiän myoklonusepilepsiaan (JME) tai progressiiviseen myoklonusepilepsiaan (PME). Suomessa tavallisin progressiivinen myoklonusepilepsia (PME) on autosomissa peittyvästi periytyvä Unverricht–Lundborgin tyyppi. PME on juveniilia harvinaisempi ja vaikeammin kontrolloitavissam koska se on neurodegeneratiivinen ja etenevä; hoitovasteet täten yleensä huonompia. Kohtaushoidossa on kuitenkin saavutettu kohtalaisia tuloksia, eikä se yleensä aiheuta yhtä varhaista ja vaikeaa kognitiivista romahdusta kuin Lennox–Gastaut
+  </div>
+</div>
+
+### Potilas saa kouristuskohtauksen, anamneesissa runsasta alkoholinkäyttöä, missä tilanteessa tarvitaan neurologin konsultaatiota?
+
+- a. Neurologin konsultaatio tarvitaan aina kaikista kouristaneista potilaista
+- b. Ei koskaan tarvita, potilas kuuluu päihdehuollon piiriin
+- c. Aina mikäli anamneesissa on aikaisempia alkoholiin liittyviä kouristuskohtauksia
+- d. Aina mikäli kyseessä on ensimmäinen kouristuskohtaus
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+d
+
+---
+
+Ensimmäinen kouristus kuuluu aina päivystykseen ja yleensä neurologisiin selvityksiin, vaikka taustalla olisikin epäily runsaasta alkoholinkäytöstä tai muusta altisteesta. 
+
+a: Jos potilas on tunnettu epilepsiapotilas tai hänellä on toistuvia, aiemmin selvitettyjä vieroituskouristuksia, joiden syy tiedetään ja tilanne on vakiintunut, jokainen yksittäinen kohtaus ei välttämättä vaadi neurologin konsultaatiota
+
+b: Alkoholiongelma ei poissulje muita kouristuksen syitä. 
+
+c: Jos kohtaukset ovat toistuvia ja niiden syy on jo aiemmin tutkittu ja todettu alkoholiin liittyväksi, uusi konsultaatio ei ole automaattisesti välttämätön, ellei kohtauksen luonne muutu
+  </div>
+</div>
+
+### Mikä seuraavista EI ole epilepsialääkityksen tyypillinen haittavaikutus?
+
+- a. Neutropenia
+- b. Anemia
+- c. Trombosytopenia
+- d. Hyponatremia
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+b
+
+---
+
+Vaikka lähes mikä tahansa lääke voi harvinaisissa tapauksissa vaikuttaa verenkuvaan, anemia ei ole epilepsialääkkeiden yleisesti valvottava haittavaikutus. Sen sijaan muut vaihtoehdot ovat klassisia ja tunnettuja tiettyjen epilepsialääkkeiden sivuvaikutuksia. Karbamatsepiini kyllä voi myös aiheuttaa aplastista anemiaa, mutta harvinaisemmin. 
+
+a: Erityisesti karbamatsepiini voi aiheuttaa valkosolujen, erityisesti neutrofiilien, määrän laskua. Lievempi leukopenia on aika yleistä (osin annoksesta riippuva ja usein reversiibeli), mutta hoito on lopetettava, jos neutrofiilit ovat alle 1 × 109/l (agranulosytoosi). 
+
+c: Valproaatti on tunnettu siitä, että se voi laskea verihiutaleiden määrää
+
+d: Tämä on tyypillinen haittavaikutus karbamatsepiinilla ja erityisesti okskarbatsepiinilla; aiheuttavat SIADH ja sitä kautta hyponatremian
+  </div>
+</div>
+
+### Kuinka pitkä ryhmän 1 ajokielto on yksittäisen kouristuskohtauksen jälkeen, mikäli epilepsiaa ei todeta?
+
+- a. 3 kk
+- b. 1 kk
+- c. 1 v.
+- d. 6 kk
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+a
+
+---
+
+Ensimmäisen kohtauksen jälkeen määrätään ajokieltoon (R1 3kk, R2 5v) heti. Tutkimukset kyllä vielä jatkuvat poliklinikalla kotiutumisen jälkeen, mutta potilas määrätään ajokieltoon jo päivystyksessä. 
+
+Jos diagnosoidaan epilepsia tai todetaan 2 epileptistä kohtausta alle 3v. sisään:
+
+<li>R1-ajokielto vähintään 1v, ajoluvan palautukseen vaaditaan 1v. kohtauksettomuus</li>
+<li>R2-ajokielto käytännössä pysyvä (virallisesti väh. 10v kohtaukseton ilman lääkitystä -> voi miettiä kiellon poistoa)</li>
+
+  </div>
+</div>
+
+### Missä tapauksessa kiireellinen lähete erikoissairaanhoitoon riittää?
+
+- a. Pitkittynyt kohtaus
+- b. Yksittäinen ohimennyt kohtaus, ilman yleisoireita
+- c. Useita kohtauksia saman vuorokauden aikana
+- d. Poikkeava neurologinen status
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+b
+
+---
+
+Jos kohtausoire sopii epileptiseksi ja potilas on tk-arviossa samana päivänä -> päivystyslähete ESH-arvioon (elämänsä ensimmäisen epileptiformisen kohtauksen saaneet arvioidaan pääsääntöisesti päivystyksessä)
+
+Jos potilas on hakeutunut arvioon vasta päivien kuluttua kohtauksesta ja neurologinen status normaali -> 1-7 vrk lähete neurologialle; muista asettaa potilas ajokieltoon! 
+
+a: Pitkittynyt kohtaus (>5min) on uhkaava status epilepticus -uhka. Se on hengenvaarallinen hätätilanne, joka vaatii välitöntä ensihoitoa ja sairaalahoitoa kohtauksen katkaisemiseksi.
+
+c: Sarjoittaiset kohtaukset viittaavat herkkään aivotoimintaan ja korkeaan riskiin status epilepticukseen. Potilas tarvitsee päivystyksellistä lääkehoidon aloitusta tai tehostamista.
+
+d: Varsinkin jos kohtauksen jälkeen potilaalle jää pitkittyviä neurologisia puutoksia (esim. halvausoire, puhehäiriö tai jatkuva sekavuus), on välittömästi suljettava pois aivoverenkiertohäiriö, verenvuoto tai muu akuutti aivovaurio päivystyksellisellä kuvantamisella (TT/MRI). Epilepsia voi kylläkin aiheuttaa postiktaalisesti halvausoireita (Toddin pareesi; kohtauksenaikainen voimakas lihastoiminta tietyssä raajassa johtaa sen heikkouteen kohtauksen jälkeen, kun sitä säätelevät neuronit väsyvät kohtauksen aikana). 
+  </div>
+</div>
+
+### Voiko epilepsiaa sairastava tehdä vuorotyötä?
+
+- a. Kyllä
+- b. Ei
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+a
+
+---
+
+Vaikka vuorotyö on epilepsiaa sairastavalle haasteellista, se ei ole ehdoton este. Asiaa tarkastellaan aina yksilöllisesti potilaan kohtaustyypin, lääkevasteen ja työnkuvan mukaan.
+  </div>
+</div>
+
+### Mikä seuraavista EI tyypillisesti liity epilepsiaan?
+
+- a. Sosiaalisen toimintakyvyn heikkeneminen
+- b. Muistin heikkeneminen
+- c. Kognition alenema
+- d. Päänsärky
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+d
+
+---
+
+Vaikka päänsärky on erittäin yleinen vaiva ja sitä voi esiintyä kouristuskohtauksen jälkeen (ns. postiktaalinen päänsärky), se ei ole epilepsian tyypillinen liitännäissairaus tai sairauden pitkäaikaisvaikutus samalla tavalla kuin muut listatut vaihtoehdot
+
+a: Voi johtua sairauteen liittyvästä stigmasta, ajokielloista, rajoituksista työelämässä tai liitännäissairauksista, kuten masennuksesta ja ahdistuksesta
+
+b: Erityisesti ohimolohkoepilepsia vaurioittaa usein hippokampusta, joka on keskeinen alue uusien asioiden mieleenpainamisessa; ohimolohkoepilepsia voi myös johtua hippokampusvaurioista. 
+
+c: Pitkäkestoinen tai huonossa hoitotasapainossa oleva epilepsia voi johtaa kognitiivisten toimintojen hidastumiseen
+  </div>
+</div>
+
+### Kuinka pitkä ryhmän 1 ajokielto (kohtauksetonta aikaa) on epilepsian diagnosoimisen jälkeen?
+
+- a. 1 v.
+- b. 3 kk
+- c. 1 kk
+- d. 6 kk
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+a
+
+---
+
+Ensimmäisen kohtauksen jälkeen määrätään ajokieltoon (R1 3kk, R2 5v) heti. Tutkimukset kyllä vielä jatkuvat poliklinikalla kotiutumisen jälkeen, mutta potilas määrätään ajokieltoon jo päivystyksessä. 
+
+Jos diagnosoidaan epilepsia tai todetaan 2 epileptistä kohtausta alle 3v. sisään:
+
+<li>R1-ajokielto vähintään 1v, ajoluvan palautukseen vaaditaan 1v. kohtauksettomuus</li>
+<li>R2-ajokielto käytännössä pysyvä (virallisesti väh. 10v kohtaukseton ilman lääkitystä -> voi miettiä kiellon poistoa)</li>
+
+  </div>
+</div>
+
+### Epilepsian lääkehoidossa pitää paikkansa:
+
+- a. Kaikki potilaat reagoivat hyvin lääkitykselle
+- b. N. 50% saa hyvän vasteen ensimmäisenä aloitetusta lääkkeestä
+- c. Harva potilas saadaan täysin kohtauksettomaksi
+- d. N. 50% potilaista on hoitoresistenttejä
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+b
+
+---
+
+Nykyään 70-80%:lla potilaista kohtaukset loppuvat tai ne saadaan hallittua tyydyttävästi lääkityksellä (ei aina siis ensimmäisellä, vaan voidaan ehkä kokeilla toisiakin lääkkeitä tarvittaessa). 20-30%:lla epilepsiapotilaista kohtaukset ovat kuitenkin vaikeahoitoisia
+  </div>
+</div>
+
+### Mitä laboratoriokokeita epilepsiapotilailla seurataan?
+
+- a. S-Na okskarbatsepiinin käyttäjiltä
+- b. PVK ja ALAT 3 kk välein osalta
+- c. PVK ja ALAT kaikilta kerran vuodessa
+- d. S-Na valproaatin käyttäjiltä
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+a
+
+---
+
+Okskarbatsepiini (ja karbamatsepiini) voivat aiheuttaa haittavaikutuksena hyponatremiaa johtuen niiden indusoimasta SIADH:sta. 
+
+b ja c: Nykyiset hoitosuositukset ovat siirtyneet pois rutiininomaisesta "kaikilta peruskokeet" seurannasta. Laboratoriokokeita seurataan nykyään yksilöllisesti käytössä olevan lääkkeen haittavaikutusprofiilin mukaan.
+
+d: Valproaatin käyttäjiltä seurataan yleensä PVK:ta (verihiutaleet) ja maksa-arvoja (ALAT), mutta se ei tyypillisesti vaikuta natriumtasoon
+
+  </div>
+</div>
+
+### Kuinka pitkä ryhmän 2 ajokielto on yksittäisen kouristuskohtauksen jälkeen, mikäli epilepsiaa ei todeta?
+
+- a. 1 v.
+- b. 3 v.
+- c. 2 v.
+- d. 5 v.
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+d
+
+---
+
+Ensimmäisen kohtauksen jälkeen määrätään ajokieltoon (R1 3kk, R2 5v) heti. Tutkimukset kyllä vielä jatkuvat poliklinikalla kotiutumisen jälkeen, mutta potilas määrätään ajokieltoon jo päivystyksessä. 
+
+Jos diagnosoidaan epilepsia tai todetaan 2 epileptistä kohtausta alle 3v. sisään:
+
+<li>R1-ajokielto vähintään 1v, ajoluvan palautukseen vaaditaan 1v. kohtauksettomuus</li>
+<li>R2-ajokielto käytännössä pysyvä (virallisesti väh. 10v kohtaukseton ilman lääkitystä -> voi miettiä kiellon poistoa)</li>
+
+  </div>
+</div>
+
+### Miten epilepsialääkityksen tehoa yleensä aikuisilla seurataan?
+
+- a. Seurataan lääkeainepitoisuutta kaikilta karbamatsepiinia käyttäviltä 1x/vuosi
+- b. Seurataan lääkeainepitoisuutta kaikilta valproaattia käyttäviltä 1x/vuosi
+- c. Tehoa seurataan ensisijaisesti kohtaustilanteen perusteella kaikilla
+- d. Tehoa seurataan ensisijaisesti lääkeainepitoisuuden ja kohtaustilanteen perusteella kaikilla
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+c
+
+---
+
+Epilepsialääkityksen tehoa seurataan ensisijaisesti kohtaustilanteen perusteella. Tavoite epilepsian hoidossa on kohtauksettomuus ilman merkittäviä lääkityksen haittavaikutuksia. 
+
+a, b, d: Erityistilanteissa voidaan käyttää lääkepitoisuuksien mittaamista (mikäli saatavilla) esimerkiksi lääkekomplianssia arvioitaessa tai epäiltäessä lääkeyhteisvaikutuksia. Rutiinisti sitä ei kuitenkaan tarvita.
+
+  </div>
+</div>
+
+### Kuinka pitkä ryhmän 2 ajokielto (kohtauksetonta aikaa) on epilepsian diagnosoimisen jälkeen?
+
+- a. 3 v. kohtaukseton lääkityksen purun jälkeen
+- b. Pysyvä
+- c. 5 v. kohtaukseton lääkityksen purun jälkeen
+- d. 10 v. kohtaukseton lääkityksen purun jälkeen
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+d
+
+---
+
+Ensimmäisen kohtauksen jälkeen määrätään ajokieltoon (R1 3kk, R2 5v) heti. Tutkimukset kyllä vielä jatkuvat poliklinikalla kotiutumisen jälkeen, mutta potilas määrätään ajokieltoon jo päivystyksessä. 
+
+Jos diagnosoidaan epilepsia tai todetaan 2 epileptistä kohtausta alle 3v. sisään:
+
+<li>R1-ajokielto vähintään 1v, ajoluvan palautukseen vaaditaan 1v. kohtauksettomuus</li>
+<li>R2-ajokielto käytännössä pysyvä (virallisesti väh. 10v kohtaukseton ilman lääkitystä -> voi miettiä kiellon poistoa)</li>
+
+  </div>
+</div>
+
+### Mikä seuraavista ei todennäköisesti aiheuta epilepsiaa?
+
+- a. Kavernooma
+- b. Aivokasvain
+- c. Sinustromboosi
+- d. Alzheimerin tauti
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+c
+
+---
+
+Periaatteessa kaikki näistä voivat olla epileptisen kohtauksen taustalla, mutta yksittäinen epileptinen kohtaus ei tarkoita epilepsiaa suoraan. Sinustromboosi on akuutti sairaus ja voi aiheuttaa kouristuskohtauksia akuutissa vaiheessa (jopa 40 %:lla potilaista), mutta ne luokitellaan usein "akuuteiksi symptomaattisiksi kohtauksiksi". Jos itse tukos saadaan hoidettua ja aivokudos ei vaurioidu pysyvästi (infarkti tai verenvuoto), potilaalle ei yleensä kehity kroonista epilepsiaa.
+
+a: Verisuoniepämuodostuma, joka vuotaa usein pieniä määriä verta ympäröivään kudokseen. Veren hajoamistuotteet (kuten hemosideriini) ärsyttävät aivokuorta ja aiheuttavat erittäin herkästi epilepsian.
+
+b: Kasvaimet ovat tyypillinen aikuisiällä alkavan epilepsian syy. Noin 30–50 %:lla potilaista ensimmäinen merkki kasvaimesta on uusi, aikuisiällä alkava paikallisalkuinen epileptinen kohtaus (voi yleistyä tajuttomuus-kouristuskohtaukseksi). Nyrkkisääntö: Aikuisiällä alkava paikallisalkuinen epilepsia johtuu aivokasvaimesta kunnes toisin todistettu
+
+d: Hermosolujen rappeutuminen ja amyloidiplakit muuttavat aivokuoren sähköistä tasapainoa, ja Alzheimer-potilailla on noin 6–10-kertainen riski sairastua epilepsiaan muuhun väestöön verrattuna
+  </div>
+</div>
+
+### Ensiapu epilepsiakohtauksesssa: Mitä EN tee?
+
+- a. Asetan potilaan kylkiasentoon
+- b. Rauhoittelen potilasta pitämällä hänestä kiinni
+- c. Soitan 112
+- d. Huolehdin ettei potilas vahingoita itseään
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+b
+
+---
+
+Kouristavaa potilasta ei saa yrittää estää liikkumasta tai pitää väkisin paikallaan. Kouristus ei lopu kiinni pitämällä. 
+
+a: Tämä tehdään heti, kun kouristukset helpottavat. Kylkiasento turvaa ilmatiehyet ja estää mahdollista oksennusta tai sylkeä joutumasta keuhkoihin.
+
+c: 112 ei aina tarvita, jos potilaalla on tunnetusti epilepsia ja kohtaus ei pitkity, toistu ja potilas ei loukkaa itseään 
+
+d: Pään suojaaminen esim. tyynyllä on järkevää
+  </div>
+</div>
+
+### Mistä epileptinen kohtaus johtuu?
+
+- a. Aivojen välittäjäaineiden liiallinen vapautuminen
+- b. Aivojen verenkierron häiriö
+- c. Aivojen välittäjäaineiden vajavainen vapautuminen
+- d. Aivojen sähkötoiminnan häiriö
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+d
+
+---
+
+Epileptinen kohtaus tarkoittaa poikkeavan purkauksellisen aivosähkötoiminnan seurauksena ilmenevää ohimenevää aivotoiminnan häiriötä. 
+  </div>
+</div>
+
+### Ryhmän 1 ajokortin hallitsijalla alkoholin käyttöön liittyvän ensimmäisen kouristuksen jälkeen ajo-oikeus voidaan palauttaa:
+
+- a. 1 kk kohtauksettomuuden jälkeen
+- b. 1 kk kohtauksettomuuden ja päihteettömyyden jälkeen
+- c. 3 kk kohtauksettomuuden ja päihteettömyyden jälkeen
+- d. 3 kk kohtauksettomuuden ja todennetun päihteettömyyden jälkeen
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+d
+
+---
+
+Alkoholilla ei ole vaikutusta siihen, miten ajokieltoja määrätään epileptisistä kohtauksista. 
+
+Ensimmäisen kohtauksen jälkeen määrätään ajokieltoon (R1 3kk, R2 5v) heti. Tutkimukset kyllä vielä jatkuvat poliklinikalla kotiutumisen jälkeen, mutta potilas määrätään ajokieltoon jo päivystyksessä. 
+
+![](images/epilepsiaajokielto.png)
+  </div>
+</div>
+
+### Mitä on muistettava epilepsiapotilaan raskaudenehkäisyä suunniteltaessa?
+
+- a. Kierukka ei ole hyvä vaihtoehto epilepsiapotilaalle
+- b. Yhdistelmäehkäisy ei sovi käytettäväksi
+- c. Progestiiniehkäisy ei sovi käytettäväksi
+- d. Epilepsialääkkeet voivat heikentää ehkäisyvalmisteiden tehoa
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+d
+
+---
+
+Monet vanhemmat epilepsialääkkeet (kuten karbamatsepiini, fenytoiini ja okskarbatsepiini) kiihdyttävät maksan entsyymitoimintaa (erityisesti sytokromi P450 -järjestelmää). Tämä johtaa siihen, että ehkäisyvalmisteiden hormonit (estrogeeni ja progestiini) pilkkoutuvat elimistössä tavallista nopeammin, jolloin niiden pitoisuus veressä laskee ja ehkäisyteho pettää. Tässä yhteisvaikutus toimii myös toisinpäin: ehkäisypillereiden estrogeeni voi laskea lamotrigiinin pitoisuutta veressä jopa puoleen, mikä voi laukaista kouristuskohtauksia.
+
+a: Päinvastoin, hormonikierukka tai kuparikierukka ovat usein parhaita vaihtoehtoja epilepsiaa sairastavalle. Niiden teho on paikallinen, eivätkä maksan entsyymejä indusoivat lääkkeet yleensä heikennä niiden ehkäisytehoa merkittävästi.
+
+b ja c: Ne sopivat käytettäväksi, mutta tulee olla tarkka lääkeinteraktioiden kanssa
+  </div>
+</div>
