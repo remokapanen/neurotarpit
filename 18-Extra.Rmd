@@ -1530,3 +1530,2124 @@ a: Päinvastoin, hormonikierukka tai kuparikierukka ovat usein parhaita vaihtoeh
 b ja c: Ne sopivat käytettäväksi, mutta tulee olla tarkka lääkeinteraktioiden kanssa
   </div>
 </div>
+
+### Milloin epilepsian leikkaushoitoa tulisi harkita?
+
+- a. Vaikeahoitoinen yleistynyt epilepsia
+- b. 1 v. päästä siitä, kun kohtauksia on alkanut esiintyä toistuvasti
+- c. Potilas kokee lääkehoidon hankalaksi
+- d. Vaikeahoitoinen paikallisalkuinen epilepsia
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+d
+
+---
+
+Leikkaushoito perustuu siihen, että se aivokudoksen osa, josta kohtaukset saavat alkunsa, voidaan poistaa tai eristää. Siksi paikallisalkuinen epilepsia, kuten ohimolohkoepilepsia, on paras ehdokas kirurgialle. 
+
+Vaikean epilepsian hoidossa voidaan invasiivisina hoitoina harkita epilepsiakirurgiaa tai stimulaatiohoitoja. Vaikea epilepsia tarkoittaa tilaa, jossa asianmukaisesta lääkehoidosta huolimatta esiintyy merkittäviä arkielämää haittaavia epilepsiaan liittyviä oireita. (Asianmukaisella hoidolla = kahdella kohtaustyypin tai oireyhtymän mukaan valitulla ja riittävinä annoksina käytetyllä lääkityksellä (ainoana lääkkeenä tai yhdistelmälääkityksenä) EI ole saavutettu kohtauksettomuutta)
+
+a: Jos sähköhäiriö alkaa samanaikaisesti molemmilta aivopuoliskoilta, ei ole olemassa yhtä poistettavaa kohdetta -> leikkaus ei yleensä tule kysymykseen 
+
+b: Mitään kiinteää aikarajaa ei ole; tärkeämpää on, että on kokeiltu lääkehoitoja ja todettu ne riittämättömiksi
+
+c: Pelkkä lääkehoidon kokeminen hankalaksi (esim. annostelun muistaminen tai lievät sivuvaikutukset) ei ole peruste aivoihin kohdistuvalle leikkaukselle, jos lääkkeet kuitenkin pitävät kohtaukset poissa
+  </div>
+</div>
+
+### Mikä seuraavista EI ole valproaatin aiheuttama sikiöhäiriö?
+
+- a. Huuli-suulakihalkio
+- b. Oppimiskyvyn häiriöt
+- c. Spina bifida
+- d. Hammaskiilteen vauriot
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+d
+
+---
+
+Valproaatti on yleensä ensisijainen lääkevaihtoehto yleistyneissä epilepsioissa. Sillä on kuitenkin tunnetusti teratogeenisia vaikutuksia ja sen käyttöä hedelmällisessä iässä olevilla naisilla vältetäänkin nykyään aina, kun se on mahdollista. Hammaskiilteen vauriot eivät kuitenkaan ole tyypillinen tai tunnettu osa valproaattialtistukseen liittyvää oireistoa.
+
+a: Rakennepoikkeavuudet, kuten huuli-suulakihalkiot, raajojen epämuodostumat ja sydänviat ovat yleisiä 
+
+b: Valproaatille kohdussa altistuneilla lapsilla on todettu merkittävästi enemmän oppimisvaikeuksia, alhaisempi älykkyysosamäärä sekä suurentunut riski autismikirjon häiriöihin
+
+c: Valproaatti häiritsee folaattiaineenvaihduntaa, mikä nostaa merkittävästi hermostoputken sulkeutumishäiriöiden riskiä
+  </div>
+</div>
+
+## Huimaus 
+
+### Proprioseptisen eli asentotuntoinformaation häiriössä huimaus on yleensä kiertävää eli karusellimaista
+
+- a. Väärin
+- b. Oikein
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+a
+
+---
+
+Potilaan kuvaus huimauksen laadusta on yleensä epäluotettava eikä siihen voi perustaa kliinistä päättelyään liikaa. On kuitenkin hyvä tiedostaa, mistä tyypillisimmät huimauksen kuvaukset oppikirjamaisesti johtuvat. 
+
+Karusellimainen kiertohuimaus on tyypillinen oire vestibulaarijärjestelmän häiriössä. Proprioseptisen informaation häiriössä kuten niska- ja hartiaseudun jännitystiloissa huimaus on yleensä keinuttavaa (”laivankansimaista”) tai heittävää huimausta. Proprioseptinen huimaus korostuu erityisesti pimeässä tai silmien ollessa kiinni (positiivinen Rombergin koe), koska tällöin potilas ei voi korvata puuttuvaa asentotuntoa näköaistin avulla.
+
+  </div>
+</div>
+
+### Molemminpuoleisen tasapainoelimen vajaatoiminnan löydöksenä EI ole:
+
+- a. Oskillopsia (=näkökentän liikkuminen)
+- b. Tasapainovaikeudet
+- c. Kiertohuimaus
+- d. Näön epätarkkuus yhtä aikaa pään liikkuessa
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+c
+
+---
+
+Kiertohuimaus syntyy, kun tasapainojärjestelmä on toispuoleisesti epätasapainossa. Jos molemmat tasapainoelimet ovat vioittuneet samanaikaisesti tai tasaisesti (bilateraalinen vestibulopatia), aivot eivät saa ristiriitaista pyörimisviestiä, joten varsinaista karusellimaista huimausta ei esiinny.
+
+Molemminpuolinen tasapainoelinten toiminnanvajaus on melko harvinainen mutta mahdollinen huimauspotilaan oireiden syy. Syitä molempien tasapainoelinten toiminnan sammumiseen on monia (esim. ototoksiset lääkkeet, infektiot, autoimmuunisairaudet, geneettiset syyt, CANVAS), ja arviolta 50 %:ssa tapauksista syy jää epäselväksi. Diagnoosin teko ei ole aina helppoa tai yksiselitteistä. Oirekuva vaihtelee sen mukaan, missä elämänvaiheessa ja miten nopeasti tai hitaasti vaurio on kehittynyt. Nuoret pystyvät melko hyvin kompensoimaan vauriota käyttämällä muita aistejaan, kuten asento- ja liike- sekä näköaistiaan. Varsinkin lapsilla aivojen muovautuvuus korvaa paljon tasapainoelimen toiminnan puuttumisesta, tosin ongelmia ilmenee pään nopeitten kiertoliikkeiden aikana sekä pimeässä. Iäkkäämmille potilaille vaurio voi aiheuttaa vaikeita ongelmia.
+
+Idiopaattiseen molemminpuoliseen tasapainoelinten vaurioon ei ole spesifistä hoitoa. Vaurion kehittymistä voivat edeltää kiertohuimauskohtaukset, jotka vaurion edetessä loppuvat. Tasapainon kuntoutus ja liikkuminen ylläpitävät toimintakykyä, ja spontaania paranemista tavataan harvoin. 
+
+a: Oskillopsia tarkoittaa, että potilaat kokevat näköaistimuksen epävakauden tai liikkeen tunnetta, ikään kuin ympäristön esineet liikkuisivat edestakaisin. Oskillopsiasta kärsivien henkilöiden on varsinkin kävellessään ja juostessaan tyypillisesti vaikeaa tunnistaa esimerkiksi vastaantulijan kasvoja tai liikennemerkkejä. Tuntuu kuin katsoisi maailmaa tärisevän kameran läpi. Tämä johtuu siitä, että silmiä stabiloiva vestibulaariheijaste (VOR) puuttuu -> näkökenttä "hyppii" tai tärisee potilaan liikkuessa (esim. kävellessä). Voi ilmentyä paikallaankin ollessa
+
+b: Potilaat kärsivät huomattavasta epävarmuudesta ja horjuvuudesta erityisesti hämärässä tai epätasaisella alustalla
+
+d: Tämä johtuu samasta syystä kuin oskillopsia
+  </div>
+</div>
+
+### Vestibulaarineuroniitissa:
+
+- a. Kohtaukset ovat tyypillisesti uusiutuvia
+- b. Oireisto alkaa yleensä äkillisesti
+- c. Oireisto kestää muutamia tunteja
+- d. Aiheuttajana on välikorvan tulehdus
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+b
+
+---
+
+Vestibulaarineuroniitin tarkka etiologia on tuntematon. Ylemmän tasapainohermohaaran turvotus ja pinnetila ahtaassa luukanavassaan jonkin laukaisevan tekijän takia on yksi patofysiologinen hypoteesi. Taustalla usein ollut muutama viikko edeltävästi ylähengitystievirusinfektio. 
+
+Oireisto alkaa yleensä nopeasti ja hankala huimaus kestää 1-2 viikon ajan, minkä jälkeen lievää tasapainovaikeutta voi jatkua vielä pidempään. Huimaus on tyypiltään jatkuvaa, ei kohtauksellista kuten BPPV:ssä. 
+
+Paranee itsestään, mutta joskus hoidossa voidaan käyttää kortikosteroideja. Pääasiassa hoito on oireenmukaista (annetaan tilanteen mukaan mm. pahoinvointilääkettä ja suonensisäisiä nesteitä)
+
+a: Kohtaus on yleensä kertaluonteinen eikä uusiudu. 
+
+d: Kyseessä on vestibulaarihermon tulehdus
+  </div>
+</div>
+
+### Kroonisen tensionaalisen huimauksen hoitoon kuuluu:
+
+- a. Amitriptyliini
+- b. Liikunta
+- c. Altistavien tekijöiden hoito
+- d. Kaikki mainitut
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+d
+
+---
+
+Kroonisen tensionaalisen huimauksen hoitoon kuuluu säännöllinen liikunta ja tarvittaessa niska-hartiaseudun fysioterapia. Hoitoon kuuluu myös altistavien tekijöiden hoito kuten työergometrian tarkistus, purenta- ja näköongelmien hoito. Lääkehoitona voidaan käyttää estohoitona amitriptyliiniä tai nortriptyliiniä ja titsanidiinia kuuriluontoisesti/tarvittaessa.
+
+  </div>
+</div>
+
+### Menieren tautiin EI liity:
+
+- a. Pullottava tärykalvo
+- b. Kuulonalenema
+- c. Tinnitus
+- d. Paineen tunne korvassa
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+a
+
+---
+
+Ménièren tauti = idiopaattinen endolymfaattinen hydrops; tasapainoelimen nestetilojen, peri- ja endolymfan ionipitoisuuksien ja määrien ajatellaan häiriintyvän ja sen seurauksena tasapainoelimen toiminta häiriintyy kohtauksellisesti. 
+
+Ménièren taudin diagnoosi perustuu kliiniseen kuvaan. Tyypilliset oireet ovat 4H:ta
+
+<li>Huimaus (voimakas kiertohuimaus)</li>
+<li>Humina (suhina, paineen tunne korvassa)</li>
+<li>Huonokuuloisuus matalilla äänillä (sensorineuraalinen)</li>
+<li>Huonovointisuus, oksentelu</li>
+
+  </div>
+</div>
+
+### Hyvänlaatuista asentohuimausta koskien seuraavista on OIKEIN:
+
+- a. Yleisimmin sakka on kertynyt lateraaliseen eli horisontaaliseen kaarikäytävään
+- b. Nystagmus on suuntaavaihtava
+- c. Huimaus on yleensä jatkuvaa ja useita päiviä kestävää
+- d. Oireistoon liittyy usein pahoinvointia
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+d
+
+---
+
+a: 85-95 %:ssa tapauksista sakka (otoconia) on kertynyt posterioriseen kaarikäytävään
+
+b: Nystagmus ei vaihda suuntaa.
+
+c: Huimaus on kohtauksittaista pään kääntämisen yhteydessä ja kestää alle 1-2 minuuttia. 
+
+  </div>
+</div>
+
+### Huimauksen taustalla voi olla psykogeeninen syy
+
+- a. Oikein
+- b. Väärin
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+a
+
+---
+
+Esim. paniikkikohtaus voi aiheuttaa huimausta.
+
+  </div>
+</div>
+
+### Hyvänlaatuista asentohuimausta koskien seuraavista on OIKEIN:
+
+- a. Hoito kuuluu erikoissairaanhoitoon
+- b. Potilaalla voi olla oireena kaksoiskuvia
+- c. Spontaani paranemistaipumus
+- d. Huimaus on kaatavaa
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+c
+
+---
+
+Yleensä BPPV hoidetaan manöövereillä (esim. Epleyn manööveri), joilla saadaan sakka pois kaarikäytävästä. Suurin osa tapauksista kyllä paranee myös ilman tätä hoitoakin, kun kivet liukenevat muutamien kuukausien aikana; tällä aikavälillä oireet kuitenkin voivat olla vaikeat ja hyvinkin rajoittavat, joten asentohoito on tärkeää palautumisen nopeuttamiseksi. 
+
+a: Hoidetaan perusterveydenhuollossa ja vaikeissa tapauksissa konsultoidaan korvalääkäriä.
+
+b: Hyvänlaatuinen asentohuimaus on korvaperäistä huimausta ja siihen ei liity korvaperäisten oireiden (asentoriippuvainen huimaus, pahoinvointi) lisäksi neurologisia puutosoireita.
+
+d: BPPV:ssä huimaus on lyhytkestoista ja kiertävää, ei tyypillisesti kaatavaa
+
+  </div>
+</div>
+
+### Asennonvaihdoksessa alkavan lyhytkestoisen (muutama minuutti) huimauskohtauksen aiheuttaja on todennäköisimmin:
+
+- a. Menieren tauti
+- b. Hyvänlaatuinen asentohuimaus
+- c. Vestibulaarineuroniitti
+- d. TIA-kohtaus
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+b
+
+---
+
+Hyvänlaatuisessa asentohuimauksessa ja TIA-kohtauksessa huimaus kestää yleensä vain muutaman minuutin. Hyvänlaatuinen asentohuimaus on asentoriippuvaista. TIA-kohtauksessa potilaalla on huimauksen lisäksi muita pikkuaivo- tai aivorunkoperäisiä löydöksiä. 
+
+a: Menieren taudin kohtaus kestää paristakymmenestä minuutista useisiin tunteihin; n. 20min-12t
+
+c: Vestibulaarineuroniitin aiheuttama huimaus on pitkäkestoista (päiviä) 
+  </div>
+</div>
+
+### Pikkuaivoperäistä huimausta koskien seuraavista on VÄÄRIN:
+
+- a. Neurologisessa statuksessa voidaan osalla todeta dysartriaa
+- b. Neurologisessa statuksessa voidaan osalla todeta afasiaa
+- c. Huimaus on yleensä toiselle puolelle tai taakse kaatavaa
+- d. Neurologisessa statuksessa voidaan osalla todeta ataksiaa
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+b
+
+---
+
+Afasia on isoaivoperäinen oire, kum Brocan ja/tai Wernicken alueet vaurioituvat
+
+
+a: Pikkuaivovauriossa puheen lihaskoordinaatio häiriintyy. Puhe muuttuu tyypillisesti "skandeeraavaksi", sammaltavaksi tai epäselväksi. Tämä on puheen tuottamisen motorinen häiriö, ei kielellinen häiriö (kuten afasia)
+
+c: Pikkuaivoperäisessä huimauksessa potilaalla on usein vartaloataksia ja tasapainohäiriö, joka saa hänet horjumaan tai kaatumaan vaurion puolelle tai taaksepäin. Romberg/peruskoe kaataa.
+
+d: Ataksia on pikkuaivovaurion ydinoire. Se tarkoittaa liikkeiden hapuilua ja koordinaatiokyvyn puutetta, mikä näkyy statuksessa esimerkiksi sormi-nenänpää-kokeessa tai polvi-kantapää-kokeessa; kävely on leveäraiteista ja epäkoordinoitua. 
+
+  </div>
+</div>
+
+### Menieren tautiin liittyvä kuulonalenema on pysyvä
+
+- a. Oikein
+- b. Väärin
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+b
+
+---
+
+Alkuun kuulonalenema on kohtauksittaista, matalia taajuuksia affisioivaa ja paranee kohtausten välillä normaaliksi, mutta lopulta siitä tulee pysyvää. Lopulta taudin pitkittyessä ilmenee pysyviä vaurioita. Kuulovika jää pysyväksi, jopa kaikkia taajuuksia koskevaksi. Tauti ei kuitenkaan kuurouta korvaa täysin. Osalla potilaista kuulonalenema muuttuu molemminpuoleiseksi.
+
+
+  </div>
+</div>
+
+### Hyvänlaatuista asentohuimausta koskien seuraavista on VÄÄRIN:
+
+- a. Huimaus alkaa usein aamulla kylkeä kääntäessä
+- b. Oireistoon liittyy horisontalis-rotatorinen nystagmus, joka vaimenee fiksoitaessa tai toistettaessa.
+- c. Oireistoon liittyy kuulonalenema
+- d. Huimaus on luonteeltaan kiertohuimausta
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+c
+
+---
+
+BPPV ei affisioi kuuloa 
+
+a: Pään kääntäminen sängyssä on yksi yleisimmistä ilmoitetuista kohtauksen laukaisevista tekijöistä 
+
+b: BPPV:n nystagmusta havannoidaan ensisijaisesti DIX-Hallpiken testissä, jossa voidaan havaita vertikaalis-rotatorinen nystagmus alaspäin osoittavaan (eli testattavaan eli sairaaseen) korvaan. Joissain lähteissä (ja tenttikysymyksissäkin) listattu horisontaalis-rotatorisena, vaikka on kyllä enemmän vertikaalis-rotatorinen. Pelkästään vertikaalinen se ei ole (herättäisi huolen sentraalisesta huimauksesta). 
+
+d: BPPV on yleisin vertigon aiheuttaja 
+  </div>
+</div>
+
+### Kiertävän eli karusellimaisen huimauksen ensisijainen etiologia on:
+
+- a. Sisäkorvaperäinen
+- b. Vanhuksen monitekijäinen huimaus
+- c. Pikkuaivoperäinen
+- d. Proprioseptisen informaation häiriö
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+a
+
+---
+
+Esim. BPPV, vestibulaarineuriitti ja Menieren tauti. 
+
+b: Tämä tuntuu yleensä huteruutena, epävarmuutena kävellessä tai "hönttinä" olona. Se johtuu näön, asentotunnon ja verenpaineen säätelyn yhteisestä heikkenemisestä. 
+
+c: Vaikka pikkuaivovaurio (kuten infarkti) voi aiheuttaa huimausta, se tuntuu usein enemmänkin voimakkaana horjuvuutena; voi myös kyllä ilmentyä vertigona, eikä muutenkaan potilaiden kuvauksiin huimauksen laadusta tule liikaa luottaa 
+
+d: Asentotunnon häiriö (esim. tensionaalinen huimaus) aiheuttaa kävelyn epävarmuutta ja horjuvuutta, ei klassista kiertohuimausta
+  </div>
+</div>
+
+### Lähetän potilaan erikoissairaanhoitoon, mikäli potilaalla on:
+
+- a. Jatkuvaa voimakasta huimausta ja pahoinvointia
+- b. Ylösnoustessa huimausta ja silmien sumenemista
+- c. Asennonvaihdoksissa ilmenevää voimakasta huimausta ja oksentelua
+- d. Liikkuessa tuntuvaa tasapainon epävarmuuden tunnetta
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+a
+
+---
+
+Viittaa akuuttiin vestibulaarioireyhtymään, jolloin on tarpeen erottaa pääasiassa vestibulaarineuriitti ja sentraalinen huimaus. Periaatteessa jos pystyy HINTS-plus-protokollan mukaan poissulkemaan sentraalisen huimauksen, niin voi hoitaa PTH, mutta usein potilas on etenkin taudin alkuvaiheessa niin huonovointinen, että hänen tilansa edellyttää sairaalaseurantaa muutaman päivän ajan. Kannattaa vähintään konsultoida korvalääkäriä; hoidossa käytetään usein glukokortikoideja, mutta suuri osa suomalaisista artikkeleista ottaa kannan, että glukokortikoidihoidon käyttöä ei voida pitää erityisen hyvin perusteltuna. 
+
+b: Viittaa ortostaattiseen hypotensioon
+
+c: Viittaa hyvänlaatuisen asentohuimaukseen 
+
+d: Usein vanhusten monitekijäistä huimausta tai liittyy asentotunnon heikkenemiseen
+
+![](images/vertigoalgo.png)
+  </div>
+</div>
+
+### Akuutissa tensionaalisessa huimauksessa hyvä hoitokeino EI ole:
+
+- a. Asentohoito
+- b. Kipulääke
+- c. Lihasrelaksantti
+- d. Liikunta
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+a
+
+---
+
+Asentohoito on hyvänlaatuisen asentohuimauksen hoitokeino.
+
+b, c, d: Niska-hartiaseudun rentouttavat harjoitteet ja liikunta on suositeltavia. Akuutissa tilanteessa lääkehoidoksi sopii kuuriluonteisesti käytettävät kipulääke ja lihasrelaksantti kuten akuutin tensionaalisen päänsäryn hoidossakin. Amitriptyliiniä tai nortriptyliiniä voidaan käyttää "estohoitona". 
+
+  </div>
+</div>
+
+### Mihin seuraavista on hoitona Epleyn manööveri:
+
+- a. Pikkuaivoperäinen huimaus
+- b. Tensionaalinen huimaus
+- c. Hyvänlaatuinen asentohuimaus
+- d. Molemminpuoleinen tasapainoelimen vajaatoiminta
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+c
+
+---
+
+Hyvänlaatuinen asentohuimaus johtuu kaarikäytävän sakasta (otoconia), ja sen poistumista voidaan edesauttaa asentohoidolla (Epleyn manööveri, kun sakka on posteriorisessa kaarikäytävässä (n. 90% tapauksista); muille kaarikäytäville on omia manöövereitaan).
+
+![](images/epley1.png)
+![](images/epley2.png)
+  </div>
+</div>
+
+### Missä seuraavista oireiden alku EI yleensä ole äkillinen?
+
+- a. Pikkuaivoinfarkti
+- b. Vestibulaarineuroniitti
+- c. Tensionaalinen huimaus
+- d. Hyvänlaatuinen asentohuimaus
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+c
+
+---
+
+Tensionaalinen huimaus on luonteeltaan kroonista ja pitkäkestoista sekä kehittyy yleensä vähitellen lihasjännityksen myötä. 
+
+a: Verisuonitapahtumana tämä on erittäin äkillinen
+
+b: Alku on tyypillisesti raju ja nopea
+
+d: Huimauskohtaus alkaa välittömästi tietyssä pään liikkeessä (esim. sängyssä kylkeä kääntäessä)
+  </div>
+</div>
+
+### Mikä seuraavista on hyvänlaatuisen asentohuimauksen hoito:
+
+- a. Glukokortikoidit
+- b. Beetahistidiini
+- c. Amitriptyliini
+- d. Asentohoito
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+d
+
+---
+
+Hyvänlaatuisella asentohuimauksella on spontaani paranemistaipumus, mutta paranemista voidaan edistää asentohoidolla, useimmiten Epleyn manööverillä.
+
+![](images/epley1.png)
+![](images/epley2.png)
+
+  </div>
+</div>
+
+### Tensionaalisessa huimauksessa:
+
+- a. Huimaus on kiertävää eli karusellimaista
+- b. Niskalihakset ovat jännittyneet
+- c. Huimaus liittyy asennonvaihdoksiin
+- d. Rombergin koe kaataa
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+b
+
+---
+
+Niskaperäiselle huimaukselle on tyypillistä jatkuva pitkäkestoinen ("kuukausia, vuosia") intensiteetiltään vaihteleva huimaus. Siihen liittyy usein pään puristus- ("panta pään ympärillä") ja niskatuntemuksia samoin kuten niskaperäiselle päänsärylle
+
+a: Tensionaalinen huimaus (proprioseptisen informaation häiriö) ilmenee useimmiten keinuttavana huimauksena.
+
+c: Asennonvaihtoihin liittyvä huimaus on usein hyvänlaatuista asentohuimausta.
+
+d. Rombergin testissä potilas voi huojua, mutta ei kaadu.
+
+  </div>
+</div>
+
+### Hyvänlaatuisessa asentohuimauksessa sakka (otoconia) kertyy useimmiten sisäkorvan
+
+- a. Lateraaliseen kaarikäytävään
+- b. Anterioriseen kaarikäytävään
+- c. Posterioriseen kaarikäytävään
+- d. Sacculukseen tai utriculukseen
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+c
+
+---
+
+Otoliitteja utriculuksesta (soikea rakkula) kulkee semisirkulaarisiin kanaaleihin ja aiheuttaa tuntokarvojen ei-toivottua stimulaatiota -> Huimausta koetaan tyypillisesti pään asennonmuutoksissa otoliittien liikkuessa; erityisesti vuoteeseen käydessä tai vuoteessa käännyttäessä. 
+
+Useimmiten (85-95%) otoliitteja on takimmaisessa (posteriorisessa) kaarikäytävässä, mutta voivat myös löytyä joskus horisontaalisesta kaarikäytävästä (5-15%). Superioriseen kaarikäytävään kertyminen on harvinaista. 
+
+![](images/kanalitiaasi.png)
+  </div>
+</div>
+
+### Tension neckin oireisiin tai löydöksiin EI kuulu:
+
+- a. Rajoittuneet niskan liikkeet
+- b. Keinuttava huimaus
+- c. Puristava päänsärky
+- d. Nystagmus
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+d
+
+---
+
+Silmävärve syntyy tasapainoelimen tai aivojen silmää kontrolloivien alueiden häiriöstä; tension neck on tuki- ja liikuntaelinsairaus, joka ei vaikuta näihin hermoratoihin
+
+a: Niskalihasten kireys rajoittavat pään kääntämistä ja taivuttamista.
+
+b: Jännitysniskaan liittyy usein nimenomaan keinuttava tai epävarma huimaus. Se johtuu niskan proprioseptiikan (asentotuntoaistimusten) häiriintymisestä, kun lihaskireys lähettää aivoille ristiriitaista tietoa pään asennosta
+
+c: Niskaperäinen huimaus ja jännityspäänäsrky kulkevat käsi kädessä. Päänsärky on tyypillisesti "pantamainen", puristava ja molemminpuoleinen.
+  </div>
+</div>
+
+### Vestibulaarineuroniitin huimaukseen EI kuulu:
+
+- a. Voimakas kiertohuimaus
+- b. Nystagmus
+- c. Provosoituminen vain tietyssä asennossa
+- d. Normaali kuulo
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+c
+
+---
+
+Vestibulaarineuroniitissa huimaus ei provosoidu vain tietyssä asennossa, toisin kuin hyvänlaatuisessa asentohuimauksessa. Vestibulaarineuroniittiin liittyy voimakas kiertohuimaus ja spontaani horisontalis-rotatorinen nystagmus terveeseen korvaan päin. Siihen ei liity kuulo-oireita.
+
+  </div>
+</div>
+
+### Proprioseptisen- eli asentotuntoinformaation häiriötä voi aiheuttaa esim. niska- ja hartiaseudun lihasjännitys.
+
+- a. Oikein
+- b. Väärin
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+a
+
+---
+
+Niskassa on paljon proprioreseptoreita ja niska- ja hartiaseudun jännitystilassa proprioreseptorit ovat ylistimuloituja aiheuttaen kiihtynyttä informaatiota keskushermoston tasapainokeskukseen.
+
+  </div>
+</div>
+
+### Dix-Hallpiken testillä voidaan diagnosoida:
+
+- a. Vestibulaarineuroniitti
+- b. Menieren tauti
+- c. Hyvänlaatuinen asentohuimaus
+- d. Sentraalinen huimaus
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+c
+
+---
+
+Dix-Hallpiken testiä käytetään posteriorisen kaarikäytävän hyvälaatuisen asentohuimauksen (BPPV) diagnosoimiseen. Joskus kivi voi olla horisontaalisessa kaarikäytävässä. Tällöin diagnostiikassa käytetään muun muassa Supine roll -testiä tai Rahkon walk-rotate-walk (WRW) -testiä. 
+
+
+Dix-Hallpiken testi suoritetaan näin 
+
+<li>Potilas istuu tutkimuspöydällä jalat suorina</li>
+<li>Käännä potilaan pää n. 45 astetta testattavalle puolelle</li>
+<li>Potilas ohjataan makuuasentoon niin, että lopulta pää on tutkimuspöydän yli ja sitä tuetaan 30 asteen ekstensiossa</li>
+<li>Katso silmiä ja arvioi nystagmusta</li>
+
+---
+
+Kiertohuimaus alkaa sekuntien viiveen jälkeen ja kestää tavallisesti kymmeniä sekunteja. Samalla nähdään vertikaalis-rotatorinen sairaan korvan puolelle kiertävä nystagmus; kestää tavallisesti n. 10-30s
+
+![](images/dxhp.gif)
+![](images/dxhpnystagmus.gif)
+  </div>
+</div>
+
+### Missä seuraavista määräisit potilaalle hoidoksi beetahistidiiniä?
+
+- a. Vestibulaarineuroniitti
+- b. Hyvänlaatuinen asentohuimaus
+- c. Tensionaalinen huimaus
+- d. Menieren tauti
+
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+d
+
+---
+
+Ménièren taudin kohtausten ensilinjan estohoito on elämäntapamuutokset (stressin vähentäminen ja suolarajoitus) ja lääkehoito. 
+
+Lääkehoidosta peruslääkkeenä on käytetty beetahistiiniä (aloitusannos on 24 mg × 2, ja ylläpitoannos tilanteen rauhoituttua on 12–24 mg × 2. Voinnin vakaannuttua lääkityksen voi purkaa asteittain pois.), diureettia (esim. hydroklooritiatsidi) tai näiden yhdistelmää. Kohtausten varalle kotiin myös antiemeettejä reseptille.
+  </div>
+</div>
+
+### Menieren taudin aiheuttaa:
+
+- a. Sisäkorvan tulehdus
+- b. Akustikusneurinooma
+- c. Sisäkorvan kaarikäytävään kertynyt sakka
+- d. Endolymfan lisääntynyt määrä sisäkorvassa
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+d
+
+---
+
+Menieren taudissa endolymfan määrä on lisääntynyt sisäkorvassa = idiopaattinen endolymfaattinen hydrops. Tasapainoelimen nestetilojen, peri- ja endolymfan ionipitoisuuksien ajatellaan häiriintyvän ja sen seurauksena tasapainoelimen toiminta häiriintyy kohtauksellisesti
+
+a: Sisäkorvan tulehdus (labyrinthiitti) on vakava infektio
+
+b: Akustikusneurinooma on kuulo-tasapainohermon hyvänlaatuinen, harvinainen kasvain.
+
+c: Hyvänlaatuisessa asentohuimauksessa kaarikäytävään kertynyt sakka aiheuttaa oireet. 
+
+![](images/hydrops.png)
+  </div>
+</div>
+
+### Menieren taudin kohtauksessa EI esiinny:
+
+- a. Näköhäiriöitä
+- b. Nystagmusta
+- c. Pahoinvointia ja oksentelua
+- d. Kiertohuimausta
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+a
+
+---
+
+Tyypilliset oireet ovat 4H:ta
+
+<li>Huimaus (voimakas kiertohuimaus); kohtauksen aikana voi esiintyä nystagmusta</li>
+<li>Humina (suhina, paineen tunne korvassa)</li>
+<li>Huonokuuloisuus matalilla äänillä (sensorineuraalinen)</li>
+<li>Huonovointisuus, oksentelu</li>
+
+  </div>
+</div>
+
+## Liikehäiriöt 
+
+### Essentiaalinen vapina
+
+- a. On epäsymmetristä
+- b. Potilailla on muita neurologisia poikkeavuuksia
+- c. Alkoholi lievittää
+- d. On lepovapinaa
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+c
+
+---
+
+Pienehkön alkoholimäärän nauttiminen vaimentaa tilapäisesti vapinan jopa 80 %:lla potilaista. Ei kuitenkaan suositella hoidoksi, sillä on terveellisimpiäkin hoitomuotoja olemassa; on kuitenkin hyvä osata kysyä potilaalta, että miten alkoholi vaikuttaa vapinaan, koska se vahvistaa essentiaalisen vapinan kliinistä diagnoosia. 
+
+a: ET on symmetristä, yleensä molemmissa yläraajoissa 
+
+b: ET:n diagnostisissa kriteereissä on kriteeri, että ei todeta muuta neurologista poikkeavuutta (poikkeuksena lievät statuslöydökset ET+ oireistossa). ET+ siis tarkoittaa essentiaalista vapinaa, jossa on lisäksi todettavissa lieviä neurologisia statuslöydöksiä (ns. soft signs), kuten lievä askelen epävarmuus, lievää dystonista asentoilua, lievä kognitiivinen alentuma, lievä neuropatia, lepovapina (ilman muita parkinsonismin piirteitä). Nämä eivät kuitenkaan siis kuulu tyypilliseen essentiaaliseen vapinaan 
+
+d: ET:n vapina on aktiovapinaa; lepovapina on tyypillisempää Parkinsonin taudille   
+  </div>
+</div>
+
+### Essentiaalisen vapinan ensisijainen lääkehoito on:
+
+- a. Propranololi
+- b. Diatsepaami
+- c. Dopamiiniagonisti
+- d. Amitriptyliini
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+a
+
+---
+
+Ensisijainen lääkehoito on epäselektiivinen beetasalpaaja, ensisijaisesti propranololi, riittävän isolla annoksella.
+
+Lääkitystä käytetään yleensä säännöllisesti, mutta lievemmissä tapauksissa voidaan käyttää myös vain tarvittaessa. Perusterveydenhuollossa voi kokeilla hoitona myös gabapentiiniä, jos beetasalpaaja ei auta tai sille on kontraindikaatio (esim. pahentaa astmaa). Erikoissairaanhoitoon lähetetyissä vaikeissa tapauksissa voidaan lääkehoitona kokeilla mm. primidonia, klonatsepaamia tai topiramaattia. Myös DBS-hoito on hyvä vaihtoehto vaikeaoireiselle potilaalle, joka soveltuu DBS-hoitoon.
+
+  </div>
+</div>
+
+### Terveyskeskuksen vastaanotolle tulee 80-vuotias mies vapinan ja tasapaino-ongelmien vuoksi. Potilas kertoo huomanneensa aika ajoin oikeassa kädessä hetkellistä vapinaa kävellessä, vapina ei ole jatkuvaa. Tasapaino on heikentynyt ja herkästi kompastelee epätasaisessa maastossa esimerkiksi marjastaessa. Neurologisessa statustutkimuksessa toteat potilaan ryhdin hieman etukumaraksi, oikean käden myötäliike on vaimeampi kuin vasemmalla ja oikeassa kädessä näkyy hetkittäin kävellessä pyörittävää vapinaa. Oikeassa yläraajassa toteat lievää hammasratasmaista rigiditeettiä. Oireiden ja löydösten perusteella epäilet Parkinsonin tautia. Miten toimit?
+
+- a. Aloitan potilaalle levodopa-lääkityksen
+- b. Teen kiireettömän lähetteen neurologille
+- c. Aloitan potilaalle dopamiiniagonistilääkityksen
+- d. Teen päivystyslähetteen neurologille
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+b
+
+---
+
+Parkinsonin taudin diagnostiikka ja hoidon aloitus kuuluu ESH:n tehtäviin. Kyseessä ei ole hätätilanne, joten kiireetön lähete neurologialle riittää. 
+  </div>
+</div>
+
+### Dopamiiniagonistit Parkinsonin taudin hoidossa
+
+- a. Haittavaikutuksena esiintyy usein dyskinesioita
+- b. Puoliintumisaika on lyhyt, vain n. 1,5 h
+- c. Kokeillaan, jos muista lääkkeistä ei ole apua
+- d. Eri lääkeaineilla ei ole osoitettu olevan tehoeroja
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+d
+
+---
+
+Lääkkeiden välillä kyllä on pieniä eroja, mutta ne ovat suunnilleen yhtä tehokkaita Parkinsonin taudin hoidossa. Useimmiten käytettyjä ovat pramipeksoli (esim. Sifrol), ropiniroli (esim. Requip) ja rotigotiini (esim. Neupro-laastari). Rotigotiini on ainoa, jonka saa laastarivalmisteena. Pramipeksolin on todettu olevan tehokkain samanaikaiseen masennukseen. 
+
+a: Dyskinesiat ovat ensisijaisesti levodopahoidon haittavaikutus. Dopamiiniagonistit aiheuttavat yleensä vähemmän dyskinesioita kuin levodopa. Tämä on yksi keskeisimmistä syistä sille, miksi erityisesti nuoremmilla potilailla hoidon aloittamista dopamiiniagonistilla suositaan
+
+b: Pitkän vaikutusajan vuoksi ne annostellaan kerran vuorokaudessa. Dopamiiniagonistien vaikutusaika on yleensä pidempi kuin perinteisen levodopan. Ne tarjoavat aivoille tasaisemman ja jatkuvamman stimulaation.
+
+c: Dopamiiniagonistit ovat tavallinen aloituslääke, varsinkin lieväoireisilla alle 60-65-vuotiailla ja kognitiivisesti & psyykkisesti terveillä. Alkuvaiheen lääkehoidon valintaan vaikuttavat mm. potilaan ikä, oireiden voimakkuus ja ei-motoriset oireet. Päätös on aina yksilöllinen. Lopulta kaikki potilaat kyllä tarvitsevat levodopaa. 
+
+  </div>
+</div>
+
+### Vaskulaariseen parkinsonismiin EI viittaa:
+
+- a. Alaraajojen kömpelyys ja kävelyvaikeudet
+- b. Hyvä levodopavaste
+- c. Lievä symmetrinen vapina, josta on vain vähäistä subjektiivista haittaa
+- d. Potilaalla on vaskulaarisia riskitekijöitä
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+b
+
+---
+
+Vaskulaarinen parkinsonismi (eli verenkiertohäiriöperäinen parkinsonismi; taustalla siis pienet infarktit) eroaa merkittävästi idiopaattisesta Parkinsonin taudista juuri lääkevasteensa osalta. Vaskulaarisessa parkinsonismissa aivojen dopamiiniradat eivät yleensä ole ensisijaisesti rappeutuneet, vaan vaurio on rakenteellinen (pienet infarktit tai valkean aineen muutokset). Tästä syystä levodopa-lääkitys auttaa yleensä huonosti. 
+
+a: Tämä on vaskulaarisen parkinsonismin tyyppioire. Sairautta kutsutaan usein "lower body parkinsonismiksi", koska oireet painottuvat jalkoihin yläraajojen sijaan: kävely on hidasta, lyhytaskelista ja jalat tuntuvat liimautuvan lattiaan.
+
+c: Toisin kuin Parkinsonin taudissa, jossa lepotärinä on usein toispuoleista ja voimakasta, vaskulaarisessa muodossa vapina on usein vähäistä tai puuttuu kokonaan. Jos sitä on, se on tyypillisesti symmetristä.
+
+d: Tämä on diagnoosin edellytys. Potilaalla on yleensä taustalla verenpainetauti, diabetes, tupakointia tai aiempia aivoverenkiertohäiriöitä. Näkyvät yleensä aivojen magneettikuvassa pienten suonten tautina.
+  </div>
+</div>
+
+### Parkinson plus -sairauksissa esiintyviä oireita EI ole:
+
+- a. Pään ja käsien aktiovapina
+- b. Supranukleaarinen katsepareesi eli ylöspäin katsominen ei onnistu
+- c. Nopeasti alkavat vaikeat autonomiset oireet
+- d. Kognitiivinen heikentyminen jo taudin alkuvaiheessa
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+a
+
+---
+
+Atyyppiset parkinsonismit eli ns. Parkinson plus -oireyhtymät tarkoittavat sairauksia, joihin liittyy parkinsonismin lisäksi jokin muu löydös. Tärkeimpiä ovat:
+
+<li>Progressiivinen supranukleaarinen halvaus (PSP = rajoittuneet vertikaaliset silmänliikkeet)</li>
+<li>Monisysteemiatrofia (MSA = huomattava ortostaattinen hypotonia tai virtsainkontinenssi jo alkuvaiheessa)</li>
+<li>Kortikobasaalinen oireyhtymä (CBS = hyvin toispuolinen raajajäykkyys, raaja saattaa vääntyä dystoniseen pakkoasentoon, ”alien hand” -ilmiö (käsi toimii itsenäisesti) ja apraksia)</li>
+<li>Myös dementia Lewyn kappaleiden kanssa (Dementia with Lewy Bodies, DLB) eli Lewyn kappale -tauti kuuluu usein Parkinson plus-diagnooseihin. Sille on tyypillistä kognitiivinen alenema ennen motorisia oireita tai viimeistään vuoden sisällä motoristen oireiden alusta (ns. 1-year rule)</li>
+
+  </div>
+</div>
+
+### Kognition heikkeneminen on Parkinsonin taudin varhaisoire
+
+- a. Oikein
+- b. Väärin
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+b
+
+---
+
+Kognition heikkeneminen ei ole Parkinsonin taudin varhaisoire. Mikäli kognition heikkeneminen liittyy jo varhaisvaiheessa ekstrapyramidaalioireisiin, on kyseessä todennäköisesti Lewyn kappale -tauti (1-year rule). 
+
+Parkinson-dementia kehittyy yleensä vasta vuosien tai vuosikymmenten sairastamisen jälkeen. Tilastollisesti noin 50–80 % Parkinson-potilaista sairastuu jossain vaiheessa dementiaan, mutta tämä tapahtuu tyypillisesti taudin myöhäisvaiheessa
+  </div>
+</div>
+
+### Edenneen Parkinsonin taudin hoidossa
+
+- a. Levodopahoito on stimulaattorihoitoa merkittävästi tehokkaampi hoito
+- b. Apomorfiinia voidaan annostella s.c. kerran kuukaudessa
+- c. Levofopainfuusio s.c. sopii edenneeseen tautiin, kun tilanvaihteluita ei saada hallintaan
+- d. Stimulaattorihoitoa aloitettaessa potilaalla tulee olla vielä levodopalle vastetta
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+d
+
+---
+
+Parkinsonin taudin edenneessä vaiheessa oirekuva alkaa usein vaatimaan laiteavusteista hoitoa. Käytettävissä on muutama eri hoitomuotoa ja hoito valitaan yksilöllisesti
+
+<li>syväaivostimulaatio eli deep brain stimulation (DBS); stimulaatiohoitoa aloitettaessa levodopalle on oltava vielä vastetta, muuten sen teho on heikko. Stimulaatiohoidon teho on keskimäärin sama kuin lääkkeellisten hoitojenkin.</li>
+<li>neuro-HIFU (ei sinänsä laite, vaan ultraäänellä tehtävä operaatio)</li>
+<li>jatkuva levodopa-karbidopa- tai levodopa-karbidopa-entakaponi-infuusiopumppu suoleen</li>
+<li>jatkuva foslevodopa/foskarbidopa-infuusiopumppu s.c.; huom ei siis tyypillistä levodopaa -> c väärin</li>
+<li>apomorfiini-infuusiopumppu s.c.; apoformiinin puoliintumisaika on lyhyt, joten sitä tulee annostella ihon alle 1-10 x päivässä tai jatkuvana infuusiona.</li>
+
+  </div>
+</div>
+
+### Parkinsonin taudin vapinan luonteesta VÄÄRIN:
+
+- a. Alkuvaiheessa symmetristä
+- b. Laajaa ja hidastaajuista
+- c. Vaimenee tai häviää liikkeessä
+- d. Voi esiintyä sormissa, raajoissa, leuassa ja perioraalisesti
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+a
+
+---
+
+Parkinsonin taudissa oireisto on yleensä etenkin taudin alkuvaiheessa epäsymmetristä. Edenneessäkin vaiheessa oireisto on usein toisella puolella vahvempi.
+  </div>
+</div>
+
+### Ekstrapyramidaalijärjestelmän vaurio voi olla hypokineettinen, jolloin liike vähenee, tai hyperkineettinen, jolloin syntyy poikkeavia ja tahattomia liikkeitä. Sairaus, missä nähdään hypokineettinen liikehäiriö seuraavista on:
+
+- a. Essentiaalinen vapina
+- b. Parkinsonin tauti
+- c. Dystoninen vapina
+- d. Levottomat jalat
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+b
+
+---
+
+Hypokinesialla tarkoitetaan liikkeiden hitautta ja jähmeyttä. Siinä voidaan erottaa akinesia eli liikkeen aloittamisen hitaus ja spontaanin liikehdinnän vähentyminen sekä bradykinesia eli liikesuorituksen hitaus. Usein tällaista jakoa ei kuitenkaan tehdä, vaan termejä käytetään toistensa synonyymeinä.
+
+Parkinsonin tauti on tyypillisin sairaus, jossa esiintyy hypokinesiaa. Pelkästään akinesiaa ilman muita parkinsonismilöydöksiä havaitaan joskus iäkkäillä ihmisillä. Tämän ajatellaan johtuvan aivojen frontobasaalisten osien degeneraatiosta.
+
+a, c ja d ovat kaikki hyperkineettisiä häiriöitä. 
+
+a: Kyseessä on tahaton ylimääräinen liike (vapina), joka voimistuu toiminnassa
+
+c: Tahattomia liikkeitä (dyskinesioita) ovat dystonia, korea, atetoosi, hemiballismi, myoklonus ja tic. Dystonialla tarkoitetaan liikehäiriötä, jossa tahattomat lihassupistukset aiheuttavat kiertäviä ja toistuvia liikkeitä ja epänormaaleja asentoja. Dystoniat voi jaotella ilmiasun perusteella paikallisiin, segmentaalisiin, multifokaalisiin ja yleistyneisiin dystonioihin sekä hemidystoniaan. Dystonia voi esiintyä isoloituneena tai yhdistyneenä muuhun neurologiseen oireeseen. Paikallisia dystonioita ovat mm. servikaalinen dystonia, blefarospasmi (luomikouristus), spasmodinen dysfonia, toimintaspesifiset dystoniat (esim. kirjoittajan kramppi eli mogigrafia). Kervikaalinen dystonia ylivoimaisesti yleisin aikuisiän dystonia, muut mainitut sen jälkeen seuraavaksi yleisempiä. Yleisin sairastumisikä kervikaaliseen dystoniaan on 30–50 vuotta, ja tauti on naisilla kaksi kertaa yleisempi kuin miehillä. Oireet alkavat vähitellen: pää kiertyy tahattomasti (torticollis), tai kääntyy sivulle (laterocollis), taakse (retrocollis) tai harvemmin eteen (antecollis). Tavallisimmassa muodossa pää kiertyy ja kääntyy sivulle ja taakse. Samalla kiertymisen puoleinen hartia nousee.
+Hoitona paikallisissa dystonioissa käytetään yleensä botuliinia ruiskutettuna liian aktiivisiin lihaksiin
+
+d: Potilaalla on pakottava tarve liikuttaa jalkojaan, eli oireena on nimenomaan liiallinen, tahaton liikeaktiviteetti (usein levossa)
+  </div>
+</div>
+
+### Pikkuaivoperäisessä vapinassa OIKEIN:
+
+- a. Neurologisessa statuksessa ei ole muuta poikkeavaa
+- b. Etiologia on aina tunnistettavissa
+- c. On aina epäsymmetristä
+- d. On aktiovapinaa
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+d
+
+---
+
+Pikkuaivoperäinen vapina on klassisesti intentiovapinaa, joka tarkoittaa vapinaa, joka voimistuu liikkeen lähestyessä kohdetta; AKA kohdennusvapina. 
+
+Aktiovapinaa tutkitaan siis kahdessa vaiheessa. Ensimmäiseksi potilasta pyydetään ojentamaan molemmat yläraajansa suoriksi eteen vaakatasoon kämmenet ylöspäin. Tässä asennossa esiintyvä vapina on kannatusasentovapinaa (posturaalinen vapina), joka on yleinen löydös esimerkiksi essentiaalisessa vapinassa. Vapinan voimakkuus ja symmetrisyys arvioidaan silmämääräisesti - tyypillisesti essentiaalisessa vapinassa vapina on jokseenkin samankaltaista molemmissa käsissä ja suhteellisen nopeataajuista (8-12 Hz) 
+
+Toisessa vaiheessa potilas ohjataan suorittamaan kohdistusliikkeitä, kuten tekemään sormi-nenänpääkokeen tai koskettamaan vuorotellen omaa nenäänsä ja tutkijan sormea. Tässä tilanteessa havaittava vapina on kohdennusvapinaa (intentiovapina), joka kuuluu aktiovapinan alatyyppeihin. Jos vapina voimistuu liikkeen lähestyessä kohdetta, kyseessä on kohdennusvapina, joka voi viitata pikkuaivoperäiseen sairauteen. 
+
+a: Neurologisessa statuksessa on yleensä myös muita pikkuaivo-oireita ja -löydöksiä kuten ataksiaa ja koordinaatiovaikeuksia. 
+
+b: Etiologiana voi olla mm. alkoholi, MS-tauti tai pikkuaivojen kasvaimet ja aivoverenkiertohäiriöt, mutta etiologia jää usein myös epäselväksi. 
+
+c: Alkoholin aiheuttama pikkuaivovapina on yleensä symmetristä, muista tekijöistä johtuvana se voi olla myös epäsymmetristä.
+
+  </div>
+</div>
+
+### Terveyskeskuksen vastaanotolle tulee 65-vuotias nainen suun seudun pakkoliikkeiden vuoksi. Perussairauksina potilaalla on skitsofrenia, verenpainetauti ja hyperkolesterolemia. Potilas tupakoi noin askin päivässä. Statuksessa potilas kävelee hitaasti, molemmissa yläraajoissa on lievää rigiditeettiä. Suun seudussa ja kielessä on jatkuvaa pyörittävää pakkoliikettä. Lääkityksenä potilaalla on käytössä lääkelistan mukaan kandesartaani 16 mg x1, atorvastatin 20 mg x1, risperidoni 6 mg x1, oksatsepaami 15 mg tarvittaessa 1-3 kertaa vuorokaudessa.  Mikä potilasta todennäköisimmin vaivaa?
+
+- a. Parkinsonin tauti
+- b. Huntingtonin tauti
+- c. Tardiivi dyskinesia
+- d. Servikaalinen dystonia
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+c
+
+---
+
+Potilas käyttää risperidonia, joka on antipsykootti. Vaikka se onkin 2. polven lääke, niin niilläkin on riski antipsykooteille tyypillisille ekstrapyramidaalioireille (riski on kyllä merkittävästi isompi perinteisillä 1. sukupolven neurolepteillä). Tyypilliset oireet, kuten suun seudun, huulten ja kielen jatkuvat, märehtivät tai kiertelevät pakkoliikkeet (ns. oro-bucco-linguaalinen dyskinesia) ovat tardiivin dyskinesian ydinoireita. Statuksessa todettu hidas kävely ja molemminpuolinen rigiditeetti (jäykkyys) viittaavat lääkeparkinsonismiin, joka on eri asia kuin Parkinsonin tauti (primaarinen parkinsonismi). 
+
+Antipsykoottien aiheuttamat ekstrapyramidaalioireet ja niiden ilmenemisjärjestyksen voi muistaa muistisäännöstä ADAPT: 
+
+
+<li>Akuutti dystonia (pään/kaulan/kasvojen/kielen äkillisiä spasmeja); minuutteja-päiviä</li>
+<li>Akatisia (levottomuus ja pakottava tarve liikkumiselle); päiviä-kuukausia</li>
+<li>Parkinsonimaiset oireet (jäykkyys, vapina, bradykinesia, tasapainohäiriö); päiviä-kuukausia</li>
+<li>Tardiivinen dyskinesia (hitaasti kehittyneitä pakottavia liikkeitä); kuukausia-vuosia</li>
+
+---
+
+a: Parkinsonin taudissa vapina on yleensä toispuoleista (ainakin alussa) ja lepotyyppistä. Suun alueen voimakkaat pakkoliikkeet eivät kuulu Parkinsonin taudin ensioireisiin (elleivät ne ole pitkään jatkuneet levodopa-hoidon sivuvaikutusta, jota tällä potilaalla ei ole)
+
+b: Perinnöllinen sairaus, joka aiheuttaa laaja-alaisempaa koreaa (tanssitautia) ympäri kehoa sekä etenevää dementiaa
+
+d: Tarkoittaa niskan alueen paikallista dystoniaa, joka kääntää päätä virheasentoon (torticollis); ei selitä suun pakkoliikkeitä tai yleistä liikkumisen hidastumista
+  </div>
+</div>
+
+### Vastaanotollesi tulee 75-vuotias mies yöllisten oireiden vuoksi, jotka ilmaantuneet viimeisen vuoden aikana. Puoliso kertoo, että potilas on öisin hyvin levoton ja puoliso joutunut siirtymään toiseen huoneeseen nukkumaan, koska potilas usein yöllä potkii ja huitoo. Kertaalleen potilas käynyt puolison kimppuunkin yöllä. Aamulla potilas ei muista näistä yöllisistä tilanteista mitään. Mistä on todennäköisesti kysymys?
+
+- a. Yöllisistä epilepsiakohtauksista
+- b. REM-unen aikaisista käytöshäiriöistä
+- c. Levottomista jaloista
+- d. Unikauhukohtauksista
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+b
+
+---
+
+REM-unen käyttäytymishäiriö on melko harvinainen yleensä yli 60-vuotiailla esiintyvä häiriö, jossa normaalisti REM-unen aikana esiintyvä lihasatonia puuttuu ja potilaalla esiintyy unen sisältöön liittyvää motorista aktiivisuutta ja jopa väkivaltaista käytöstä. Puolella potilaista tämä häiriö liittyy keskushermoston degeneroivaan sairauteen ja saattaa edeltää muita oireita jopa vuosia. REM-unihäiriö ennakoi erityisesti alfa-synukleiinisairauksien (Parkinsonin tauti, multisysteemiatrofia, lewynkappaledementia) alkamista myöhemmin. REM-unen käyttäytymishäiriötä voi esiintyä myös nuorilla potilailla (usein yhdessä unissakävelyn kanssa), jolloin siihen ei liittyne lisääntynyttä neurodegeneratiivisen sairauden riskiä. 
+ 
+a: Nämä ovat yleensä lyhytkestoisia (sekunneista muutamaan minuuttiin) ja liikkeet ovat tyypillisesti rytmisiä (kouristuksia) tai kaavamaisia. Monimutkaiset kamppailuliikkeet eivät ole epilepsialle tyypillisiä.
+
+c: Tuntuu valveilla ollessa, yleensä nukkumaan mennessä epämiellyttävänä tuntemuksena jaloissa, joka pakottaa liikuttamaan niitä. Oireyhtymään kyllä usein liittyy PLMD (Periodic Limb Movement Disorder), jolle on tyypillistä jaksoittaiset toistuvat raajaliikkeet (ojennus-koukistusliikkeet, erityisesti jaloissa). 
+
+d: Unikauhuhäiriöpotilas herää äkillisesti syvästä (N3) unesta huutaen ja henkeä haukkoen. Häntä on yleensä mahdotonta saada täysin hereille, ja kohtauksen jälkeen hän yleensä palaa nukkumaan heräämättä kunnolla välillä. Ei yleensä aiheuta monimutkaisia kamppailuliikkeitä eikä yleensä ala näin vanhalla iällä (yleisintä lapsilla). 
+
+![](images/rbd.gif)
+  </div>
+</div>
+
+### Parkinsonin taudin oireena EI voi esiintyä:
+
+- a. Ataksia
+- b. Hypokinesia
+- c. Akinesia
+- d. Bradykinesia
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+a
+
+---
+
+Hypokinesialla tarkoitetaan liikkeiden hitautta ja jähmeyttä. Siinä voidaan erottaa akinesia eli liikkeen aloittamisen hitaus ja spontaanin liikehdinnän vähentyminen sekä bradykinesia eli liikesuorituksen hitaus. Usein tällaista jakoa ei kuitenkaan tehdä, vaan termejä käytetään toistensa synonyymeinä. Nämä kaikki ovat Parkinsonin taudille tyypillisiä oireita
+
+Ataksia tarkoittaa yksinkertaisesti liikkeen koordinaation häiriötä; ns. hapuilu. Tunnusomaista on liikesuoritusten muuttuminen haparoiviksi eli liikkeiden sujuvuus on häiriintynyt. Ataksia on yleensä merkki pikkuaivojen tai niiden ratayhteyksien sairaudesta tai viasta, mutta se voi johtua myös selkäytimen takajuosteiden vauriosta (sensorinen ataksia) tai joskus perifeerisestä sensorisesta neuropatiasta
+
+  </div>
+</div>
+
+### Dopamiiniagonistien kohdalla VÄÄRIN:
+
+- a. Haittavaikutuksena voi olla jalkojen turvotusta
+- b. Käytetään myös levottomat jalat -oireyhtymässä
+- c. Aloitetaan, kun muista lääkkeistä ei ole enää apua
+- d. Niillä on myös antidepressiivistä vaikutusta
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+c
+
+---
+
+Dopamiiniagonistit ovat Parkinsonin taudin alkuvaiheissa yleisesti käytössä ensilinjan lääkkeenä, varsinkin nuorilla ja muuten hyvävointisilla. Kun teho ei enää riitä, niin on syytä aloittaa levodopa.
+
+Dopamiiniagonistien (esim. ropiniroli/pramipeksoli/rotigotiini) tärkeimpiä haittoja ovat:
+
+
+<li>pahoinvointi, oksentelu</li>
+<li>ortostaattinen hypotensio</li>
+<li>perifeeriset turvotukset</li>
+<li>uneliaisuus (jopa äkilliset nukahtamiskohtaukset)</li>
+<li>psykiatriset oireet (hallusinaatiot, psykoosit)</li>
+<li>impulssikontrollin häiriö (esim. hallitsematon uhkapelaaminen tai hyperseksuaalisuus)</li>
+
+  </div>
+</div>
+
+### Essentiaaliselle vapinalle on tyypillistä
+
+- a. Toispuoleinen käden lepovapina
+- b. Symmetrinen käsien kannatteluvapina
+- c. Toispuoleinen käden aktiovapina
+- d. Symmetrinen käsien lepovapina
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+b
+
+---
+
+Essentiaalisen vapinan (ET) diagnostiset kriteerit ovat: 
+
+<li>Molemminpuolinen yläraajojen liikevapina (tai pään vapina ilman dystoniaa)</li>
+<li>Ei muuta neurologista poikkeavuutta (poikkeuksena lievät statuslöydökset ET+ oireistossa)</li>
+<li>Oireiden kesto vähintään 3 vuotta</li>
+  <ul>
+    <li>Kolmen vuoden raja on asetettu siksi, että monet muut sairaudet – ennen kaikkea Parkinsonin tauti – voivat alkuvaiheessa muistuttaa essentiaalista vapinaa. Jos vapina pysyy muuttumattomana (vain liikevapinana ilman muita oireita) kolmen vuoden ajan, on tilastollisesti erittäin epätodennäköistä, että kyseessä olisi Parkinson. Ennen kolmea vuotta voi ET olla kyllä työdiagnoosi ja epäily, mutta yleensä virallinen diagnoosi tehdään vasta 3v kohdalla.</li>
+  </ul>
+
+![](images/etcriteria.png)
+![](images/tremorcriteria.png)
+  </div>
+</div>
+
+### Parkinsonin taudin oireet ovat pelkästään motorisia
+
+- a. Oikein
+- b. Väärin
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+b
+
+---
+
+Parkinsonin tautiin liittyy laaja skaala ei-motorisia oireita, joita ovat mm. ummetus, unihäiriöt, masennus, kognition heikkeneminen ja impulssikontrollin häiriöt.
+
+![](images/parkinsonnonmotor.png)
+  </div>
+</div>
+
+### Parkinsonin taudissa rappeutuu:
+
+- a. Dopaminergiset hermoradat
+- b. GABAergiset hermoradat
+- c. Noradrergiset hermoradat
+- d. Kolinergiset hermoradat
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+a
+
+---
+
+Parkinsonin taudille on tyypillistä substantia nigrassa sijaitsevien dopaminergisten neuronien degeneraatio. Nigrostriataalinen rata siis tuhoutuu vähitellen ja tämä johtaa motorisiin oireisiin. Striatumin dopamiinipitoisuuden laskettua 60–80 % normaalista havaitaan ensimmäiset taudin oireet. Sen sijaan striatumin (nucleus caudatus + putamen) dopamiinireseptorit pääosin säilyvät taudin loppuvaihetta lukuun ottamatta.
+
+  </div>
+</div>
+
+### Essentiaalisen vapinan diagnostiikka tapahtuu erikoissairaanhoidossa ja perustuu pään TT - kuvaan
+
+- a. Väärin
+- b. Oikein
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+a
+
+---
+
+Essentiaalisen vapinan diagnoosi perustuu ensisijaisesti hyvään anamneesiin ja statukseen. Diagnostiikka ja hoito tapahtuvat perusterveydenhuollossa.
+  </div>
+</div>
+
+### Levodopan vaikutusmekanismi
+
+- a. Estää aivoissa dopamiinia hajottavaa MAO-B -entsyymiä
+- b. Stimuloi aivojen dopamiinireseptoreita
+- c. Muuttuu aivoissa dopamiiniksi
+- d. Estää dopaminergisten ratojen toimintaa
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+c
+
+---
+
+Levodopa (L-DOPA) on dopamiinin esiaste, joka pystyy läpäisemään veri-aivoesteen. Itse dopamiini ei siis läpäise -> Parkinsonin taudin hoidossa ei voi antaa suoraan dopamiinia
+
+a: MAO-B-estäjiä voidaan käyttää Parkinsonin taudissa itsenäisesti tai levodopan ohella estämään dopamiinin hajoamista aivoissa. 
+
+b: Levodopa ei itse toimi aktiivisena aivoissa, vaan se hajoaa dopamiiniksi ensin 
+
+![](images/levodopareitti.png)
+  </div>
+</div>
+
+### Parkinsonin tautiin EI kuulu:
+
+- a. Hienomotoriikan kömpelöityminen
+- b. Hypomimia
+- c. Hemipareesi
+- d. Rigiditeetti
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+c
+
+---
+
+Hemipareesi tarkoittaa toispuoleista lihasheikkoutta tai osittaista halvausta. Se viittaa yleensä ylemmän motoneuronin vaurioon, kuten aivoinfarktiin, aivoverenvuotoon tai kasvaimen aiheuttamaan vaurioon aivokuorella tai sisäkotelossa (capsula interna). Vaikka Parkinsonin taudin oireet alkavat tyypillisesti toispuoleisesti, kyse on kankeudesta, hitaudesta ja vapinasta – ei varsinaisesta lihasvoiman puutteesta (halvauksesta).
+
+a: Johtuu hypokinesian ja rigiditeetin yhteisvaikutuksesta. Potilaan on vaikea esimerkiksi napittaa paitaa, käyttää ruokailuvälineitä tai kirjoittaa (käsiala muuttuu pieneksi, mikrografia).
+
+b: Tämä tarkoittaa kasvojen ilmeikkyyden vähenemistä. Se johtuu kasvojen pienten lihasten hypokinesiasta ja on yksi tyypillisimmistä kliinisistä löydöksistä.
+
+d: Tämä on yksi Parkinsonin taudin neljästä ydinoireesta. Se on passiivisen liikkeen aikana tuntuvaa vastusta, joka on usein tasaista ("lyijyputkimainen") tai nykivää ("hammasratasilmiö"), jos mukana on vapinaa.
+  </div>
+</div>
+
+### Ekstrapyramidaalijärjestelmän vauriossa statuslöydöksenä EI voi esiintyä:
+
+- a. Normaalit jännevenytysheijasteet
+- b. Rigiditeetti
+- c. Vapina
+- d. Positiivinen Babinski
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+d
+
+---
+
+Positiivinen Babinski on pyramidiradan vaurion merkki (ylämotoneuronivaurio). 
+
+Ekstrapyramidaalijärjestelmän vauriossa mahdollisia statuslöydöksiä ovat rigiditeetti ja vapina, raajaheijasteet ovat normaalit.
+
+
+  </div>
+</div>
+
+### Essentiaalinen vapina EI voi ilmetä:
+
+- a. Pään alueella
+- b. Yläraajoissa
+- c. Äänessä
+- d. Pelkästään suun ja leuan alueella
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+d
+
+---
+
+Jos vapina rajoittuu pelkästään leuan, huulten tai kielen alueelle, se viittaa enemmän Parkinsonin tautiin tai lääkeaineen aiheuttamaan oireistoon. Essentiaalinen vapina ei tyypillisesti esiinny eristettynä alakasvojen alueella. 
+
+a: Usein liike ilmenee koko päässä ja aiheuttaa ns. "ei-ei" (vaakasuuntainen) -liikettä.
+
+b: Essentiaalisen vapinan yleisin ilmenemismuoto on yläraajoissa
+
+c: Äänivapina on melko yleistä ET-potilailla; ääni voi affisioitua myös Parkinsonin taudissa, mutta ääni muuttuu monotoniseksi ja vaimeaksi vapinan sijasta 
+
+  </div>
+</div>
+
+### Levodopa Parkinsonin taudin aloituslääkkeenä
+
+- a. Voidaan aloittaa nuorillakin potilailla, jos motoriset oireet ovat hyvin vaikeat
+- b. Aloitetaan mahdollisimman suurella annoksella
+- c. On yleensä aloituslääke vähäoireiselle potilaalle
+- d. On yleensä aloituslääke kaikille
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+a
+
+---
+
+Dopamiiniagonisteja (esim. ropiniroli, pramipeksoli tai rotigotiini) käytetään usein ainoana lääkkeenä taudin alkuvaiheessa. Ne aiheuttavat yleensä vähemmän dyskinesioita kuin levodopa, mikä on yksi keskeisimmistä syistä sille, miksi erityisesti nuoremmilla potilailla hoidon aloittamista dopamiiniagonistilla suositaan. 
+
+Aikaisemmin on ollut käsitys, että levodopan aloitusta tulisi pyrkiä lykkäämään mahdollisimman pitkään, koska sen käyttö aikaistaisi dyskinesioiden ilmaantumista. Tämä on kuitenkin kumottu eli aikainen levodopahoito ei nopeuta sen tehon menetystä ja haittavaikutusten ilmaantumista -> nykyään levodopan aloitusta ei vältellä yhtä hanakasti kuin aikaisemmin. 
+
+b: Aloitetaan pienellä annoksella ja titrataan siihen saakka, että oireet ovat minimissä. Jos aloittaa suurella annoksella, niin tulee helposti merkittäviä haittavaikutuksia. 
+
+c: Vähäoireisilla ja nuorilla potilailla dopamiiniagonistit tai MAO-B-estäjät ovat usein ensisijaisia. 
+  </div>
+</div>
+
+### Essentiaalisen vapinan hoidossa ensisijaisena lääkehoitona on beetasalpaaja. Seuraavista väittämistä OIKEIN on:
+
+- a. Voidaan käyttää jatkuvana tai tarvittaessa
+- b. Beetasalpaajista huonoin vaihtoehto on propranololi
+- c. Beetasalpaajan lisäksi muita lääkehoitovaihtoehtoja ei ole
+- d. Hoito toteutetaan erikoissairaanhoidossa
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+a
+
+---
+
+b: Ensisijaisesti juuri valitaan propranololi ja usein tarvitaan kohtalaisen suuri annos. 
+
+c: Jos ei se tehoa, niin perusterveydenhuollossa voi kokeilla esim. gabapentiinä. 
+
+d: Hoito toteutetaan ensisijaisesti perusterveydenhuollossa, mutta vaikeat tapaukset on syytä lähettää neurologin arvioon. Jos lääkehoito ei auta, niin joissakin tapauksissa voidaan harkita botuliinitoksiini-injektioita tai vaikeassa oireistossa syväaivostimulaatiota (DBS).
+
+  </div>
+</div>
+
+### Levodopan kohdalla VÄÄRIN:
+
+- a. Aiheuttaa tilanvaihteluita pitkäaikaiskäytössä
+- b. Aiheuttaa hyvin usein sekavuutta vanhuksille
+- c. Aminohapot kilpailevat imeytymisestä levodopan kanssa, joten otettava 1 h ennen ruokailua
+- d. Puoliintumisaika on lyhyt, vain n. 1,5 h
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+b
+
+---
+
+Sopii käytössä olevista lääkkeistä parhaiten iäkkäille potilaille, sillä aiheuttaa muita lääkkeitä harvemmin sekavuutta. Levodopan haittavaikutukset ovat enemmänkin fyysisiä (dyskinesiat, on-off-tilanvaihtelut) kuin psyykkisiä (esim. psykoottiset oireet); vrt. dopamiiniagonistit, jotka taas aiheuttavat enemmän psyykkisiä oireita kuin fyysisiä 
+
+c: Taudin alkuvaiheessa levodopan voi ottaa ruoan kanssa, jos kokee lääkkeestä pahoinvointia (annostelu ruoan kanssa auttaa pahoinvointiin), mutta myöhemmässä taudin vaiheessa levodopa on parasta ottaa n. tunti ennen ruokailua tyhjään vatsaan, koska valkuaispitoiset ruoat voivat vähentää sen imeytymistä.
+
+d: Totta, tämän takia annostelutiheys on korkea. Alkuvaiheessa annostelutiheys on kolme kertaa päivässä; n. 5 t:n välein esim. klo 7, 12, 17, jos potilas on valveilla klo 7–22. Myöhemmin annoksien määrää usein nostetaan
+  </div>
+</div>
+
+### Vastaanotollesi tulee 50- vuotias nainen, jolla on ollut muutamien vuosien ajan hiljalleen lisääntyvää vapinaa molemmissa käsissä. Potilas kertoo vapinan olevan hankalampaa oikeassa kädessä. Vapina on hankalimmillaan tarkkaa työtä tehdessä ja esimerkiksi syöminen on hankaloitunut vapinan vuoksi. Vapina lisääntyy jännittävissä tilanteissa. Potilas kertoo huomanneensa, että alkoholi kuitenkin lievittää vapinaa. Statuksessa huomaat potilaan päässä ei-ei tyyppistä vapinaa. Molemmissa yläraajoissa on käsiä kannatellessa vapinaa. Muuten neurologinen status on normaali. Mikä potilasta todennäköimmin vaivaa?
+
+- a. Essentiaalinen vapina
+- b. MS-tauti
+- c. Dystonia
+- d. Parkinsonin tauti
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+a
+
+---
+
+Molempien käsien aktiovapina, joka vahvistuu jännityksen myötä ja lievittyy alkoholilla. Pään alueella ei-ei-tyyppistä vapinaa (ei-ei -> ei-Parkinsonia; Parkinson affisioi pään alueella tyypillisesti vain leukaa ja suuta, ei koko päätä). Muuten neurologinen status normaali. 
+
+Tästä herää vahva epäily essentiaalisesta vapinasta ja diagnoosin voi melkein asettaa suoraan, koska potilaalla on jo ollut oireita useita vuosia. 
+
+![](images/etcriteria.png)
+![](images/tremorcriteria.png)
+
+  </div>
+</div>
+
+### Levodopa
+
+- a. Teho on hyvä myös ei-motorisiin oireisiin
+- b. Tulee ottaa yhdessä dopadekarboksylaasin inhibiittorin kanssa, sillä hajoaa muuten nopeasti ennen keskushermostoon pääsyä
+- c. Haittavaikutusten ilmetessä annosta tulee pienentää ja annosväliä harventaa
+- d. Yleensä käytetään depotvalmisteita
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+b
+
+---
+
+Levodopaa ei anneta käytännössä koskaan yksin, vaan sen tehokkutta lisätään vähintään dopadekarboksylaasin estäjillä (esim. karbidopa, benseratsidi) yhdistelmävalmisteena.
+
+a: Tehoaa yleensä huonosti ei-motorisiin oireisiin. Motorisista oireista vaste on arvaamattomin vapinaan (noin kolmasosa potilaista kärsii vapinasta, joka ei reagoi levodopaan kunnolla, vaikka lääkeannosta nostettaisiin -> levodoparesistentti lepovapina )
+
+c: Aiheuttaa pitkäaikaiskäytössä vaikutusajan lyhenemää, tilanvaihteluita ja dyskinesioita, joiden vuoksi levodopan annosta joudutaan usein pienentämään ja annosväliä tihentämään jopa 7-8 kertaa vuorokaudessa otettavaksi.
+
+d: Pidempivaikutteisten depotvalmisteiden ongelmana on matalaksi jäävä lääkeaineen huippupitoisuus, joten yleensä käytetään standardivalmisteita. Depotvalmisteet voivat kuitenkin toimia hyvin esimerkiksi yöaikaisiin oireisiin.
+
+![](images/levodopareitti.png)
+  </div>
+</div>
+
+### Ekstrapyramidaalijärjestelmän vauriossa statuslöydöksenä voi esiintyä:
+
+- a. Halvausoire
+- b. Klooniset raajaheijasteet
+- c. Spastinen lihastonus
+- d. Rigiditeetti
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+d
+
+---
+
+Ekstrapyramidaaliradan vauriossa voi esiintyä potilaan raajoja passiivisesti liikutellen tuntuvaa jatkuvaa tai hammasratasmaista rigiditeettiä. 
+
+a, b, c: Halvausoire, klooniset raajaheijasteet ja spastinen lihastonus kuuluvat pyramidiradan vaurioon liittyviin statuslöydöksiin. 
+
+---
+
+Ekstrapyramidaalijärjestelmään kuuluu nimensä mukaan kaikki ne aivojen motoriset tumakkeet ja radat, jotka eivät kuulu pyramidaalijärjestelmään
+
+Pyramidaalijärjestelmään kuuluu kortikobulbaarinen (signaalit korteksilta aivorunkoon aivohermoihin) ja kortikospinaalinen radasto (signaalit korteksilta selkäytimeen), jotka tuottavat tahdonalaista liikettä. Nimitetään pyramidaalisiksi radoiksi, koska kulkevat medullaarisen pyramidin läpi (parilliset valkoisen aineen rakenteet medulla oblongatan anteriorisella puolella). Pyramidaalijärjestelmä on siis primaari motorinen aivokuori + sieltä laskevat ylemmät motoriset radastot (kortikospinaali ja -bulbaari)
+
+Ekstrapyramidaalijärjestelmän radat taas eivät kulje pyramidien kautta. Järjestelmään kuuluu erityisesti tyvitumakkeet (basal ganglia eli n. caudatus, putamen, globus pallidus, substantia nigra ja n. subthalamicus), talamus ja ekstrapyramidaaliradastot (aksoniratoja, jotka laskevat aivorungosta kohti alempia motoneuroneita säätelemään liikettä; radastoja ovat esim. retikulospinaalinen, vestibulospinaalinen, rubrospinaalinen, tektospinaalinen) sekä pikkuaivot. 
+
+Ekstrapyramidaalijärjestelmä ohjaavat ei-tahdonalaisesti liikkeiden suunnittelua ja säätelyä sekä liikesarjojen aikaansaamista. Säätelee myös tasapainorefleksejä. 
+
+![](images/pyramidalvsextra.png)
+  </div>
+</div>
+
+### Mikä seuraavista väittämistä on VÄÄRIN? Fysiologinen vapina:
+
+- a. Taustalla on aina jokin neurologinen sairaus
+- b. On aktiovapinaa
+- c. Esiintyy hetkittäin
+- d. Diagnoosi on kliininen
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+a
+
+---
+
+Fysiologinen vapina on aktiovapinaa eli esiintyy liikkeen aikana. Se ilmenee hetkittäin, ei jatkuvana, ja on jonkin tekijän aiheuttamaa esim. katekoliamiinit, stimuloivat nautintoaineet, jokin lääkeaine tai aineenvaihduntasairaus (esim. hypertyreoosi) voi sitä korostaa. Diagnoosi on kliininen ja taustalla ei ole neurologista sairautta (nimensäkin mukaan fysiologista).
+
+  </div>
+</div>
+
+### Parkinsonin taudin diagnostiikasta OIKEIN:
+
+- a. Geenitestaus tehdään kaikille potilaille
+- b. Aivojen MRI on Parkinsonin taudissa tyypillisesti normaali
+- c. Funktionaalinen aivokuvaus (beeta-CIT-SPECT/ DaTSCAN) tehdään aina diagnoosin varmistamiseksi
+- d. Laboratoriotutkimukset eivät ole tarpeen
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+b
+
+---
+
+a: Parkinsonin taudin taustalla on vain harvoin yhden geenin aiheuttama perinnöllinen mutaatio, joten geenitestaus tehdään vain erityistapauksissa (lähinnä, jos sukuanamneesi sopii vallitsevaan periytymistapaan, potilas on sairastuessaan alle 40-vuotias tai potilas on sairastuessaan 40-50 vuotias ja hänellä on positiivinen sukuanamneesi).
+
+c: Funktionaalista kuvantamista voidaan käyttää tarvittaessa esim. jos potilaalla on epätyypillinen oirekuva tai erotusdiagnostisesti mietitään lääkeaineparkinsonismin mahdollisuutta. DaTSCAN eli dopamiinikuvantaminen voi auttaa erottamaan Parkinsonin taudin ei-degeneratiivisista tiloista, mutta ei erottele Parkinsonia ja Parkinson-plus-diagnooseja.
+
+d: Laboratoriotutkimuksia (esim. PVK, TSH, Ca, Pi, B12-vit, Krea, ALAT) tehdään monesti erotusdiagnostikan vuoksi.
+  </div>
+</div>
+
+### Alkuvaiheen Parkinsonin taudille on tyypillistä ei-motorisina oireina ilmenevä
+
+- a. REM-unen aikainen käytöshäiriö
+- b. Näköharhat
+- c. Ripuli
+- d. Virtsankarkailu
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+a
+
+---
+
+Periaatteessa REM-unen käytöshäiriö (RBD) on motorinen oire, mutta ilmenee unen aikana. REM-unen aikana esiintyvä lihasatonia puuttuu -> esiintyy unen sisältöön liittyvää motorista aktiivisuutta ja jopa väkivaltaista käytöstä. REM-unihäiriö ennakoi erityisesti alfa-synukleiinisairauksien (Parkinsonin tauti, multisysteemiatrofia, lewynkappaledementia) alkamista myöhemmin. 
+
+Muita alkuvaiheen oireita ovat mm. hajuaistin heikkeneminen, ummetus, väsymys, lihaskivut ja masennus/ahdistuneisuus. 
+
+b: Liittyvät lewyn kappale -tautiin 
+
+c: Ummetus on yleinen Parkinsonin taudin esioireena
+
+d: Virtsaamispakko tai -karkailu ovat yleisempiä taudin edetessä. Alkuvaiheessa ne ovat harvinaisia, ja niiden varhainen esiintyminen saattaa viitata johonkin Parkinson plus-oireyhtymään, erityisesti monisysteemiatrofiaan (MSA).
+
+![](images/parkinsontimeline.png)
+  </div>
+</div>
+
+### Dopamiiniagonistien mahdollisiin haittavaikutuksiin EI kuulu:
+
+- a. Vaikutusajan lyhenemä
+- b. Näköharhat
+- c. Impulssikontrollin häiriöt
+- d. Sekavuus
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+a
+
+---
+
+Psykoottiset oireet (sekavuus ja näköharhat) sekä impulssikontrollin häiriöt ovat Parkinsonin lääkkeistä juuri dopamiiniagonisteille yleisimpiä. Dopamiiniagonistien kanssa ei tyypillisesti ilmene vaikutusajan lyhenemää ja sen aiheuttamaa wearing-off-ilmiötä, vaan se on tyypillisempää levodopalle, kun taudin edetessä aivojen kyky varastoida dopamiinia heikkenee.
+  </div>
+</div>
+
+### Dyskinesialla tarkoitetaan
+
+- a. Jäykkyyttä liikesarjojen suorittamisessa
+- b. Vaikeutta suorittaa opittuja tahdonalaisia liikkeitä
+- c. Liikkeiden hidastumista
+- d. Poikkeavia tahattomia liikkeitä
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+d
+
+---
+
+Kroonisen levodopahoidon aikana voidaan havaita dyskinesiaa (tahattomia liikkeitä), kun annoksen vaikutus ylittää terapeuttisen ikkunan ja toivotun "On"-vaiheen tason (peak-dose-dyskinesia). 
+
+![](images/dyskinesia.gif)
+![](images/parkinsonprogression.png)
+  </div>
+</div>
+
+### Levodopa on ensisijainen aloituslääke kaikilla Parkinsonin tautia sairastavilla oireiden vaikeusasteesta ja potilaan iästä riippumatta
+
+- a. Ei, sillä markkinoilla on tehokkaampiakin lääkkeitä, kuten MAO-B-estäjät
+- b. Kyllä, sillä se on tehokkain markkinoilla oleva Parkinsonin taudin lääke
+- c. Kyllä, sillä sen käytöllä ei ole pitkäaikaishaittoja
+- d. Ei, sillä pitkäaikaisessa käytössä se aiheuttaa tilanvaihteluita ja dyskinesioita
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+d
+
+---
+
+Levodopan varhainen aloittaminen ei itsessään näytä nopeuttavan on-off-ilmiön tai muiden haittojen syntymistä. Pitkään uskottiin, että levodopan käyttö pitäisi säästää viime hetkeen, mutta on osoitettu, että on-off-vaihtelut johtuvat ensisijaisesti itse sairauden etenemisestä, eivät lääkkeen käytetystä kokonaismäärästä tai hoidon kestosta
+
+Tämä ajatus johti siihen, että levodopan aloittamista pyrittiin välttämään mahdollisimman pitkään. Nykyään tätä ajatusta ei ole, mutta ei levodopaa silti aloiteta automaattisesti kaikille, vaan ensilääkkeen valintaan vaikuttavat potilaan ikä, oireiden voimakkuus ja ei-motoriset oireet. Usein nuorilla lieväoireisilla potilailla ensisijaislääke on esim. dopamiiniagonisti. Lopulta kaikki potilaan kuitenkin tarvitsevat levodopaa; se on tehokkain lääke parkinsonin taudissa. 
+
+  </div>
+</div>
+
+### Vastaanotollesi tulee 75-vuotias mies kävelyvaikeuksien vuoksi. Viimeisen vuoden aikana huomannut liikkumisen hidastuneen ja kaatuilee herkästi. Anamneesia ottaessasi tulee esille, että puoliso on huolissaan potilaan lisääntyneistä muistiongelmista, potilas unohtelee keskusteltuja asioita ja sovittuja menoja. Potilas itse ei ole huomannut minkäänlaisia muistiongelmia. Puoliso kertoo, että naapureiden kanssa tullut ristiriitoja, kun potilas alkanut epäillä naapurin varastelevan työkaluja pihan puuvajasta. Tästä kysyttäessä potilas kertoo, että välillä nähnytkin, että pihalla joku hiippailee puuvajan ympärillä. Puoliso kertoo näissä tilanteissa olleensa paikalla ja kertoo, ettei ole pihalla nähnyt ketään, mutta potilas ei tätä tahdo uskoa. Neurologisessa statuksessa toteat kaikissa raajoissa lievää rigiditeettiä, joka korostuu kontra-aktivaatiossa. Kävellessä askelmitta on lyhentynyt ja käännökset hitaat. Ryhti on etukumara. Potilas on hypomiiminen. Mitä epäilet?
+
+- a. Lewyn kappale -tauti
+- b. Parkinsonin tauti
+- c. Skitsofrenia
+- d. Alzheimerin tauti
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+a
+
+---
+
+Tässä korostuu kolme lewyn kappale -taudin ydinoiretta: parkinsonismi, kognitiivinen heikentyminen (ja erityisenä piirteenä ne fluktuoivat päivästä toiseen ja päivän aikanakin) ja näköhallusinaatiot (potilas näkee pihalla "hiippailijoita"). 
+
+b: Parkinsonin taudissa motoriset oireet (kuten vapina ja kankeus) alkavat yleensä vuosia ennen muistiongelmia tai hallusinaatioita. Lewyn kappale -taudissa kognitiiviset oireet alkavat joko ennen motorisia oireita tai viimeistään vuoden sisällä motoristen oireiden alusta (ns. 1-year rule).
+
+c: Skitsofrenia puhkeaa tyypillisesti nuorella aikuisiällä. 75-vuotiaana alkavat hallusinaatiot ja harhaluulot yhdistettynä liikuntakyvyn muutoksiin viittaavat useimmiten johonkin muuhun kuin psykoosisairauteen. Potilaalla myös ilmenee parkinsonismioireita, mikä vie ajatuksia pois skitsofreniasta. 
+
+d: Alzheimerin taudissa muistioireet (uuden oppimisen vaikeus) ovat hallitsevia, mutta parkinsonismin oireet (kuten rigiditeetti) ja näköhallusinaatiot ilmaantuvat yleensä vasta taudin hyvin myöhäisessä vaiheessa.
+
+---
+
+Lewyn kappale -taudin diagnoosi on kliininen tai kliinis-biologinen:
+
+<li>2 keskeistä kliinistä piirrettä TAI 1 keskeinen kliininen piirre + 1 biologinen löydös</li>
+<li>1-year-rule (erotuksena Parkinson-dementiasta</li>
+
+![](images/lewy.png)
+  </div>
+</div>
+
+### Parkinsonin taudin diagnostiikka perustuu
+
+- a. Levodopahoitokokeiluun
+- b. Muiden syiden poissulkuun verikokeilla
+- c. Neurologiseen statustutkimukseen
+- d. Aivojen magneettitutkimuksen löydöksiin
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+c
+
+---
+
+Parkinsonin taudin diagnoosista vastaavat neurologit; epäilyn herätessä potilas lähetetään neurologialle. Diagnoosi on ensisijaisesti kliininen ja perustuu eri vaiheisiin. Ensin pitää diagnosoida parkinsonismi, joka kriteerit ovat: 
+
+<li>Hypokinesia (hidastunut liikkeen aloittaminen ja etenevä toistuvien liikesuoritusten hidastuminen ja laajuuden vähentyminen) + ainakin yksi seuraavista</li>
+<li>rigiditeetti eli lihasjäykkyys</li>
+<li>(4–6 Hz:n) lepovapina</li>
+<li>tasapainon epävakaus (jota ei aiheuta visuaalinen, vestibulaarinen, pikkuaivoperäinen tai proprioseptiivinen häiriö)</li>
+
+---
+
+Ei-motoristen oireiden esiintymisestä (esim. hajuaistin heikentyminen, ummetus, RBD, väsymys, autonomisen hermoston häiriöt) voi saada lisätukea Parkinsonin tautia epäiltäessä
+
+---
+
+Verikokeilla sairautta ei voida todeta, mutta niitä usein määrätään, jotta voidaan varmistaa, että kyse ei ole jostain muusta sairaudesta. 
+
+---
+
+MRI-kuvantamista (toissijaisesti TT) käytetään usein toisten aiheuttajien poissulkemiseen; eivät siis osoita spesifisiä muutoksia. Valikoiduissa tapauksissa käytetään ns. dopamiinikuvantamista (CIT-SPECT “DatScan”) erottamaan degeneratiivisen parkinsonismin ei-degeneratiivista tiloista kuten essentiaalisesta vapinasta. Essentiaalisessa vapinassa, lääkeparkinsonismissa ja vaskulaarisessa parkinsonismissa dopaminergisen järjestelmän toiminta on normaalia, kun taas Parkinsonin taudissa se on poikkeavaa.
+
+![](images/parkinsonkriteerit.png)
+  </div>
+</div>
+
+
+### Essentiaaliseen vapinaan EI kuulu:
+
+- a. Bilateraalinen aktiovapina yläraajoissa
+- b. Jatkuva tai usein toistuva esiintyminen
+- c. Tyypilliset löydökset pään TT:ssä
+- d. Osalla potilaista positiivinen sukuanamneesi
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+c
+
+---
+
+Pään TT:tä ei tarvita diagnoosin tekemiseen, mutta jos se on muusta syystä tehty, niin siihen ei liity löydöksiä.
+
+
+a: Essentiaalinen vapina on symmetristä aktiovapinaa. 
+
+b: Ilmenee jatkuvasti tai vähintään fysiologistakin vapinaa korostavien tekijöiden pahentamana (esim. jännittyneisyys, stressi yms)
+
+d: Yli 60 %:lla potilaista on positiivinen sukuanamneesi, periytyminen autosomissa dominantisti. Ei ole yksittäisiä tunnistettuja geenejä, joita seulottaisiin.
+
+  </div>
+</div>
+
+### Parkinsonin taudin nykylääkityksellä pyritään hidastamaan taudin etenemistä
+
+- a. Väärin
+- b. Oikein
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+a
+
+---
+
+Lääkkeillä ei voida vaikuttaa taudin etenemiseen, vaan hoito on oireiden hillitsemistä.
+
+  </div>
+</div>
+
+### Lääkkeiden aiheuttamassa parkinsonismissa OIKEIN:
+
+- a. Hoitona on dopamiiniagonistit
+- b. Oireena lähinnä vapinaa eikä juurikaan rigiditeettiä
+- c. Neuroleptit ovat yleisin aiheuttaja
+- d. Oireet ilmaantuvat usein vuosia lääkkeen aloituksen jälkeen
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+c
+
+---
+
+Neuroleptit (Varsinkin 1. sukupolven) ovat dopamiiniantagonisteja -> loogisesti aiheuttavat parkinsonimaisia oireita (Parkinsonin tauti juuri johtuu dopamiinivajeesta). Myös mm. metoklopramidi (pahoinvointilääke) on antidopaminerginen ja tunnettu ekstrapyramidaalioireiden aiheuttaja.
+
+a: Hoitona on lääkkeen lopetus ja toipuminen tapahtuu yleensä muutamien kuukausien aikana.
+
+b: Tyypillisesti potilaalla on symmetristä rigiditeettiä, vapina ei yleensä ole hallitseva oire.
+
+d: Oireet ilmaantuvat yleensä muutaman kuukauden sisällä lääkkeen aloituksesta. Tardiivinen dyskinesia on se antipsykoottien haittavaikutus, joka ilmenee vuosien skaalalla 
+
+  </div>
+</div>
+
+### Parkinsonin taudin ei-motorisiin oireisiin EI kuulu:
+
+- a. Autonomisen hermoston häiriöt
+- b. Unihäiriöt
+- c. Harhat
+- d. Näköaistin heikkeneminen
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+d
+
+---
+
+Parkinsonin tauti ei vaurioita silmän rakenteita (kuten verkkokalvoa) tai näköhermoa tavalla, joka aiheuttaisi perinteistä näön heikkenemistä.
+
+a: Erittäin yleisiä; tyypillisimpiä oireita ovat mm. ummetus, ortostaattinen hypotensio, virtsaamishäiriöt ja hikoilun säätelyn ongelmat
+
+b: Unihäiriöistä tunnetuin on REM-unen aikainen käytöshäiriö (RBD). Voi myös esiintyä mm. levottomien jalkojen oireyhtymää (RLS) tai liiallista päiväaikaista väsymystä (EDS; vaikka yöunet olisivat näennäisesti riittävät, potilas saattaa kärsiä voimakkaasta uupumuksesta ja nukahtelusta keskellä päivää)
+
+c: Näköharhat (hallusinaatiot) ovat tyypillisiä erityisesti taudin edetessä. Ne voivat liittyä itse sairausprosessiin tai olla lääkityksen (erityisesti dopamiiniagonistien) aiheuttamia sivuvaikutuksia.
+
+![](images/parkinsonnonmotor.png)
+  </div>
+</div>
+
+### Parkinsonin tautiin EI kuulu:
+
+- a. Myötäliikkeiden väheneminen
+- b. Refleksipoikkeavuudet
+- c. Etukumara ryhti
+- d. Askelmitan lyheneminen
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+b
+
+---
+
+Parkinsonin taudissa todetaan tyypillisesti normaalit jänneheijasteet. Parkinsonin tauti on ekstrapyramidaalinen lliikehäiriö, eikä siihen kuulu pyramidiradan vaurion merkkejä kuten kiihtyneitä refleksejä
+
+A,c ja d kuvailevat tyypillistä parkinsonistista kävelyä. Parkinsonin taudille on tyypillistä kävelyvaikeudet ja erityisesti tyypillistä on se, että kävelyn aloittaminen on hidasta, kävellessä askelpituus on lyhentynyt ja myötäliikkeet ovat vähentyneet tai poissa. Taudin edetessä potilaan asento muuttuu etukumaraiseksi ja tasapaino huononee. 
+
+
+![](images/parkinsonistinen.png)
+![](images/parkinsonupdrs.png)
+  </div>
+</div>
+
+### Essentiaalisen vapinan hoidossa:
+
+- a. Hoito parantaa ennustetta
+- b. Neurogirurginen hoito (syväaivostimulaatio) on aiheellinen suurimmalle osalle
+- c. Lääkehoidolla saadaan paras teho yläraajojen alueella
+- d. Botuliinitoksiinihoito on ensisijainen hoitomuoto
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+c
+
+---
+
+Essentiaalisen vapinan hoito on oireenmukaista, eli hoidetaan vain jos oireista on potilaalle haittaa. Ensisijainen hoito on lääkehoito (beetasalpaaja), ja jos oireita ei sillä saada hallintaan, voidaan joissain tapauksissa harkita botuliinitoksiini-injektioita ja vaikeassa vapinassa neurokirurgista hoitoa (DBS tai neuro-HIFU). Lääkehoito tehoaa raajoja huonommin pään ja äänen vapinaan.
+
+  </div>
+</div>
+
+### Lääkeparkinsonismia voivat aiheuttaa
+
+- a. Verenpainelääkkeet (esim. ramipriili)
+- b. Triptaanit (esim. sumatriptaani)
+- c. Kolesterolilääkkeet (esim. rosuvastatiini)
+- d. Pahoinvointilääkkeet (esim. metoklopramidi)
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+d
+
+---
+
+Metoklopramidi on D2-dopamiiniantagonisti -> aiheuttaa dopamiiniantagonistien tapaan esktrapyramidaalioireita ja lääkeparkinsonismia. Tunnetuimmat ja yleisimmät aiheuttajat kuitenkin ovat neuroleptit. 
+  </div>
+</div>
+
+### Metaboliseen sairauteen liittyvässä vapinassa VÄÄRIN:
+
+- a. Etiologiana on useimmiten alkoholi
+- b. Esiintyy yleensä distaalisesti
+- c. On yleensä aktiovapinaa
+- d. Vapina on yleensä vain sairauden sivulöydös
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+a
+
+---
+
+a: Metabolinen vapina on oheisoire metabolisesta sairaudesta, kuten hypertyreoosi, maksa- ja munuaissairaudet, B12-vitamiinin puutos ja polysytemia. Pitkäaikainen alkoholinkäyttö vaurioittaa usein erityisesti pikkuaivoja ja aiheuttaa vapinan lisäksi muita pikkuaivoperäisiä oireita.
+
+b: Metabolinen vapina näkyy tyypillisesti raajojen kärkiosissa, kuten sormissa ja kämmenissä. Esimerkki tästä on maksan tai munuaisten vajaatoiminnan aiheuttama asterixis ("liver flap"; kts. alla), jossa kädet alkavat heilumaan niiden ekstension johdosta. Myös mm. CO2-retentio voi aiheuttaa tällaisia ns. ureemisia nykinöitä
+
+c: Totta
+
+d: Useimmiten vapina on vain sivulöydös ja muut sairauden oireet ovat hallitsevampia.
+
+![](images/flap.gif)
+  </div>
+</div>
+
+## Muistisairaudet 
