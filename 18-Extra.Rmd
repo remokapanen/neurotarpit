@@ -3651,3 +3651,1636 @@ d: Useimmiten vapina on vain sivulöydös ja muut sairauden oireet ovat hallitse
 </div>
 
 ## Muistisairaudet 
+
+### Mitä tarvitaan aivoverenkiertosairauden muistisairauden diagnoosiin?
+
+- a. Tyypillinen oirekuva riittää
+- b. Tyypillinen oirekuva ja laboratoriokoelöydökset
+- c. Tyypillinen oirekuva ja kuvantamislöydökset
+- d. Tyypillinen oirekuva ja kliiniset löydökset
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+c
+
+---
+
+Vaskulaarinen muistisairaus tarkoittaa, että erityyppiset aivoverenkierron häiriöt ja niiden aiheuttamat muutokset aivojen toiminnassa aiheuttavat kognitiivisia oireita. Verisuoniperäiset muutokset ovat toiseksi yleisin syy dementiatasoiseen kognitiiviseen heikentymään (yleisin on Alzheimerin tauti). Kognitiivisten oireiden luonne ja vaikeus riippuvat aivoverenkiertohäiriöiden sijainnista ja laajuudesta. Näin ollen vaskulaarisessa kognitiivisessa heikentymässä ei ole määriteltävissä tyypillistä kognitiivista oirekuvaa ja etenemisjärjestystä samalla tavoin kuin AT:ssa. Vaskulaarisessa kognitiivisessa heikentymässä voidaan erottaa kaksi alatyyppiä: pienten ja suurten suonten tauti. Koska aivomuutokset näissä alatyypeissä ovat erilaiset, on niillä myös erityyppiset kognitiiviset oirekuvat. Diagnoosi edellyttää, että potilaalla on kognitiivinen heikentymä (usein painottuen toiminnanohjaukseen ja hitauteen) ja pään kuvantamisessa (ensisijaisesti yleensä MRI) todetaan merkittäviä vaskulaarisia muutoksia.
+
+Pienten aivoverisuonten taudista johtuvassa vaskulaarisessa muistisairaudessa on tyypillistä subkortikaaliset ns. lakunainfarktit ja valkean aineen muutokset, jota kutsutaan leukoaraioosiksi. Suurten suonten taudille on tyypillistä erityisesti kortikaaliset infarktit. 
+  </div>
+</div>
+
+### Mitä tulee huomioida työikäisellä potilaalla?
+
+- a. CERAD voi olla normaali
+- b. CERAD-tutkimusta ei ole tarpeen tehdä
+- c. Työnantaja voi huolestua turhaan
+- d. Ensimmäiset oireet huomataan usein kotona
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+a
+
+---
+
+CERAD-tehtäväsarja = The Consortium to Establish a Registry for Alzheimer's disease. Nimensä mukaan CERAD on siis kehitetty erityisesti Alzheimerin taudin seulontaan ja tunnistaa erityisesti siten Alzheimer-tyyppisen heikentymän; käytetään kuitenkin ihan yleisestikin muistiongelmien selvittelyssä 
+
+Validoitu yli 60-vuotiaille eikä siten ole paras työikäisillä. Työikäisillä on usein korkea kognitiivinen reservi, jolloin he pystyvät suoriutumaan tehtäväsarjasta hyvin, vaikka heidän työkykynsä olisi jo heikentynyt. 
+
+b: CERAD voidaan tehdä työikäisilläkin (MoCA myös käytössä paljon varsinkin työikäisillä), vaikka se ei ole yksinään riittävä. Työikäiset yleensä tarvitsevat neuropsykologisia selvittelyitä
+
+c ja d: Työelämässä muutokset usein todellisia ja varhaisia merkkejä. Oireet näkevät töissä ennen kotoa, koska töissä on usein korkeampi vaatimus kognitiivisille kyvyille
+
+  </div>
+</div>
+
+### Muistisairauksien seuranta kuuluu:
+
+- a. Perusterveydenhuoltoon
+- b. Erikoissairaanhoitoon
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+a
+
+---
+
+Nykyisen työnjaon mukaan muistisairauksien tunnistaminen kuuluu PTH -> konsultoidaan ja tarvittaessa lähetetään ESH. Erikoislääkäri (neurologi, geriatri tai psykogeriatri) varmistaa diagnoosin ja laati ensivaiheen hoito-ohjeet ja mm. yhteenvedon tutkimuksista. Potilas yleensä palaa PTH:n huostaan seurantaan. 
+  </div>
+</div>
+
+### Mikä ”tutkimuspaketti” olisi paras muistisairausepäilyssä, ja tehdään perusterveydenhuollossa?
+
+- a. CERAD, Läheisen muistikysely, EKG, ”muistilaboratoriokokeet”
+- b. CERAD, MMSE, EKG, ”muistilaboratoriokokeet”
+- c. CERAD, MMSE, ADCS-ADL, ”muistilaboratoriokokeet”
+- d. MMSE, Läheisen muistikysely, EKG, ”muistilaboratoriokokeet”
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+a
+
+---
+
+Perusterveydenhuollon lääkärin tärkein tehtävä muistihäiriöiden selvittelyssä on poikkeavan oireen tunnistaminen ja perusselvitys, johon kuuluu: 
+
+<li>potilaan ja läheisen kuuntelu ja kattava anamneesi tilanteesta</li>
+<li>kartoitetaan mahdollisia syitä (esim. mieliala (tukena masennuskyselyt, kuten PHQ-9; vanhuksilla esim. GDS-15), päihdekäyttö, lääkkeet, uni, stressitekijät, mahdolliset pään vammat)</li>
+<li>oirearvio (muistikyselyt)</li>
+<li>neurologinen perusstatus (ja yleisstatus ja psykiatrinen status)</li>
+<li>Aineenvaihduntahäiriöt (mm. hypotyreoosi, hyper- ja hypokalsemia)</li>
+<li>muistitestit (CERAD vanhuksille ensisijainen, MMSE useimmiten edenneissä tapauksissa ja seurannassa; MoCA myös käytössä paljon varsinkin työikäisillä); yleensä muistihoitaja tekee</li>
+<li>muistisairauksien peruslaboratoriotutkimukset (PVK, glukoosi, krea, natrium, kalium, kalsium, tsh+t4v, ALAT, GT, D-25, B12 vitamiini, harkinnanvaraisesti lipidit, lasko ja folaatti, EKG)</li>
+
+  </div>
+</div>
+
+### Mikä seuraavista sopii parhaiten Alzheimerin tautiin?
+
+- a. Lähimuistin heikentyminen
+- b. Aloitekyvyn heikentyminen
+- c. Aistiharhat
+- d. Tarkkaavuuden ja vireyden säätelyn häiriö
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+a
+
+---
+
+Alzheimerin taudin yleisin (n. 85%) tyyppi on amnestinen eli ns. muistipainotteinen muoto. Se alkaa yleensä muistihäiriöillä (alkaa lyhytkestoisen muistin ongelmilla ja etenee pitkäkestoisen muistin ongelmiin). Sitä seuraavat muutokset persoonallisuudessa, käytöksessä, toiminnanohjauksessa ja vasta myöhäisessä vaiheessa ilmenee motorisen tai sensorisen toiminnan häiriöitä. 
+
+b: Vaikka tätä esiintyy Alzheimerin taudissakin, se on tyypillisempi ja varhaisempi oire otsalohkodementiassa tai vaskulaarisessa muistisairaudessa
+
+c: Aistiharhat ovat muistisairauksista tyypillisimpiä lewyn kappale -taudille
+
+d: On tyypillistä Lewyn kappale -taudille, jossa potilaan vireystila ja kognitiivinen suoriutuminen voivat vaihdella suuresti jopa saman päivän aikana. Tietysti myös kannattaa pitää mielessä delirium, mutta sen oirekuva on yleensä selvä sen alkamisnopeuden takia. 
+  </div>
+</div>
+
+### Mikä seuraavista sopii parhaiten Lewyn kappale -tautiin?
+
+- a. Estottomuus
+- b. Toiminnanohjauksen heikentyminen
+- c. Näköhallusinaatiot
+- d. Ajan ja paikantajun häiriö
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+c
+
+---
+
+a: Tämä on tyypillinen oire otsalohkodementiassa, jossa potilaan persoonallisuus ja sosiaalinen käyttäytyminen muuttuvat.
+
+b: Tätä esiintyy Lewyn kappale -taudissa, mutta se on hyvin yleinen oire myös vaskulaarisessa dementiassa ja Alzheimerin taudissa, joten se ei ole yhtä spesifinen oire kuin näköharhat.
+
+d: Tämä on klassinen Alzheimerin taudin oire, joka liittyy hippokampuksen ja päälakilohkon vaurioihin. Lewyn kappale -taudissa eksyminen ei yleensä ole ensimmäinen tai hallitsevin oire.
+
+Lewyn kappale -taudin diagnoosi on kliininen tai kliinis-biologinen (kts. alla):
+
+<li>2 keskeistä kliinistä piirrettä TAI 1 keskeinen kliininen piirre + 1 biologinen löydös</li>
+<li>1-year-rule (erotuksena Parkinson-dementiasta</li>
+
+![](images/lewy.png)
+
+  </div>
+</div>
+
+### Mikä seuraavista voi olla Lewyn kappale -taudin ensioire?
+
+- a. Kuulohallusinaatiot
+- b. Luonteen muutos
+- c. Hahmottamisvaikeus
+- d. Puheen tuottamisen vaikeus
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+c
+
+---
+
+Lewyn kappale -taudissa (LBD) kognitiivinen heikentyminen painottuu usein jo varhaisvaiheessa näköavaruudelliseen hahmottamiseen ja tarkkaavuuteen. LBD vaurioittaa varhain aivojen takaosia (takaraivo- ja päälakilohkoja), mikä johtaa vaikeuksiin hahmottaa etäisyyksiä, muotoja ja esineiden sijaintia. Potilaalla voi olla vaikeuksia esimerkiksi portaiden kulkemisessa, esineisiin tarttumisessa tai monimutkaisten kuvioiden kopioinnissa (kuten kellon piirtämisessä).
+
+a: Näköhallusinaatiot ovat tyypillisiä
+
+b: Persoonallisuuden muutos ja estottomuus ovat otsalohkodementian tyypillisiä ensioireita
+
+c: Afasia viittaa muistihäiriöiden kontekstissa usein otsa-ohimolohkorappeuman kielellisiin muotoihin (etenevä sujumaton afasia, semanttinen dementia, logopeeninen afasia)
+  </div>
+</div>
+
+### Mikä seuraavista EI ole tyypillinen Alzheimerin taudin neuropatologinen löydös?
+
+- a. Neurofibrillikimput
+- b. Beeta-amyloidiplakit
+- c. Valkean aineen muutokset
+- d. Aivoatrofia
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+c
+
+---
+
+Vaikka Alzheimer-potilaan aivoissa voi esiintyä valkean aineen muutoksia (varsinkin jos potilaalla on samanaikaisesti pienten suonten tauti ja vaskulaarista kognitiivista alenemaa), ne eivät ole taudin diagnostinen tai tyypillinen neuropatologinen tunnusmerkki.
+
+a: Alzheimerin taudissa nähtävät tau-proteiinien neurofibrillivyyhdit ovat solujen sisäpuolisia kertymiä. Tau on mikrotubuluksiin liittyvä proteiini ja hyperfosforyloituessaan ei enää pysty stabiloimaan mikrotubuluksia, mikä aiheuttaa neuronien kuolemaa. 
+
+b: Alzheimerin taudin histologialle on tyypillistä beeta-amyloidista koostuvat ns. neuriittiplakit harmaassa aineessa. Muodostuu amyloid precursor proteiinista (APP, kromosomissa 21) sen beta- ja gamma-pilkkoutuessa. Neuriittiplakkikertymät aiheuttavat tulehdusresponssin ympärilleen sekä voivat myös kertyä verisuonien ympärille lisäten verenvuodon riskiä
+
+d: Alzheimerin taudille on tyypillistä erityisesti hippokampuksen atrofia. Myös muut alueet atrofioituvat.
+
+![](images/atatrofia.png)
+![](images/neurofibril.png)
+![](images/neuriittiplakki.png)
+  </div>
+</div>
+
+### Posteriorinen kortikaalinen atrofia: mikä seuraavista EI ole diagnostinen kriteeri varhaisessa tai lievässä taudissa?
+
+- a. Normaali kliininen neurologinen status
+- b. Hahmottamisvaikeus
+- c. Ajan ja paikantajun häiriö
+- d. Lukemisen vaikeus
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+c
+
+---
+
+Alzheimerin taudin tyypillisimmät variantit ovat amnestinen (yleisin, n. 85%), posteriorinen kortikaalinen atrofia), frontaalinen ja logopeninen etenevä afasia. 
+
+Varianttimuodoissa varhaisena oireena voi olla jokin muukin kuin muisti; esim. posteriorisessa variantissa hahmottamisen vaikeudet, frontaalisessa variantissa käytösoireet/toiminnanohjauksen vaikeudet ja logopenisessä afasiassa/etenevässä afasiassa kielellisten toimintojen ongelmat (esim. vaikeus toistaa lauseita tai nimetä esineitä).
+
+Hahmottamisen vaikeuksien lisäksi posterioriselle variantille on tyypillistä normaali kliininen neurologinen status ja lukemisen vaikeus (johtuu vaikeudesta seurata riviä tai tunnistaa kirjaimia ja sanoja visuaalisesti, vaikka näkökyky itsessään on tallella). 
+  </div>
+</div>
+
+### Mikä seuraavista EI pidä paikkaansa Alzheimerin taudissa?
+
+- a. Antipsykootteja voidaan käyttää oireiden hoidossa
+- b. Oireenmukaista lääkehoitoa ei kannata kokeilla kaikille
+- c. Lääkkeettömät hoitokeinot ovat tärkeitä sairauden hoidossa
+- d. Varhaisessa vaiheessa voi kliinisestä ravintovalmisteesta (Souvenaid) olla hyötyä
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+b
+
+---
+
+Alzheimerin taudin ensisijainen lääkitys eli AKE:n estäjät (esim. rivastigmiini, donepetsiili, galantamiini) aloitetaan yleensä heti, kun on diagnoosi ja lääkitystä harkitaan aina kaikille. Lääkkeet eivät paranna tai hidasta taudin etenemistä, mutta ne vähentävät oireita ja auttavat säilyttämään potilaan toimintakyvyn ja omatoimisuuden mahdollisimman pitkään -> potilas selviytyy pidempään kotona. 
+
+Tietysti huomioidaan vasta-aiheet. Jos AKE:n estäjää ei vasta-aiheiden takia voida aloittaa ja potilaalla on lievä tauti, niin yleensä odotetaan, kunnes tila etenee keskivaikeaksi ja sitten aloitetaan memantiini (memantiinia ei käytetä lievässä taudissa). Jos potilaalla on jo AKE:n estäjä käytössä ja oireet etenevät keskivaikeiksi, niin memantiini yleensä yhdistetään AKE:n estäjän rinnalle. 
+
+
+a: Dementiapotilaan käytöshäiriöiksi kutsutaan muistisairauksiin liittyviä neuropsykiatrisia oireita, joita ovat mm. potilaalle epätavanomainen käyttäytyminen, todellisuudentajun vääristyminen tai mielialaoireet. Neuropsykiatrisia oireita pitää hoitaa pääsääntöisesti silloin, kun ne rasittavat potilasta tai heikentävät kykyä huolehtia itsestä, sosiaalista vuorovaikutusta tai toimintakykyä. Hoito on aiheellista myös silloin, kun oireet aiheuttavat vaaratilanteita potilaalle itselleen tai muille, oireet vaikuttavat hoitopaikkaratkaisuun tai omaiset eivät enää niiden vuoksi jaksa hoitaa potilasta. Lääkehoidossa muistisairauslääkkeet ovat ensisijaisia lääkkeitä myös muistisairauteen liittyvien neuropsykiatristen oireiden hoidossa. Erilaisten oirekuvien yhteydessä käytetään vielä erilaisia tilanteeseen sopivia lääkkeitä: esim. psykoosilääkkeet (esim. risperidoni), masennuslääkkeet (tosin suhteellisen heikko teho yleensä, mutta aiheellinen erityisesti, jos potilaalla on ollut aiemmin depressiojaksoja; yleensä vasta jos masennus on vähintään keskivaikea, koska lievissä tiloissa teho on heikko), bentsot...
+
+c: Totta 
+
+d: Souvenaid on kliininen ravintolisä, joka sisältää tärkeitä ravintoaineita varhaista Alzheimerin tautia sairastaville. Tutkimusten mukaan Alzheimerin tautia sairastavien elimistössä on vähemmän esimerkiksi omega-3-rasvahappoja, tiettyjä vitamiineja, koliinia ja uridiinia kuin terveillä samanikäisillä. Näitä ravintoaineita tarvitaan muun muassa normaalin aivotoiminnan ylläpitämiseen. Souvenaid-juoma on helppo ottaa osaksi päivittäistä rutiinia; yksi pullo päivässä riittää. Souvenaidin hyödyt ovat havaittavissa 3–6 kuukauden säännöllisen käytön jälkeen. 
+
+![](images/akevasta.png)
+
+  </div>
+</div>
+
+### Mikä seuraavista sopii parhaiten ohimolohkodementiaan?
+
+- a. Muistivaikeudet
+- b. Luonteen muutos
+- c. Hahmottamisen vaikeudet
+- d. Näköoireet
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+b
+
+---
+
+Ohimolohkodementialla tässä tarkoitetaan todennäköisesti otsa-ohimolohkorappeumaa (FTLD), joka voidaan jakaa kahteen isoon oirekuvaluokkaan: otsalohkodementia (FTD) ja primaari etenevä afasia (kielelliset alatyypit). 
+
+Otsalohkodementiassa oirekuva painottuu alussa käyttäytymisen ja sosiaalisen vuorovaikutuksen muutoksiin ennen muistihäiriöitä; tarkemmalta nimeltään onkin bvFTD (behavioral variant). Esim. luonnollisen estyneisyyden väheneminen, apatia, sisäänpäin kääntyneisyys, sympatian/empatian kokemisen menetys, toistuva/stereotyyppinen/pakonomainen käyttäytyminen, hyperoraalisuus (pakonomainen tarve laittaa suuhun jotakin), ruokavalion muutokset.
+
+a: Toisin kuin Alzheimerin taudissa, FTD-potilaan lähimuisti ja orientoituminen säilyvät sairauden alkuvaiheessa hyvinä.
+
+c: Nämä viittaavat tyypillisesti aivojen takaosien affisioitumiseen (esim. posteriorinen kortikaalinen atrofia)
+
+d: Näköhallusinaatiot kuuluvat tyypillisimmin Lewyn kappale -tautiin
+  </div>
+</div>
+
+### Alzheimerin taudin lääkehoito: Mikä seuraavista väittämistä pitää paikkaansa?
+
+- a. Jos yhdestä AKE-estäjästä tulee haittoja, ei kannata vaihtaa toiseen AKE-estäjään
+- b. Aloitetaan pienellä annoksella ja pyritään mahdollisimman pieneen annokseen
+- c. Aloitetaan pienellä annoksella ja pyritään mahdollisimman suureen annokseen
+- d. Lääkehoito aloitetaan perusterveydenhuollossa heti, kun herää epäily Alzheimerin taudista
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+c
+
+---
+
+Hoito aloitetaan pienellä annoksella haittojen kontrolloimiseksi ja annosta suurennetaan n. kuukauden välein. Pyritään suurimpaan siedettyyn annokseen, koska AKE:n estäjillä on annoksesta riippuvainen vaste oireiden lievittämisessä. Memantiinikin yleensä aloitetaan pienellä annoksella (n. 5mg) ja titrataan viikon välein ylöspäin (tutkittu korkein annos on 20mg (10mg x2), joka on myös tavoite). 
+
+a: Voi olla järkevää testata toisia, sillä valmisteiden välillä on eroja sekä anto-muodoissa (esim. rivastigmiini laastarina) että lievästi myös vaikutusmekanismeissa (esim. rivastigmiini on sekä asetyyli- että butyryylikoliiniesteraasien palautumaton estäjä, kun taas donepetsiili ja galantamiini ovat reversiibeleitä AKE:n estäjiä), ja vaihto voi poistaa haitat tai parantaa vastetta. Lääkkeiden välillä ei todennäköisesti kuitenkaan ole merkittäviä kliinisiä tehoeroja AT:n pitkäkestoisessa hoidossa. 
+
+d: Diagnoosin asettaminen ja hoidon aloittaminen kuuluu yleensä erikoislääkärin (neurologi tai geriatri) tehtäviin 
+  </div>
+</div>
+
+### Mikä seuraavista voi esiintyä yhdessä frontotemporaalidementian kanssa?
+
+- a. Parkinsonin tauti
+- b. ALS-tauti
+- c. Myastenia gravis
+- d. MS-tauti
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+b
+
+---
+
+ALS ja otsa-ohimolohkorappeuma (FTLD) jakavat usein samoja patogeneettisiä piirteitä; erityisesti C9orf72-geenin mutaatioihin liittyen TDP-43:n kertymien aiheuttamat atrofia. 
+  </div>
+</div>
+
+### Mikä seuraavista EI ole Alzheimerin taudin tyypillinen oire?
+
+- a. Sairaudentunnon heikkeneminen
+- b. Oppimisen heikkeneminen
+- c. Laskemiskyvyn heikkeneminen
+- d. Näköharhat
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+d
+
+---
+
+Näköharhat ovat muistisairauksista tyypillisimpiä Lewyn kappale -taudille 
+
+a: Tämä on hyvin tyypillistä Alzheimerin taudissa. Potilas ei itse usein huomaa muistinsa ja toimintakykynsä heikkenemistä, vaan pitää itseään terveenä, vaikka läheiset olisivat hyvin huolissaan.
+
+b: Sairaus vaurioittaa varhain hippokampusta, mikä häiritsee lähimuistia ja siten uuden tiedon tallentumista. 
+
+c: Kognitiivisten toimintojen laaja-alainen heikkeneminen on osa tautia. Laskutehtävät vaativat työmuistia ja abstraktia päättelykykyä -> heikkenee taudin edetessä usein jo lievässä vaiheessa
+  </div>
+</div>
+
+### Mikä seuraavista EI kuulu muistisairauksien perustutkimuksiin?
+
+- a. CERAD
+- b. MRI
+- c. ADCS-ADL
+- d. FDG-PET
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+d
+
+---
+
+FDG-PET-kuvantamista käytetään tarpeen mukaan erotusdiagnostisena jatkotutkimuksena. Esimerkiksi Alzheimerin taudissa PET-kuvantamista voidaan käyttää diagnoosin vahventamisessa, varsinkin jos potilas on nuori, tilanne on epäselvä tai hatkitaan modifoivia hoitoja
+
+a: Muistisairauksien diagnostiikassa yleisimmin käytetty kognitiota testaava tehtäväsarja
+
+b: Pään kuvantaminen on useimmiten osa muistisairauksien perustutkimuksia ja ensisijainen metodi on MRI 
+
+c: Alzheimer's Disease Cooperative Study Activities of Daily Living Inventory (ADCS-ADL) -haastattelulla kartoitetaan tutkittavan päivittäistä toimintakykyä perustoiminnoissa ja välineellisissä sekä toiminnanohjausta vaativissa toiminnoissa. ADCS-ADL-haastattelulla voidaan arvioida toimintakykyä muistisairauden kaikissa vaiheissa. 
+  </div>
+</div>
+
+### Alzheimerin taudin tyypillinen ensioire?
+
+- a. Harhat
+- b. Sairaudentunnon heikentyminen
+- c. Sanojen merkityksen ymmärtämisen vaikeus
+- d. Uuden oppimisen ja lähimuistin heikentyminen
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+d
+
+---
+
+a: Kuuluvat Lewyn kappale -taudin oireisiin
+
+b: Hyvin yleistä Alzheimerin taudissa, mutta se seuraa usein muistioireiden alkamista tai kehittyy niiden rinnalla. Sairaudentunnottomuus ei tietystikään myöskään ole se oire, jonka takia potilas yleensä hakeutuisi vastaanotolle
+
+c: Sanojen merkityksen ymmärtämättömyys on tyypillistä otsa-ohimolohkorappeuman semanttinen dementia -alatyypille, jolle on tyypillistä sujuva puhe, mutta se on sisällöltään tyhjää; vaikeuksia myös nimeämisessä ja ymmärtämisessä. 
+  </div>
+</div>
+
+### Mikä seuraavista on tärkein tiedonkäsittelykyvyn seulontamenetelmä muistisairauksissa?
+
+- a. CERAD
+- b. ADCS-ADL
+- c. Muistikysely läheiselle
+- d. MMSE
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+a
+
+---
+
+CERAD on yksi yleisimmin käytetyistä kognitiivisten toimintojen arviointimenetelmistä. Se sisältää mm. MMSE, kielellisen sujuvuuden arvioinnin, kopiointitehtäviä yms. 
+
+b: Tärkeä potilaan toimintakyvyn arvioinninssa, mutta ei käytetä suoraan kognition seulontaan
+
+c: Välttämätön osa kokonaisarviota, mutta se ei ole objektiivinen tiedonkäsittelykyvyn testi tai seulontamenetelmä samassa mielessä kuin kognitiiviset testit
+
+d: MMSE sisältyy CERAD:iin ja sitä käytetään edenneen dementia-asteisen muistisairauden seulontaan ja seurantaan. Testi ei kuitenkaan sovellu varhaisen tai lievän muistisairauden seulontaan.
+
+  </div>
+</div>
+
+### Missä sairauksissa esiintyy motoriikan vaikeutta sairauden lievässä vaiheessa?
+
+- a. Lewyn kappale -taudissa ja Parkinsonin taudin muistisairaudessa
+- b. Alzheimerin taudissa ja Lewyn kappale -taudissa
+- c. Alzheimerin taudissa ja Parkinsonin taudin muistisairaudessa
+- d. Otsa-ohimolohkorappeumissa ja Lewyn kappale -taudissa
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+a
+
+---
+
+Molemmille on ominaista parkinsonismi. 
+
+b ja c: Alzheimerin taudissa motoriikka säilyy tyypillisesti hyvänä taudin lievässä vaiheessa. Ongelmat ilmaantuvat yleensä vasta taudin edetessä vaikeaan vaiheeseen.
+
+d: Tyypillisissä otsa-ohimolohkorappeumissa motoriikka on lievässä vaiheessa usein täysin normaalia, ja oireet painottuvat persoonallisuuden tai kielellisten toimintojen muutoksiin
+  </div>
+</div>
+
+### Missä taudissa EI käytetä Alzheimerin taudin lääkehoitoa?
+
+- a. Parkinsonin taudin muistisairaudessa
+- b. Lewyn kappale -taudissa
+- c. Sekamuotoisessa muistisairaudessa (Alzheimerin tauti+vaskulaaridementia)
+- d. Otsalohkodementiassa
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+d
+
+---
+
+AKE:n estäjien tai memantiinin hyödystä ei ole näyttöä, eikä niitä tule käyttää otsa-ohimolohkorappeuman hoidossa, mutta muuta oirekuvan mukaista lääkitystä voidaan harkita (lääkehoidolla pyritään lähinnä lievittämään käytösoireita). Millään lääkkeellä ei ole virallista indikaatiota FTLD-sairauksien hoitoon ja oireenmukaisistakin lääkityksistä vähän tutkimustietoa
+
+a ja b: Parkinsonin taudin muistisairaudessa ja Lewyn kappale -taudissa AKE:n estäjät usein hyödyttävät potilaita paljonkin. Rivastigmiini on ensisijainen ja donepetsiili toissijainen; korvattavuus kuitenkin vain jos samanaikainen Alzheimerin tauti
+
+c: On tietysti virallisesti indikoitua hoitaa Alzheimerin tautia, vaikka sen yhteydessä olisikin vaskulaarista dementiaa (kuten usein onkin). Pelkässä vaskulaarisessakin muistisairaudessa saattaa olla hyötyä muistisairauslääkkeistä, mutta tässä tilanteessa ei olisi virallista käyttöaihetta.
+  </div>
+</div>
+
+### Missä tilanteessa Souvenaid-valmistetta suositellaan käytettäväksi?
+
+- a. Varhaisessa vaskulaaridementiassa
+- b. Varhaisessa Alzheimerin taudissa
+- c. Varhaisessa Lewyn kappale -taudissa
+- d. Varhaisessa Parkinsonin taudin muistisairaudessa
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+b
+
+---
+
+Souvenaid on kliininen ravintolisä, joka sisältää tärkeitä ravintoaineita varhaista Alzheimerin tautia sairastaville. Tutkimusten mukaan Alzheimerin tautia sairastavien elimistössä on vähemmän esimerkiksi omega-3-rasvahappoja, tiettyjä vitamiineja, koliinia ja uridiinia kuin terveillä samanikäisillä. Näitä ravintoaineita tarvitaan muun muassa normaalin aivotoiminnan ylläpitämiseen. Souvenaid-juoma on helppo ottaa osaksi päivittäistä rutiinia; yksi pullo päivässä riittää. Souvenaidin hyödyt ovat havaittavissa 3–6 kuukauden säännöllisen käytön jälkeen. 
+  </div>
+</div>
+
+### Kuinka moni suomalainen kärsii eri tasoisista tiedonkäsittelyn ongelmista (lähimpänä tarkkaa lukua)?
+
+- a. >500 000
+- b. >300 000
+- c. >900 000
+- d. >100 000
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+b
+
+---
+
+Tiedonkäsittelyn ongelmia kokee 5,3–16,3 % 45-vuotiaista tai sitä vanhemmista ja jopa joka kolmas yli 65-vuotiaista valkoihoisista. Suurimmalla osalla ei kuitenkaan ole kyseessä muistisairaus, sillä ohimeneviä muistivaikeuksia voivat aiheuttaa muutkin syyt, kuten esimerkiksi kiire, stressi, väsymys ja masennus. 
+
+Suomessa on aiemmin arvioitu kansainvälisiin epidemiologisiin tutkimuksiin perustuen olevan yli 200 000 henkilöä, joilla tiedonkäsittely on lievästi heikentynyt ja Suomessa on yli 150000 henkilöä, joilla on diagnosoitu muistisairaus (Käypä Hoito 2026). 
+
+d: Tämä olisi siis oikea vastaus, jos virallisia diagnosoituja muistisairauksia kysyttäisiin
+  </div>
+</div>
+
+### Mikä seuraavista EI ole tyypillinen oire varhaisessa otsa-ohimolohkorappeumassa?
+
+- a. Puheen ymmärtämisen vaikeus
+- b. Toiminnanohjauksen vaikeus
+- c. Mieleen palauttamisen vaikeus
+- d. Puheen tuottamisen vaikeus
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+c
+
+---
+
+Vaikka otsa-ohimolohkorappeumat (FTLD) ovat monimuotoisia, niiden alkuvaihetta leimaavat yleensä muutokset persoonallisuudessa, käyttäytymisessä tai kielellisissä toiminnoissa, ei niinkään muistissa.
+
+a: Semanttinen dementia (svPPA) on otsa-ohimolohkorappeumien yksi alatyypeistä, jolle on tyypillistä sujuva puhe, mutta se on sisällöltään tyhjää; vaikeuksia myös nimeämisessä ja ymmärtämisessä
+
+b: Käyttäytymispainotteisen muodon (bvFTD) yleinen oire; potilaan on vaikea suunnitella, aloittaa tai viedä loppuun monivaiheisia tehtäviä, ja hänen kykynsä säädellä impulsseja heikkenee
+
+d: Etenevä sujumaton afasia (NfvPPA) on otsa-ohimolohkorappeumien yksi alatyypeistä, jolle on tyypillistä työläs puheentuotto, virheet puheessa, yksinkertaiset lauserakenteet ja mahdollisesti luku- ja kirjoitusvaikeudetkin
+  </div>
+</div>
+
+### Posteriorinen kortikaalinen atrofia: tyypillinen ensioire?
+
+- a. Vaikeudet uuden oppimisessa
+- b. Vaikeudet kuullun ymmärtämisessä
+- c. Vaikeudet puheen tuottamisessa
+- d. Vaikeudet nähdyn hahmottamisessa
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+d
+
+---
+
+Kyseessä on Alzheimerin taudin epätyypillinen variantti. Posterioriselle kortikaaliselle atrofialle on nimensä mukaisesti tyypillistä, että aivoatrofia paikantuu aivokuoren taka-alueille, ja se on usein voimakkaampaa oikeassa aivopuoliskossa. 
+
+Kognitiivisessa oirekuvassa korostuu visuospatiaalisen ja -konstruktiivisen hahmottamisen vaikeudet sekä agnostiset (aivot eivät kykene tunnistamaan tai tulkitsemaan kohteita, kasvoja, ääniä tai hajuja) vaikeudet. Visuaalisen hahmottamisen häiriöt voivat olla poikkeuksellisen vaikea-asteiset verrattuna muuhun oirekuvaan. Myöhemmin oirekuvaan ilmaantuu usein apraksiaa, lukemisen, kirjoittamisen ja laskemisen erityishäiriöitä. Muistitoiminnot säilyvät yleensä alkuvaiheessa selvästi paremmin kuin perinteisessä taudin muodossa.
+
+  </div>
+</div>
+
+### Milloin tulisi epäillä otsalohkodementiaa?
+
+- a. Kun potilaalla esiintyy erinäisiä näköhäiriöitä
+- b. Kun iäkkään potilaan uuden oppiminen on heikentynyt
+- c. Kun potilas eksyy tutussa ympäristössä
+- d. Kun iäkkäällä potilaalla esiintyy ensimmäisen kerran psykiatrista oireilua
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+d
+
+---
+
+Otsalohkodementian (bvFTD) ensioireet muistuttavat usein psykiatrisia sairauksia. Potilas voi vaikuttaa masentuneelta (apatia, vetäytyminen) tai maanisuuteen taipuvaiselta (estottomuus, impulsiivisuus, harkintakyvyn puute). Muistitestit voivat hämäävästi olla alkuvaiheessa normaalit. 
+
+a: Viittaavat muistisairauksista Lewyn kappale -tautiin
+
+b: Erityisesti Alzheimerin taudin tyyppioire
+
+c: Eksyminen ja paikantajun häiriöt liittyvät tyypillisesti Alzheimerin tautiin
+  </div>
+</div>
+
+## Päänsärky 
+
+### Mikä on päänsärkypotilaan tutkimuksen kulmakivi?
+
+- a. Niska-hartiaseudun palpointi
+- b. Yleisstatus
+- c. Anamneesi
+- d. Pään TT
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+c
+
+---
+
+Hyvä anamneesi paljastaa mm. säryn laadun, kehittymisnopeuden, sijainnin, keston, liitännäisoireet sekä särkyä pahentavat ja helpottavat tekijät. Näiden perusteella pystyy yleensä erottamaan vaarattomat primaaripäänsäryt vaarallisista sekundaarisista syistä.
+
+  </div>
+</div>
+
+### Mikä seuraavista ei ole tensionaaliselle päänsärylle tyypillinen oire?
+
+- a. Vihlova päänsärky
+- b. Toispuoleinen päänsärky
+- c. Pantamainen päänsärky
+- d. Puristava päänsärky
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+b
+
+---
+
+Jännityspäänsärky on tyypillisesti bilateraalinen (alkuun voi tuntua enemmän toisella puolella) ja useimmiten sitä kuvataan pantamaiseksi puristavaksi kivuksi. Siihen liittyy usein repäiseviä, viiltäviä kipuja päässä. Päänahka tuntuu kireältä.
+
+Jännityspäänsärky on yleisin päänsäryn syy ja sisältää sekä lihasjännityksestä johtuvat että henkisestä jännittyneisyydestä johtuvat päänsäryt; voi siis esiintyä ilman merkittävää lihaskireyttä. Mekanismi käytännössä tuntematon; ei olla päästy yksimielisyyteen siitä, missä määrin särky johtuu puhtaasti lihasten jännityksestä ja kuinka paljon mukana on aivoperäisiä tekijöitä tai psykogeenistä jännitystä. 
+
+  </div>
+</div>
+
+### Kuinka monta kohtausta vaaditaan aurattoman migreenin diagnoosiin?
+
+- a. 3
+- b. 2
+- c. 5
+- d. 7
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+c
+
+---
+
+![](images/auratonmigreeni.png)
+  </div>
+</div>
+
+### Migreenipotilaiden diagnostiikka ja hoito tapahtuu
+
+- a. Erikoissairaanhoidossa
+- b. Perusterveydenhuollossa
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+b
+
+---
+
+Neurologin konsultaatiota tarvitaan, jos on kyseessä vaikeahoitoinen tai epäselvä tapaus 
+  </div>
+</div>
+
+### Diagnosoit potilaalla terveyskeskuksessa trigeminusneuralgian. Mitä aloitat ensisijaisesti lääkehoidoksi?
+
+- a. Natriumvalpoaatti annosta vasteen mukaan nostaen
+- b. Tulehduskipulääke esim. ibuprofeeni/ketoprofeeni isolla annoksella
+- c. Karbamatsepiini annosta vasteen mukaan nostaen
+- d. Indometasiini kuuriluontoisesti 50 mg kahdesti päivässä
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+c
+
+---
+
+Trigeminusneuralgian diagnoosi ja lääkealoitus voidaan tehdä perusterveydenhuollossa. Karbamatsepiinin aloitusannos on yleensä 100 mg × 2. Sitä nostetaan tarpeen mukaan tasolle 1 200 mg/vrk. Alussa on hyvä seurata verenkuvaa ja maksaentsyymejä. Karbamatsepiinin pitoisuusmäärityksiä voi tehdä epäiltäessä yliannostelua (huimaus, väsymys, kaksoiskuvat, nystagmus). Muutaman kk:n oireettomuuden jälkeen lääkityksen purku
+
+Karbamatsepiinin vaihtoehtona – erityisesti, jos siitä tulee haittavaikutuksia (väsymys, huimaus) tai kun on tarvetta välttää sen interaktioita muiden lääkkeiden kanssa – on okskarbatsepiini (ei kuulu erityiskorvattavuuden piiriin). Toisen linjan lääkkeenä esim. lamotrigiini rinnalle tai vaihdetaan tilalle, jos ensisijaiset lääkkeet eivät tehoa. Jos tilanne on hoitoresistentti ja/tai on todettu oireinen, aivojen MK:ssa näkyvä neurovaskulaarinen kompressio, potilas saatetaan lähettää neurokirurgian klinikkaan arvioon. Tavallisesti tarvitaan ensin neurologin arvio tilanteesta.
+
+---
+
+Trigeminusneuralgia eli kolmoishermosärky on yhden tai useamman haaran alueelle paikantuva erittäin kovina lyhytkestoisina kiputuikkauksina esiintyvä kiputila, joka voi olla välillä pitkäänkin oireeton. Potilas saa äkisti toistuvia, toispuoleisia lyhytaikaisia sähköiskumaisia kipuja tavallisesti n. maxillariksen tai n. mandibulariksen alueelle eli ylä- alaleuan alueelle (harvoin V1 eli n. ophtalmicuksen alueella ja aiheuttaa kipua otsassa ja silmän ympärillä)
+
+Kipujakso kestää yhdestä sekunnista n. 2 min:iin ja se voi toistua lukuisia kertoja päivän mittaan. Oireilu voi kestää viikkoja tai kuukausia. Kipu on yleensä erittäin voimakas estäen pahimmillaan mm. syömisen. Pitkäkestoista kasvokipua esiintyy lyhytkestoisten kipusävähdysten lisäksi n. 25–50 %:lla potilaista. Se tuntuu samalla alueella kuin lyhyet kipusävähdykset. Kivun luonne on esim. polttavaa tai sykkivää.
+
+Diagnoosi on kliininen ja perustuu anamneesiin sekä kliiniseen tutkimukseen.
+
+  </div>
+</div>
+
+### Lievän-kohtalaisen migreenikohtauksen kohtauslääkkeenä
+
+- a. Ensisijainen lääke on opiaattiryhmän analgeetti (esim. kodeiini/tramadoli)
+- b. Ensisijainen lääke on tavallinen kipulääke (esim. ibuprofeeni/parasetamoli/ketoprofeeni)
+- c. Ensisijainen lääke on pahoinvointilääke (metoklopramidi/proklooriperatsiini)
+- d. Ensisijainen lääke on triptaani (esim. sumatriptaani/eletriptaani/frovatriptaani).
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+b
+
+---
+
+Iso osa lievistä kohtauksista voidaan hoitaa ilman lääkkeitä tai suositellulla särkylääkeannoksella. Lääkehoitoa suositellaan, jos kohtaukset tyypillisesti heikentävät toimintakykyä. Lääke suositellaan otettavaksi jo lievässä kipuvaiheessa. 
+
+Ensimmäisiksi lääkehoitokokeiluiksi ehdotetaan tulehduskipulääkkeitä ja/tai parasetamolia joko metoklopramidin kanssa tai ilman. Mikäli tulehduskipulääkkeitä tai parasetamolia käyttämällä ei saavuteta hoitovastetta 2 tunnin kuluessa tai jos kipu palaa nopeasti, suositellaan seuraavien kohtausten hoitoon triptaaneja.
+
+a: Opioideja ei tulisi käyttää migreenin hoidossa
+  </div>
+</div>
+
+### 35-vuotiaalla miehellä on alkanut pari viikkoa sitten oikean silmän seudun poraavat, erittäin kovat kipukohtaukset, jotka kestävät noin tunnin kerrallaan. Potilas kertoo heräävänsä lähes joka yö kovaan kipuun. Oikean silmän seudun kipukohtaus on nyt yöllä päivystyksessä parhaillaan päällä ja neurologisessa statuksessa havaitset potilaan oikeasta silmästä valuvan kyyneleitä, oikea sidekalvo verestää ja oikealla on ptoosi. Muuten neurologinen status on normaali. Potilas on rauhattoman ja kivuliaan oloinen ja ravaa odotushuoneessa levottomana edestakaisin. Mitä epäilet ja miten tutkit ja hoidat potilaan?
+
+- a. Epäilen Hornerin syndroomaa => määrään parasetamolia 100:0mg i.v. ja määrään tehtäväksi pään TT+ pään ja kaulasuonten TT-angiografiatutkimuksen
+- b. Epäilen silmäperäistä syytä taustalla, mahdollisesti avokulmaglaukoomakohtaus => määrään parasetamolia 100:0 mg i.v. ja teen päivystyslähetteen silmälääkärille arvioon
+- c. Kyseessä on migreenikohtaus => määrään potilaalle ibuprofeenia 800:mg p.o ja metoklopramidia
+- d. Kyseessä on sarjoittainen päänsärky => määrään potilaalle 100: %:sen hapen hengitystä sammakkomaskilla 15-20 min, virtaus 7-10 l/min
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+d
+
+---
+
+Sarjoittaisen päänsäryn (Hortonin neuralgia) oireena on voimakas, toispuoleinen päänsärky (yleensä silmän takana polttavana) ja erotuksena migreenistä siihen liittyy lähes aina levottomuus eli kävely helpottaa, eikä pahenna särkyä. Autonomiset oireet, kuten silmän verestys, kyynelvuoto, nenän tukkoisuus ovat yleisiä. Kohtaukset kestävät 15–180 minuuttia ja voivat toistua useita kertoja päivässä; usein tiettyyn vuodenaikaan tai vuodenajan muutoksiin liittyen.
+
+Yleensä vain sumatriptaani-injektio ja happihengitys (100 % happi, 12–15 l/min, maskin kautta; tehoaa 70–80 %:lla) auttavat kohtauksen hoitoon. Kohtauksien estohoitona käytetään yleensä verapamiilia (kalsiumkanavan salpaaja, ensisijainen vaihtoehto), litiumia (jos verapamiili ei tehoa) tai topiramaattia (epilepsialääke, joskus käytetään lisälääkkeenä). Estohoidon siltahoitona käytetään usein prednisoni 60-100mg/vrk 5vrk:n ajan ja sen jälkeen hidas purku; ns. rauhoittaa tilannetta nopeasti. 
+
+
+  </div>
+</div>
+
+### Mikä seuraavista ei ole tyypillistä Hortonin neuralgialle:
+
+- a. Kipu on toispuoleista
+- b. Kipu on invalidisoivaa
+- c. Kipu lievittyy liikkeessä
+- d. Kipu lievittyy levossa
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+d
+
+---
+
+Sarjoittaisen päänsäryn (Hortonin neuralgia) oireena on voimakas, toispuoleinen päänsärky (yleensä silmän takana polttavana) ja erotuksena migreenistä siihen liittyy lähes aina levottomuus eli kävely helpottaa, eikä pahenna särkyä. 
+
+Autonomiset oireet, kuten silmän verestys, kyynelvuoto, nenän tukkoisuus ovat yleisiä. Kohtaukset kestävät 15–180 minuuttia ja voivat toistua useita kertoja päivässä; usein tiettyyn vuodenaikaan tai vuodenajan muutoksiin liittyen.
+
+b:Sarjoittaisen päänsäryn kipukohtaukset ovat tyypillisesti erittäin vaikeita, jonka takia sairaus tunnetaan myös nimellä itsemurhapäänsäryt (suicide headaches); itsemurha oireyhtymän kivuista johtuen on kuitenkin harvinaista, mutta itsemurhan ajatukset kivuista johtuen ovat yleisiä
+  </div>
+</div>
+
+### Mikä seuraavista väittämistä on totta?
+
+- a. Neuroradiologinen kuvantaminen on syytä tehdä kaikille potilaille, joilla on ollut migreeniaura
+- b. Migreenin diagnoosi perustuu anamneesiin, neurologiseen statukseen ja päänsäryn loppumiseen triptaanin oton jälkeen
+- c. Migreenin diagnoosin voi asettaa vain neurologi tai neurologian yksikössä työskentelevä lääkäri tai yleislääkäri, jos ensin on konsultoitu neurologia
+- d. Neuroradiologinen kuvantaminen ei ole aiheellista tyypillisessä migreenissä potilaalla, jonka neurologinen status on normaali
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+d
+
+---
+
+Migreenin diagnostiikka perustuu pääasiassa anamneesiin ja kuvaukseen oireista. Neurologinen status on normaali. Diagnostiikka ja hoito kuuluu pääasiassa perusterveydenhuoltoon.  
+  </div>
+</div>
+
+### Migreenin estohoidossa
+
+- a. Lääkehoidon kesto on vähintään 2-3 vuotta
+- b. Lääkehoidon kesto on vähintään 2-3 viikkoa
+- c. Lääkehoidon kesto arvioidaan yksilöllisesti, mutta sen ei tule ylittää 12 kuukautta
+- d. Lääkehoidon kesto on vähintään 2-3 kuukautta
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+d
+
+---
+
+Hoidon pituus pitää arvioida yksilöllisesti, mutta estolääkityksen tehoa ja sietoa arvioidaan 2–3 kuukauden kuluttua sen aloituksesta. Sen jälkeen mietitään, miten jatketaan. Episodisessa migreenissä hoitotaukoa voidaan harkita 3–6 kuukauden kuluttua hoitotasapainon saavuttamisesta. Kroonisessa tai vaikeahoitoisessa migreenissä hoitotaukoa suositellaan vastaavasti 12–18 kuukauden kuluttua. Tauon aikana seurataan migreenin taajuutta, joka jossain tapauksissa lisääntyy jo 2–4 kuukauden tauon aikana. Näissä tilanteissa estolääke aloitetaan uudestaan
+  </div>
+</div>
+
+### 50-vuotiaalla naisella on ollut parin viikon ajan sähköiskumaisia, lyhyitä teräviä kipuja vasemmalla puolen kasvoja posken seudussa. Välillä kivut ovat poissa, mutta esimerkiksi hampaiden pesu ja posken kosketus laukaisevat kipuja. Mitä epäilet anamneesin perusteella potilaallasi?
+
+- a. Sarjoittainen päänsärky
+- b. Migreeni
+- c. Trigeminusneuralgia
+- d. Tensionaalinen päänsärky
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+c
+
+---
+
+Trigeminusneuralgia eli kolmoishermosärky on yhden tai useamman haaran alueelle paikantuva erittäin kovina lyhytkestoisina kiputuikkauksina esiintyvä kiputila, joka voi olla välillä pitkäänkin oireeton. Potilas saa äkisti toistuvia, toispuoleisia lyhytaikaisia sähköiskumaisia kipuja tavallisesti n. maxillariksen tai n. mandibulariksen alueelle eli ylä- alaleuan alueelle (harvoin V1 eli n. ophtalmicuksen alueella ja aiheuttaa kipua otsassa ja silmän ympärillä). Laukaisevana tekijänä on usein alueen koskeminen, syöminen, hampaiden harjaaminen yms. 
+
+Kipujakso kestää yhdestä sekunnista n. 2 min:iin ja se voi toistua lukuisia kertoja päivän mittaan. Oireilu voi kestää viikkoja tai kuukausia. Kipu on yleensä erittäin voimakas estäen pahimmillaan mm. syömisen. Pitkäkestoista kasvokipua esiintyy lyhytkestoisten kipusävähdysten lisäksi n. 25–50 %:lla potilaista. Se tuntuu samalla alueella kuin lyhyet kipusävähdykset. Kivun luonne on esim. polttavaa tai sykkivää.
+
+Diagnoosi on kliininen ja perustuu anamneesiin sekä kliiniseen tutkimukseen.
+
+  </div>
+</div>
+
+### Mikä seuraavista EI ole sekundaarisen päänsäryn aiheuttaja?
+
+- a. Sinuiitti
+- b. CNS-infektio
+- c. Niska- hartiaseudun lihasjännitys
+- d. Alkoholin vieroitusoireet
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+c
+
+---
+
+Primaariset päänsärkysairaudet voidaan pääasiassa jakaa neljään luokkaan: Tensio- eli jännityspäänsärky, Migreeni, Sarjoittainen päänsärky (Hortonin neuralgia, cluster headache) ja muut kolmoishermon autonomiset päänsäryt, Muut primaariset päänsäryt. Yleisin näistä on jännityspäänsärky eli tension neck; arviolta 40–75 % aikuisista ihmisistä kokee ainakin kerran elämässään jännityspäänsärkyä
+
+a, b, d: Nämä ovat sekundaarisia syitä
+
+![](images/headacheprimsec.png)
+  </div>
+</div>
+
+### Migreenidiagnoosiin tarvitaan:
+
+- a. Pään MRI
+- b. Huolellinen anamneesi ja status
+- c. Pään TT
+- d. Neurologian esh:n konsultaatio
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+b
+
+---
+
+Yleisesti päänsärkyjen diagnostiikassa huolellinen anamneesi on tärkein työkalu. Statuksella usein poissuljetaan sekundaarisia päänsäryn syitä.  
+  </div>
+</div>
+
+### Mikä seuraavista on hyvä ensisijainen migreenin estolääkevaihtoehto nuorelle potilaalle?
+
+- a. Metoprololi
+- b. Venlafaksiini
+- c. Kandesartaani
+- d. Verapamiili
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+c
+
+---
+
+Migreenien estolääkityksenä on tällä hetkellä käytössä: 
+
+<li>Beetasalpaajat</li>
+<li>Angiotensiinireseptorin salpaajat</li>
+<li>Tietyt masennuslääkkeet (trisykliset ja harvoin SNRI)</li>
+<li>Epilepsialääkkeet (topiramaatti tai valproaatti)</li>
+<li>CGRP-estäjät (niin monoklonaaliset vasta-aineet kuin pienimolekulaariset gepantit)</li>
+<li>Kroonisen migreenin estohoidossa mahdollisesti onabotuliinitoksiini A</li>
+
+---
+
+Perusterveydenhuollossa yleisimmin aloitettavat migreenin estohoitolääkevaihtoehdot ovat beetasalpaaja (esim. propranoloni), angiotensiinireseptorin salpaaja (esim. kandesartaani) tai masennuslääke (esim. trisyklinen). Ensimmäiset estolääkekokeilut tulisi aloittaa perusterveydenhuollossa. 
+
+a: Beetasalpaajat voivat aiheuttaa haittavaikutuksena fyysisen suorituskyvyn heikkenemistä (syke ei nouse urheillessa) -> ei useimmiten paras urheilullisilla nuorilla 
+
+b: SNRI-lääkkeitä ei käytetä yhtä yleisesti kuin trisyklisiä masennuslääkkeitä tai beetasalpaajia tai angiotensiinireseptorin salpaajia
+
+d: Käytetään ensisijaisesti sarjoittaisen päänsäryn (Hortonin neuralgian) estoon
+
+![](images/migreeninestohoito.png)
+  </div>
+</div>
+
+### Migreenisäryssä
+
+- a. Päänsärky alkaa äkisti räjähtävän kovana
+- b. Liikunta helpottaa särkyä
+- c. Liikunta pahentaa särkyä
+- d. Päänsärky on puristavaa
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+c
+
+---
+
+Se, että liikunta pahentaa särkyä, on osa diagnostisia kriteerejäkin. 
+
+a: Viittaa vaaralliseen sekundaariseen syyhyn ja erityisesti subaraknoidaalivuotoon 
+
+b: Esim. tensiopäänsärky helpottaa liikunnan myötä
+
+d: Tensiopäänsärky on tyypillisesti puristavaa. Migreeniä kuvaillaan yleensä sykkivänä
+
+![](images/auratonmigreeni.png)
+  </div>
+</div>
+
+### Mikä seuraavista on migreenin estohoidon aihe?
+
+- a. Kohtauksia esiintyy 4-5 päivänä/kk
+- b. 5 kertaa esiintynyt migreenikohtaus
+- c. NSAID+metoklopramidi ei tuo tarvittavaa helpotusta kohtauksiin
+- d. Migreenikohtausta edeltää auraoire
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+c
+
+---
+
+Estolääkityksen aloittamiselle ei ole mitään tarkkaa rajaa ja usein hoitoa mietitään, kun kohtausket häiritsevät potilasta ja potilas sitoutuisi estohoitoon. Esim. jo 2 tai 3 migreenipäivää kuukaudessa voi olla aihe tai jos migreeni hankaloittaa jokapäiväistä elämää. Migreenin kroonistumisriski kasvaa, jos kohtauksia on jatkuvasti 4 tai enemmän kuukaudessa -> yleensä viimeistään tässä vaiheessa. 
+  </div>
+</div>
+
+### Terveyskeskuksessa päivystysvastaanotollesi tulee 30-vuotias nainen, jolla on alkanut vähitellen voimistunut, toispuoleinen jyskyttävä päänsärky, johon liittyy valonarkuutta ja pahoinvoivaa oloa. Potilas kertoo, että rasitus pahentaa päänsärkyä. Neurologinen status on normaali. Mikä on todennäköisin diagnoosi?
+
+- a. Migreenikohtaus
+- b. Subaraknoidaalivuoto
+- c. Tensionaalinen päänsärky
+- d. Sarjoittainen päänsärky
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+a
+
+---
+
+Potilas kuvaa tyypillistä migreenikohtausta 
+
+b: SAV alkaisi äkillisesti ja saavuttaisi huippuvoimakkuutensa räjähdysmäisesti 
+
+c: Ei yleensä toispuolista tai jyskyttävää. Rasitus/liikunta yleensä lieventää päänsärkyä. Liitännäisoireita kuten foto- tai fonofobiaan tai pahoinvointia voi esiintyä (ei saa esiintyä oksentelua), mutta vain yksi tällainen liitännäisoire voi esiintyä kerrallaan, jotta voidaan päänsäryn sanoa olevan puhtaasti jännityspäänsärkyä. Migreenille taas on tyypillistä, että esiintyy pahoinvointia/oksentelua ja valo- ja ääniarkuutta samaan aikaan
+
+d: Tämä särky on huomattavasti rajumpaa (poraavaa), kestoltaan lyhyempää (15–180 min) ja siihen liittyy tyypillisesti autonomisia oireita (silmän kyynelehtiminen, nuhanenä), joita tässä tapauksessa ei kuvattu
+  </div>
+</div>
+
+### Mikä seuraavista ei ole migreenipäänsäryn tyypillinen ominaispiirre?
+
+- a. Särky on sykkivää
+- b. Toispuoleinen sijainti
+- c. Särky on kohtalaista tai kovaa
+- d. Särky on puristavaa
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+d
+
+---
+
+Puristava särky useimmiten viittaa tensiopäänsärkyyn. Muut vaihtoehdot kuvailevat tyypillistä migreenipäänsärkyä
+
+![](images/auratonmigreeni.png)
+  </div>
+</div>
+
+### Mitä seuraavista ei tyypillisesti käytetä migreenin estohoidossa?
+
+- a. SSRI-lääkkeet
+- b. Beetasalpaajat
+- c. Trisykliset masennuslääkkeet
+- d. ATR-salpaajat
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+a
+
+---
+
+Migreenien estolääkityksenä on tällä hetkellä käytössä: 
+
+<li>Beetasalpaajat</li>
+<li>Angiotensiinireseptorin salpaajat</li>
+<li>Tietyt masennuslääkkeet (trisykliset ja harvoin SNRI)</li>
+<li>Epilepsialääkkeet (topiramaatti tai valproaatti)</li>
+<li>CGRP-estäjät (niin monoklonaaliset vasta-aineet kuin pienimolekulaariset gepantit)</li>
+<li>Kroonisen migreenin estohoidossa mahdollisesti onabotuliinitoksiini A</li>
+
+
+![](images/migreeninestohoito.png)
+
+  </div>
+</div>
+
+### Mikä seuraavista EI yleensä kuulu päänsärkypotilaan statukseen?
+
+- a. Niska-hartiaseudun tutkiminen
+- b. Verenpaineen mittaaminen
+- c. Hampaiden, purennan ja leukanivelen tutkiminen
+- d. Kuulon tutkiminen
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+d
+
+---
+
+Kuulo-oireet eivät liity tyypillisiin päänsärkysairauksiin
+
+a: Lihasjännitysten, palpaatioarkuuksien ja liikerajoitusten arviointi auttaa tunnistamaan mm. jännityspäänsäryn 
+
+b: Kuuluu rutiinitutkimuksiin. Vaikka lievästi kohonnut verenpaine ei yleensä aiheuta päänsärkyä, erittäin korkea verenpaine (hypertensiivinen kriisi) voi olla säryn suora syy. Lisäksi verenpainetaso vaikuttaa estolääkityksen valintaan.
+
+c: Purentaelimistön kipu ja toimintahäiriöt (temporomandibular disorders, TMD) ovat yleinen syy päänsärylle 
+
+  </div>
+</div>
+
+### Tensionaalisessa päänsäryssä on tyypillistä
+
+- a. Puristava, vannemainen päänsärky
+- b. Liikunta pahentaa päänsärkyä
+- c. Päänsäryn lisäksi pyörittävä huimaus
+- d. Päänsäryn lisäksi pahoinvointi ja oksentelu
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+a
+
+---
+
+Särky on yleensä molemminpuolista, painavaa ja tasaista
+
+b: Tämä on migreenin piirre. Jännityspäänsärky ei yleensä pahene tavallisessa fyysisessä rasituksessa ja kevyt liikunta ulkoilmassa yleensä helpottaa oireita.
+
+c: Jännityspäänsärkyyn voi liittyä niskaperäistä huimausta, jolle on tyypillistä proprioseptiikan häiriö. Proprioseptisen informaation häiriössä huimaus on yleensä keinuttavaa (”laivankansimaista”) tai heittävää huimausta. Kyseessä ei ole yleensä karusellimainen pyörittävä vertigo. 
+
+d: Liitännäisoireita kuten foto- tai fonofobiaan tai pahoinvointia voi esiintyä jännityspäänsäryssäkin, mutta oksentelua ei sinänsä saisi esiinty ja vain yksi tällainen liitännäisoire voi esiintyä kerrallaan, jotta voidaan päänsäryn sanoa olevan puhtaasti jännityspäänsärkyä. Migreenille taas on tyypillistä, että esiintyy pahoinvointia/oksentelua ja valo- ja ääniarkuutta samaan aikaan
+
+  </div>
+</div>
+
+### Missä seuraavista tapauksista potilas tulee lähettää perusterveydenhuollosta jatkotutkimuksiin päivystyksellisesti
+
+- a. Jos päänsärky on alkanut äkisti ponnistustilanteessa
+- b. Jos päänsärkyyn liittyy työkykyongelma
+- c. Jos päänsärkyyn liittyy kuumetta
+- d. Jos päänsärky on jatkunut pari viikkoa eikä NSAID-lääkkeet auta
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+a
+
+---
+
+Tämä on punaisen lipun oire (voi muistaa S2NOOP4 tai SNNOOP10). 
+
+c: Kuumeinen päänsärky on todella yleistä (esim. flunssa yms). Kuitenkin kuumeinen päänsärkypotilas kannattaa tutkia tarkasti, sillä esim. keskushermostoinfektioon viittaavat löydökset tulee poissulkea. 
+  </div>
+</div>
+
+### Aurallisen migreenin diagnostisiin kriteereihin kuuluu, että
+
+- a. Potilaalla on ollut vähintään kaksi kohtausta, joissa on ollut yli 5 minuutin kestoiset auraoireet
+- b. Potilaalla on ollut vähintään kaksi kohtausta, joissa on ollut yli 15 minuutin kestoiset auraoireet
+- c. Potilaalla on ollut vähintään viisi kohtausta, joissa on ollut yli 5 minuutin kestoiset auraoireet
+- d. Potilaalla on ollut vähintään kaksi kohtausta, joissa on ollut yli 60 minuutin kestoiset auraoireet
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+a
+
+---
+
+![](images/aurallinenmigreeni.png)
+  </div>
+</div>
+
+### Mikä seuraavista EI ole vaarallisen päänsäryn merkki?
+
+- a. Kipu maksimissaan alle 1 minuutissa
+- b. Ensimmäinen ja elämän kovin päänsärky
+- c. Päänsärkyyn liittyy yleisoireita tai löydöksiä
+- d. Sahalaitanäköhäiriö päänsärkyä edeltävästi
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+d
+
+---
+
+Viittaa migreeniin. Muut ovat vaarallisia piirteitä (voi muistaa S2NOOP4 tai SNNOOP10)
+
+![](images/s2noop4.png)
+![](images/snnoop10.png)
+  </div>
+</div>
+
+### Mitä seuraavista ei pitäisi löytyä tensionaalisesta päänsärystä kärsivällä potilaalla?
+
+- a. Matala mieliala
+- b. Perikraniaalisten lihasten palpaatioarkuus
+- c. Niska-hartiaseudun lihaskireys
+- d. Toispuoleisesti heikentynyt tuntoaisti
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+d
+
+---
+
+Merkittävä neurologinen puutosoire -> päänsäryn red flag 
+
+a: Jännityspäänsärky ja mielialaoireet kulkevat usein käsi kädessä. Pitkittynyt särky voi laskea mielialaa, ja toisaalta psyykkinen kuormitus on yksi merkittävimmistä jännityspäänsäryn laukaisevista tekijöistä.
+
+b: Yleinen statuslöydös jännityspäänsäryssä 
+
+c: Yleinen statuslöydös jännityspäänsäryssä
+  </div>
+</div>
+
+### Mikä seuraavista väittämistä on totta?
+
+- a. Triptaani on vasta-aiheinen potilaalla, joka on sairastanut aivoinfarktin
+- b. Triptaanin kanssa samanaikaisesti ei saa ottaa NSAID valmistetta
+- c. Triptaani suositellaan ottamaan mahdollisimman nopeasti auraoireen alettua
+- d. Jos yksi triptaanivalmiste ei auta, on todennäköistä, ettei toisestakaan triptaanista ole apua
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+a
+
+---
+
+Triptaanit ovat vasta-aiheisia potilailla, joilla on iskeeminen sydänsairaus (sepelvaltimotauti, aikaisempi sydäninfarkti, Prinzmetalin angina), hallitsematon hypertonia tai ollut aivoverenkiertohäiriöitä, koska aiheuttavat vasokonstriktiota ja vasospasmeja. 
+
+b: Otetaan aika useinkin NSAID:n kanssa 
+
+c: Kipulääkitys kannattaa ottaa migreenissä heti kivun alettua; auraoireita ei hoideta
+
+d: Triptaanivalmisteiden (esim. sumatriptaani, tsolmitriptaani yms) välillä on yksilöllisiä eroja tehon ja haittojen suhteen
+  </div>
+</div>
+
+### 40-vuotiaalla miehellä on alkanut muutama tunti aiemmin kova päänsärky. Päivystyksessä kuumetta 39 astetta, statuksessa toteat niskajäykkyyttä ja huomaat potilaalla punoittavaa ihottumaa. Mitä epäilet?
+
+- a. Subduraalivuoto
+- b. Bakteerimeningiitti
+- c. Subaraknoidaalivuoto
+- d. Herpesenkefaliitti
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+b
+
+---
+
+Korkea kuume (39°C), niskajäykkyys ja nopeasti alkanut särky ovat meningiitin ja varsinkin bakteerimeningiitin ydinoireita (virusmeningiitti on yleensä lieväoireisempi ja ei aiheuta niin nopeasti kehitttyvää oirekuvaa; jos tajunnantaso on vielä alentunut (ei tässä nyt mainittu), niin kyseessä ei ole virusmeningiitti, vaan tulee ensisijaisesti miettiä bakteerimeningiittiä). Punoittava ihottuma (petekkiat eli pienet verenpurkaumat iholla) viittaa vahvasti meningokokki-bakteerin aiheuttamaan sepsikseen ja meningiittiin. 
+
+a: Usein hitaammin etenevä (krooninen) tai traumaan liittyvä (akuutti) verenpurkauma aivokalvojen väliin. Siihen ei tyypillisesti liity korkeaa kuumetta tai ihottumaa.
+
+c: SAV alkaa räjähdysmäisellä särkykohtauksella ja siihen voi liittyä niskajäykkyyttä (verisärsytyksen vuoksi), mutta se ei selitä 39 asteen kuumetta eikä ihottumaa
+
+d: Herpesviruksen aiheuttama enkefaliitti kyllä aiheuttaa kuumetta ja päänsärkyä, mutta sille on tyypillisempää sekavuus, kouristelu ja tajunnan häiriöt kuin niskajäykkyys ja petekkiat.
+  </div>
+</div>
+
+### Migreenin auraoireelle on tyypillistä, että
+
+- a. Aura koostuu osin korjaantuvista näkö-, tunto-, puhe- tai kielellisistä oireista
+- b. Usein kaksi tai useampi oire seuraa toisiaan
+- c. Auraoire voi esiintyä tunteja tai päiviä ennen päänsärkykohtausta
+- d. Potilas ei aina muista auraoireen aikaisia tapahtumia
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+b
+
+---
+
+a: Korjaantuvat täysin 
+
+c: Tunteja tai päiviä ennen alkavat oireet (kuten haukottelu, makeanhimo tai väsymys) ovat ennakoivia oireita (prodromaalivaihe). Varsinainen auraoire alkaa tyypillisesti 5–60 minuuttia ennen päänsärkyä.
+
+d: Migreeniauraan ei kuulu tajunnan häiriötä tai muistinmenetystä.
+
+![](images/aurallinenmigreeni.png)
+  </div>
+</div>
+
+### Mikä seuraavista lääkkeistä ei kuulu migreenikohtauksen akuuttihoitoon?
+
+- a. Naprokseeni
+- b. Eletriptaani
+- c. Panacod
+- d. Ritsatriptaani
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+c
+
+---
+
+Opioideja ei käytetä migreenikohtausten hoitoon. Ensisijaisia lääkkeitä ovat NSAIDit, parasetamoli ja triptaanit
+
+a: NSAID 
+
+b ja d: Triptaaneja
+  </div>
+</div>
+
+### Särkylääkepäänsäryn riski kasvaa
+
+- a. Jos potilas käyttää opioidivalmisteita
+- b. Jos potilaalla on käytössä migreenin estohoitolääkitys
+- c. Jos potilas käyttää tulehduskipulääkkeitä yli 10 päivänä kuukaudessa
+- d. Jos potilas käyttää triptaaneja yli 5 päivänä kuukaudessa
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+a
+
+---
+
+Opioidit ovat usein tehottomia kohtauksen katkaisemisessa, aiheuttavat usein pahoinvointia ja lisäävät merkittävästi riskiä krooniseen särkylääkepäänsärkyyn.
+
+b: Estolääkityksen tarkoitus on juuri vähentää kohtausten määrää ja siten kohtauslääkkeiden käyttöä -> vähentää särkylääkepäänsäryn riskiä 
+
+c ja d: Lääkepäänsäryn riski on koholla, jos todetaan särkylääkkeiden liikakäyttöä. Liikakäyttö on kyseessä, jos käyttää: 
+
+<li>Triptaaneja 10 tai useampana päivänä kuukaudessa</li>
+<li>NSAIDeja 15 tai useampana päivänä kuukaudessa</li>
+<li>Parasetamolia 15 tai useampana päivänä kuukaudessa</li>
+
+  </div>
+</div>
+
+### Mikä on migreenin tärkein erotusdiagnostinen sairaus?
+
+- a. Glaukooma
+- b. Sarjoittainen päänsärky
+- c. Tensionaalinen päänsärky
+- d. Trigeminusneuralgia
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+c
+
+---
+
+Tensionaalinen päänsärky on yleinen primaarinen päänsärky ja migreeni on toiseksi yleisin. Ne voidaan erottaa toisistaan ensisijaisesti anamneesin perusteella. 
+
+![](images/migreenivstensio.png)
+  </div>
+</div>
+
+### Miten tensionaalista päänsärkyä ensisijaisesti hoidetaan?
+
+- a. Säännöllisellä bentsodiatsepiinilääkityksellä
+- b. Fysioterapialla
+- c. Pitkillä kipulääkekuureilla
+- d. Panacod-kuurilla
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+b
+
+---
+
+Jännitys- eli tensiopäänsärky sisältää sekä lihasjännityksestä johtuvat että henkisestä jännittyneisyydestä johtuvat päänsäryt. Ensisijainen hoito on liikunta, lihashuolto ja rentoutus + tarvittaessa lyhytaikainen hoito NSAID tai parasetamolilla. 
+
+  </div>
+</div>
+
+### Migreenin estohoidossa yleisimmin aloitetaan
+
+- a. Ensimmäiseksi estolääkkeeksi natriumvalproaatti/topiramaatti
+- b. Ensimmäiseksi estolääkkeeksi CGRP-reseptoriantagonisti tai monoklonaalinen vasta-aine
+- c. Ensimmäiseksi estolääkkeeksi botuliinitoksiini-injektiot
+- d. Ensimmäiseksi estolääkkeeksi beetasalpaaja/trisyklinen masennuslääke
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+d
+
+---
+
+Tosin useimmiten ehkä näitäkin ennen ATR-salpaaja; riippuu potilaasta 
+
+![](images/migreeninestohoito.png)
+  </div>
+</div>
+
+### Migreenin estohoidon
+
+- a. Aloitusta edeltävästi on suositeltavaa tehdä aivojen magneettikuvaus
+- b. Hyvänä hoitovasteena pidetään sitä, että kohtausten esiintyvyys tai voimakkuus pienenee 50% aiemmasta
+- c. Aloitus kuuluu erikoissairaanhoitoon
+- d. Aloituksen tarpeellisuudesta on suositeltavaa konsultoida neurologia
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+b
+
+---
+
+Hoidon tavoitteena on, että kuukausittaiset migreenipäivät vähenevät 50 %. Vastetta arvioidaan potilaan täyttämän päänsärkypäiväkirjan avulla, johon on hyvä merkitä erikseen migreenipäivät, mahdolliset muut päänsärkypäivät ja kohtauslääkkeiden käyttö sekä altistavat tekijät. Vaste arvioidaan n. 3kk kohdalla
+
+a, c ja d: Estohoito aloitetaan perusterveydenhuollossa anamneesin perusteella
+
+  </div>
+</div>
+
+### Miten toimin TMD (temporomandibular disorders) potilaan kanssa?
+
+- a. Lähetän fysioterapiaan
+- b. Konsultoin neurologia
+- c. Konsultoin korvalääkäriä
+- d. Konsultoin hammaslääkäriä
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+d
+
+---
+
+Purentaelimistön kipu ja toimintahäiriöt (temporomandibular disorders, TMD) on yhteisnimitys leukanivelten, puremalihasten, hampaiston ja niihin läheisesti liittyvien kudosten sairaus- ja kiputiloille sekä toimintahäiriöille. TMD:n tavallisimpia oireita ovat leukanivelten tai puremalihasten kipu, leukaniveläänet, leukojen väsyminen ja jäykkyys, suun rajoittunut avautuminen ja alaleuan liikehäiriöt. Muita oireita ovat muun muassa päänsärky, kasvokipu ja korvakipu.
+
+TMD:n hoidon ennuste on yleensä hyvä. Potilaan informoiminen, omahoito-ohjeiden antaminen, alaleuan liikeharjoitusten ohjeistaminen ja fysioterapeuttiset hoidot sekä tarvittaessa kipulääkkeet ja purentakiskon valmistaminen ovat suositeltavia ensi vaiheen hoitomuotoja. Hyvän ja tasapainoisen purentatoiminnan saavuttamiseksi purennan tasapainotus ja proteettiset tai oikomishoitotoimenpiteet saattavat tulla kysymykseen hoidon myöhemmässä vaiheessa
+  </div>
+</div>
