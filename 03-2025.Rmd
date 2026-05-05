@@ -124,11 +124,15 @@ Tämä kaikki viittaa **aseptiseen meningiittiin.**
 <li>Jos potilaalla olisi ärjympi ja nopeammin kehittynyt taudinkuva (tajunnantason alentumista, merkittävän korkeaa kuumetta, petekkioita), tulisi ajatella bakteerimeningiittiä ensisijaisesti.</li>
 <li>Psyykkisissä muutoksissa, merkittävissä tajunnan häiriöissä, epileptisissä kouristuksissa ja neurologisissa puutoksissa infektiokuvan yhteydessä heräisi enkefaliitin ajatus</li>
 
+---
+
 Keskeisin tutkimus on lannepisto ja likvorin analysointi. Usein otetaan myös CRP ja veriviljelyt. 
 
 Ennen pistoa tietysti mietitään, onko vasta-aiheita tutkimukselle (pääasiassa epäselvästä syystä johtuva kohonnut kallonsisäinen paine tai vuotoriski). Edeltäviä rutiininomaisia hyytymistä arvioivia verikokeita (tromb ja INR) ei yleensä tarvita, ellei potilaalla ole veren hyytymiseen vaikuttavaa sairautta tai lääkitystä (lähinnä varfariinihoito). NOAC käyttö < 1-2 vrk:n sisällä on myös vähintään suhteellinen vasta-aihe.
 
 <li>Jos kallonsisäisen paineen ajatellaan olevan merkittävästi koholla (esim. huomattava staasipapilli, neurologiset oireet, persoonallisuuden muutokset, tajunnan tason lasku), niin lannepisto on vasta-aiheinen ilman kuvantamista. Jos esim. massa aiheuttaa obstruktiota kammionesteen virtauksessa ja siten kohonnutta ICP:tä, niin paine leesion alapuolella on matala ja sen yläpuolella korkea. Jos punktio tehtäisiin, niin gradientin muuttuminen voi aiheuttaa fataalin herniaation. Jos kuvantamisella poissuljetaan obstruktiivinen syy, niin punktion voi tehdä kohonneenkin ICP:n kanssa, koska herniaatioriski on pieni paineiden tasaisuuden takia.</li>
+
+---
 
 Potilaallamme voidaan kuitenkin todennäköisesti ottaa likvor ennen pään TT-kuvaa. Alkuun voi ottaa meningiittipaketin, jossa tutkitaan likvorista solut, diffi, prot, laktaatti, glukoosi, bakteeriviljely ja -värjäys (bakteerimeningiitin poissulkua) + otetaan 2ml varaputkia. Varaputkista usein viraalisen etiologian selvittely. Virusmeningiitissä likvorissa on:
 
@@ -140,7 +144,7 @@ Potilaallamme voidaan kuitenkin todennäköisesti ottaa likvor ennen pään TT-k
 
 ---
 
-Aseptisen lieväoireisen meningiitin hoito on oireenmukainen, koska kyseessä on yleensä virusmeningiitti, joka on itsestään rajoittuva
+Aseptisen lieväoireisen meningiitin hoito on oireenmukainen, koska kyseessä on yleensä virusmeningiitti, joka on itsestään rajoittuva. Jos analyyseissä tarkentuu aiheuttajaksi esim. HSV tai VZV, niin voidaan miettiä niiden etiologianmukaista hoitoa. 
 
 <li>Kipulääkitys (NSAID)</li>
 <li>Pahoinvointilääkitys (metoklopramidi)</li>
@@ -149,7 +153,7 @@ Aseptisen lieväoireisen meningiitin hoito on oireenmukainen, koska kyseessä on
 
 ---
 
-On hyvä huomioida, että jos kyseessä olisi vaikeampi oirekuva ja heräisi epäily bakteerimeningiitistä, niin aloitettaisiin heti likvornäytteen ja 2x veriviljelyiden jälkeen (joskus näitä ennen TT-kuva) bakteerimeningiitin hoitokuvion mukaan ennen diagnoosin varmentumista deksametasoni 0.15 mg/kg × 4 i.v. + keftriaksoni 2 g x 2 i.v. + vankomysiini 1g x 2 i.v. (+ ampisilliini 2g x 6 i.v., jos Listeriariski). Likvornäytteiden yhteydessä otetaan aina lisäpulloja (>2ml) virologisia määrityksiä varten.
+Ei liity enää tenttivastaukseen, mutta on hyvä huomioida, että jos kyseessä olisi vaikeampi oirekuva ja heräisi epäily bakteerimeningiitistä, niin aloitettaisiin heti likvornäytteen ja 2x veriviljelyiden jälkeen (joskus näitä ennen TT-kuva) bakteerimeningiitin hoitokuvion mukaan ennen diagnoosin varmentumista deksametasoni 0.15 mg/kg × 4 i.v. + keftriaksoni 2 g x 2 i.v. + vankomysiini 1g x 2 i.v. (+ ampisilliini 2g x 6 i.v., jos Listeriariski). Likvornäytteiden yhteydessä otetaan aina lisäpulloja (>2ml) virologisia määrityksiä varten.
 
 On myös hyvä huomioida, että likvornäytteen otto ei ole aina välttämätöntä hengitystieinfektion jälkeisessä lievässä meningeaaliärsytyksessä. Jos tapaa potilaan, joka on hyvin lieväoireinen ja suhteellisen hyvävointinen, CRP on vain lievästi koholla (<40) ja tila sopii hengitysinfektion jälkeiseen meningismukseen lievänä niskajäykkyytenä, niin periaatteessa voi diagnosoida kliinisesti aseptisen meningiitin ja lähettää potilaan kotiin tulehduskipulääkkeen kanssa sekä sanoa, että menee päivystykseen, jos vointi pahenee.  
 

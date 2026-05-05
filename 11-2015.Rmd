@@ -16,7 +16,7 @@
 
 Neuropaattisen kivun määritelmä on kipu, jonka syynä on looginen, osoitettavissa oleva somatosensorisen järjestelmän vaurio tai sairaus. Suurempi riski neuropaattiselle kivulle on lievemmissä vaurioissa verrattuna täydellisiin vakaviin katkeamisiin. 
 
-Neuropaattisen kiputilan diagnoosin edellytyksiä ovat kivun neuroanatomisen sijainnin loogisuus ja tuntoaistin poikkeavaan toimintaan liittyvät statuslöydökset. 
+Neuropaattisen kiputilan diagnoosin edellytyksiä ovat kivun neuroanatomisen sijainnin loogisuus (vaikka voikin levitä ajan myötä) ja tuntoaistin poikkeavaan toimintaan liittyvät statuslöydökset. 
 
 Hermoston muutosten seurauksena tuntoaisti toimii poikkeavasti, jolloin aikaisempi kivuton ärsyke, esim. kosketus, saattaa aiheuttaa voimakkaan kivun (allodynia). Voi myös olla spontaania kipua. Usein lisäksi pistelyä, kihelmöintiä, polttelua yms. Neuropaattiset kiputuntemukset voimistuvat tyypillisesti levossa ja haittaavat nukahtamista ja yöunia
 Toisaalta voidaan todeta tunnon heikentymistä eri ärsykkeille. Usein myös motorisia heikkouksia vaurioituneen hermon alueella (ellei nyt pelkkää sensorista vauriota tai puhdasta ohutsäievauriota). 
@@ -24,11 +24,13 @@ Toisaalta voidaan todeta tunnon heikentymistä eri ärsykkeille. Usein myös mot
 ---
 
 Diagnostinen ketju alkaa anamneesilla ja statuksella. Statuksessa voidaan testata painetuntoa, lämpötuntoa, värinätuntoa, asentotuntoa yms. sekä arvioida allodyniaa (esim. pistetään terävällä puutikulla). Tämä voi jo anamneesin ja mahdollisen altistavan tekijän (esim. leikkaus tai trauma; suurin osa (ehkä kaikki) pitkittyvästä postoperatiivisesta ja posttraumaattisesta kivusta on neuropaattista) kanssa tehdä diagnoosista aika varman. Normaali kliininen status ei kuitenkaan poissulje hermovauriota tai neuropaattista 
-kipua. Usein tehdään kuitenkin varmistavia testejä, joista ensimmäinen on ENMG, joka osoittaa paksujen säikeiden vaurion. Jos se jää negatiiviseksi, niin voidaan osoittaa ohuiden säikeiden vaurio lämpökynnysmittauksilla (QST) ja ihobiopsian ohutsäietiheysmittauksella. 
+kipua. Usein tehdään kuitenkin varmistavia testejä, joista ensimmäinen on ENMG, joka osoittaa paksujen säikeiden vaurion. Jos se jää negatiiviseksi, niin voidaan osoittaa ohuiden säikeiden vaurio lämpökynnysmittauksilla (QST) ja ihobiopsian ohutsäietiheysmittauksella. Joskus on käytössä myös herätevastetutkimuksia, kuten CHEP ja LEP. 
 
 ---
 
 Hoidon tavoitteena on kivun lievitys, unen parantaminen ja toimintakyvyn palauttaminen. Tavalliset tulehduskipulääkkeet tai parasetamoli eivät yleensä tehoa kovinkaan hyvin neuropaattiseen kipuun. 1. linjan lääkkeitä ovat trisykliset masennuslääkkeet (amitriptyliini, nortriptyliini), gabapentinoidit (gabapentiini, pregabaliini) ja SNRI-lääkkeet (duloksetiini, venlafaksiini). Joskus voidaan kokeilla tramadolia. Harvemmin voidaan kokeilla myös mm. kapsaisiinia ja jopa puudutusaineita.
+
+Tarvittaessa voidaan harkita neuromodulaatiohoitoja (eri vaihtoehtoja tilanteesta ja potilaasta riippuen). Näitä ovat mm. SCS (selkäydinstimulaatio), DBS (syväaivostimulaatio), rTMS (sarja-transkraniaalinen magneettistimulaatio) ja tDCS (transkraniaalinen tasavirtastimulaatio). 
   </div>
 </div>
 

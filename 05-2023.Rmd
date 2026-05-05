@@ -716,5 +716,7 @@ SEP tutkii radastoja raajoista aivokuorelle. Perifeeristä hermoa ärsytetään 
 
 BAEP-tutkimuksessa potilaalle soitetaan naksuvaa ääniärsykettä ja korvan takana on iholla elektrodit, jotka mittaavat naksunnan aikaansaamaa vastetta aivorungossa. Voidaan käyttää myös mm. objektiivisen kuulon mittaamiseen pikkukeskosilla, mutta myös koomapotilaan ennusteen määrittämiseen ja aivorunkovaurion arvioimiseen. 
 
+Myös endogeenisiä herätevasteita, kuten P300, MMN ja N100 voidaan käyttää. Endogeeniset eli sisäsyntyiset herätevasteet liittyvät monimutkaisempiin ärsykkeiden käsittelytehtäviin aivoissa, työmuistiin ja tarkkaavaisuuteen (kognitiiviset herätevasteet) sekä motoriseen valmiustilaan (suoritepotentiaalit/valmiuspotentiaalit). P300 syntyy, kun aivot tunnistavat merkityksellisen tai odottamattoman muutoksen ympäristössä (oddball-tehtävä; esim. potilasta pyydetään laskemaan harvinaiset äänet). MMN syntyy, kun aivot havaitsevat säännönmukaisuuden rikkoutumisen, vaikka potilas ei keskittyisi asiaan (esim. hän lukee kirjaa samalla kun taustalla kuuluu ääniä).
+
   </div>
 </div>

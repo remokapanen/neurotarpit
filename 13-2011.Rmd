@@ -51,7 +51,7 @@ Kuvantamislöydökset ja labrat:
 <li>Alzheimerin taudissa nähdään MRI:ssä yleisimmin hippokampusatrofiaa. Aivot voivat myös yleisesti atrfoioitua -> ventrikkelien ilmeneminen suurempana. Löydökset MRI:ssä ei kuitenkaan ole täysin spesifisiä Alzheimerille, vaikka olisikin tyypillisenä diagnoosia tukeva löydös. Lisäksi voidaan joskus ottaa PET-kuva ja likvortutkimuksia, varsinkin jos potilas on nuori, tilanne on epäselvä tai hatkitaan modifoivia hoitoja.</li>
   <ul>
     <li>Likvorissa tyypillistä on beeta-amyloidipeptidi 42:n pitoisuuden pieneneminen, fosforyloituneen tau-proteiinin pitoisuuden suureneminen, beeta-amyloidi 42:n ja 40:n suhteen pieneneminen ja beeta-amyloidi 42:n ja fosforyloituneen tau-proteiinin suhteen pieneneminen.</li>
-    <li>Tyypilliset verilabrat voivat olla ihan normaalit.</li>
+    <li>Tyypilliset verilabrat voivat olla ihan normaalit. Nykyään on myös periaatteessa käytössä verinäytepohjaisia merkkiainetestejä, kuten p-tau217. Mikäli likvoritutkimukset ovat vasta-aiheisia ja amyloidi-PET-tutkimusta ei ole saatavilla, voidaan harkintaa käyttäen hyödyntää myös veren pTau217-määritystä. Erityisesti työikäisten diagnostiikassa tulee kuitenkin käyttää ensisijaisesti likvoritutkimusta.</li>
   </ul>
 <li>Vaskulaarisessa dementiassa löydöksenä on usein useita pieniä infarkteja (lakuna-infarkteja) tai laaja-alaisia valkean aineen muutoksia (leukoaraioosi), jotka viittaavat pienten suonten tautiin</li>
   <ul>

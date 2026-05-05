@@ -86,7 +86,7 @@ TIA (Transient ischemic attack) eli ohimenevä iskeeminen kohtaus = aivojen tai 
 Oireiden väistyminen ei kuitenkaan tarkoita sitä, että tilanne olisi vaaraton. Melkein yhdellä kymmenestä potilaasta ilmenee aivoinfarkti (stroke) viikon sisällä TIA-oireesta, ja tämän vuoksi TIA vaatiikin kiireellistä selvittelyä ja hoitoa.
 
 <li>Välillä potilas tulee vasta parin päivän päästä oireiden poistuttua vastaanotolle, jolloin jos TIA-oireesta on kulunut enintään 2 viikkoa, tulee potilas lähettää keskussairaalan päivystyspoliklinikalle tai neurologiseen yksikköön päivystysluontoisesti. Tämä tehdään, koska esim. jos taustalla on kaulavaltimon ahtauma, nin endarterektomia tulisi tehdä 2 viikon kuluessa viimeisestä ennustetapahtumasta, koska sen jälkeen leikkauksesta koituva hyöty vähenee.</li>
-<li>Jos oireesta on kulunut yli 2 viikkoa, voidaan asiaa selvitellä ajavarauslähetteellä (kiireellinen 1-7vrk neurologialle).</li>
+<li>Jos oireesta on kulunut yli 2 viikkoa, voidaan asiaa selvitellä ajanvarauslähetteellä (kiireellinen 1-7vrk neurologialle).</li>
 
   </div>
 </div>
@@ -107,7 +107,7 @@ Väärin
 
 ---
 
-Hornerin oireyhtymä tarkoittaa sympaattisen rungon hermovaurion (missä tahansa osassa sympatikus-rataa) aiheuttamaa oirekuvaa, jolle on tyypillistä seuraava triadi: ipsilateraalinen ptoosi + mioosi + anhidroosi (anhidroosia ei ale aina nähtävissä). Toiselta nimeltää oculosympathetic palsy.
+Hornerin oireyhtymä tarkoittaa sympaattisen rungon hermovaurion (missä tahansa osassa sympatikus-rataa) aiheuttamaa oirekuvaa, jolle on tyypillistä seuraava triadi: ipsilateraalinen ptoosi + mioosi + anhidroosi (anhidroosia ei ale aina nähtävissä). Toiselta nimeltään oculosympathetic palsy.
 
 Taustasyitä esim. keskushermoston vauriot, sarjoittainen päänsärky, keuhkojen yläosien kasvaimet, ICA:n dissekaatio, iatrogreeniset syyt. **Lähtökohtaisesti uutena kehittynyt Hornerin syndrooma vaatii päivystystutkimuksia.** Se voi olla mm. kaula- ja nikamavaltimon dissekaation ainoa statuspoikkeavuus. 
   </div>
@@ -1103,5 +1103,367 @@ Tässä akuutissa tilanteessa riittää usein tulehduskipulääke (ja joskus lih
 Tilanteen pitkittyessä ja kroonistuessa hoito vaikeutuu. Tällöin on aloitettava ei-lääkkeellisistä hoidoista. Särkevää pään aluetta voi myös hieroa, ja usein lämpö on hyödyksi. Työpaikalla ja iltaisin kotona on syytä yrittää voimistelua ja rentoutusta. Usein täytyy harkita elämäntapojen muutosta ja liikunnan lisäämistä. Lääkehoidossa voidaan harkita trisyklisiä masennuslääkkeitä. 
 
 Sairaalan lähettämiselle ei ole tarvetta. Jos ilmenee punaisia lippuja päänsäryn suhteen, niin silloin uusi arvio. 
+  </div>
+</div>
+
+## Blokki 3 
+
+### Kuumetta ja päänsärkyä muutama päivä 
+
+Olet töissä keskussairaalapäivystyksessä. 32-vuotias perusterve mies hakeutuu arvioon kuumeen, päänsäryn ja pahoinvoinnin vuoksi. Ei ole kotona saanut oireiden vuoksi kunnolla syötyä. Oireita ollut 4 pvä ajan, ja viimeisen 2 vrk aikana oireet pahentuneet. Statuksessa: lämpö 38,1°C, valonarkuutta silmissä, lievää niskajäykkyyttä, VAS 6 päänsärkyä takaraivolle painottuen. Neurologisessa statuksessa ei poikkeavia löydöksiä, puhe selkeää, ei sekavuutta, asiallinen ja orientoitunut. Keuhkoista ei auskultoiden poikkeavaa, iho siisti, vatsa ei arista. Haastatellen ei muita infektio-oireita.
+
+- a. Mikä on todennäköisin työdiagnoosi? Nimeä 2 yleistä taudinaiheuttajaa? (2p)
+- b. Mikä tutkimus olisi keskeinen diagnoosin varmentamiseksi ja millainen löydös siinä tukee diagnoosia? (2p) 
+- c. Miten hoidat potilasta, jos diagnoosi varmistuu? (2p)
+
+<div class="">
+  <button class="solution-button"
+          data-label="a"
+          data-hide-label="a - Piilota vastaus">
+    a
+  </button>
+  <div class="solution-content">
+
+Potilaan oirekuva (kuume, päänsärky, niskajäykkyys ja valonarkuus) viittaa vahvasti aivokalvontulehdukseen eli meningiittiin. Potilaan yleistila on kuitenkin vakaa, hän ei ole sekava eikä ole neurologisia puutosoireita -> todennäköisesti kyseessä on aseptinen meningiitti (virusmeningiitti). 
+
+<li>Jos potilaalla olisi ärjympi ja nopeammin kehittynyt taudinkuva (tajunnantason alentumista, merkittävän korkeaa kuumetta, petekkioita), tulisi ajatella bakteerimeningiittiä ensisijaisesti.</li>
+<li>Psyykkisissä muutoksissa, merkittävissä tajunnan häiriöissä, epileptisissä kouristuksissa ja neurologisissa puutoksissa infektiokuvan yhteydessä heräisi enkefaliitin ajatus</li>
+
+---
+
+Kaksi yleisintä virusmeningiitin aiheuttajaa ovat enterovirukset (erityisesti coxsackie- ja ECHO-virukset) ja herpesvirukset (HSV-2, VZV vyöruusun yhteydessä). Enterovirukset ovat selkeästi yleisimpiä (n. 90%) ja aiheuttavat tapauksia eniten loppukesän ja alkusyksyn aikana; toistuvan aseptisen meningiitin yleisin aiheuttaja aikuisilla on HSV2. 
+
+(Riskialueilla tulee myös muistaa TBE-virus)
+  </div>
+</div>
+
+<div class="">
+  <button class="solution-button"
+          data-label="b"
+          data-hide-label="b - Piilota vastaus">
+    b
+  </button>
+  <div class="solution-content">
+
+Diagnostiikan kulmakivi anamneesin ja statuksen lisäksi on lannepisto eli lumbaalipunktio (LP), jossa analysoidaan likvor. Sen perusteella voidaan erotella bakteeri- ja virusmeningiitit sekä myös selvitellä mahdollista tarkempaa aiheuttajaa. Usein otetaan myös CRP ja veriviljelyt. 
+
+Ennen pistoa tietysti mietitään, onko vasta-aiheita tutkimukselle (pääasiassa epäselvästä syystä johtuva kohonnut kallonsisäinen paine tai vuotoriski). Edeltäviä rutiininomaisia hyytymistä arvioivia verikokeita (tromb ja INR) ei yleensä tarvita, ellei potilaalla ole veren hyytymiseen vaikuttavaa sairautta tai lääkitystä (lähinnä varfariinihoito). NOAC käyttö < 1-2 vrk:n sisällä on myös vähintään suhteellinen vasta-aihe.
+
+<li>Jos kallonsisäisen paineen ajatellaan olevan merkittävästi koholla (esim. huomattava staasipapilli, neurologiset oireet, persoonallisuuden muutokset, tajunnan tason lasku), niin lannepisto on vasta-aiheinen ilman kuvantamista. Jos esim. massa aiheuttaa obstruktiota kammionesteen virtauksessa ja siten kohonnutta ICP:tä, niin paine leesion alapuolella on matala ja sen yläpuolella korkea. Jos punktio tehtäisiin, niin gradientin muuttuminen voi aiheuttaa fataalin herniaation. Jos kuvantamisella poissuljetaan obstruktiivinen syy, niin punktion voi tehdä kohonneenkin ICP:n kanssa, koska herniaatioriski on pieni paineiden tasaisuuden takia.</li>
+
+---
+
+Potilaallamme voidaan kuitenkin todennäköisesti ottaa likvor ennen pään TT-kuvaa. Alkuun voi ottaa meningiittipaketin, jossa tutkitaan likvorista solut, diffi, prot, laktaatti, glukoosi, bakteeriviljely ja -värjäys (bakteerimeningiitin poissulkua) + otetaan 2ml varaputkia. Varaputkista usein viraalisen etiologian selvittely. Virusmeningiitissä likvorissa on:
+
+<li>Valkosoluja tyyypillisesti 20-200 *106/l ja tämä lievä leukosytoosi on lymfosyyttivoittoista</li>
+<li>Glukoosi > 2 mmol/l</li>
+<li>Laktaatti normaali</li>
+<li>Proteiinipitoisuus 500-800 mg/l (lievästi koholla)</li>
+<li>Likvori on ulkonäöltään kirkas</li>
+
+  </div>
+</div>
+
+<div class="">
+  <button class="solution-button"
+          data-label="c"
+          data-hide-label="c - Piilota vastaus">
+    c
+  </button>
+  <div class="solution-content">
+
+Aseptisen lieväoireisen meningiitin hoito on oireenmukainen, koska kyseessä on yleensä virusmeningiitti, joka on itsestään rajoittuva. Jos analyyseissä tarkentuu aiheuttajaksi esim. HSV tai VZV, niin voidaan miettiä niiden etiologianmukaista hoitoa. 
+
+<li>Kipulääkitys (NSAID)</li>
+<li>Pahoinvointilääkitys (metoklopramidi)</li>
+<li>i.v.-nesteytys tarvittaessa</li>
+<li>Hoitopaikka voinnin mukaan; sairaalahoito on vain harvoin tarpeen. Nuori lieväoireinen voi kotiutua sillä ehdolla, että hakeutuu uudelleen hoitoon oireiden lisääntyessä/vaikeutuessa</li>
+
+---
+
+
+Ei liity enää tenttivastaukseen, mutta on hyvä huomioida, että jos kyseessä olisi vaikeampi oirekuva ja heräisi epäily bakteerimeningiitistä, niin aloitettaisiin heti likvornäytteen ja 2x veriviljelyiden jälkeen (joskus näitä ennen TT-kuva) bakteerimeningiitin hoitokuvion mukaan ennen diagnoosin varmentumista deksametasoni 0.15 mg/kg × 4 i.v. + keftriaksoni 2 g x 2 i.v. + vankomysiini 1g x 2 i.v. (+ ampisilliini 2g x 6 i.v., jos Listeriariski). Likvornäytteiden yhteydessä otetaan aina lisäpulloja (>2ml) virologisia määrityksiä varten.
+
+![](images/meningiittitaulukko.png)
+![](images/meningiittivsenkefaliitti.png)
+
+  </div>
+</div>
+
+
+### Aurattoman migreenin oirekuva, diagnostiset kriteerit, kohtaushoito ja estohoito (4p)
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+Migreenidiagnoosi perustuu pääasiassa kohtauskuvaukseen. Migreeni jaetaan migreeniin ilman auraa (n. 75%) ja auralliseen migreeniin (n. 25%), joiden diagnostiset kriteerit hieman eroavat. Aurattoman migreenin kriteerit on alla olevassa kuvassa (tentissä tietysti tekstinä). 
+
+![](images/auratonmigreeni.png)
+
+---
+
+Kohtausoireiden hoito eroaa hieman sen mukaan, missä ollaan ja kuinka vaikeahoitoisia kohtaukset ovat aikaisemmin olleet. Migreenikohtausten päänsäryn hoidossa ensisijaiset lääkkeet ovat NSAIDit ja parasetamoli p.o. (Esim. ibuprofeeni 800 mg tai naprokseeni 500-750 mg ja parasetamoli 1000 mg; tulee siis ottaa suhteellisen korkea annos, jotta apua saadaan). Kipulääke otetaan tyypillisesti mahdollisimman pian päänsäryn alettua. Opioideja ei käytetä (eivät okein toimi kovin hyvin)! Pahoinvointiin voidaan ottaa metoklopramidia esim. 10 mg p.o. 
+ 
+Mikäli ei saavuteta hoitovastetta (hoitovasteen saavuttaminen = kivuttomuus tai kivun merkittävä väheneminen 2 t:n kuluessa lääkkeen otosta, vaikutuksen kesto 24 t:n ajan sekä lisäksi lääkkeen vähäiset haittavaikutukset ja toimintakyvyn palautuminen.), suositellaan seuraavien kohtausten hoitoon triptaaneja (monoterapiana yleensä). Triptaanien vasta-aiheita ovat mm. iskeeminen sydänsairaus (sepelvaltimotauti, aikaisempi sydäninfarkti, Prinzmetalin angina), hallitsematon hypertonia tai taustalla olevat aivoverenkiertohäiriöt. Triptaanit voivat aiheuttaa sepelvaltimoiden vasospasmeja. Yleisen vasokonstriktion takia ovat vasta-aiheisia potilailla, joilla on keskivaikea tai vaikea hypertensio tai lievä kontrolloimaton hypertensio. Vasokonstriktion takia aivoverenkiertohäiriöt ovat myös vasta-aihe. Triptaaneja ei myöskään tule käyttää hemipleegiseen migreeniin tai aivorunkomigreeniin (ei ole näyttöä). 
+
+Vaikeahoitoisemmissa migreenikohtauksissa voidaan kokeilla määrätä rimegepanttia (CGRP:n pienimolekyylinen reseptoriantagonisti), jos triptaanit ei riitä. Usein sen aloituksen arvio on neurologin heiniä, koska sekä CGRP-mabien että rimegepantin Kelan rajoitetun peruskorvattavuuden perusteena on lääkärinlausunto B erikoissairaanhoidon neurologian yksiköstä tai alan erikoislääkäriltä, kun korvausoikeutta haetaan ensimmäisen kerran ja kun korvausoikeudelle haetaan ensimmäisen kerran jatkoa. 
+
+Pitkittynyt migreenikohtaus on yleinen syy päätyä ensiapuun. Lääkkeiden parenteraalinen annostelu on hoidon kulmakivi. Komplisoituneissa tilanteissa voi neurologin konsultaatio olla tarpeen. Tärkeää on päivystyksessä dehydraation korjaus sekä usein annetaan ns. migreenitippa (ketorolaakki 30mg + metoklopramidi 10mg + deksametasoni 4mg i.v. ja yleensä lisäksi parasetamolia 1000mg i.v.; joskus voidaan antaa lisäksi diatsepaamia, jos ahdistusta/lihastensiota mukana). Pitkittyneen auran hoidossa valproaatti voi auttaa (vasta-aiheinen raskaana oleville). Jos migreeni kestää yhtäjaksoisesti yli 72 tuntia sitä kutsutaan status migrenosukseksi. Migreenistatuksen hoitoon kuuluu aina ensin sekundaaristen päänsäryn aiheuttajien sulkeminen pois (SNOOP10- tai S2NOOP4-muistisäännöt)
+
+![](images/migreenipäivystys.png)
+![](images/migreenikohtaus.png)
+
+---
+
+Migreenin hoidossa yleensä pidetään päänsärkypäiväkirjaa, joka auttaa tilanteen kartoituksessa ja hoitovasteen seurannassa sekä altistavien tekijöiden tunnistamisessa. Estohoidon aloittamiselle ei ole ehdotonta kohtausmäärärajaa.  Kun potilas kokee migreenikohtauksista sen verran haittaa, että hän on itse halukas käyttämään säännöllistä lääkitystä niiden vähentämiseksi, niin voi kokeilla. Aloitetaan lähtökohtaisesti pth:ssa, jossa tarvittaessa kokeillaan ainakin 2-3 eri estolääkettä ennen lähettämistä neurologin arvioon. Ensisijaisia ovat beetasalpaajat (esim. propranololi,ATR-salpaajat (esim. kandesartaani) tai trisyklinen masennyslääke (esim. Amitriptyliini.) Myös joitakin epilepsialääkkeitä kuten topiramaattia tai valproaattia voidaan käyttää migreeniprofylaksiassa. Raskauden aikana vaihtoehtoina lähinnä metoprololi ja propranololi. Hoidon tavoitteena on migreenipäivien puolittuminen tai huomattava väheneminen. Vastetta voidaan arvioida 3 kk:n kuluttua, kun tavoiteannos on saavutettu. Jos ensimmäinen migreeniä ehkäisevä lääke on tehoton tai huonosti siedetty, suositellaan lääkevaihtoa. Neurologialla voidaan miettiä tarvittaessa vaikeahoitoiseen migreeniin CGRP-vasta-aineita tai gepantteja. Joskus harvoin myös onabotuliinitoksiinia mietitään. 
+
+Lääkkeetön hoito on myös tärkeää:
+
+<li>Säännöllinen liikunta! (vähintään 3 x/vk; ei toki kohtauksen aikana)</li>
+<li>Ravinto- ja nautintoaineet (alkoholi, tupakka, säännöllinen ruokavalio)</li>
+<li>Ympäristö (ärsyttävien tekijöiden välttäminen)</li>
+<li>Unihäiriöiden rotiin saaminen</li>
+
+![](images/migreeninestohoito.png)
+  </div>
+</div>
+
+### Fibromyalgiaa, IBS:ää, masennusta, PTSD:tä ja nyt vielä stressin päälle vapinaa ja kohtausoireita
+
+Terveyskeskusvastaanotollesi tulee 44-vuotias nainen, jolla taustalla fibromyalgia, ärtyvän suolen oireyhtymä, toistuva masennus ja traumaperäinen stressihäiriö. Potilas hakeutuu arvioosi vapina- ja kohtausoireiston vuoksi. Vapina alkanut 2 kk sitten kesken työpäivän yhtäkkiä voimakkaana oikean käden vatkauksena. Sen jälkeen vapinaa ilmennyt päivittäin, voimakkuus fluktuoi, välillä on kokonaankin poissa. Samoihin aikoihin alkaneet 1-2 min kestoiset kohtausoireet, joiden kuvaa alkavan yleensä joko oikean käden tai jalan vapinana, joka pahenee hyvin voimakkaaksi, ja sitten "menettää kehonsa hallinnan" ja kaikki raajat samanaikaisesti kramppaavat. Kohtauksen aikana tajunta säilyy ja pystyy puhumaan. Lisäksi kertoo viime kuukausien olleen "katastrofaaliset": Runsasta työstressiä, työpaikkakiusaamistakin. Joutunut lopettamaan rakkaan kissansa. Aiemmin joutunut ex-puolisonsa pahoinpitelemäksi ja tätä parhaillaan käsitellään oikeudessakin.
+
+Status: Oikeassa yläraajassa ilmenee suurimman osan vastaanotosta vapinaa, jonka amplitudi vaihtelee muutamasta millimetristä useaan senttimetriin. Välillä tämä ilmenee pääasiassa ranteen fleksio-ekstensiona, välillä kyynärvarren sivuttaissuuntaisena liikkeenä. Ajoittain amplitudiltaan ja sijainniltaan vaihtelevaa vapinaa myös oikeassa alaraajassa. Kuukausia takaperin luetellessa oikean raajaparin vapina poistuu tilapäisesti. Peruskokeessa oikea yläraaja hieman laskeutuu, mutta ei pronatoidu. Vasemman yläraajan SNS-testauksessa provosoituu myös samanlaista muutama cm vapinaa vasempaan yläraajaan, mutta samanaikaisesti oikean yläraajan vapina poistuu. Siirtyy itsenäisesti tutkimussängylle makuulle ongelmitta, pyydettäessä nostaa oikeaa alaraajaa ensin n. 15 cm ongelmitta, sitten oikean alaraajan vapina yltyy hyvin voimakkaaksi, ja potilas raportoi nyt tulevan kohtaus. Kaikki muutkin raajat alkavat vapista voimakkaasti, mutta keskenään eri tahdissa. Kohtauksen yhteydessä potilas ottaa katsekontaktia ja pystyy vastaamaan kysymyksiin. Kohtaus ohittuu n. 40 sekunnissa. Heti tämän jälkeen pystyy taas aiempaan tapaan liikkumaan ja siirtymään itse takaisin tuolille istumaan.
+
+Mikä on ensisijainen työdiagnoosi? Miten selität tilanteen potilaalle ja mikä on jatkosuunnitelmasi tutkimusten ja hoidon suhteen? (2 p)
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+
+Kyseessä on todennäköisesti toiminnallinen neurologinen häiriö (FND) eli aikaisemmalta nimeltään konversiohäiriö. Potilaalla on siis toiminnallista vapinaa ja toiminnallisia kohtauksia.
+
+Toiminnallisille häiriöille on tyypillistä se, että anamneesissa on useita vaihtelevia oireita, joilla on epätyypillinen alku ja eteneminen sekä mahdollisia laukaisseita tekijöitä löydettävissä. Tällä potilaalla siis on vaihtelevan vahvuista vapinaa (joinain hetkinä ei edes ole vapinaa) ja paikkaansa vaihtavaa kohtausoireilua (joskus kädessä, joskus jalassa), jotka ovat alkaneet epätyypillisesti kesken työpäivää aikuisella ilman mitään selkeää rakenteellista (esim. trauma) laukaisevaa tekijää. Taustalla on myös merkittävä stressi elämässä, joka on yleinen toiminnallisten häiriöiden laukaiseva tekijä. Potilaalla on myös iso liuta muita toiminnallisia häiriöitä, kuten fibromyalgia, IBS ja samalla merkittäviä psykiatrisia sairauksia, kuten masennus ja PTSD, jotka ovat kaikki tietysti merkittäviä riskitekijöitä sille, että potilaalle kehittyy lisää toiminnallisia häiriöitä. 
+
+Myös statuksessa on usein osoitettavissa epäjohdonmukaisuuksia, kuten esimerkiksi tällä potilaalla vapinan loppuminen potilaan keskittyessä muuhun tehtävään (kuukausien luetteluun) -> distraktio eli harhautettavuuslöydös. Oireidein yleinen korostuminen vastaanottotilanteessa on myös yleistä. Kohtauksen aikainen raajojen asynkroninen liikehdintä ja välitön toipuminen myös puhuvat toiminnallisen kohtauksen puolesta. 
+
+---
+
+Toiminnallisissa häiriöissä diagnoosi perustuu positiivisiin löydöksiin (kuten distraktio), epäjohdonmukaisuuksien osoittamiseen ja muiden sairauksien riittävän kattavaan poissulkuun. Turhia tutkimuksia tulisi välttää. On usein hyvä konsultoida neurologia, jos ei ole täysin varma, että kannattaako selvitellä oirekuvaa tarkemmin esim. kuvantamisella. Tässä kohtaa kyllä voisi neurologia konsultoida, mutta todennäköisesti vastaus on se, että kuvantamista ei tarvita, sillä oirekuva ei viittaa "oikeaan" epileptiseen kohtaukseen". Psykiatria voi myös konsultoida, jos vaikuttaa siltä, että PTSD ja masennus eivät ole sopivalla hoitotasolla. 
+
+---
+
+Toiminnallisten neurologisten häiriöiden hoidossa keskeisintä on psykoedukaatio, hyvä kohtaaminen ja säännöllinen hoitokontakti sekä kuntouttava ote. Tärkeää on tunnistaa ja katkaista oireiden katastrofointikierre ajoissa. Periaatteita voisi olla:
+
+
+<li>Tapaa potilasta säännöllisesti ja sovi käynnillä aina seuraava vastaanottoaika</li>
+  <ul>
+    <li>Lyhyet tapaamiset usein on parempi kuin harvemmat pitkät tapaamiset. Vrt. potilaalle vakuutetaan pitkän vastaanoton yhteydessä, ettei hänellä ole hoidettavaa sairautta ja hän jää taas oireineen tyhjän päälle. Kuitenkin tulee varata tarpeeksi aikaa, jotta potilaan huolia voidaan kuunnella riittävästi.</li>
+    <li>Älä vähättele, Kohtaa ja kuuntele, Ole empaattinen</li>
+  </ul>
+<li>Tee kevyt somaattinen tutkimus jokaisella vastaanottokäynnillä -> vakuuttaa potilasta (ja myös mahdollistaa mahdollisten uusien "oikeiden" ongelmien löytämisen)</li>
+<li>Vältä turhia laboratoriokokeita, koneellisia tutkimuksia ja sairaalahoitoja sekä löyhällä perusteella määrättyjä lääkekokeiluja</li>
+  <ul>
+    <li>Vältä siis pelastajasyndroomaa ja pidättäydy hyvissä hoitokäytännöissä</li>
+    <li>Komorbiditeetit ovat yleisiä (esim. masennus, ahdistuneisuus), jolloin tietysti näiden tilojen hoito on indikoitua</li>
+  </ul>
+<li>Älä sano, että potilas kuvittelee oireensa, tai että ne johtuvat psyykkisistä syistä, koska potilaat eivät teeskentele tai tuota oireita tietoisesti</li>
+  <ul>
+    <li>Vrt. factitious disorders eli "itse aiheutetut häiriöt", jotka sisällytetty ICD-10:ssä aikuisiän persoonallisuus- ja käytöshäiriöihin. Nämä ovat eri asioita, kuin tietoinen, tavoitteellinen sairaaksi tekeytyminen (simulaatio, malingering).</li>
+  </ul>
+<li>Psykoedukaatio</li>
+  <ul>
+    <li>Validoi potilaan kokemien oireiden aiheuttamaa kärsimystä (biopsykososiaalista mallia voi selittää potilaalle; kts. alla) ja auta löytämään keinoja oireiden kanssa pärjäämiseksi. **Ylläpitäviin tekijöihin puuttuminen siis hyödyllistä (esim. CBT-keinot, mindfulness yms.; tämän potilaan tapauksessa myös mm. työterveysneuvottelu työpaikkakiusaamisen ja stressin hallitsemiseksi voi olla hyödyllistä, jotta kuormitus saadaan hallittavaksi)**</li>
+    <li>**Pitkäaikaisten ja haittaavien kehollisten oireiden nettiterapia / Terveyskylän avoin omahoito-ohjelma (pitkittyneet keholliset oireet)**</li>
+  </ul>
+<li>Lääkehoito tulee kyseeseen lähinnä psykiatrisen oheissairauden (esim. ahdistuneisuus, masennus) hoidossa. Näistä voidaan konsultoida psykiatria. Lääkehoidon seurannassa tulisi varata aikoja potilaalle siten, että ei käsitellä pelkkää lääkitystä, vaan on aikaa käsitellä myös psykososiaalisia asioita. </li>
+
+---
+
+Potilaalle voisi siis selittää, että kyseessä on häiriö, jota nimitetään toiminnalliseksi (potilas varmasti kuullut tämän termin kaikkien muiden diagnoosiensa yhteydessä; mahdollisesti potilas saattaa inhota termiä jo). Niiden kehittyminen ymmärretään altistavien tekijöiden, laukaisevien tekijöiden ja ylläpitävien tekijöiden kautta biopsykososiaalisen kehitysmallin mukaan. Toiminnallisissa häiriöissä on nykykäsityksen mukaan keskeisenä stressijärjestelmän kuormittuminen, keskushermoston herkistyminen ja autonomisen hermoston ylivirittyminen. Kyseessä on siis elimistön toimintojen säätelyn ja ohjaamisen häiriö. 
+
+Altistavina tekijöinä pidetään traumaattisia kokemuksia, vakiintuneita ajatusmalleja, kuten taipumusta katastrofointiin, sekä muiden sairauksien aiheuttama kuormitusta. Häiriö voi saada alkunsa jostain akuutista tilanteesta, kuten infektioon sairastumisesta tai ylikuormituksesta, esimerkiksi työstressistä tai kilpaurheilusta. Keskushermosto reagoi kuormitukseen stressivasteella, jonka kautta tapahtuva autonomisen hermoston aktivaatio voi aiheuttaa eri puolille kehoa erilaisia oireita. Niitä voivat ylläpitää huolta lisäävät selitysmallit, kielteiset odotukset ja tutkimuskierre. Oireiden katastrofointi ja mahdollinen välttämiskäyttäytyminen voi lisätä keskushermoston herkistymistä. Tämän seurauksena voi syntyä itseään ruokkiva kierre.
+
+  </div>
+</div>
+
+### Tutkimukset Alzheimerin taudin diagnostiikassa. Mitä ja missä tilanteissa? (6p)
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+Yleisesti muistioireiden selvittelyssä perusterveydenhuollon lääkärin tärkein tehtävä on poikkeavan oireen tunnistaminen ja perusselvitys, johon kuuluu: 
+
+<li>potilaan ja läheisen kuuntelu ja kattava anamneesi tilanteesta</li>
+<li>kartoitetaan mahdollisia syitä (esim. mieliala (tukena masennuskyselyt, kuten PHQ-9; vanhuksilla esim. GDS-15), päihdekäyttö, lääkkeet, uni, stressitekijät, mahdolliset pään vammat)</li>
+<li>oirearvio (muistikyselyt)</li>
+<li>neurologinen perusstatus (ja yleisstatus ja psykiatrinen status)</li>
+<li>Aineenvaihduntahäiriöt (mm. hypotyreoosi, hyper- ja hypokalsemia)</li>
+<li>muistitestit (CERAD vanhuksille ensisijainen, MMSE yksinään seurannassa (ei riitä seulontatestiksi); MoCA myös käytössä paljon varsinkin työikäisillä); yleensä muistihoitaja tekee</li>
+<li>muistisairauksien peruslaboratoriotutkimukset (PVK, glukoosi, krea, natrium, kalium, kalsium, tsh+t4v, ALAT, GT, D-25, B12 vitamiini, harkinnanvaraisesti lipidit, lasko ja folaatti, EKG)</li>
+
+---
+
+Erikoissairaanhoidossa tavoitteena on tarkka tyyppidiagnoosi (esim. Alzheimer vs. Lewyn kappale -tauti vs. otsa-ohimolohkorappeuma) ja hoidon optimointi. Alzheimerin taudin diagnoosi perustuu tyypilliseen oirekuvaan sekä tautia tukeviin löydöksiin (MRI, likvor ja/tai PET). Diagnoosi ei siis ole poissulkudiagnoosi. Nykyään käytetään etenevissä määrin likvortutkimuksia ja PET-kuvantamista diagnoosin vahventamisessa, varsinkin jos potilas on nuori, tilanne on epäselvä tai hatkitaan modifoivia hoitoja. 
+
+Positroniemissiotomografia (PET) ja yksifotoniemissiotomografia (SPET) ovat isotooppikuvantamismenetelmiä, joilla on mahdollista tutkia muun muassa aivojen verenvirtausta, aineenvaihduntaa ja nykyisin myös erilaisten valkuaisaineiden, kuten beeta-amyloidin tai taun, kertymiä. Eniten käytetty PET-merkkiaine muistisairauksien tutkimuksessa on glukoosin johdannainen, fluorodeoksiglukoosi (FDG), jonka kertymä kuvaa aivojen aineenvaihduntaa ja epäsuorasti hermosolujen ja synapsien toimintaa. Tyypillinen löydös Alzheimerin taudissa on ohimo- ja päälaenlohkojen sekä precuneuksen / gyrus cingulin alueelle painottuva, usein symmetrinen glukoosin kulutuksen heikentyminen (hypometabolia).
+
+Likvoranalyysissa voidaan nähdä fosforyloituneen tau-proteiinin (myös yleensä kokonais-taun) suurentuminen ja/tai beeta-amyloidi 42:n pieneneminen. 
+
+*Nykyään on myös periaatteessa käytössä verinäytepohjaisia merkkiainetestejä, kuten p-tau217. Mikäli likvoritutkimukset ovat vasta-aiheisia ja amyloidi-PET-tutkimusta ei ole saatavilla, voidaan harkintaa käyttäen hyödyntää myös veren pTau217-määritystä. Erityisesti työikäisten diagnostiikassa tulee kuitenkin käyttää ensisijaisesti likvoritutkimusta.
+  </div>
+</div>
+
+### O/V 
+
+Etiologian mukainen verenkiertoon vaikuttava lääke on olennainen osa aivoinfarktin sekundaaripreventiivistä lääkitystä 
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+Oikein 
+
+---
+
+Aivoinfarktin sekundaaripreventiossa on tärkeää valita lääkehoito infarktin etiologian perusteella. Yleisimpiä etiologioita ovat sydänperäinen embolisaatio (tällöin antikoagulatiivinen hoito ensisijainen), pienten suonten tauti (antitromboottinen hoito) ja suurten suonten ateroskleroosi (antitromboottinen hoito). 
+
+AK-hoito tai antritrombootit eivät sinänsä vaikuta itse verenkiertoon, vaan veren hyytymiseen ja verihiutaleiden aggregoitumiseen. Tässä tapauksessa tentissä ei kuitenkaan yritetty mitään kompakysymystä, vaan nämä lääkkeet miellettiin "verenkiertoon vaikuttaviksi" -> vastaus on oikein. 
+
+![](images/avhetiologioidenlääkehoito.png)
+  </div>
+</div>
+
+### O/V
+
+Akuutisti kehittynyt Hornerin oireyhtymä vaatii päivystysselvittelyjä 
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+Oikein 
+
+---
+
+Hornerin oireyhtymä tarkoittaa sympaattisen rungon hermovaurion (missä tahansa osassa sympatikus-rataa) aiheuttamaa oirekuvaa, jolle on tyypillistä seuraava triadi: ipsilateraalinen ptoosi + mioosi + anhidroosi (anhidroosia ei ale aina nähtävissä). Toiselta nimeltään oculosympathetic palsy.
+
+Taustasyitä esim. keskushermoston vauriot, sarjoittainen päänsärky, keuhkojen yläosien kasvaimet, ICA:n dissekaatio, iatrogreeniset syyt. **Lähtökohtaisesti uutena kehittynyt Hornerin syndrooma vaatii päivystystutkimuksia.** Se voi mm. olla kaula- ja nikamavaltimon dissekaation ainoa statuspoikkeavuus. 
+
+  </div>
+</div>
+
+### O/V
+
+HINTS-testisarja kannattaa tehdä kaikille huimauspotilaille, koska sillä pystyy poissulkemaan aivoverenkiertohäiriön 
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+Väärin 
+
+---
+
+HINTS (Head Impulse, Nystagmus, Test of Skew) käytetään ensisijaisesti erottamaan AVH vestibulaarineuriitista, koska ne molemmat voivat ilmentyä samanlaisesti eli akuuttina vestibulaarioireyhtymänä (todetaan pitkittynyttä jatkuvaa vertigoa ja spontaania/katseen siirtämisen indusoimaa nystagmusta). Jos potilaalla ei ole jatkuvaa vertigoa + spontaania nystagmusta, niin älä suorita HINTS-tutkimusta (samalla periaatteella Dix-Hallpiken tutkimusta ei tule suorittaa, jos potilaalla ON spontaania nystagmusta). HINTS tehtynä väärälle potilaalle voi turhaan herättää epäilyn sentraalisesta syystä. Esimerkiksi BPPV:ssä impulssitesti on normaali, samoin kuten sentraalisessa syyssä. Samoin täysin terveille potilaille tehty HINTS olisi huolestuttava, koska impulssitesti olisi normaali.
+
+HINTS ei myöskään tule tehdä, jos on selviä sentraalisia piirteitä (vertikaalinen nystagmus, fokaalit neurologiset oireet, deadly D's (dysartria, diplopia/dyskonjugaatio, dysfagia, dysmetria/dysdiadokokinesia, dysfonia), merkittävä päänsärky yms) -> ei ole enää kovinkaan vahvaa epäilyä vestibulaarineuriitista ja potilas tarvitsee yleensä pään TT:n. 
+
+![](images/vertigoalgo.png)
+  </div>
+</div>
+
+### O/V
+
+Vertikaalinen spontaaninystagmus viittaa aivoperäiseen häiriöön 
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+Oikein 
+
+---
+
+Jos potilaalla on spontaanisti vertikaalissuuntaista nystagmusta, on se pääsääntöisesti sentraalisesta syystä johtuvaa. Vertikaalis-rotatorista nystagmusta voidaan kyllä nähdä hyvänlaatuisen asentohuimauksen (HAH, BPPV) yhteydessä Dix-Hallpiken testissä, mutta silloin nystagmus ei ole spontaania. 
+
+![](images/vertigoalgo.png)
+  </div>
+</div>
+
+### O/V
+
+Aivoiskemian aiheuttamassa vauriossa nopeaa toipumista tapahtuu yleensä n. 12 kk asti 
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+Väärin 
+
+---
+
+Aivohalvauspotilaan (aivoinfarkti tai aivoverenvuoto) kuntoutus ja kotiuttaminen on moniammatillinen prosessi (lääkäri, sairaanhoitaja, fysioterapeutti, toimintaterapeutti, puheterapeutti, neuropsykologi, sosiaalityöntekijä), jossa tavoitteena on palauttaa potilaan toimintakyky sellaiseksi, että selviytyminen kotona on turvallista ja tuettua (tavoitteena siis aiemman toimintakyvyn palautuminen tai mahdollisimman hyvä toimintakyky). Kuntoutus alkaa heti, kun potilaan tila on neurologisesti ja hemodynaamisesti stabiili. Keskushermoston vaurioissa palauttava kuntoutus noudattaa usein tiettyä aikataulua:
+
+<li>Spontaani korjaantuminen: 1-2 vk</li>
+<li>Nopea toipuminen: 3 kk (akuutti–subakuutti vaihe (0–3 kk sairastumisesta) on kuntoutumisen kannalta tehokkain)</li>
+<li>Kohtalainen toipuminen: 3-6 kk (toipuminen jatkuu edelleen merkittävänä, mutta tahti alkaa usein hidastua)</li>
+<li>Hidas toipuminen: 6-12 kk (toipuminen ei suinkaan lopu, mutta se muuttuu hitaammaksi)</li>
+<li>Toimintojen varmentuminen ja sujuvoituminen: 1-2 v (aktiivista kuntoutusta jatketaan yleensä niin kauan kuin oleellista toipumista tapahtuu; toimintakykyä voidaan parantaa avokuntoutuksella kotiutumisen jälkeen ainakin vuoden ajan)</li>
+
+  </div>
+</div>
+
+### O/V
+
+AVH-potilaan kuntoutussuunnitelma tehdään aina erikoissairaanhoidossa 
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+Väärin 
+
+---
+
+Vaikka kuntoutusprosessi ja siihen liittyvä arviointi alkavat jo erikoissairaanhoidossa (akuuttivaiheen neurologisella osastolla tai AVH-yksikössä), kuntoutussuunnitelman laatiminen ja päivittäminen eivät rajoitu vain sinne. Varsinkin jos potilas siirtyy jatkokuntoutukseen terveyskeskussairaalaan tai muuhun kuntoutusyksikköön, varsinainen pitkän aikavälin kuntoutussuunnitelma tehdään usein siellä.
   </div>
 </div>

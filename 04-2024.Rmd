@@ -549,7 +549,7 @@ Sairaus etenee hitaasti ja tasaisesti; aiheuttaa oireita vaurioituneiden aivoalu
 
 ---
 
-Olennaisimmat histolopatologiset muutokset ovat beeta-amyloidin ja HF-taun kertyminen tiettyihin aivoalueisiin. Beeta-amyloidi (Aβ-amyloidi) kertyy ja muodostaa neuriittiplakkeja soluvälitilaan. Neuriittiplakkikertymät aiheuttavat tulehdusresponssin ympärilleen sekä voivat myös kertyä verisuonien ympärille heikentäen verenkiertoa ja lisäten verenvuodon riskiä. Häiritsevät myös viestivälitystä synapsiväleissä sekä katalysoivat taun aggregaatiota neurofibrillivyyhteiksi (tau trigger), mikä on sytotoksista.b.	Hyperfosforyloituneet taukertymät siis muodostavat neurofibrillivyyhtejä solunsisäisesti. 
+Olennaisimmat histolopatologiset muutokset ovat beeta-amyloidin ja HF-taun kertyminen tiettyihin aivoalueisiin. Beeta-amyloidi (Aβ-amyloidi) kertyy ja muodostaa neuriittiplakkeja soluvälitilaan. Neuriittiplakkikertymät aiheuttavat tulehdusresponssin ympärilleen sekä voivat myös kertyä verisuonien ympärille heikentäen verenkiertoa ja lisäten verenvuodon riskiä. Häiritsevät myös viestivälitystä synapsiväleissä sekä katalysoivat taun aggregaatiota neurofibrillivyyhteiksi (tau trigger), mikä on sytotoksista.	Hyperfosforyloituneet taukertymät siis muodostavat neurofibrillivyyhtejä solunsisäisesti. 
 
 ---
 
@@ -1080,7 +1080,7 @@ Perfuusiokuvantamisen tarkoitus on arvioida, kuinka suuri penumbra on. Penumbra 
 
 ### O/V
 
-Arteria communicans arteriorin eli ACA:n infarktissa on alaraajapainotteinen hemipareesi
+Arteria cerebri anteriorin eli ACA:n infarktissa on alaraajapainotteinen hemipareesi
 
 <div class="">
   <button class="solution-button"
@@ -1210,7 +1210,7 @@ Kohtauksittainen, silmän alueelle paikantuva, voimakas päänsärky ja autonomi
   </div>
 </div>
 
-### Autallinen migreeni
+### Aurallinen migreeni
 
 19-v nainen tulee vastaanotolle aurallisen migreenin vuoksi. Perussairauksina astma, johon tarvittaessa Ventoline (salbutamoli). Lisäksi käytössä yhdistelmä e-pillerit. Potilas harrastaa uintia kilpatasolla. Migreenikohtauksiin potilas käyttää ibuprofeeni 800mg+parasetamoli 1g. Kohtauslääkkeet auttavat hyvin. Kohtauksia on kuitenkin usein ja kohtauslääkkeitä tarvitsee päiväkirjan mukaan n. 4 päivänä viikossa.
 
