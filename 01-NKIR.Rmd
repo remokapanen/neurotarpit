@@ -209,7 +209,7 @@ a
 
 ---
 
-Lapsi on lyönyt päänsä vasemman korvan yläpuolelle (ohimoalue eli temporaalialue). Tämä on anatomisesti klassinen paikka arteria meningea median vauriolle, joka on tyypillisin syy epiduraalihematoomaan. Epiduraalivuoto voi valtimovuotona laajentua nopeasti ja hematooma painaa aivokudosta kasaan. Tämä työntyminen voi edetä siihen, että aivokudosta (yleensä mediaalinen ohimolohko (uncus))työntyy tentoriumin aukosta alaspäin (transtentoriaalinen). Voi kompressoida ylempää aivorunkoa ja väliaivoja -> usein tajuttomuus ja aivorunkolöydökset (kuten mustuaisen laajentuminen CN III -pareesin takia).
+Lapsi on lyönyt päänsä vasemman korvan yläpuolelle (ohimoalue eli temporaalialue). Tämä on anatomisesti klassinen paikka arteria meningea median vauriolle, joka on tyypillisin syy epiduraalihematoomaan. Epiduraalivuoto voi valtimovuotona laajentua nopeasti ja hematooma painaa aivokudosta kasaan. Tämä työntyminen voi edetä siihen, että aivokudosta (yleensä mediaalinen ohimolohko (uncus)) työntyy tentoriumin aukosta alaspäin (transtentoriaalinen). Voi kompressoida ylempää aivorunkoa ja väliaivoja -> usein tajuttomuus ja aivorunkolöydökset (kuten mustuaisen laajentuminen CN III -pareesin takia).
 
 b: Subduraalihematooma on yleensä laskimoperäinen ja hitaampi, eikä tyypillisesti liity paikalliseen ohimoluun iskuun yhtä klassisesti kuin epiduraalivuoto.
 
@@ -273,7 +273,7 @@ ABCDE-protokollan mukaan nämä tulee ensimmäisenä vastausvaihtoehdoista vasta
 
 a: Korkea verenpaine (hypertonia) on usein elimistön suojareaktio (Cushingin refleksi) turvaamaan aivojen verenvirtausta paineen noustessa, eikä sitä tule yleensä laskea aggressiivisesti ensihoidossa. Hypokapnia kyllä supistaa verisuonia ja voi jopa pahentaa iskemiaa, jos se on hallitsematonta; tämän takia hyperventilaatio ei ole hyvästä.
 
-b: Nämä ovat tärkeitä hoitaa, mutta ei tärkeämpiä kuin hypotensio/hypoksia
+c: Nämä ovat tärkeitä hoitaa, mutta ei tärkeämpiä kuin hypotensio/hypoksia
 
 d: Nämä ovat tärkeitä korjattavia metabolisia häiriöitä ja varsinkin hypoglykemia kuuluu ABCDE-protokollassa jo D-kohtaan usein.
   </div>
@@ -1216,7 +1216,7 @@ Molemminpuolinen alaraajakipu, peräaukon seudun puutuminen (ns. ratsupaikka-ane
 
 a: Peräaukon seudun puutuminen ja virtsaamisvaikeudet eivät kuulu verisuoniperäiseen oirekuvaan
 
-b: Sakraalikystat ovat yleisiä sattumalöydöksiä ja harvoin aiheuttavat näin rajuja akuutteja oireita
+c: Sakraalikystat ovat yleisiä sattumalöydöksiä ja harvoin aiheuttavat näin rajuja akuutteja oireita
 
 d: Vaikka sfinktertonus olisi vielä tallella, muut oireet (ratsupaikka-anestesia ja virtsaamisongelmat) riittävät indikaatioksi päivystykselliseen MRI-kuvaukseen
   </div>
@@ -1305,7 +1305,7 @@ a
 
 Radiologiset piirteet viittaavat vahvasti meningeoomaan, joka on tyypillisesti tarkkarajainen ja tiivis sekä kiinni kovassa aivokalvossa. Se, ettei muutos aiheuta turvotusta (ödeemaa) tai paina aivokudosta, viittaa erittäin hitaasti kasvavaan tai stabiiliin prosessiin, vaikka meningeoomat kyllä voivatkin aiheuttaa ödeemaa. Noin 1,8 cm kokoinen kasvain pikkuaivojen pinnalla ilman massavaikutusta tai ympäröivää turvotusta ei yleensä aiheuta oireita. 75-vuotiaan huimauksen syy löytyy todennäköisesti muualta (esim. tasapainoelimen toimintahäiriö, verenpaineen vaihtelu tai niska-hartiaseudun ongelmat). Pienen, oireettoman ja hyvänlaatuiselta vaikuttavan kasvaimen leikkausriskit ylittävät todennäköisesti saavutettavat hyödyt. 
 
-a: Etäpesäkkeet (metastaasit) aiheuttavat lähes poikkeuksetta huomattavan ödeeman (turvotuksen) ympäröivään aivokudokseen, ja ne sijaitsevat yleensä aivokudoksen sisällä, eivät duraan kiinnittyneinä pinnalla
+b: Etäpesäkkeet aiheuttavat lähes poikkeuksetta huomattavan ödeeman ympäröivään aivokudokseen, ja ne sijaitsevat yleensä aivokudoksen sisällä (valkoisen ja harmaan aineen junktiossa yleisimmin, koska sille alueelle pienet suonet tuovat verenkierron kautta kulkeneet syöpäsolut), eivät duraan kiinnittyneinä pinnalla
 
 c: MRI on erittäin tarkka meningeooman tunnistamisessa. Pienen ja oireettoman kasvaimen nopea leikkaus ei ole aiheellista.
 
@@ -1517,7 +1517,7 @@ a: RTG näyttää vain luurakenteita eikä siten näytä hermojuuria, selkäydin
 
 b: ENMG voi olla hyödyllinen erotusdiagnostiikassa radikulopatian ja perifeerisen pinteen kanssa, mutta tässä on selkeä epäily kaularangan alueen pinteestä -> MRI ensimmäiseksi 
 
-c: TT on huonompi pehmytkudosten arvioinnissa; MRI ensisijainen 
+c: TT on huonompi pehmytkudosten arvioinnissa; MRI ensisijainen. Akuuteissa traumatilanteissa TT tietysti otetaan sen nopeuden takia yleensä ensin.
   </div>
 </div>
 
@@ -1598,9 +1598,9 @@ Aivovamma aloittaa metabolisen kaskadin, jossa vapautuu runsaasti neurotransmitt
 
 Teho-osaston hoitotoimilla (esim. ICP:n valvominen ja alentaminen) on tärkeä rooli sekundaaristen vaurioiden vähentämisessä. 
 
-a: Sekundaarinen aivovaurio kehittyy jo tyypillisesti minuuttien, tuntien ja ensimmäisten vuorokausien kuluessa vammasta. 
+a: Sekundaarinen aivovaurio kehittyy jo tyypillisesti minuuttien, tuntien ja ensimmäisten vuorokausien kuluessa vammasta. Sen eteneminen kyllä voi jatkua pitkään, mutta sekundaariset vauriot alkavat periaattessa välittömästi akuutin vamman (primaarivaurio) tapahtumishetken jälkeen.
 
-b: Vaikka optimaalinen ensihoito on elintärkeää ja voi vähentää sekundaarisen vaurion astetta, se ei voi aina estää sitä
+b: Vaikka optimaalinen ensihoito on elintärkeää ja voi vähentää sekundaarisen vaurion astetta, se ei voi sinänsä estää sitä kokonaan.
 
   </div>
 </div>
@@ -1630,7 +1630,7 @@ a: RTG näyttää vain luut ja ei käytetä hermoston kuvantamiseen
 
 b: Viikon viive on aivan liian pitkä; siinä ajassa hermokudos ehtii vaurioitua palutumattomasti 
 
-d: Taila vaatii päivystyksellisiä selvittelyjä; ei odoteta, että potilas paralysoituu
+d: Vaatii päivystyksellisiä selvittelyjä; ei odoteta, että potilas paralysoituu
   </div>
 </div>
 
