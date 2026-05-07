@@ -728,11 +728,11 @@ d: Hemikraniektomiaa voidaan kyllä miettiä, muta vain jos vuodolla on massavai
   </button>
   <div class="solution-content">
 
-d
+b
 
 ---
 
-Kaikki näistä ovat tärkeitä riskitekijöitä ja siten myös alentavat ennustetta. 
+Antikoagulaatio on ainoa todella merkittävä akuutisti ennustetta heikentävä tekijä näistä. 
   </div>
 </div>
 
