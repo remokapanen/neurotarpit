@@ -123,6 +123,7 @@ ov-27
 huimaus-on-erittäin-yleinen-syy-hakeutua-lääkärin-arvioon.-mitkä-ovat-huimauspotilaan-tärkeimmät-anamnestiset-tiedot
 tensionaalisen-päänsäryn-ja-migreenin-keskeiset-diagnostiset-erot
 pitkäkestoinen-yläraajaheikkous
+blokki-3-1
 olet-keskussairaalan-päivystävä-lääkäri-ja-yksityispuolelta-lähetetään-päivystykseen-potilas-jolla-on-todettu-pään-kuvantamisessa-aivoinfarkti.
 miten-migreeniauran-ja-aivoverenkiertohäiriön-aiheuttamat-näköoireet-eroavat-oirekuvaltaan-toisistaan
 lääkemuutoksia-parkinson-potilaalle
@@ -165,7 +166,7 @@ epileptinen-kohtaus-potilastapaus
 ov-kysymykset
 oireista-tasodiagnostiikkaan
 migreenin-estohoito
-blokki-3-1
+blokki-3-2
 ohimennyt-oikean-käden-heikkous
 luettele-tyypillisimmät-oireet-ja-statuslöydökset
 miten-pyörtyminen-syncope-ja-epileptinen-tajunnanmenetyskohtaus-eroavat-toisistaan-kliinisesti
@@ -193,7 +194,7 @@ käden-äkillinen-heikkous
 oikein-väärin-väittämiä
 vuotias-nainen-tulee-neurologian-vastaanotolle-silmälääkärin-lähettämänä-oikean-puoleisen-opticusneuriitin-vuoksi.-oireet-alkaneet-noin-viikko-sitten-pikkuhiljaa.
 päänsäryn-hälytysmerkit-vastaa-ranskalaisin-viivoin-lyhyesti-6p
-blokki-3-2
+blokki-3-3
 v-nainen-sai-influenssarokotuksen.-3-viikkoa-rokotuksen-jälkeen-hän-hakeutui-vastaanotolle-alaraajojen-puutumisen-takia.-toimit-terveyskeskuslääkärinä-tutkit-potilaan-vastaanotolla-kliinisesti-ja-pohdit-jatkotoimenpiteitä-ov-ja-1p-jokaisesta-max-6p
 bussikuski-kouristaa
 mikä-on-todennäköisin-diagnoosi-vastaa-yhdellä-sanalla-tai-lauseella
