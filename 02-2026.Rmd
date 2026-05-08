@@ -837,7 +837,7 @@ Ensihoidolta:
 <li>Tarkka kellonaika, jolloin potilas viimeksi oli oireeton? Määrittää trombolyysi- ja trombektomia-ikkunan</li>
 <li>Onko räjähdysmäisesti alkanutta, elämän kovinta päänsärkyä? Onko oksentelua tai niskajäykkyyttä?</li>
   <ul>
-    <li>Selvä SAV-epäily, vaikka pään TT olisikin normaali, on liuotushoidon vasta-aihe -> usein tarkistetaan lannepiston kautta, onko verta likvorissa.</li>
+    <li>Selvä SAV-epäily, vaikka pään TT olisikin normaali (ainakin >6h oireista, koska <6h sisällä TT:n herkkyys SAV:n havaitsemiseksi on lähes 100%), on liuotushoidon vasta-aihe -> voidaan tarkistaa lannepiston kautta, onko verta likvorissa.</li>
   </ul>
 <li>Mikä verenpaine? </li>
   <ul>
@@ -845,7 +845,7 @@ Ensihoidolta:
   </ul>
 <li>Mikä verensokeri?</li>
   <ul>
-    <li>Gluk <2.8 ob vasta-aihe liuotukselle (korjataan ensin >4)</li>
+    <li>Gluk <2.8 on vasta-aihe liuotukselle (korjataan ensin >4)</li>
   </ul>
 <li>Lisäksi mahdollisesti: Onko ollut pään vammaa taustalla? Infektio-oireita? Onko kouristelua esiintynyt?</li>
   <ul>
@@ -859,9 +859,9 @@ Potilastiedoista:
 <li>Onko käytössä antikoagulaatiohoito</li>
   <ul>
     <li>AK-hoito hoitoannoksella (LMWH/hepariini 24h sisällä tai DOAC <48h) on vasta-aihe liuotukselle</li>
-    <li>Jos käytössä on varfariini tai on muutoin syytä epäillä hyytymisjärjestelmän häiriötä, niin mitataan INR. INR >1.7 on vasta-aihe</li>
+    <li>Jos käytössä on varfariini tai on muutoin syytä epäillä hyytymisjärjestelmän häiriötä, niin mitataan INR. INR >1.7 on vasta-aihe liuotukselle.</li>
       <ul>
-        <li>Periaatteessa monissa paikoissa liuotuslabrat ovat yhdessä paketissa ja INR mitataan siten kaikilta</li>
+        <li>Periaatteessa monissa paikoissa liuotuslabrat ovat yhdessä paketissa ja INR mitataan siten kaikilta. Sitä ei kuitenkaan enää oteta pika-INR-tutkimuksena, jos ei ole ym. syytä.</li>
       </ul>
   </ul>
 <li>Potilaan toimintakyky ja omatoimisuus (mRS) ja muut sairaudet (esim. mikä voisi olla taustalla (vaikka eteisvärinää?))</li>
@@ -1064,7 +1064,7 @@ Potilaalla on huimausta ja todetaan spontaania vertikaalista nystagmusta -> aina
   </button>
   <div class="solution-content">
   
-Tunnettu stroke-mimic eli hypoglykemia on jo täällä syrjäseudullakin tärkeää poissulkea, joten otetaan pikasokeri ja tarvittaessa korjataan hypoglykemia. Potilas myös vaatii välitöntä sairaalahoitoa ja hänet tulee lähettää lähimpään liuotushoitoon kykenevään lokaatioon. Sieltä he voivat kriteerien täyttyessä mahdollisesti liuottaa potilaan ja mahdollisesti vielä ohjata eteenpäin trombektomiaan.   
+Tunnettu stroke-mimic eli hypoglykemia on jo täällä syrjäseudullakin tärkeää poissulkea, joten otetaan pikasokeri ja tarvittaessa korjataan hypoglykemia. Potilas myös vaatii välitöntä sairaalahoitoa ja hänet tulee lähettää lähimpään liuotushoitoon kykenevään lokaatioon. Sieltä he voivat kriteerien täyttyessä mahdollisesti liuottaa potilaan ja mahdollisesti vielä ohjata eteenpäin trombektomiaan. Soitetaan siis vastaanottavaan sairaalaan ja saadaan samalla konsultaation perusteella ohjeet siirron aikaiseen hoitoon. 
   </div>
 </div>
   
@@ -1098,13 +1098,13 @@ Potilas alkaa lähestymään kroonista jännityspäänsärkyä (Episodinen on < 
   </button>
   <div class="solution-content">
   
-Keskeisintä on potilaan rauhoittaminen (vakuuttaminen oireen hyvänlaatuisuudesta), koska hän pelkää aivokasvainta. Neurologinen status oli normaali ja oireisto (pantamainen, symmetrinen, ei pahene rasituksessa) on tyypillinen jännityspäänsärylle.
+Keskeisintä on potilaan rauhoittaminen (vakuuttaminen oireen hyvänlaatuisuudesta), koska hän pelkää aivokasvainta. Neurologinen status oli normaali ja oireisto (pantamainen, symmetrinen, ei pahene rasituksessa) on tyypillinen jännityspäänsärylle. Pelkkä päänsärky on äärimmäisen harvoin ainoa aivokasvaimen oire. 
 
 Tässä akuutissa tilanteessa riittää usein tulehduskipulääke (ja joskus lihasrelaksaatiolääkkeitäkin kokeillaan). Ohjataan välttämään liiallista parasetamolin/tsopiklonin käyttöä (särkylääkepäänsäryn riski). Ohjaus fysioterapiaan ja ergonomian tarkistus näyttöpäätetyössä. Suositellaan tanssiharrastuksen jatkamista, sillä liikunta usein helpottaa jännityspäänsärkyä.
 
 Tilanteen pitkittyessä ja kroonistuessa hoito vaikeutuu. Tällöin on aloitettava ei-lääkkeellisistä hoidoista. Särkevää pään aluetta voi myös hieroa, ja usein lämpö on hyödyksi. Työpaikalla ja iltaisin kotona on syytä yrittää voimistelua ja rentoutusta. Usein täytyy harkita elämäntapojen muutosta ja liikunnan lisäämistä. Lääkehoidossa voidaan harkita trisyklisiä masennuslääkkeitä. 
 
-Sairaalan lähettämiselle ei ole tarvetta. Jos ilmenee punaisia lippuja päänsäryn suhteen, niin silloin uusi arvio. 
+Sairaalaan lähettämiselle ei ole tarvetta. Jos ilmenee punaisia lippuja päänsäryn suhteen, niin silloin uusi arvio. 
   </div>
 </div>
 
