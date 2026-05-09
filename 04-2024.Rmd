@@ -16,7 +16,7 @@ Tärpit monin paikoin suppeammin kirjoitettuja (ei aina tarkkaa kysymyksenasette
 
 Migreenin näköauraoire on hitaasti tai vähintäänkin hitaammin kehittyvä (vähintään 5 minuutin aikana kehittyviä), positiivinen ja ohimenevä. Positiivinen näköoire tarkoittaa siis näkökenttään ilmestyviä ylimääräisiä ilmiöitä, kuten sahalaitakuviota tai väreilyä.  Ilmenee yleensä molempien silmien kautta samassa näkökentän puoliskossa (homonyymi oire), koska häiriö on aivokuorella. Jos potilas peittää toisen silmän, oire näkyy edelleen toisella. Joskus harvoin kyseessä voi olla verkkokalvoperäinen oire, jolloin näköhäiriö on pelkästään toisessa silmässä. Migreenissä motorinen oire (hemipareesi) on hyvin epätavallinen. Usein visuaalinen aura voi muuttua toiseksi auraoireeksi tai sen rinnalle voi kehittyä toinen aura, kuten puhe- tai tuntohäiriö ja sitten seuraa (ei aina) päänsärky.
 
-Aivoverenkierronhäiriössä oire on äkillinen, negatiivinen eikä välttämättä ohitu (TIA:ssa kyllä ohittuu). Se on maksimaalinen heti alussa eikä etene. TIA:n aiheuttama näköoire voi olla homonyyminen näkökenttäpuutos tai jos on a. ophtalmican ongelma, niin amaurosis fugax -tyylinen (toisen silmän näköpuutos). Aivoverenkiertohäiriössä on usein myös muita neurologisia puutosoireita. TIA:sas myös usein motorisia oireita. TIAlta puuttuu migreenille tyypillinen asteittainen oireiden muuntuminen näköoireesta puhe- tai tuntohäiriöön ja usein näitä seuraavaan migreenipäänsärkyyn. Takaverenkierron TIAn (vertebrobasilaari-TIA) johto-oire on usein huimaus tai toispuolinen näkökenttäoire. Diagnoosi on siten vaativa, eikä vähiten siksi, että myös huimausoire liittyy usein myös migreenikohtauksiin.
+Aivoverenkierronhäiriössä oire on äkillinen, negatiivinen eikä välttämättä ohitu (TIA:ssa kyllä ohittuu). Se on maksimaalinen heti alussa eikä etene. TIA:n aiheuttama näköoire voi olla homonyyminen näkökenttäpuutos tai jos on a. ophtalmican ongelma, niin amaurosis fugax -tyylinen (toisen silmän näköpuutos). Aivoverenkiertohäiriössä on usein myös muita neurologisia puutosoireita. TIA:ssa myös usein motorisia oireita. TIAlta puuttuu migreenille tyypillinen asteittainen oireiden muuntuminen näköoireesta puhe- tai tuntohäiriöön ja usein näitä seuraavaan migreenipäänsärkyyn. Takaverenkierron TIAn (vertebrobasilaari-TIA) johto-oire on usein huimaus tai toispuolinen näkökenttäoire. Diagnoosi on siten vaativa, eikä vähiten siksi, että myös huimausoire liittyy usein myös migreenikohtauksiin.
 
 **TIA-epäily kuuluu päivystykseen, jos oireistosta on alle 2 viikkoa.** Yli kaksi viikkoa vanhat kuuluvat kiireellisellä lähetteellä neurologialle. 
 
@@ -103,7 +103,7 @@ Statuksessa tulee erityisesti arvioida:
   </button>
   <div class="solution-content">
 
-Kummankaan taudin diagnoosi ei vaadi yleensä kuvantamistutkimuksia ja diagnoosit ovat ensisijaisesti kliinisiä. Parkinsonin taudin diagnoosista vastaavat neurologit; epäilyn herätessä potilas lähetetään neurologialle. Essentiellin vapinan hoito ja diagnostiikka on PTH:n heiniä. Verikokeillaakaan sairauksia ei voida todeta, mutta niitä usein määrätään, jotta voidaan varmistaa, että kyse ei ole jostain muusta sairaudesta. MRI-kuvantamista (toissijaisesti TT) käytetään myös joskus toisten aiheuttajien poissulkemiseen; eivät siis osoita spesifisiä muutoksia. 
+Kummankaan taudin diagnoosi ei vaadi yleensä kuvantamistutkimuksia ja diagnoosit ovat ensisijaisesti kliinisiä. Parkinsonin taudin diagnoosista vastaavat neurologit; epäilyn herätessä potilas lähetetään neurologialle. Essentiellin vapinan hoito ja diagnostiikka on PTH:n heiniä. Verikokeillakaan sairauksia ei voida todeta, mutta niitä usein määrätään, jotta voidaan varmistaa, että kyse ei ole jostain muusta sairaudesta. MRI-kuvantamista (toissijaisesti TT) käytetään myös joskus toisten aiheuttajien poissulkemiseen; eivät siis osoita spesifisiä muutoksia. 
 
 Valikoiduissa tapauksissa käytetään ns. dopamiinikuvantamista (CIT-SPECT “DatScan”), jossa mitataan dopamiinia tuottavien hermosolujen määrä tyvitumakealueella. Se auttaa erottelemaan Parkinsonin taudin ei-degeneratiivista tiloista kuten juuri essentiaalisesta vapinasta. Essentiaalisessa vapinassa, lääkeparkinsonismissa ja vaskulaarisessa parkinsonismissa dopaminergisen järjestelmän toiminta on normaalia, kun taas Parkinsonin taudissa se on poikkeavaa. Dopamiinitransportterikuvaus ei kuitenkaan pysty erottamaan Parkinsonin tautia ja atyyppisiä parkinsonismeja (Parkinson-plus-taudit). 
   </div>
@@ -380,7 +380,7 @@ Normaali CK ei poissulje lihastautia eikä edes myosiittia; osassa myopatioista 
 
 ### O/V
 
-ALS-taudissa sekä ylemmän että alemman motoneuronin vaurion merkkejä
+ALS-taudissa on sekä ylemmän että alemman motoneuronin vaurion merkkejä
 
 <div class="">
   <button class="solution-button"
@@ -400,7 +400,7 @@ Amyotrofinen lateraaliskleroosi (ALS) on yleisin motoneuronitauti. ALS:lle on ty
 
 ## Blokki 2 
 
-Taas puuttellisia kysymyksenasetteluja paljon. 
+Taas puutteellisia kysymyksenasetteluja paljon. 
 
 ### TIA-kohtauksesta potilastapaus: mies jolla oli 10 vrk sitten ollu joku tietty oirekuva ja siihen liittyen kysymyksiä
 
@@ -435,7 +435,7 @@ TIA-kohtauksesta alle 2vk --> (yliopisto-/keskus)sairaalapäivystykseen. Jos yli
   </button>
   <div class="solution-content">
 
-Anamneesi + yleis- ja neurologinen status. Diagnoosi perustuu anamneesiin ja kuvantamisella poissuljetaan muut tilat (aivoverenvuoto tai jo kehittynyt infarkti). Päivystyksellisesti yleensä otetaan pään TT (harkiten MRI esim. raskaana olevilta) ja kaulasuonten TT-angiografia (jolla etsitään mahdollista suuren suonen tukosta tai karotisstenoosia). Myös aina EKG (erityisesti eteisvärinän seulonta) ja tyypillisesti myös thorax-rtg. Tietysti myös verenpiaineet ja muut vitaalit. Labroista PVK, CRP, Na, K, krea, gluk, HBA1c, kol, CK, TnI, yleensä myös INR ja APTT.  
+Anamneesi + yleis- ja neurologinen status. Diagnoosi perustuu anamneesiin ja kuvantamisella poissuljetaan muut tilat (aivoverenvuoto tai jo kehittynyt infarkti). Päivystyksellisesti yleensä otetaan pään TT (harkiten MRI esim. raskaana olevilta) ja kaulasuonten TT-angiografia (jolla etsitään mahdollista suuren suonen tukosta tai karotisstenoosia). Myös aina EKG (erityisesti eteisvärinän seulonta) ja tyypillisesti myös thorax-rtg. Tietysti myös verenpaineet ja muut vitaalit. Labroista PVK, CRP, Na, K, krea, gluk, HBA1c, kol, CK, TnI, yleensä myös INR ja APTT.  
 
 ---
 
@@ -482,7 +482,7 @@ Anamneesi, silminnäkijäanamneesi ja status. Anamneesissa on äärimmäisen tä
 
 Anamneesissa on myös tärkeää haastatella epileptisille kohtauksille altistavia tekijöitä, joita ovat mm. 
 
-<li>Päihteet (esim. alkoholi), korkeakuumeinen infektio, keskushermostoinfektio, hypoglykemia, elektrolyyttihäiriöt, äärimmäiset rasitustilat (valvominen, maratoonin juokseminen, voimamieskisat...) ja jotkut kohtauskynnystä madaltavat lääkkeet (trisykliset masennuslääkkeet, bupropioni, useat psykoosilääkkeet, tramadoli)</li>
+<li>Päihteet (esim. alkoholi), korkeakuumeinen infektio, keskushermostoinfektio, hypoglykemia, elektrolyyttihäiriöt, äärimmäiset rasitustilat (valvominen, maratonin juokseminen, voimamieskisat...) ja jotkut kohtauskynnystä madaltavat lääkkeet (trisykliset masennuslääkkeet, bupropioni, useat psykoosilääkkeet, tramadoli)</li>
 <li>Myös rakenteelliset syyt ovat tärkeitä: esim. aivovammat, aivokasvaimet, aivoverenkiertohäiriöt, hippokampusskleroosi (taustalla esim. pitkittyneet kuumekouristukset, lapsuudessa, aivoinfektiot tai aikaisempi status epilepticus)</li>
 <li>Sukuhistoria voi myös olla altistava tekijä</li>
 <li>Psykiatriset sairaudet; psykogeeninen kohtaus on myös mahdollinen (kohtauskuvaus tärkeä)</li>
@@ -490,7 +490,9 @@ Anamneesissa on myös tärkeää haastatella epileptisille kohtauksille altistav
 
 ---
 
-Päivystyksessä EKG, A-astrup, verilabrat (PVKT, Na, K, Krea, Ca-ion, CK, ALAT, CRP, TSH, glukoosi!), päihdekäyttöä epäiltäessä puhallus, GT, B-PEth, U-huumeet. Pään TT poissulkututkimukseksi.** Epileptikolta voidaan määrittää epilepsialääkkeiden pitoisuudet. Likvor jos epäily CNS-infektiosta/ pään TT ei näy SAV, mutta oireet täsmäisivät.
+Ensikouristajilta päivystyksellisesti aina pään TT.
+
+Päivystyksessä myös EKG, A-astrup, verilabrat (PVKT, Na, K, Krea, Ca-ion, CK, ALAT, CRP, TSH, glukoosi!), päihdekäyttöä epäiltäessä puhallus, GT, B-PEth, U-huumeet. Epileptikolta voidaan määrittää epilepsialääkkeiden pitoisuudet. Likvor jos epäily CNS-infektiosta/ pään TT ei näy SAV, mutta oireet täsmäisivät.
 
 EEG voidaan ottaa jo päivystyksessäkin, mutta ainakin jatkoselvittelyissä polikliinisesti sitten. EEG kiireellisesti vähintään jos kouristaa uudestaa (tai tulee päivystykseen kouristelevana/tajuttomana) tai otetaan osastolle.
   </div>
@@ -519,7 +521,7 @@ Seuranta-aika on päivystyksessä 6h, jos uusia kohtauksia ei ilmene ja tajunnan
 
 Ajokielto tulee heti epilepsiaselvittelyiden ajaksi. Provosoimaton ensikouristus johtaa heti R1-ajokieltoon 6kk ajaksi ja R2 5v.
 
-Jos diagnosoidaan epilepsia tai todetaan 2 epileptistä kohtausta alle 3v. sisään on R1-ajokiellon pituus 1v (saa takaisin, jos on vuoden kohtauksettomana) ja R2 pysyvä (tarkemmin 10 v ilman lääkkeitä ja kohtauksettomana, mutta niin haastavaa saavuttaa, että voi ajatella olevan pysyvä ammattikuljettajan kortin menetys.
+Jos diagnosoidaan epilepsia tai todetaan 2 epileptistä kohtausta alle 3 vuoden sisään on R1-ajokiellon pituus 1v (saa takaisin, jos on vuoden kohtauksettomana) ja R2 käytännössä pysyvä (tarkemmin ottaen 10 v ilman lääkkeitä ja kohtauksettomana, mutta niin haastavaa saavuttaa, että voi ajatella olevan pysyvä ammattikuljettajan kortin menetys).
   </div>
 </div>
 
@@ -535,7 +537,7 @@ Vaikuttaa siltä, että O/V-kysymykset ovat samaa aihepiiriä kuin vuoden 2025 b
   </button>
   <div class="solution-content">
 
-Yleisin ja parhaiten tunnettu dementiaa aiheuttava rappeuttava aivosairaus; n. 70% kaikista dementiapotilaista (Suomessa n. 70 000 sairasta). Yleensä tauti on satunnainen (98-99%); ikä sekä APOE:n E4-alleeli tärkeimmät riskitekijät. Yleensä todetaan vasta yli 50-vuotiailla; n. 4-6% yli 65-vuotiaista ja jopa 15-30%:lla yli 80-vuotiaista. 2.	Periytyvä sairaus ilmenee aikaisemmin; autosomissa vallitsevasti ja toistaiseksi on tunnistettu kolme aiheuttavaa geenivirhettä: APP- sekä preseniliini 1- ja 2-geenien mutaatiot. Myös Downin oireyhtymä on yhteydessä aikaiseen Alzheimerin tautiin (<40v.). 
+Yleisin ja parhaiten tunnettu dementiaa aiheuttava rappeuttava aivosairaus; n. 70% kaikista dementiapotilaista (Suomessa n. 70 000 sairasta). Yleensä tauti on satunnainen (98-99%); ikä sekä APOE:n E4-alleeli tärkeimmät riskitekijät. Yleensä todetaan vasta yli 50-vuotiailla; n. 4-6% yli 65-vuotiaista ja jopa 15-30%:lla yli 80-vuotiaista. Periytyvä sairaus ilmenee aikaisemmin; autosomissa vallitsevasti ja toistaiseksi on tunnistettu kolme aiheuttavaa geenivirhettä: APP- sekä preseniliini 1- ja 2-geenien mutaatiot. Myös Downin oireyhtymä on yhteydessä aikaiseen Alzheimerin tautiin (<40v.). 
 
 ---
 
@@ -553,11 +555,13 @@ Olennaisimmat histolopatologiset muutokset ovat beeta-amyloidin ja HF-taun kerty
 
 ---
 
-Diagnoosi ei ole poissulkudiagnoosi, vaan perustuu kliiniseen oirekuvaan ja tutkimuslöydöksiin. Muistiongelmaepäilyissä PTH:ssa yleensä ensiksi CERAD (seurannassa pienempi osa testiä eli MMSE; MMSE ei riitä lievien tilanteiden seulontaan). Peruslabrat normaalit. ESH:ssa yksittäisistä tutkimuksista yleisin on aivojen magneettikuvaus, jossa jo varhaisessa vaiheessa havaitaan sisemmän ohimolohkon kudoskatoa. PET-kuvauksilla voidaan tunnistaa proteiinikertymiä; toinen yleisesti käytetty biomarkkeritutkimus on likvoranalyysi, jossa voidaan nähdä fosforyloituneen tau-proteiinin (myös yleensä kokonais-taun) suurentuminen ja/tai beeta-amyloidi 42:n pieneneminen. Diagnoosi voidaan sinänsä 100% varmistaa vasta autopsiassa kuoleman jälkeen. 
+Diagnoosi ei ole poissulkudiagnoosi, vaan perustuu kliiniseen oirekuvaan ja tutkimuslöydöksiin. Muistiongelmaepäilyissä PTH:ssa yleensä ensiksi CERAD (seurannassa pienempi osa testiä eli MMSE; MMSE ei riitä lievien tilanteiden seulontaan). Peruslabrat normaalit. ESH:ssa yksittäisistä tutkimuksista yleisin on aivojen magneettikuvaus (voidaan ottaa myös periaatteessa PTH, jos se on mahdollista), jossa jo varhaisessa vaiheessa havaitaan sisemmän ohimolohkon kudoskatoa. 
+
+Mahdollisia, mutta MRI:tä harvemmin otettuja testejä ovat PET ja likvor, joita tarvitaan varsinkin jos tilanne on epäselvä ja/tai potilas on nuori. PET-kuvauksilla voidaan tunnistaa proteiinikertymiä; toinen yleisesti käytetty biomarkkeritutkimus on likvoranalyysi, jossa voidaan nähdä fosforyloituneen tau-proteiinin (myös yleensä kokonais-taun) suurentuminen ja/tai beeta-amyloidi 42:n pieneneminen. Nykyään on vielä tarjolla verinäytepohjaisia merkkiainetestejä, kuten p-tau217.
 
 ---
 
-Taudin kesto ensioireista kuolemaan on diagnoosi-iästä riippuen n. 3-12 vuotta. Ei ole olemassa kuratiivista hoitoa, hoidon tarkoitus on mahdollistaa oirekuvan lievittymistä niin, että potilas voi elää omatoimisena mahdollisimman pitkään. Ensisjainen lääkitys on asetyylikoliiniesteraasin inhibiittori (donepetsiili, rivastigmiini, galantamiini), joka aloitetaan heti diagnoosin asettamisen jälkeen jo lievässäkin taudissa. NMDA-antagonistia nimeltä memantiini käytetään keskivaikeaa/vaikeaan tautiin, usein yhdistettynä AKE:n estäjän kanssa. Lokakuussa 2025 Suomenkin markkinoille tuli beeta-amyloidi-vasta-aine Lekanemabi (mahdollisesti taudinkulkua modifoiva lääke), mutta sen käyttö on vähäistä.
+Taudin kesto ensioireista kuolemaan on diagnoosi-iästä riippuen n. 3-12 vuotta. Ei ole olemassa kuratiivista hoitoa, hoidon tarkoitus on mahdollistaa oirekuvan lievittymistä niin, että potilas voi elää omatoimisena mahdollisimman pitkään. Ensisjainen lääkitys on asetyylikoliiniesteraasin inhibiittori (donepetsiili, rivastigmiini, galantamiini), joka aloitetaan heti diagnoosin asettamisen jälkeen jo lievässäkin taudissa. NMDA-antagonistia nimeltä memantiini käytetään keskivaikeaan/vaikeaan tautiin, usein yhdistettynä AKE:n estäjän kanssa. Lokakuussa 2025 Suomenkin markkinoille tuli beeta-amyloidi-vasta-aine Lekanemabi (mahdollisesti taudinkulkua modifoiva lääke), mutta sen käyttö on vähäistä.
 
 Antipsykooteista risperidoni ja aripipratsoli ovat ensisijaisia muistisairauksiin liittyvien agitaatio- ja psykoosioireiden hoidossa. Masennusta tulee hoitaa, jos väh. keskivaikea masennus (lievissä tiloissa masennuslääkkeiden teho on heikko).
   </div>
@@ -578,7 +582,9 @@ Otsa-ohimolohkorappeumat (FTLD; n. 10-15% dementiatapauksista) on muistisairauks
     <li>Otsalohkodementiassa oirekuva painottuu alussa käyttäytymisen ja sosiaalisen vuorovaikutuksen muutoksiin ennen muistihäiriöitä; tarkemmalta nimeltään onkin bvFTD (behavioral variant). Esim. luonnollisen estyneisyyden väheneminen, apatia, sisäänpäin kääntyneisyys, sympatian/empatian kokemisen menetys, toistuva/stereotyyppinen/pakonomainen käyttäytyminen, hyperoraalisuus (pakonomainen tarve laittaa suuhun jotakin), ruokavalion muutokset. Usein myöhäisessä vaiheessa esiintyy parkinsonimaisia motorisia piirteitä.</li>
   </ul>
 <li>Primaari progressiivinen afasia (kielelliset variantit)</li>
+  <ul>
     <li>Kielellisistä alatyypeistä voidaan vielä erottaa etenevä sujumaton afasia (NfvPPA),  semanttinen dementia (svPPA) ja logopeeninen afasia (lvPPA). Keskeinen (niin sairauden alkuvaiheessa kuin sairauden edetessä) kliininen oire on kielellinen vaikeus (afasia), joka on tärkein tekijä arkipäivän toimintojen vaikeutumisessa.</li>
+  </ul>
 
 ---
 
@@ -587,11 +593,11 @@ Alkavat usein suhteellisen nuorella iällä (n. 45-70v); usein (n. 30%) perinnö
 
 ---
 
-Diagnoosissa tukena erityisesti oirekuva, kuvantamiset usein (MRI ensisijainen, TT, PET tai SPECT mahdollisia). Varma diagnoosi tässäkin vasta neuropatologisesti (tai jos todettu patogeeninen mutaatio). Peruslabrat normaalit. 
+Diagnoosissa tukena erityisesti oirekuva, kuvantamiset usein (MRI ensisijainen, TT, PET tai SPECT mahdollisia). Peruslabrat normaalit. 
 
 ---
 
-Mistisairauslääkkeistä (AKE:n estäjät/memantiini) ei ole hyötyä/näyttöä otsa-ohimolohkorappeumissa (FTLD). Muuta oirekuvan mukaista lääkitystä voidaan harkita (lääkehoidolla pyritään lähinnä lievittämään käytösoireita). Millään lääkkeellä ei ole virallista indikaatiota FTLD-sairauksien hoitoon ja oireenmukaisistakin lääkityksistä vähän tutkimustietoa. Psykososiaaliset tuet ensisijaisia hoidossa; puheterapiasta saattaa olla hyötyä. 
+Muistisairauslääkkeistä (AKE:n estäjät/memantiini) ei ole hyötyä/näyttöä otsa-ohimolohkorappeumissa (FTLD). Muuta oirekuvan mukaista lääkitystä voidaan harkita (lääkehoidolla pyritään lähinnä lievittämään käytösoireita). Millään lääkkeellä ei ole virallista indikaatiota FTLD-sairauksien hoitoon ja oireenmukaisistakin lääkityksistä vähän tutkimustietoa. Psykososiaaliset tuet ensisijaisia hoidossa; puheterapiasta saattaa olla hyötyä. 
 
   </div>
 </div>
@@ -599,7 +605,9 @@ Mistisairauslääkkeistä (AKE:n estäjät/memantiini) ei ole hyötyä/näyttö�
 
 ### Oireista tasodiagnostiikkaan
 
-Ei tarkkaa potilastapausta wikissä, mutta ilmeisesti piti tehdä oireiden perusteella tasodiagnostiikkaa sen suhteen, että oliko ylemmän vai alemman motoneuronin ongelma sekä että mikä kuvantamistutkimus selvittelyssä ensisijainen (Th-rangan mri). Sitten oli vielä kysymys, että millainen sairaus voisi oireita aiheuttaa. Ilman nyt tarkempaa potilastapausta ei oikein voi rakentaa hyvää vastaustakaan, mutta käytetään tämä tilanne kertaamaan ylä- ja alamotoneuronivaurioiden erot statuksessa. 
+Ei tarkkaa potilastapausta wikissä, mutta ilmeisesti piti tehdä oireiden perusteella tasodiagnostiikkaa sen suhteen, että oliko ylemmän vai alemman motoneuronin ongelma sekä että mikä kuvantamistutkimus selvittelyssä ensisijainen (Th-rangan mri). Sitten oli vielä kysymys, että millainen sairaus voisi oireita aiheuttaa. 
+
+Todennäköisesti siis kyseessä on sama kysymys kuin 2025 blokin 2 tehtävä 3, mutta tietysti erilainen tehtäväkin mahdollinen. Ilman tarkempaa potilastapausta ei oikein voi rakentaa hyvää vastaustakaan, mutta käytetään tämä tilanne kertaamaan ylä- ja alamotoneuronivaurioiden erot statuksessa. 
 
 <div class="">
   <button class="solution-button"
@@ -623,7 +631,7 @@ Ylemmän (UMN) ja alemman motoneurin (LMN) vaurioiden tärkeimpiä piirteitä ov
 Erot perustuvat motoneuronien toimintaan ja sijaintiin kehossa. 
 
 <li>Ylämotoneuroni säätelee alamotoneuronin toimintaa -> vaurio johtaa alamotoneuronin säätelemättömään aktivaatioon -> Näkyy lihaksessa kohonneena tonuksena (spastisuus),
-hyperrefleksiana ja positiivisena babinskina tai hoffmanina. Lihasatrofia vähäistä ja johtuu enemmänkin käyttämättömmyydestä. Faskikulaatioita ei esiinny. Halvaus on spastista</li>
+hyperrefleksiana ja positiivisena babinskina tai hoffmannina (ns. yläraajojen babinski). Lihasatrofia vähäistä ja johtuu enemmänkin käyttämättömmyydestä. Faskikulaatioita ei esiinny. Halvaus on spastista</li>
 <li>Alamotoneuroni on se neuroni, joka suoraan siis käskyttää lihasta toimimaan. Jos se on vaurioitunut, niin lihas on veltto ja ei toimi. Leesiot johtavat lihaksen tonuksen vähentymiseen, refleksien heikentymiseen, lihasatrofiaan, velttohalvaukseen ja faskikulaatioihin. Faskikulaatiot ovat spontaania lihaksen värähtelyä (supistumista) johtuen viallisen motoneuronin spontaanista depolarisaatiosta.</li>
 
 ![](images/umnvslmn.png)
@@ -658,7 +666,11 @@ Ennen estolääkityksen aloitusta huomioidaan ja pyritään hoitamaan mahdollise
   </button>
   <div class="solution-content">
 
-Migreenin estohoitoon on tähän saakka käytetty PTH:ssa ensisijaisesti beetasalpaajia (esim. propranololi), angiotensiinireseptorin salpaajia (esim. kandesartaani), trisyklisiä masennuslääkkeitä (esim. amitriptyliini tai nortriptyliini) sekä eräitä epilepsialääkkeitä (esim. topiramaatti tai harvemmin valproaatti). Uutena lääkeryhmänä ovat ESH:n käyttöön tulleet CGRP-vasta-aineet (monoklonaalisia biologisia lääkkeitä, kuten fremanetsumabi tai erenumabi) ja gepantit (pienimolekyyliset CGRP-reseptoriantagonistit, kuten rimegepantti tai atogepantti). Kroonisen migreenin hoitoon käytetään myös onabotuliinitoksiini s.c. 
+Migreenin estohoitoon on tähän saakka käytetty PTH:ssa ensisijaisesti beetasalpaajia (esim. propranololi), angiotensiinireseptorin salpaajia (pääasiassa kandesartaani), trisyklisiä masennuslääkkeitä (esim. amitriptyliini tai nortriptyliini) sekä harvemmin eräitä epilepsialääkkeitä (esim. topiramaatti tai harvemmin valproaatti). Uutena lääkeryhmänä ovat 
+
+ESH:n käyttöön tulleet CGRP-vasta-aineet (monoklonaalisia biologisia lääkkeitä, kuten fremanetsumabi tai erenumabi) ja gepantit (pienimolekyyliset CGRP-reseptoriantagonistit, kuten rimegepantti tai atogepantti). Kela-korvattavuus näille myönnetään, kun esiintyy keskimäärin vähintään 8 migreenipäivää kuukaudessa ja on kokeiltu vähintään kahta migreenin estohoitolääkettä (esim. kandesartaani ja amitriptyliini), eikä niillä ole saatu aikaan riittävää vastetta, ne ovat vasta-aiheisia tai ne eivät ole siedettyjä. Näiden kriteerien täyttymistä ennen ei siis yleensä kannata lähettää potilasta ESH:hon estolääkityksen tehostamista varten. Jatkokorvausoikeudet voi hyväksyttää hoitavan lääkärin toimesta, mutta ensimmäinen määräys tarvitsee yleensä neurologin lausunnon. Kroonisen migreenin hoitoon käytetään myös joskus onabotuliinitoksiini s.c. 
+
+---
 
 Hoidon tavoitteena on migreenipäivien puolittuminen tai huomattava väheneminen. Vastetta voidaan arvioida 3 kk:n kuluttua, kun tavoiteannos on saavutettu. Tehokasta ennaltaehkäisevää hoitoa suositellaan jatkettavaksi vähintään 6 kk suun kautta otettavien lääkkeiden osalta ennen kuin harkitaan hoidon lopettamista. Jos tilanne lopetuksen jälkeen voimistuu, suositellaan hoidon jatkamista. Jos ensimmäinen migreeniä ehkäisevä lääke on tehoton tai huonosti siedetty, suositellaan lääkevaihtoa. 
 
@@ -686,7 +698,7 @@ Hoidon tavoitteena on migreenipäivien puolittuminen tai huomattava väheneminen
 
 Kliinisesti TIA-epäily eli ohimenevä aivoverenkiertohäiriö. Potilaalla on ollut äkillinen, toispuoleinen ja paikallinen neurologinen puutosoire (oikean käden heikkous), joka on väistynyt ja palautunut täysin nopeasti (tässä 20 minuutissa; TIA kestää yleensä alle tunnin, tyypillisimmin 2–15 minuuttia). 
 
-Oireiden väistyminen ei kuitenkaan tarkoita sitä, että tilanne olisi vaaraton. Melkein yhdellä kymmenestä potilaasta ilmenee aivoinfarkti (stroke) viikon sisällä TIA-oireesta, ja tämän vuoksi TIA vaatiikin kiireellistä selvittelyä ja hoitoa. . Päivystystutkimuksiin kuuluu pään TT ja kaulavaltimoiden TT-angiografia. Tietysti myös EKG (ja telemetriaseuranta päivystyksessä olon ajan) ja thx-rtg. Lisäksi tyypilliset AVH-labrat (pika-Gluk jos ei vielä ja B-PVKT,  P-APTT, P-CRP, P-Gluk, P-K, P-Na, eGFR, P-Trombai, P-INR, troponiini; pidempää hoitoa ajatellen aamunäytteestä myöhemmin mm. paastosokeri, pitkäaikaissokeri ja kolesteroliarvot sekä tarvittaessa hyytymishäiriötutkimukset trombofiliaa epäiltäessä).
+Oireiden väistyminen ei kuitenkaan tarkoita sitä, että tilanne olisi vaaraton. Melkein yhdellä kymmenestä potilaasta ilmenee aivoinfarkti (stroke) viikon sisällä TIA-oireesta, ja tämän vuoksi TIA vaatiikin kiireellistä selvittelyä ja hoitoa. Päivystystutkimuksiin kuuluu pään TT ja kaulavaltimoiden TT-angiografia. Tietysti myös EKG (ja telemetriaseuranta päivystyksessä olon ajan) ja thx-rtg. Lisäksi tyypilliset AVH-labrat (pika-Gluk jos ei vielä ja B-PVKT,  P-APTT, P-CRP, P-Gluk, P-K, P-Na, eGFR, P-Trombai, P-INR, troponiini; pidempää hoitoa ajatellen aamunäytteestä myöhemmin mm. paastosokeri, pitkäaikaissokeri ja kolesteroliarvot sekä tarvittaessa hyytymishäiriötutkimukset trombofiliaa epäiltäessä).
 
 ---
 
@@ -706,12 +718,12 @@ Yleisten riskitekijöiden hallitseminen: Tupakoinnin lopettaminen, verenpainelä
 
 Aloitetaan myös yleensä sekundaaripreventiivinen antikoagulatiivinen/antitromboottinen lääkehoito. 
 
-<li>Ei-sydänperäisessä TIA:ssa verihiutale-estäjähoito: asetyylisalisyylihapon (ASA) ja dipyridamolin (DP) yhdistelmä tai klopidogreeli</li>
+<li>Ei-sydänperäisessä TIA:ssa verihiutale-estäjähoito: asetyylisalisyylihapon (ASA) ja dipyridamolin (DP) yhdistelmä tai pelkkä ASA tai klopidogreeli</li>
 <li>Eteisvärinäpotilaille tai muutoin sydänperäistä embolisaatiota epäiltäessä antikoagulaatiolääkitys: Yleensä ensisijaisest NOAC; läppäperäisessä eteisvärinässä varfariini</li>
 
 ---
 
-Kaulasuonen endarterektomia toteutetaan lähipäivinä niille potilaille, joilla todetaan oireisella puolella merkittävä kaulasuoniahtauma.
+Kaulasuonen endarterektomia toteutetaan lähipäivinä niille potilaille, joilla todetaan oireisella puolella merkittävä (>50%) kaulasuoniahtauma.
   </div>
 </div>
 
@@ -764,35 +776,10 @@ Parkinsonin taudille on tyypillistä myös autonomisen hermoston häiriöt; vars
 
 Myös psykiatriset komorbiditeetit ovat yleisiä, varsinkin masennus ja ahdistuneisuus. Myös kognitiivisia häiriöitä esiintyy usein, mutta tyypillisesti vasta vuosia sairauden puhkeamisen jälkeen. Tyypillisiä piirteitä ovat mm. tarkkaavuuden ylläpidon, puheen sujuvuuden ja tavoitehakuisen toiminnan vaikeudet sekä kognitiivisen prosessoinnin hitaus (bradyfrenia)
 
-  </div>
-</div>
-
-<div class="">
-  <button class="solution-button"
-          data-label="a"
-          data-hide-label="a - Piilota">
-    a
-  </button>
-  <div class="solution-content">
-
-Parkinsonin taudissa motoriset oireet ilmenevät alkuun tyypillisesti yläraajapainotteisesti ja unilateraalisesti (kehittyvät useimmiten bilateraalisiksi). Oireisto ilmaantuu hitaasti kuukausien ja vuosien aikana. Parkinsonin taudin tyypillisimmät kliiniset motoriset piirteet voi muistaa muistisäännöstä TRAPSS
-
-<li>Tremor (pillerinpyörittäjävapina; lepovapinaa, joka katoaa liikkeessä)</li>
-<li>Rigidity (rigiditeetti eli kohonnut lihastonus raajojen passiivisessa liikkeessä)</li>
-<li>Akinesia/bradykinesia (liikkeen aloittamisen hitaus ja spontaanin liikehdinnän vähentyminen, liikesuorituksen hitaus; tähän sisältyy usein myös mm. kasvojen ilmeettömyys ja puheäänen hiljentyminen ja monotonisuus)</li>
-<li>Postural instability (asennon ja tasapainon säätelyhäiriö; statuksessa esim. epänormaali pull-test)</li>
-<li>Shuffling gait (Parkinsonimainen kävely, jolle on erityisesti tyypillistä on se, että kävelyn aloittaminen on hidasta, kävellessä askelpituus on lyhentynyt ja myötäliikkeet ovat vähentyneet tai poissa. Asento on etukumarainen. Varsinkin käännöksissä alkaa esiintyä epävarmuutta, ja kaatumisia voi tapahtua.)</li>
-<li>Small handwriting (micrographia; usein vastaanotolla pyydetään kirjoittamaan jotain)</li>
-
----
-
-Parkinsonin taudille on tyypillistä myös autonomisen hermoston häiriöt; varsinkin huimaus ylös noustessa (ortostaattinen hypotensio), ummetus, virtsarakon toiminnan häiriöt, impotenssi, syljen valuminen suusta (pääosin merkki heikentyneestä nielemistoiminnasta (myös itse erityksen häiriöstä)) ja heikentynyt libido ovat hyvin tavallisia. Autonomisen hermoston häiriöitä esiintyy lähes kaikilla Parkinsonin tautia sairastavilla taudin edetessä. 
-
-Myös psykiatriset komorbiditeetit ovat yleisiä, varsinkin masennus ja ahdistuneisuus. Myös kognitiivisia häiriöitä esiintyy usein, mutta tyypillisesti vasta vuosia sairauden puhkeamisen jälkeen. Tyypillisiä piirteitä ovat mm. tarkkaavuuden ylläpidon, puheen sujuvuuden ja tavoitehakuisen toiminnan vaikeudet sekä kognitiivisen prosessoinnin hitaus (bradyfrenia)
-
 ---
 
 Ennen diagnostista oireyhtymää voi ilmentyä monenlaisia ennakko-oireita jopa 20 vuoden ajan. Näitä ovat mm. ummetus, REM-unen käytöshäiriö ja hajuaistin heikentyminen. 
+
 
 ![](images/parkinsonoiretaulukko.png)
 ![](images/parkinsonnonmotor.png)
@@ -815,8 +802,8 @@ Yleisimmät ensioireet ovat silmän alueen lihasten heikkousoireet (ptoosi ja di
 Myastenia graviksen oireita voi vastaanotolla provosoida erilaisilla lihasväsyvyystesteillä. 
 
 <li>Kaksoiskuvia/riippuluomea voi tuoda esille pyytämällä potilasta katsomaan ylöspäin pitkään; nopea silmien räpytys osoittaa decrementin ja voi tuoda esille ptoosia</li>
-<li>Raajojen kannattelussa saatta tulla aikaista väsymistä</li>
-<li>Käsien nyrkistyksessä decrementtiä ja hhidastumista lihasten heikentyessä</li>
+<li>Raajojen kannattelussa saattaa tulla aikaista väsymistä</li>
+<li>Käsien nyrkistyksessä decrementtiä ja hidastumista lihasten heikentyessä</li>
 
   </div>
 </div>
@@ -1016,7 +1003,7 @@ Tapaus 1: Polyneuropatiaepäily, erityisesti ohutsäieaffision kanssa
 
 <li>Tyypillisimmät polyneuropatian aiheuttajat ovat diabetes ja alkoholi, mutta tietysti usein poissuljetaan lääkevaikutukset lääkeanamneesin perusteella ja labroilla myös mm. B12-vitamiinin puute ja hypotyreoosi.</li>
 <li>Tyypillisin ensioire on sukka- ja hansikasmainen tuntopuutos raajojen kärkijäsenissä, usein alkaen alaraajoista. Tämän tuntopuutoksen taustalla on paksujen säikeiden vaurio.</li>
-<li>Polyneuropatiaan liittyy myös usein positiivisia oireita, kuten esimerkiksi pistely, kihelmöinti, polttelu, allodynia, hyperalgesia ja tällaiset Nneuropaattiset kiputuntemukset voimistuvat tyypillisesti levossa ja haittaavat nukahtamista ja yöunia. Näiden taustalla on ohutsäievaurio. Oireyhtymään liittyy myös lämpö- ja asentotunnon häiriöitä, erityisesti pidemmälle edenneessä taudissa tai ohutsäieneuropatiassa.</li>
+<li>Polyneuropatiaan liittyy myös usein positiivisia oireita, kuten esimerkiksi pistely, kihelmöinti, polttelu, allodynia, hyperalgesia ja tällaiset neuropaattiset kiputuntemukset voimistuvat tyypillisesti levossa ja haittaavat nukahtamista ja yöunia. Näiden taustalla on ohutsäievaurio. Oireyhtymään liittyy myös lämpö- ja asentotunnon häiriöitä, erityisesti pidemmälle edenneessä taudissa tai ohutsäieneuropatiassa.</li>
 <li>KNF:ltä tukea polyneuropatiaan saa ENMG:stä, joka on ensisijainen tutkimus niin sekamuotoisessa kuin puhtaassa ohutsäieneuropatiassakin. Jos ENMG on puhdas (ei paksusäievauriota), mutta kuva sopii ohutsäieneuropatiaan, niin se voidaan varmistaa termisillä kynnysmittauksilla (QST:ssä kynnykset koholla) ja ihon stanssibiopsilla (hermosäikeiden tiheys epidermiksessä matala).</li>
 
 ---
@@ -1056,7 +1043,7 @@ AVH-hälytys tehdään potilaasta, jolla on akuutti käynnissä oleva oire. Ohit
 
 ### O/V
 
-Perfuusiokuvantaminen tehdään kaikille AVH hälytyksenä tulleille potilaille
+Perfuusiokuvantaminen tehdään kaikille AVH-hälytyksenä tulleille potilaille
 
 <div class="">
   <button class="solution-button"
@@ -1101,14 +1088,14 @@ ACA-infarktissa voi myös olla psyykkisiä oireita: hidastuminen, jähmeys, puhu
 Simppelisti voi ajatella seuraavasti, kun päättelee, mikä aiheuttajasuoni aivohalvauksen taustalla on oireiden perusteella: 
 
 <li>ACA = mm. alaraajapainotteinen kontrateraalinen sensomotorinen pareesi/plegia</li>
-<li>MCA =  mm. yläraaja- ja kasvopainotteinen kontralateraalinen sensomotorinen pareesi/plegia</li>
-<li>PCA = mm. näköhäiriöt (klassisesti kontralateraalinen homonyymi hemianopia ja makulan säästyminen)</li>
+<li>MCA =  mm. yläraaja- ja kasvopainotteinen kontralateraalinen sensomotorinen pareesi/plegia; usein myös kielellisiä ongelmia (dominantilla aivopuoliskolla) ja näköhäiriöitäkin</li>
+<li>PCA = mm. näköhäiriöt (klassisesti kontralateraalinen homonyymi hemianopia ja makulan säästyminen), tunnistamisen ongelmat</li>
 
 ---
 
 Vielä simppelimmin:
 
-<li>Etukierto (karotisalue = a. carotis internan ruokkimat ACA+PCA) = mm. hemipareesi</li>
+<li>Etukierto (karotisalue = a. carotis internan ruokkimat ACA+PCA) = mm. hemipareesi; mahdollisesti kielellisiä ongelmia ja näköhäiriöitäkin</li>
 <li>Takakierto (vertebrobasilaarialue = vertebralisten ruokkimat basilaris, PCA ja pikkuaivovaltimot) = mm. näköhäiriöt, huimaus</li>
 
 ![](images/avhculprit.png)
@@ -1131,13 +1118,13 @@ Väärin
 
 ---
 
-Aktiivinen antikoagluaatio on liuotuksen vasta-aihe, mutta ei ole trombektomian vasta-aihe. Trombektomian vasta-aiheita ovat mm. liian suuri infarktin ydin, TT-angiossa hoitoon soveltumaton anatomia ja vasta-aihe varjoaineenkäyttämiseen (”jodiallergia” estää tmp suorittamisen). 
+Aktiivinen antikoagluaatio on liuotuksen vasta-aihe, mutta ei ole trombektomian vasta-aihe. Trombektomian vasta-aiheita ovat mm. liian suuri infarktin ydin, TT-angiossa hoitoon soveltumaton anatomia ja vasta-aihe varjoaineen käyttämiseen (”jodiallergia” estää tmp suorittamisen). 
   </div>
 </div>
 
 ### O/V
 
-Liuotusta ei tule aloittaa jos natiivi TT:ssä ei näy infarktia
+Liuotusta ei tule aloittaa jos natiivi-TT:ssä ei näy infarktia
 
 <div class="">
   <button class="solution-button"
@@ -1194,7 +1181,7 @@ On hyvä tiedostaa, että isoaivoinfarkteissa oireet ilmenevät kontralateraalis
   </button>
   <div class="solution-content">
 
-Kohtauksittainen, silmän alueelle paikantuva, voimakas päänsärky ja autonomiset oireet (kyyneleritys, nenän tukkoisuus ja vuoto) sopivat sarjoittaiseen päänsärkyyn (Hortonin neuralgia). Kivun syklinen luonne (ilmeisesti viime vuonna samaan vuodenaikaan samanlaista.) ja potilaan ikä ja sukupuoli (pääasiassa sarjoittainen päänsärky on 20–50-vuotiaiden miesten sairaus) sopisivat sarjoittaiseen päänsärkyyn. Myös yöllä nukahtamisen jälkeen alkava kohtaus on tyypillistä sarjottaiseen päänsärkyyn.
+Kohtauksittainen, silmän alueelle paikantuva, voimakas päänsärky ja autonomiset oireet (kyyneleritys, nenän tukkoisuus ja vuoto) sopivat sarjoittaiseen päänsärkyyn (Hortonin neuralgia). Kivun syklinen luonne (ilmeisesti viime vuonna samaan vuodenaikaan samanlaista) ja potilaan ikä ja sukupuoli (pääasiassa sarjoittainen päänsärky on 20–50-vuotiaiden miesten sairaus) sopisivat sarjoittaiseen päänsärkyyn. Myös yöllä nukahtamisen jälkeen alkava kohtaus on tyypillistä sarjottaiseen päänsärkyyn.
   </div>
 </div>
 
@@ -1206,7 +1193,7 @@ Kohtauksittainen, silmän alueelle paikantuva, voimakas päänsärky ja autonomi
   </button>
   <div class="solution-content">
 
-100% O2 12-15l/min + nopeavaikutteinen triptaani (sumatriptaani s.c/i.n. tai tsolmitriptaani i.n.). Estolääkkeenä ensisijaisesti verapamiili ja sen tehon alkamista odottessa voidaan lyhyen pahenemisjakson lisähoidoksia ja siltahoitona käyttää glukokortikoidia (tablettiglukokortikoidin (prednisoni) annos on 60–100 mg/vrk 5 vrk:n ajan, minkä jälkeen annosta lasketaan 10 mg 4 vrk:n välein). 
+100% O2 12-15l/min + nopeavaikutteinen triptaani (sumatriptaani s.c/i.n. tai tsolmitriptaani i.n.). Estolääkkeenä ensisijaisesti verapamiili ja sen tehon alkamista odottessa voidaan siltahoitona ja lyhyen pahenemisjakson lisähoitona käyttää glukokortikoidia (tablettiglukokortikoidin (prednisoni) annos on 60–100 mg/vrk 5 vrk:n ajan, minkä jälkeen annosta lasketaan 10 mg 4 vrk:n välein). 
   </div>
 </div>
 
@@ -1230,7 +1217,7 @@ Aurallinen migreeni on vasta-aihe yhdistelmäehkäisyn käytölle (aivoinfarktin
 
 Potilas myös syö runsaasti kipulääkkeitä (16 kertaa kuukaudessa ibuprofeeni 800mg+parasetamoli 1g). Potilas myös saa hyvän vasteen näistä, joten ei ole sen suhteen syytä vaihtaa kohtauslääkettä. Kuitenkin lääkepäänsäryn riski on koholla, jos todetaan särkylääkkeiden liikakäyttöä (NSAIDeja ja/tai parasetamolia 15 tai useampana päivänä kuukaudessa; triptaanien kanssa liikakäyttöä olisi 10 tai useampana päivänä kuukaudessa). Särkylääkepäänsäryn riski on erityisesti koholla, jos liikakäyttöä > 3 kk ajan. Potilas on siis korkeassa riskissä särkylääkepäänsärylle, vaikka sitä ei ehkä vielä olekaan kehittynyt (Särkylääkepäänsärky on päivittäistä tai lähes päivittäistä päänsärkyä. Se alkaa usein aamuyöllä, kun särkylääkkeen vaikutus loppuu. Särky on tylppää ja siihen voi liittyä pahoinvointia, ärtymystä ja univaikeuksia. Särky poikkeaa usein alkuperäisestä, hoitoa vaatineesta päänsärystä). 
 
-Olisi siis järkevää saada potilasta vähentämään käyttämäänsä särkylääkemäärää, mutta tämä on ymmärrettävästi vaikeaa, jos oirepäiviä on runsaasti. Oirepäivien vähentämiseksi on tärkeää aloittaa estolääkitys. Ei ole tarkkaa rajaa sille, kuinka paljon kohtauksia tulee olla, jotta estolääkitys olisi indikoitua, mutta tässä tapauksessa se on selvästi tarpeen (yleensä jo 2 tai 3 migreenipäivää kuukaudessa voi olla aihe tai jos migreeni hankaloittaa jokapäiväistä elämää). PTH:ssa ensisijaisia lääkkeitä ovat beetasalpaajat (esim. propranololi), aniotensiinireseptorin salpaajat (esim. kandesartaani), trisykliset masennuslääkkeet (esim. amitriptyliini) ja jotkin epilepsialääkkeet (esim. topiramaatti). 
+Olisi siis järkevää saada potilasta vähentämään käyttämäänsä särkylääkemäärää, mutta tämä on ymmärrettävästi vaikeaa, jos oirepäiviä on runsaasti. Oirepäivien vähentämiseksi on tärkeää aloittaa estolääkitys. Ei ole tarkkaa rajaa sille, kuinka paljon kohtauksia tulee olla, jotta estolääkitys olisi indikoitua, mutta tässä tapauksessa se on selvästi tarpeen (yleensä jo 2 tai 3 migreenipäivää kuukaudessa voi olla aihe tai jos migreeni hankaloittaa jokapäiväistä elämää). PTH:ssa ensisijaisia lääkkeitä ovat beetasalpaajat (esim. propranololi), angiotensiinireseptorin salpaajat (pääasiassa kandesartaani), trisykliset masennuslääkkeet (esim. amitriptyliini) ja harvoin jotkin epilepsialääkkeet (esim. topiramaatti). 
 
 <li>Beetasalpaaja ei ole hyvä, koska potilaalla on astma (vasta-aihe) ja kilpauinti harrastuksena (laskee sykettä ja voi heikentää maksimaalista fyysistä suorituskykyä)</li>
 <li>Muista lääkkeistä kandesartaani on paras, koska sillä on vähiten sivuvaikutuksia -> **aloitetaan estolääkkeeksi kandesartaani.** Jatkossa migreenipäiväkirjan pito jatkuu, kontrolli 3 kuukauden kuluttua. Hoidon tavoitteena on kuukauden migreenipäivien puolittuminen. Tehokasta ennaltaehkäisevää hoitoa suositellaan jatkettavaksi vähintään 6 kk suun kautta otettavien lääkkeiden osalta ennen kuin harkitaan hoidon lopettamista. Jos tilanne lopetuksen jälkeen voimistuu, suositellaan hoidon jatkamista.</li>
@@ -1315,13 +1302,13 @@ Iltapainotteinen, vaikeasti kuvattavissa oleva tuntemus jaloissa, joka helpottaa
 Tyypillisesti neurologisessa statuksessa ei tällaisella potilaalla löydy mitään poikkeavaa ja diagnoosi perustuukin muiden syiden poissulkemiseen ja anamneesiin. 
 
 
-Usein otetaan laajalti laboratoriokokeita poissulkemaan sekundaarisesti tunteita aiheuttavia syitä (ferrit, TfFeSat, na, k, krea, ALAT, gluk, HbA1c, folaat, B12-TC2, TSH). Runsas kahvinjuonti, raskaus, uniapnea, alkoholi, litium, neuroleptit ja fenytoiini voivat pahentaa oireistoa -> kysellään siis kahvinjuonti, raskauden mahdollisuus, uniapneaoirekysely STOP-BANG, alkoholinkäyttö ja lääkitys. 
+Usein otetaan laajalti laboratoriokokeita poissulkemaan sekundaarisesti tunteita aiheuttavia syitä (ferrit, TfFeSat, na, k, krea, ALAT, gluk, HbA1c, folaat, B12-TC2, TSH). Runsas kahvinjuonti, raskaus, uniapnea, alkoholi, litium, neuroleptit ja fenytoiini voivat pahentaa oireistoa -> kysellään siis kahvinjuonti, raskauden mahdollisuus, alkoholinkäyttö ja lääkitys sekä tehdään uniapnean todennäköisyysarvio STOP-BANG. 
 
 Diagnoosi on kliininen (ja sekundaariset syyt poissuljetaan); diagnoosi ja hoidon aloittaminen kuuluu PTH. Hoidoksi voi riittää alaraajojen hieronta, venyttely, liikunta, lämpimät ja viileät jalkakylvyt, itselle mieluisat aktiviteetit sekä riittävä uni. Pyritään myös välttämään altistavia aineita (esim. kofeiini). Potilaalle rautalisä, fos S-ferritiini <75 ug/l tai transferriinin saturaatio < 25 % (raudanpuute on yleinen sekundaarinen syy). Lääkehoidossa ensilinjana gabapentinoidit (ja/tai dopamiiniagonistit, mutta niillä riski augmentaatiolle, joten gabapentinoidit yleensä ensisijaisia); jos näillä ei helpota, niin tulee tehdä lähete neurologille. 
 
 ---
 
-Potilaan yöllinen heräily voi liittyä itsenäisestikin levottomiin jalkoihin (kevyen unen vaiheessa herättävät), mutta suurella todennäköisyydellä liittyvät myös jaksottaiseen raajaliikehäiriöön (PLMD), jossa tapahtuu toistuvia stereotyyppisiä raajaliikkeitä unen aikana (suuri osa ei itse tunnista liikkeitä ja ne voivat itsessään pirstaloida unta ja aiheuttaa päiväväsymystä; lyhytkestoisista heräämisistä on taas RLS:n takia vaikea taas nukahtaa). Hoito on PLMD:hen kuitenkin sama kuin RLS:ään, joten sen selvittely ei sinänsä ole pakollista, jos ei ole muuta syytä tehdä yöpolygrafiaa (esim. uniapneaepäily; samalla siis arvioidaan jalka-antureilla liikehäiriötä). 
+Potilaan yöllinen heräily voi liittyä itsenäisestikin levottomiin jalkoihin (kevyen unen vaiheessa herättävät), mutta suurella todennäköisyydellä liittyvät myös jaksottaiseen raajaliikehäiriöön (PLMD), jossa tapahtuu toistuvia stereotyyppisiä raajaliikkeitä unen aikana (suuri osa ei itse tunnista liikkeitä ja ne voivat itsessään pirstaloida unta ja aiheuttaa päiväväsymystä; havahtamisista on taas RLS:n takia vaikea taas nukahtaa). Hoito on PLMD:hen kuitenkin sama kuin RLS:ään, joten sen selvittely ei sinänsä ole pakollista, jos ei ole muuta syytä tehdä yöpolygrafiaa (esim. uniapneaepäily; samalla siis arvioidaan jalka-antureilla liikehäiriötä). 
   </div>
 </div>
 
@@ -1340,18 +1327,20 @@ Potilaan yöllinen heräily voi liittyä itsenäisestikin levottomiin jalkoihin 
 Tehtävänannossa kuvataan, että "kattavasta lääkityskokeilusta huolimatta" esiintyy on-off-ongelmaa ja dyskinesioita. Parkinsonin taudin edenneessä vaiheessa oirekuva alkaa usein siis vaatimaan laiteavusteista hoitoa, kun tyypillinen suun kautta otettava lääkehoito ei enää riitä. Käytettävissä on muutama eri hoitomuotoa:
 
 <li>Syväaivostimulaatio eli deep brain stimulation (DBS)</li>
-<li>Neuro-HIFU</li>
+<li>Neuro-HIFU (high-intensity focused ultrasound)</li>
 <li>Jatkuva levodopa-karbidopa- tai levodopa-karbidopa-entakaponi-infuusiopumppu suoleen</li>
 <li>Jatkuva foslevodopa/foskarbidopa-infuusiopumppu s.c.</li>
 <li>Apomorfiini-infuusiopumppu s.c.</li>
 
 ---
 
-Potilas on kognitiivisesti hyväkuntoinen (DBS:n kriteeri on, ettei ole dementiaa) ja tauti vielä vastaa levodopaan (ennustaa hyvää DBS-vastetta). Ikärajana on tosin pidetty  70 vuoden ikää, mutta siitä voidaan poiketa joissakin tapauksissa potilaan muun terveydentilan ja tehtyjen esitutkimusten perusteella (klinikkakohtainen ikäraja).
+Potilas on kognitiivisesti hyväkuntoinen (DBS:n kriteeri on, ettei ole dementiaa) ja tauti vielä vastaa levodopaan (ennustaa hyvää DBS-vastetta). Ikärajana on tosin pidetty 70-75 vuoden ikää, mutta siitä voidaan poiketa joissakin tapauksissa potilaan muun terveydentilan ja tehtyjen esitutkimusten perusteella (klinikkakohtainen ikäraja).
 
-Neuro-HIFUn teho on paras vapinaan, vaikka se kyllä tehoaa dyskinesioihinkin. HIFU-toimenpiteet ovat kuitenkin tällä hetkellä vain unilateraalisiin leikkauksiin hyväksyttyjä, mikä hieman rajoittaa sen käyttöä, jos oirekuva on erityisen häiritsevät molemmilla puolilla. Voidaan miettiä senkin mahdollisuutta, mutta DBS olisi tässä tapauksessa neuromodulaatioihoidoista todennäköisesti ensisijainen. 
+Neuro-HIFUn teho on paras juuri vapinaan, vaikka se kyllä tehoaa dyskinesioihinkin. DBS on taas vapinan lisäksi Parkinsonin muihinkin osa-alueisiin yleensä hyvin toimiva ja laitteiston toiminta on myös säädettävissä toimenpiteen jälkeen, toisin kuin HIFU:ssa, joka aiheuttaa pysyvän leesion. 
 
-Jos neuromodulaatiohoitoa ei halutakaan toteuttaa, niin sitten infuusiopumput ovat hyviä. 
+Jos neuromodulaatiohoitoa ei halutakaan toteuttaa, niin sitten infuusiopumput ovat hyviä.
+
+![](images/dbsvshifu.png)
   </div>
 </div>
 
@@ -1416,7 +1405,7 @@ Tajuttomuuden yleisimmät syyt voi muistaa muistisäännöstä VOI IHME! ja näm
   </button>
   <div class="solution-content">
 
-Tärkeää on saada kohtauskuvaus ja tapahtumatiedot. Potilaalta on näitä käytännössä mahdotonta usein saada itse kohtauksesta, mutta tulee kuitenkin kysyä edeltävistä tunteista (aisti-, puhe- , motoriset, autonomiset oireet ja niiden paikantuminen) ja kohtauksenjälkeisistä oireista, heti kun hän tokenee. Tietysti myös kannattaa kysyä, onko muistikuvia kohtauksesta. Tärkeää on löytää silminnäkijä ja kysyä häneltä, mitä kohtauksen aikana tapahtui. Miten alkoi? Kuinka kauan kesti? Oireiden symmetria ja luonne, mahdolliset liitännäisoireet, ihon väri, inkontinenssi, kieleen pureminen? Jälkitila: jälkiunen ja sekavuuden esiintyminen ja kesto, aggressiivisuus, ahdistuneisuus, puheen palautuminen ja mahdolliset halvausoireet. Loukkasiko potilas itseään kohtauksen aikana (ohjaa jatkotoimenpiteitä, jos merkittäviä vammoja). 
+Tärkeää on saada kohtauskuvaus ja tapahtumatiedot. Potilaalta on näitä käytännössä mahdotonta usein saada itse kohtauksesta, mutta tulee kuitenkin kysyä edeltävistä tunteista (aisti-, puhe- , motoriset, autonomiset oireet ja niiden paikantuminen) ja kohtauksenjälkeisistä oireista, heti kun hän tokenee. Tietysti myös kannattaa kysyä, onko muistikuvia kohtauksesta. Tärkeää on löytää silminnäkijä ja kysyä häneltä, mitä kohtauksen aikana tapahtui. Miten alkoi? Kuinka kauan kesti? Oireiden symmetria ja luonne, mahdolliset liitännäisoireet, ihon väri, inkontinenssi, kieleen pureminen? Jälkitila: jälkiunen ja sekavuuden esiintyminen ja kesto, aggressiivisuus, ahdistuneisuus, puheen palautuminen ja mahdolliset halvausoireet. Loukkasiko potilas itseään kohtauksen aikana (ohjaa jatkotoimenpiteitä, jos merkittäviä vammoja)?
 
 
 <li>Kuvaus kohtauksen alusta, kulusta ja jälkioireista auttaa selvittämään, onko kyseessä oikeasti ollut epileptinen kohtaus vai enemmänkin esim. synkopee</li>
