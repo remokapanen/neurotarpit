@@ -218,7 +218,7 @@ Esitiedot:
 <li>Päihteiden käyttö (tietysti myös perussairaudet ja lääkitys tarkistetaan suullisesti potilastietojärjestelmän lisäksi)</li>
 <li>Aivovamman vaikeusasteen arvioiminen: Mistä lähtien pystyy muodostamaan yhtenäisiä muistikuvia (PTA:n pituus)? Oliko tajuttomuutta ja jos oli niin kuinka pitkään? (Jos mahdollista, soitan vastaanotolta puolisolle ja kysyn alkuvaiheen tapahtumia ja puolison havaintoja ja sitä, oliko alkupäivinä kotona selvää muistiongelmaa)</li>
 <li>Muita oireita? Kouristelu, päänsärky, sekavuus, pahoinvointi, oksentelu, motoriikka, kipu varsinkin niskan alueella, pystyykö kääntelemään päätä, infektio-oireita?..</li>
-<li>Psyykkinen vointi ennen tapaturmaa ja nyt</li>
+<li>Psyykkinen vointi ennen tapaturmaa ja nyt ja ovatko tämänhetkiset oireet olleet vamman alusta lähtien vai ilmenneet mahd. työhön paluun myötä.</li>
 <li>Aiemmat aivovammat / onko jo lapsuudessa viittaavaa kehityksellisistä ongelmista, jotka voisivat vaikuttaa vamman toipumisennusteeseen</li>
 
   </div>
@@ -252,7 +252,7 @@ Status:
   </button>
   <div class="solution-content">
 
-Jos ei mitään akuutteja psykiatrisia kuormitustekijöitä nouse esiin, epäilen aivotärähdystä vakavampaa aivovammaa, ja se vaihtoehto edellyttää joka tapauksessa lisäselvityksiä. Kyseessä sinänsä voi olla lieväkin aivovamma (PTA max 24h ja tajuttomuus max 30min), mutta 10-20% lievänkin aivovamman kärsineistä potilaista kehittää pitkittyneitä oireita jopa >6kk ajaksi. 
+Kyseessä on kyllä todennäköisesti ollut aivotärähdystä (aikaisemmin määritelty ns. erittäin lievänä aivovammana, mutta nykyään sisällytetty lievään aivovammaan; ei sinänsä virallinen termi enää) vakavampi aivovamma, koska potilaalla ei ole selkeitä muistikuvia päivystyksestä -> post-traumaattinen amnesia (PTA) ollut hetkellistä pidempää. Kyseessä sinänsä on kyllä todennäköisesti lievä aivovamma (PTA max 24h ja tajuttomuus max 30min ja GCS 13-15 puolen tunnin päästä vammasta ja koko seurannan ajan), mutta 10-20% lievänkin aivovamman kärsineistä potilaista kehittää pitkittyneitä oireita jopa >6kk ajaksi. **Todennäköisesti kyseessä onkin juuri tyypillinen aivovamman jälkeinen oireisto.**
 
 ---
 
@@ -272,7 +272,7 @@ Mahdollisesti voi tietysti miettiä masennusta/ahdistuneisuutta (liittyen tai ei
 
 Kirjoitan potilaalle 2 vk sairauslomaa ja kehotan häntä tulemaan uudelleen käymään ennen sairausloman päättymistä. Psykoedukaatio tärkeää: Selitetään potilaalle, että oireet ovat tyypillisiä ja yleensä ohimeneviä, mutta toipuminen vaatii aikaa ja asteittaista kuormituksen lisäämistä. Tämä vähentää ahdistusta. 
 
-Teen kiireellisen konsultaatiopyynnön neurologille, joka päättää jatkotutkimukset. Varmistan, että potilas on tehnyt ilmoituksen työtapaturmasta ja pyydän tarvittaessa hoitajaa/sosiaalityöntekijää avustamaan potilasta ilmoituksen tekemisessä. Kehotan potilasta sairausloman aikana huolehtimaan ulkoilusta ja fyysisestä kunnosta mutta välttämään rasitusta, sekä huolehtimaan riittävästä levosta. Kehotan häntä olemaan toistaiseksi ajamatta autoa, ja keskustelemaan ajokyvystä neurologin kanssa, kirjaan asian myös konsultaatiopyyntöön.
+Teen kiireellisen konsultaatiopyynnön neurologille, joka päättää jatkotutkimukset. Varmistan, että potilas on tehnyt ilmoituksen työtapaturmasta ja pyydän tarvittaessa hoitajaa/sosiaalityöntekijää avustamaan potilasta ilmoituksen tekemisessä. Kehotan potilasta sairausloman aikana huolehtimaan ulkoilusta ja fyysisestä kunnosta mutta välttämään kovaa rasitusta, sekä huolehtimaan riittävästä levosta. Kehotan häntä olemaan toistaiseksi ajamatta autoa, ja keskustelemaan ajokyvystä neurologin kanssa, kirjaan asian myös konsultaatiopyyntöön. Aivovamman jälkeen suositellaan 1 kuukauden ajokieltoa lievissä aivovammoissa (keskivaikeissa 3kk ja vaikeissa vammoissa vähintään 6kk)
 
 Mahdollisesti TSH kilpirauhasen hoitotasapainon varmistamiseksi.
 
@@ -311,9 +311,9 @@ Toimit erikoistuvan vaiheen lääkärin sijaisena TYKS Neurokeskuksessa neurokir
 
 Primaarisen subaraknoidaalivuodon (ei-traumaattisen) selvästi yleisin aiheuttaja on aivovaltimoaneurysman puhkeaminen (n. 80% tapauksista). Mahdollisesti voi myös olla AV-malformaation tai muun verisuoniepämuodostaman (esim. kavernoottisen hemangiooman eli kavernooman tai arterivenoosin fistelin) vuoto (n. 5%). Sekundaarinen subaraknoidaalivuoto syntyy yleensä vamman seurauksena. 
 
-SAV:n diagnostiikassa tärkeimmät tutkimukset ovat natiivi-pään-TT (näkyy TT:ssä valkoisena likvoritiloissa sellan kohdalla, fissura Sylviissa, hemisfäärien välissä tai takakuopassa; sensitiivisin ensimmäisten muutaman tunnin aikana; vähenee 93 %:iin 24 tunnissa ja 57-85 %:iin kuudessa päivässä) ja sen perään TT-angiografia osoittamaan aneurysma(t). Tarvittaessa digitaalinen katetriangiografia (DSA). Lannepisto tulee tehdä, jos SAV-epäily on kliinisesti vahva, mutta TT on negatiivinen; veri likvorissa (ihan makroskooppisestikin väri voi olla kellertävä tai verinen; tarkemmassa analyysissä PAD-tutkimus (siderofaagit) tai spektroskopia (hemoglobiinin hajoamistuotteet)) viittaa SAV:hen.
+SAV:n diagnostiikassa tärkeimmät tutkimukset ovat natiivi-pään-TT (näkyy TT:ssä valkoisena likvoritiloissa sellan kohdalla, fissura Sylviissa, hemisfäärien välissä tai takakuopassa; sensitiivisin ensimmäisten muutaman tunnin aikana; vähenee 93 %:iin 24 tunnissa ja 57-85 %:iin kuudessa päivässä) ja sen perään TT-angiografia osoittamaan aneurysma(t). Tarvittaessa digitaalinen katetriangiografia (DSA). Lannepisto tulee tehdä, jos SAV-epäily on kliinisesti vahva, mutta TT on negatiivinen (TT kuitenkin poissulkee SAV:n lähes 100%:sesti jos se otetaan <6h oireiden alusta); veri likvorissa (ihan makroskooppisestikin väri voi olla kellertävä tai verinen; tarkemmassa analyysissä PAD-tutkimus (siderofaagit) tai spektroskopia (hemoglobiinin hajoamistuotteet)) viittaa SAV:hen.
 
-Noin 10 %:ssa vuodoista ei ole neuroradiologisesti todettavaa syytä, jolloin angiografiatutkimus yleensä vielä uusitaan, mutta mikäli siinäkään ei syytä löydy, on kyseessä hyvän ennusteen perimesenkefaalinen vuoto. Non-aneurysmaattisen perimesenkefaalisen vuodon syy on toistaiseksi vielä tuntematon, mutta eri tutkimusten mukaan syyksi on epäilty muun muassa hyvin pienen aivovaltimon eli niin sanotun perforantin vuotoa tai laskimoperäistä vuotoa.
+Noin 10 %:ssa vuodoista ei ole neuroradiologisesti todettavaa syytä, jolloin angiografiatutkimus yleensä vielä uusitaan, mutta mikäli siinäkään ei syytä löydy, on kyseessä usein hyvän ennusteen perimesenkefaalinen vuoto (jos vuoto siis sillä alueella). Non-aneurysmaattisen perimesenkefaalisen vuodon syy on toistaiseksi vielä tuntematon, mutta eri tutkimusten mukaan syyksi on epäilty muun muassa hyvin pienen aivovaltimon eli niin sanotun perforantin vuotoa tai laskimoperäistä vuotoa.
   </div>
 </div>
 
@@ -355,14 +355,13 @@ Ennuste ei ole mikään maailman paras ja kyseessä on hengenvaarallinen tila. A
 
 Yleisin etiologinen tekijä on siis aneurysman vuoto. Varmistamisen jälkeen tehdään heti konsultaatio neurokirurgialle. SAV-potilas kuuluu akuutisti tehohoitoon tai tehovalvontaan, ei vuodeosastolle.
 
-Sen akuuttihoitoon kuuluu välittömän uusintavuodon ehkäisy traneksaamihapolla ja 48h:n kuluessa (monissa lähteissä sanotaan viimeistään seuraavana päivänä) vuodosta aneurysman sulkeminen. Vaihtoehtoja ovat kirurginen ja suonensisäinen hoito; tilanne, aneurysman anatomia ja hoitotiimin kokemus ratkaisevat valinnan. 
+Neurokirurgi ohjeistaa akuuttihoidon ja siirron aikaisen tuen. Akuuttihoitoon kuuluu välittömän uusintavuodon ehkäisy traneksaamihapolla, verenpaineen kontrolloiminen (yleensä tavoite <160 mmHg, usein alle 140mmHG) ja usein myös nimodipiinin (laskee verenpainetta ja myös ehkäisee vasospasmeilua) aloittaminen. Tärkein hoito on kuitenkin 48h:n kuluessa (TYKSissä useimmiten 24h sisällä) vuodosta aneurysman sulkeminen. Vaihtoehtoja ovat kirurginen ja suonensisäinen hoito; tilanne, aneurysman anatomia ja hoitotiimin kokemus ratkaisevat valinnan. 
 
-<li>Kirurgisessa hoidossa tehdään kraniotomian kautta aneurysman kaulan mikrokirurginen sulku titaanisella puristimella (klipsaus). Valitaan
-erityisesti, jos aneurysman muoto on epäedullinen coilaukselle tai siihen liittyy merkittävä aivonsisäinen hematooma, joka on evakuoitava.</li>
-<li>Endovaskulaarinen hoito tehdään nivusvaltimon kautta katetrin avulla. Aneurysmapussi täytetään ohuilla lankakeräsillä (koilaus), jotka hyydyttävät aneurysman. On nykyään ensisijainen hoitomuoto monissa tapauksissa</li>
+<li>Kirurgisessa hoidossa tehdään kraniotomian kautta aneurysman kaulan mikrokirurginen sulku titaanisella puristimella (klipsaus). Valitaan erityisesti, jos aneurysman muoto on epäedullinen coilaukselle tai siihen liittyy merkittävä aivonsisäinen hematooma, joka on evakuoitava. Kirurgista käytetään usein erityisesti MCA:n, AComin ja PComin aneurysmien hoidossa.</li>
+<li>Endovaskulaarinen hoito tehdään nivusvaltimon kautta katetrin avulla. Aneurysmapussi täytetään ohuilla lankakeräsillä (koilaus), jotka hyydyttävät aneurysman. On nykyään ensisijainen hoitomuoto monissa tapauksissa.</li>
 
 ---
 
-Neuroteholla vitaalien, elektrolyyttien, sokeritasapainon, nesteytyksen yms monitorointi, ICP:n monitorointi ja aivovaltimospasmien ehkäisy nimodipiinilla (SAV aiheuttaa usein ympärilleen vasospasmin ja voi tyypillisesti n. 4-14pv kohdalla aiheuttaa mahdollisesti jopa iskeemisen aivoinfarktin. Tätä spasmeilua estetään nimodipiinilla (kalsiumkanavan salpaaja)). Sitä käytetään myös jo kehittyneen spasmin hoitoon (samalla usein "tripla H" eli hypertensio, hypervolemia ja hemodiluutio auttaa perfuusion ylläpidossa; angioplastia tarvittaessa).
+Neuroteholla vitaalien, elektrolyyttien, sokeritasapainon, nesteytyksen yms monitorointi, ICP:n monitorointi ja aivovaltimospasmien ehkäisy nimodipiinilla (SAV aiheuttaa usein ympärilleen vasospasmin ja voi tyypillisesti n. 4-14pv kohdalla aiheuttaa mahdollisesti jopa iskeemisen aivoinfarktin. Tätä spasmeilua estetään nimodipiinilla (kalsiumkanavan salpaaja)). Sitä käytetään myös intra-arteriaalisesti jo kehittyneen spasmin hoitoon, jos tyypillisin hoito eli indusoitu hypertensio ei riitä.
   </div>
 </div>
