@@ -187,6 +187,7 @@ parkinson-potilaan-tilanvaihteluiden-ja-pakkoliikkeiden-hoito
 ambulanssi-tuo-päivystykseen-kouristaneen-tajuttoman-aikuispotilaan.-tyks-akuutin-lääkärinä-tai-amanuenssina-sinun-tulisi-miettiä-seuraavia-asioita-vastaa-kysymyksiin-lyhyesti-6-pistettä
 section-3
 blokki-1-3
+avh-epäily
 näköoireet-ovat-yleisiä-oireita-neurologisilla-potilailla.-kuvaile-lyhyesti-minkälaisesta-oireesta-on-kyse-seuraavissa-tapauksissa-esim.-miten-potilas-kuvailee-oiretta-mahdolliset-statuslöydökset
 knf
 blokki-2-3
