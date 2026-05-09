@@ -362,6 +362,6 @@ Neurokirurgi ohjeistaa akuuttihoidon ja siirron aikaisen tuen. Akuuttihoitoon ku
 
 ---
 
-Neuroteholla vitaalien, elektrolyyttien, sokeritasapainon, nesteytyksen yms monitorointi, ICP:n monitorointi ja aivovaltimospasmien ehkäisy nimodipiinilla (SAV aiheuttaa usein ympärilleen vasospasmin ja voi tyypillisesti n. 4-14pv kohdalla aiheuttaa mahdollisesti jopa iskeemisen aivoinfarktin. Tätä spasmeilua estetään nimodipiinilla (kalsiumkanavan salpaaja)). Sitä käytetään myös intra-arteriaalisesti jo kehittyneen spasmin hoitoon, jos tyypillisin hoito eli indusoitu hypertensio ei riitä.
+Neuroteholla vitaalien, elektrolyyttien, sokeritasapainon, nesteytyksen yms monitorointi, ICP:n monitorointi ja aivovaltimospasmien ehkäisy nimodipiinilla (SAV aiheuttaa usein ympärilleen vasospasmin ja voi tyypillisesti n. 4-14pv kohdalla aiheuttaa mahdollisesti jopa iskeemisen aivoinfarktin. Tätä spasmeilua estetään p.o. nimodipiinilla (kalsiumkanavan salpaaja)). Sitä käytetään myös intra-arteriaalisesti jo kehittyneen spasmin hoitoon, jos tyypillisin hoito eli indusoitu hypertensio ei riitä.
   </div>
 </div>
