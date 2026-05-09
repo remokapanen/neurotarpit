@@ -77,7 +77,7 @@ Kadulla on tärkeää suojella potilaan päätä (esim. takki pään alle). Äl�
 
 Kun kouristelu vähenee / loppuu, käännä potilas kylkiasentoon hengitysteiden turvaamiseksi.
 
-Jos omaisilla / potilaalla on mukana potilaan "kohtauslääkettä" (usein bukkaalinen midatsolaami tai peräruiskeriatsepaami), se voidaan annostella ohjeen mukaan.
+Jos omaisilla / potilaalla on mukana potilaan "kohtauslääkettä" (usein bukkaalinen midatsolaami tai peräruiskediatsepaami), se voidaan annostella ohjeen mukaan.
   </div>
 </div>
 
@@ -103,7 +103,7 @@ ABCDE, hypoglykemian mittaaminen ja korjaaminen. Ensilinjan SE-lääkkeen voi an
 
 Keskussairaalassa annetaan ensilinjan lääkitys, jos sitä ei ole vielä annettu tai uusitaan se. Jos status epilepticus ei rajoitu 1. vaiheen hoidolla ja lääkkeillä, annetaan 2. vaiheen hoitoon tarkoitetut laskimonsisäiset epilepsialääkkeet latausannoksin (ensisijaisia ovat levetirasetaami, fosfenytoiini ja valproaatti). 2. vaiheen lääkehoito voidaan aloittaa jo ensihoidossa viiveiden minimoimiseksi, jos matka keskussairaalaan on pitkä. 
 
-3. linjan lääkityksenä käytetään suonensisäisesti annosteltavaa anesteettia. Potilas intuboidaan ja monitoroidaan EEG:tä jatkuvasti. Yleensä aikuisilla ensisijaisesti valitaan propofoli ja tarvittaessa lisätään midatsolaami-infuusio tai tiopentaaliboluksia (lapsilla ei propofolia vaan ensisijaisesti tiopentaali ja midatsolaami). Anestesiaa jatketaan 12 tuntia. Tämän jälkeen propofolin anto lopetetaan hitaasti, esimerkiksi 6–12 tunnin aikana potilaan kliinisiä oireita ja EEG:tä seuraten. Tiopentaalin ja midatsolaamin käytön asteittainen lopettaminen ei ole tarpeen, koska ne kumuloituvat pitkän anestesian aikana elimistöön ja niiden poistuminen elimistöstä on hidasta. 
+Kolmannen linjan lääkityksenä käytetään suonensisäisesti annosteltavaa anesteettia. Potilas intuboidaan ja monitoroidaan EEG:tä jatkuvasti. Yleensä aikuisilla ensisijaisesti valitaan propofoli ja tarvittaessa lisätään midatsolaami-infuusio tai tiopentaaliboluksia (lapsilla ei propofolia vaan ensisijaisesti tiopentaali ja midatsolaami). Anestesiaa jatketaan 12 tuntia. Tämän jälkeen propofolin anto lopetetaan hitaasti, esimerkiksi 6–12 tunnin aikana potilaan kliinisiä oireita ja EEG:tä seuraten. Tiopentaalin ja midatsolaamin käytön asteittainen lopettaminen ei ole tarpeen, koska ne kumuloituvat pitkän anestesian aikana elimistöön ja niiden poistuminen elimistöstä on hidasta. 
 
 ![](images/statusepilepticus.png)
 ![](images/se.png)

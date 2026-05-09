@@ -2,7 +2,7 @@
 
 ## Tentti 
 
-Vuoden 2009 kysymyksiä ei wikissä ole. Vuoden 2009 tentistä jo käytyjä aiheita ovat "Aivoinfarktin sekundaaripreventio", "Tajunnanmenetyskohtauksen saaneen potilaan anamneesi" ja sarjoittaisen päänsräyn hoito/estohoito. 
+Vuoden 2009 kysymyksiä ei wikissä ole. Vuoden 2008 tentistä jo käytyjä aiheita ovat "Aivoinfarktin sekundaaripreventio", "Tajunnanmenetyskohtauksen saaneen potilaan anamneesi" ja sarjoittaisen päänsäryn hoito/estohoito. 
 
 ### Glioblastooma multiforme
 
@@ -20,7 +20,7 @@ IDH-wildtype astrosytoomat viittaavat glioblastoomiin (primaarinen glioblastoma 
 
 ---
 
-Epileptiset kohtaukset, paikallinen neurologinen puutos ja kognitiiviset häiriöt ovat tavallisia oireita. Yleisestikin siis aivotuumorien yleisimpiä oireita ovat epileptiset kohtaukset fokaalioireet ja kohonneen kallonsisäisen paineen oireet (päänsräky, pahoinvointi ja oksentelu aamupainotteisesti, kognitiiviset oireet, hidastuminen, uneliaisuus, staasipapilla, näön heikentyminen).
+Epileptiset kohtaukset, paikallinen neurologinen puutos ja kognitiiviset häiriöt ovat tavallisia oireita. Yleisestikin siis aivotuumorien yleisimpiä oireita ovat epileptiset kohtaukset fokaalioireet ja kohonneen kallonsisäisen paineen oireet (päänsärky, pahoinvointi ja oksentelu aamupainotteisesti, kognitiiviset oireet, hidastuminen, uneliaisuus, staasipapilla, näön heikentyminen).
 
 ---
 
@@ -34,7 +34,7 @@ Jos kasvain sijaitsee niin, että sitä voidaan leikata, näin yleensä tehdää
 
 Hoitoon liittyy lisäksi sädehoito ja solunsalpaajahoidot. Mikäli potilas on iäkkäämpi tai/ja huonokuntoisempi tyydytään usein lyhempään sädehoitoon ja joissakin tilanteissa annetaan pelkästään solusalpaajia, varsinkin, jos kasvaimessa on MGMT mutaatio eli se on herkempi solusalpaajille. Yleisimmin käytetty solusalpaaja on temotsolamidi. 
 
-Uusintakasvaimen hoidot vaihtelevat suuresti. Usein hyväkuntoiset potilaat leikataan uudelleen, lisäsäde­hoitoja annetaan tai solusalpaajat aloitetaan uudestaan. Lisäksi on kokeellisia hoitoja.
+Aikuisten glioomia ei sinänsä voida parantaa, koska tuumoreissa on diffuusia kasvua ja syöpäsoluja on ympäri aivoja mikrometastaasien takia -> kyseessä on ns. aivojen yleistauti. Uusintakasvaimen hoidot vaihtelevat suuresti. Usein hyväkuntoiset potilaat leikataan uudelleen, lisäsädehoitoja annetaan tai solusalpaajat aloitetaan uudestaan. Lisäksi on kokeellisia hoitoja.
   </div>
 </div>
 
@@ -54,7 +54,7 @@ Aksonivaurio syntyy aksonien venyttymisestä aivoalueiden erisuuntaisissa liikke
 
 Diffuusi aksonivaurio aiheuttaa usein tajuttomuutta, joka voi olla hyvinkin pitkäkestoista. Lievemmät DAI:t voivat kestää tajuttomuudeltaan yleensä alle 2 viikkoa, vaikeammissa tapauksissa kuukausia tai heräämistä ei koskaan tapahtu. DAI-muutoksia nähdään useimmiten aivojen syvissä rakenteissa, aivorungossa ja aivokurkiaisessa, sekä aivopuoliskojen harmaan ja valkean aineen rajapinnalla. Aivojen syvät rakenteet ovat elintärkeitä muun muassa hengityksen, vireystilan ja tajunnantason säätelyssä, ja näille alueille syntyneet vauriot johtavat usein syvään tajuttomuuteen ja vaikeaan vammautumiseen.
 
-TT:ssä voidaan joskus nähdä pieniä verenpurkaumia, mutta radiologisesti ei varhaisessa vaiheessa muuten välttämättä näy mitään. MRI on parempi kuvantaminen. Diffuusi hermosoluyhteyksien vaurio voi jatkua jopa kuukausia vamman jälkeen biokemiallisten mekanismien kautta (arpeutumista, atrofiaa...). Pistemäiset verenpurkaumat eli mikrohemorragiat ovat epäsuora viite aksonivauriosta, sillä ne edustavat todellisuudessa aksoneita ympäröivien pienten verisuonihaarojen ja veri-aivoesteen vuotoa. Mikrohemorragiat voidaan todeta melko luotettavasti MK:n magnetoituvuuskuvaussekvenssillä (susceptibility weighted imaging, SWI). Lievänkin aivovamman saaneista potilaista 6 - 28 %:lla on nähtävissä DAI-muutoksia MK:ssa. MK otetaan, jos pään TT on normaali ja aivovammaan kuuluu usean minuutin tajuttomuus tai usean tunnin PTA. Otetaan myös rutiinisti, jos kyseessä on suurienergiainen onnettomuus tai pään TT ei selitä oirekuvaa. Parhaan diagnostisen arvon omaavan MK:n ajankohta on myös edelleen epäselvä. Kansainvälisiä näyttöön perustuvia suosituksia ei ole. Asiantuntijakonsensukseen perustuen Käypä hoito -suosituksessa suositellaan MK:ta 2 - 3 viikon aikana vammasta
+TT:ssä voidaan joskus nähdä pieniä verenpurkaumia, mutta radiologisesti ei varhaisessa vaiheessa muuten välttämättä näy mitään (turvotuksesta johtuen sulkukset usein heikosti erottuvia tosin -> hyvä vihje). MRI on parempi kuvantaminen. Diffuusi hermosoluyhteyksien vaurio voi jatkua jopa kuukausia vamman jälkeen biokemiallisten mekanismien kautta (arpeutumista, atrofiaa...). Pistemäiset verenpurkaumat eli mikrohemorragiat ovat epäsuora viite aksonivauriosta, sillä ne edustavat todellisuudessa aksoneita ympäröivien pienten verisuonihaarojen ja veri-aivoesteen vuotoa. Mikrohemorragiat voidaan todeta melko luotettavasti MK:n magnetoituvuuskuvaussekvenssillä (susceptibility weighted imaging, SWI). Lievänkin aivovamman saaneista potilaista 6 - 28 %:lla on nähtävissä DAI-muutoksia MK:ssa. MK otetaan, jos pään TT on normaali ja aivovammaan kuuluu usean minuutin tajuttomuus tai usean tunnin PTA. Otetaan myös rutiinisti, jos kyseessä on suurienergiainen onnettomuus tai pään TT ei selitä oirekuvaa. Parhaan diagnostisen arvon omaavan MK:n ajankohta on myös edelleen epäselvä. Kansainvälisiä näyttöön perustuvia suosituksia ei ole. Asiantuntijakonsensukseen perustuen Käypä hoito -suosituksessa suositellaan MK:ta 2 - 3 viikon aikana vammasta
 
 
 Tällä hetkellä TAI-potilaiden hoito keskittyy sekundääristen vaurioiden (esimerkiksi aivoödeema, kallonsisäisen paineen laskeminen) ehkäisemiseen sekä kuntoutukseen, sillä täydellisesti parantavaa hoitoa ei ole. Magneettikuvissa nähtävät muutokset saattavat myös korjautua ajan kuluessa, ja kuukauden kuluttua vammasta pienimpiä verenvuotoja ei välttämättä enää nähdä. Sitä ei kuitenkaan tiedetä, korjaantuvatko itse aivosoluvauriot vai tapahtuuko aivoissa muovautumista ja muut aivosolut ottavat vaurioituneiden alueiden tehtäviä hoitaakseen. TAI:sta ei voi parantua täysin, mutta sen tuomia oireita, jotka ovat yleensä psyykkisiä ja neurologisia, voidaan helpottaa lääkityksellä ja säännöllisellä terapialla. Kuntouttaminen onkin isossa roolissa aivovammapotilaiden kohdalla ja se edistää toipumista, jolloin potilaiden arjessa pärjääminen helpottuu

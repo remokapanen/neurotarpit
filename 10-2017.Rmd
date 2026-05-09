@@ -27,7 +27,7 @@ Periaatteessa myös polyradikuliitit (Guillain-Barrén oireyhtymä ja CIDP) void
 
 ---
 
-Polyneuropatiat voivat affisioida sensorisia hermoja, motorisia hermoja ja/tai autonomisia hermoja ja täten aiheuttaa monia erilaisia oireita. Sensoriset oireet voidaan luokitella "negatiivisiin" ja "positiivisiin". Negatiivisilla oireilla tarkoitetaan tunnon heikentymistä tai puuttumista. Positiivisilla oireilla tarkoitetaan lisääntyneitä tai muuttuneita ihon tunto-oireita (esimerkiksi pistely, kihelmöinti, polttelu sekä allodynia, jossa ei-kivulias stimulus koetaan kipuna, sekä hyperalgesia, jossa kipuaistimus koetaan liiallisena; hermokivut ovat yleensä pahimmillaan ilta- ja yöaikaan eli levossa). Useimmiten oirekuva on symmetrinen ja alkaa yleensä hermojen distaaliosissa ja leviää vähitellen proksimaalisesti. Tyypillisin ensioire on siis sukka- ja hansikasmainen tuntopuutos raajojen kärkijäsenissä, usein alkaen alaraajoista. Jalkapohjien tuntopuutokset johtavat helposti tasapainovaikeuksiin ja kävelyn heikentymiseen. Statuksessa kosketustunnon heikkeneminen (monofilamenttikoe), värinätunnon häviäminen (ääniraudalla) sekä akillesheijasteen puuttuminen ovat herkimmät alaraajojen neuropatian kliiniset osoittajat. Mittaavat paksujen hermosäikeiden toimintaa. Ohutsäieneuropatian diagnoosi perustuu pitkälti tyypillisiin oireisiin (kipu, lämpötilan erotuskyky alentunut), mutta haastavissa tapauksissa voidaan tutkia QST, ihobiopsia tai CHEP.
+Polyneuropatiat voivat affisioida sensorisia hermoja, motorisia hermoja ja/tai autonomisia hermoja ja täten aiheuttaa monia erilaisia oireita. Sensoriset oireet voidaan luokitella "negatiivisiin" ja "positiivisiin". Negatiivisilla oireilla tarkoitetaan tunnon heikentymistä tai puuttumista. Positiivisilla oireilla tarkoitetaan lisääntyneitä tai muuttuneita ihon tunto-oireita (esimerkiksi pistely, kihelmöinti, polttelu sekä allodynia, jossa ei-kivulias stimulus koetaan kipuna, sekä hyperalgesia, jossa kipuaistimus koetaan liiallisena; hermokivut ovat yleensä pahimmillaan ilta- ja yöaikaan eli levossa). Useimmiten oirekuva on symmetrinen ja alkaa yleensä hermojen distaaliosissa ja leviää vähitellen proksimaalisesti. Tyypillisin ensioire on siis sukka- ja hansikasmainen tuntopuutos raajojen kärkijäsenissä, usein alkaen alaraajoista. Jalkapohjien tuntopuutokset johtavat helposti tasapainovaikeuksiin ja kävelyn heikentymiseen. Statuksessa kosketustunnon heikkeneminen (monofilamenttikoe), värinätunnon häviäminen (ääniraudalla) sekä akillesheijasteen puuttuminen ovat herkimmät alaraajojen neuropatian kliiniset osoittajat. Mittaavat paksujen hermosäikeiden toimintaa (varmistamisessa ENMG auttaa). Ohutsäieneuropatian diagnoosi perustuu pitkälti tyypillisiin oireisiin (kipu, lämpötilan erotuskyky alentunut), mutta haastavissa tapauksissa voidaan tutkia QST, ihobiopsia tai CHEP, jos ENMG jää paksujen säikeiden tutkimuksena negatiiviseksi.
 
 Motoristen hermojen affisioituminen johtaa lihasheikkouteen, -atrofiaan, -kouristuksiin tai vapinaan. Jännevenytysheijasteet heikentyvät ja lihasheikkouksia voi esiintyä; babinskit negatiiviset. Motoriset ongelmat voivat tuntopuutosten kanssa aiheuttaa rakenteellisia muutoksia, kuten korkeita jalkaholveja ja vasaravarpaita. 
 
@@ -171,7 +171,7 @@ Parkinsonin taudin pääoireet voi muistaa muistisäännöstä TRAPSS ja näist�
 
 ---
 
-Vapinan erotusdiagnostiikassa yleisin erotusdiagnostinen vaihtoehto on essentiaalinen vapina (ET). ET taas on aktiovapina (esiintyy käsiä kannatellessa ja tehdessä, esim. juodessa), on symmetristä, voi affisioida ääntä ja päätä, on usein suvuttaista ja lievittyy alkoholilla. Parkinsonin vapina taas on on lepovapinaa (esiintyy levossa ja lievittyy liikkeessä), voi olla asymmetristä tai symmetristä, ei yleensä affisioi päätä tai ääntä (Parkisnonin taudissa ääni kyllä voi mennä hiljaisemmaksi ja monotooniseksi, mutta äänivärinää ei yleensä esiinny; samoin päässä leuka voi vapista, mutta pään heilumista sivuille ei yleensä nähdä), ei lievity alkoholilla ja sukuyhteys on yleensä heikompi. 
+Vapinan erotusdiagnostiikassa yleisin erotusdiagnostinen vaihtoehto on essentiaalinen vapina (ET). ET taas on aktiovapina (esiintyy käsiä kannatellessa ja tehdessä, esim. juodessa), on symmetristä, voi affisioida ääntä ja päätä, on usein suvuttaista ja lievittyy alkoholilla. Parkinsonin vapina taas on on lepovapinaa (esiintyy levossa ja lievittyy liikkeessä), voi olla asymmetristä tai symmetristä, ei yleensä affisioi päätä tai ääntä (Parkinsonin taudissa ääni kyllä voi mennä hiljaisemmaksi ja monotooniseksi, mutta äänivärinää ei yleensä esiinny; samoin päässä leuka voi vapista, mutta pään heilumista sivuille ei yleensä nähdä), ei lievity alkoholilla ja sukuyhteys on yleensä heikompi. 
 
 Tietysti myös tulee pitää mielessä lääkkeiden aiheuttama parkinsonismi (esim. psykoosilääkkeet ja muut antidopaminergit). 
 
@@ -183,7 +183,7 @@ Rigiditeetti on passiivisen liikkeen aikana tuntuvaa vastusta, joka ei riipu lii
 
 Parkinsonismin ns. pakollinen oire diagnoosin kannalta on hypokinesia eli siis akinesia (liikkeen aloittamisen hitaus ja spontaanin liikehdinnän vähentyminen) tai bradykinesia (liikesuorituksen hitaus). Se näkyy mm. vaikeutena aloittaa liike, liikealan pienenemisenä (esim. mikrografia eli pieni käsiala) ja kasvojen ilmeettömyytenä (maskikasvot). Statuksessa toistoliikkeet (esim. DDK tai nyrkistys) hitaita ja usein myös decrementti nähtävissä. 
 
-Erotusdiagnostistesti mm. masennus tai hypotyreoosi voi olla hidastuneisuuden taustalla. Decrementissä voi myös miettiä mm. myastenia gravista, mutta se ei yleensä ilmene hitautena levon jälkeen. Tietysti vanhuksen yleinen rappeutuminen voi olla hitauden taustalla. 
+Erotusdiagnostisesti mm. masennus tai hypotyreoosi voi olla hidastuneisuuden taustalla. Decrementissä voi myös miettiä mm. myastenia gravista, mutta se ei yleensä ilmene hitautena levon jälkeen. Tietysti vanhuksen yleinen rappeutuminen voi olla hitauden taustalla. 
 
 ---
 
@@ -316,7 +316,7 @@ Väärin
 
 ---
 
-Potilas lyönyt päätään, joten kyseessä ei ole tyypillinen niskan retkahdusvamma (whiplash eli piiskaniskuvamma), joka syntyy pään heilahtaessa äkillisesti ja hallitsemattomasti taaksepäin ja sen jälkeen voimakkaaseen etutaivutukseen (tyypillinen vammamekanismi on peräänajokolari). Piiskaniskuvammassa ei ole refleksin muuttumisia yms (vaikka ilmeneekin niskakipua, säteilykipua yläraajoihin, päänsärkyä yms). 
+Potilas lyönyt päätään, joten kyseessä ei ole tyypillinen niskan retkahdusvamma (whiplash eli piiskaniskuvamma), joka syntyy pään heilahtaessa äkillisesti ja hallitsemattomasti taaksepäin ja sen jälkeen voimakkaaseen etutaivutukseen (tyypillinen vammamekanismi on peräänajokolari). Piiskaniskuvammassa ei ole refleksin muuttumisia yms neurologisia löydöksiä (vaikka ilmeneekin niskakipua, säteilykipua yläraajoihin, päänsärkyä yms). 
 
 ![](images/whiplash.png)
   </div>
@@ -503,7 +503,7 @@ Väärin
 
 ---
 
-Polyneuropatia aiheuttaa tyypillisesti tuntohäiriöitä, kipuja ja heijasteiden vaimenemista alaraajoissa, ei käsien kannatusvapinaa. ENMG ei ole ensilinjan tutkimus vapinan selvittelyssä. Lisäksi diagnoosi on ensisijaisesti kliininen. 
+Polyneuropatia aiheuttaa tyypillisesti tuntohäiriöitä, kipuja ja heijasteiden vaimenemista alaraajoissa, ei käsien kannatusvapinaa. ENMG ei ole ensilinjan tutkimus vapinan selvittelyssä. Lisäksi diagnoosi on ensisijaisesti kliininen ja polyneuropatian poissulkua ei tarvita ilman mitään sen oirekuvaan viittaavaa. 
   </div>
 </div>
 
@@ -589,7 +589,7 @@ Oikein
 
 Jos TT on tehty <6 tuntia oireiden alusta ja on normaali, se sulkee SAV:n pois lähes varmasti (sensitiivisyys ~98,7 %) potilailla ilman fokaalisia neurologisia oireita. Tällä potilaalla on kuitenkin fokaalisia oireita (dysfasia, näkökenttäpuutos), jolloin nämä tutkimukset eivät ole yhtä yleispäteviä päde ja pelkkä negatiivinen TT ei ehkä riitä. Tekstistä myös ei ihan käy selväksi, kuinka kauan kohtauksen alusta on, mutta todennäköisesti >6h, jolloin likvor tulisi ottaa. 
 
-Verenvuodon merkkejä etsitään yleensä aikaisintaan 12 tuntia säryn alkamisesta. Livorista otetaan peruskokeet (solut, Prot, Gluk), spektri (näyte suojattava valolta) ja varaputket.
+Verenvuodon merkkejä etsitään yleensä aikaisintaan 12 tuntia säryn alkamisesta. Likvorista otetaan peruskokeet (solut, Prot, Gluk), spektri (näyte suojattava valolta) ja varaputket.
 
 ![](images/sahalgo.png)
   </div>
@@ -603,7 +603,7 @@ Verenvuodon merkkejä etsitään yleensä aikaisintaan 12 tuntia säryn alkamise
   </button>
   <div class="solution-content">
 
-Oikein / Väärin
+Väärin
 
 ---
 
@@ -652,7 +652,7 @@ Väärin
 
 ---
 
-Diagnostiikka aloitetaan perusterveydenhuollossa. Muistikoordinaattori/hoitaja tekee CERAD-testin ja lääkäri tilaa muistilaboratoriokokeet terveyskeskuksessa.
+Diagnostiikka aloitetaan perusterveydenhuollossa. Lääkäri tilaa muistilaboratoriokokeet terveyskeskuksessa ja muistihoitaja tekee CERAD-testin tk:ssa/muistikeskuksessa (työjako eroaa paikallisesti). Muistikeskus (Turussa sijaitsee Mäntymäessä) ei siis sinänsä ole neurologian muistipoliklinikka ja potilaat voivat usein hakeutua sinne ilman tk-lääkäriäkin. 
   </div>
 </div>
 
@@ -670,7 +670,7 @@ Väärin
 
 Oirekuva ei ole tyypillinen Alzheimer. Alzheimer alkaa yleensä episodisen muistin häiriöllä. Tällä potilaalla korostuvat kävelyn häiriö ("jalat tömähtävät maahan", töpöttely) ja lievä hidastuneisuus, mutta arjen toimintakyky on yllättävän hyvä (ajaa autoa, hoitaa raha-asiat).
 
-Näin iäkkäistä yleensä tehdään paikallisen saatavuuden rajoissa vähintään geriatrin konsultaatio (muistikeskukset!). Usein vaikka olisikin suhteellisen tyypillinen Alzheimer, niin yleensä silti tehdään lähete ESH, jossa otetaan MRI/PET ja muita tarvittavia erotusdiagnostisia selvittelyjä (esim. likvor).
+Näin iäkkäistä yleensä tehdään paikallisen saatavuuden rajoissa vähintään geriatrin konsultaatio (muistikeskukset!). Usein vaikka olisikin suhteellisen tyypillinen Alzheimer, niin yleensä silti tehdään lähete ESH/muistikeskukset, jossa otetaan MRI ja tarvittaessa muita erotusdiagnostisia selvittelyjä (esim. likvor, PET, verikokeet).
   </div>
 </div>
 

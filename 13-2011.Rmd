@@ -48,7 +48,7 @@ Oirekuva ja löydökset:
 
 Kuvantamislöydökset ja labrat: 
 
-<li>Alzheimerin taudissa nähdään MRI:ssä yleisimmin hippokampusatrofiaa. Aivot voivat myös yleisesti atrfoioitua -> ventrikkelien ilmeneminen suurempana. Löydökset MRI:ssä ei kuitenkaan ole täysin spesifisiä Alzheimerille, vaikka olisikin tyypillisenä diagnoosia tukeva löydös. Lisäksi voidaan joskus ottaa PET-kuva ja likvortutkimuksia, varsinkin jos potilas on nuori, tilanne on epäselvä tai hatkitaan modifoivia hoitoja.</li>
+<li>Alzheimerin taudissa nähdään MRI:ssä yleisimmin hippokampusatrofiaa. Aivot voivat myös yleisesti atrofioitua -> ventrikkelien ilmeneminen suurempana. Löydökset MRI:ssä ei kuitenkaan ole täysin spesifisiä Alzheimerille, vaikka olisikin tyypillisenä diagnoosia tukeva löydös. Lisäksi voidaan joskus ottaa PET-kuva ja likvortutkimuksia, varsinkin jos potilas on nuori, tilanne on epäselvä tai hatkitaan modifoivia hoitoja.</li>
   <ul>
     <li>Likvorissa tyypillistä on beeta-amyloidipeptidi 42:n pitoisuuden pieneneminen, fosforyloituneen tau-proteiinin pitoisuuden suureneminen, beeta-amyloidi 42:n ja 40:n suhteen pieneneminen ja beeta-amyloidi 42:n ja fosforyloituneen tau-proteiinin suhteen pieneneminen.</li>
     <li>Tyypilliset verilabrat voivat olla ihan normaalit. Nykyään on myös periaatteessa käytössä verinäytepohjaisia merkkiainetestejä, kuten p-tau217. Mikäli likvoritutkimukset ovat vasta-aiheisia ja amyloidi-PET-tutkimusta ei ole saatavilla, voidaan harkintaa käyttäen hyödyntää myös veren pTau217-määritystä. Erityisesti työikäisten diagnostiikassa tulee kuitenkin käyttää ensisijaisesti likvoritutkimusta.</li>
@@ -122,11 +122,10 @@ Jännityspäänsärky on yleisin päänsäryn syy. Se sisältää sekä lihasjä
 
 Migreeni 
 
-<li>Toiseksi yleisin primaarinen päänsärky (jännityspäänsärkyä voi tosin esiintyä migreenin ohella). Jaetaan auralliseen (n. 15%) ja aurattomaa (n. 85%) päämuotoon</li>
-<li>Jaetaan auralliseen (n. 15%) ja aurattomaa (n. 85%) päämuotoon</li>
-<li>Aurallisessa migreenissä tyypilliset auraoireet ovat näköoireita (yleisin aura), tuntohäiriöitä tai puheen tuoton ongelmia ja niille on ominaista täydellinen palautuvuus. Harvinaisia auraoireita ovat retinaaliset oireet, motoriset oireet hemiplegisessä migreenissä ja aivorunko-oireet aivorunkomigreenissä. Esioireet kestävät 5-60 minuuttia. Toisinaan auraoiretta ei seuraa päänsärky, ja joskus auraoireet pitkittyvät. Harvinaiset oireet edellyttävät tilannearviota ja diagnosointia erikoissairaanhoidossa.</li>
+<li>Toiseksi yleisin primaarinen päänsärky (jännityspäänsärkyä voi tosin esiintyä migreenin ohella).</li>
+<li>Jaetaan auralliseen (n. 15%) ja aurattomaan (n. 85%) päämuotoon</li>
+<li>Aurallisessa migreenissä tyypilliset auraoireet ovat näköoireita (yleisin aura), tuntohäiriöitä tai puheen tuoton ongelmia ja niille on ominaista täydellinen palautuvuus. Harvinaisia auraoireita ovat retinaaliset oireet, motoriset oireet hemiplegisessä migreenissä ja aivorunko-oireet aivorunkomigreenissä. Yksittäiset auraoireet kestävät 5-60 minuuttia. Toisinaan auraoiretta ei seuraa päänsärky, ja joskus auraoireet pitkittyvät. Harvinaiset oireet edellyttävät tilannearviota ja diagnosointia erikoissairaanhoidossa.</li>
 <li>Migreenin päänsärkykohtaukset kestävät tyypillisesti 4-72 tuntia ilman hoitoa tai jos hoito ei tehoa. Samalla potilaalla voi esiintyä kestoltaan ja voimakkuudeltaan vaihtelevia kohtauksia, sekä aurallisena että aurattomana.</li>
-<li>Migreenin päänsärkykohtaukset kestävät tyypillisesti 4-72 tuntia ilman hoitoa tai jos hoito ei tehoa. Samalla potilaalla voi esiintyä kestoltaan ja voimakkuudeltaan vaihtelevia kohtauksia, sekä aurallisena että aurattomana</li>
 <li>Päänsärky on tyypillisesti voimakasta, toispuoleista ja sykkivää (erottelee jännityspäänsärystä, joka ilmenee pantamaisena, puristavana särkynä koko pään alueella). </li>
 <li>Rasitus pahentaa migreenin päänsärkyä (vrt. jännityspäänsärky, jossa lievittää)</li>
 <li>Tyypillisesti ilmenee liitännäisoireita, kuten pahoinvointia/oksentelua, valoarkuutta (fotofobia) ja/tai ääniarkuutta (fonofobia)</li>
@@ -203,7 +202,7 @@ Cauda equina -oireyhtymä
 Selkäkipu- ja iskiaskipupotilailta tulee aina selvittää, voisiko kyseessä olla cauda equina -oireyhtymä, joka vaatii päivystyksellisiä selvittelyjä. Se johtuu massiivisesta välilevyn pullistumasta tai muusta äkillisestä ahtaudesta, joka puristaa useita hermojuuria lannerangan alaosassa (cauda equina, hevosen häntä). 
 
 <li>Tyyppioireita ovat ratsupaikka-anestesia (tuntopuutos peräaukon, välilihan ja sukuelinten alueella) ja virtsaamis- ja ulostamishäiriöt (ulosteiden pidätysvaikeus, virtsaretentio); usein liittyy merkittäviin ja eteneviin alaraajaheikkouksiin ja radikuloiviin kipuihin</li>
-<li>Vaatii kiirellistä MRI-kuvausta ja löydöksen mukaista operatiivista hoitoa</li>
+<li>Vaatii kiireellistä MRI-kuvausta ja löydöksen mukaista operatiivista hoitoa</li>
 
 ---
 
