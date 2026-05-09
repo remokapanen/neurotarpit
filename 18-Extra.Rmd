@@ -87,9 +87,9 @@ a
 
 ---
 
-Aivojen sinustromboosi diagnosoidaan ensisijaisesti MR-venografialla (tai TT-venografialla; TT-venografia on magneettivenografian veroinen sinustromboosin osoittamiseksi, mutta magneettikuvauksen etuna on parempi aivokudoksen muutosten erottelukyky sekä säteettömyys). Normaalin natiivi-TT-tutkimuksen tai veren pienen D-dimeeripitoisuuden perusteella ei voida luotettavasti sulkea pois sinustromboosin mahdollisuutta.
+Aivojen sinustromboosi diagnosoidaan ensisijaisesti MR-venografialla (tai TT-venografialla; TT-venografia on magneettivenografian veroinen sinustromboosin osoittamiseksi, mutta magneettikuvauksen etuna on parempi aivokudoksen muutosten erottelukyky sekä säteettömyys). Normaalin natiivi-TT-tutkimuksen tai veren pienen D-dimeeripitoisuuden perusteella ei voida luotettavasti sulkea pois sinustromboosin mahdollisuutta. Usein AVH-epäilyissä tehtävässä TT-angiografiassa voidaan mahdollisesti nähdä viitteitä sinustromboosista, mutta venavaiheen kuvat kannattaa pyytää, jos haluaa tarkemmin selvitellä sitä puolta.
 
-a: Sinus sagittalis superioris on yleisin ja sinus transversalis toiseksi yleisin. Sinus sigmoidalis ja syvät laskimot ovat myös usein affisioituja; sinus cavernosuksen trombit harvinaisempia. Sinustromboosi ilmenee useimmiten hyperkoagulatiivisessa tilassa (esim. raskaus, maligniteetti, perinnöllinen hyytymisalttius, yhdistelmäehkäisy). Kattaa n. 0,5% kaikista avh:sta, n. 60% naisia.
+b: Sinus sagittalis superioris on yleisin ja sinus transversalis toiseksi yleisin. Sinus sigmoidalis ja syvät laskimot ovat myös usein affisioituja; sinus cavernosuksen trombit harvinaisempia. Sinustromboosi ilmenee useimmiten hyperkoagulatiivisessa tilassa (esim. raskaus, maligniteetti, perinnöllinen hyytymisalttius, yhdistelmäehkäisy). Kattaa n. 0,5% kaikista avh:sta, n. 60% naisia.
 
 c: Kliininen kuva monimuotoinen: Päänsärky (90%), epileptiset kohtaukset (40%), fokaalioireet (40%), papillaturvotus (30%). Oireisto voi kehittyä akuutisti, mutta useimmiten päivien-viikkojen kuluessa progressiivisesti
 
@@ -147,7 +147,7 @@ Kohonnut verenpaine on tärkein aivoinfarktien ja TIA-kohtausten hoidettavissa o
 
 Useimmiten hoitotavoitteeksi voi asettaa kotimittauksissa <130/80, mutta tietysti iäkkäillä geriatriset realiteetit ja haitat huomioiden voi olla sen tasoinen, että siitä ei aiheudu merkittäviä haittoja. 
 
-*Periaatteessa jos kysymyksen ottaa täysin kirjaimellisesti, niin eihän verenpainetta tarvitse tietystikään hoitaa, jos potilaalla on verenpaineet esim. 100/60, mutta tällainen tilanne harvoin on. Käytännössä kaikki siten voivat mahdollisesti hyötyä verenpaineen laskusta. NNT 45, jos verenpaine on koholla ja NNT 118, jos verenpaine on normaali.
+*Periaatteessa jos kysymyksen ottaa täysin kirjaimellisesti, niin eihän verenpainetta tarvitse tietystikään madaltaa, jos potilaalla on verenpaineet esim. 100/60, mutta tällainen tilanne harvoin on. Käytännössä kaikki siten voivat mahdollisesti hyötyä verenpaineen laskusta. NNT 45, jos verenpaine on koholla ja NNT 118, jos verenpaine on normaali.
   </div>
 </div>
 
@@ -156,7 +156,7 @@ Useimmiten hoitotavoitteeksi voi asettaa kotimittauksissa <130/80, mutta tietyst
 - a. Ei esiinny alle 40-vuotiailla
 - b. Kyseessä on valtimon seinämän intiman ja/tai median repeämä ja verenvuoto kerrosten väliin
 - c. Tyypillisiä oireita ovat päänsärky, kasvo- tai kaulakipu ja Hornerin oireyhtymä.
-- d. Dissekaatiossa voidaan antaa aivoinfaktin i.v. trombolyysi normaalin hoitokäytännön mukaisesti
+- d. Dissekaatiossa voidaan antaa aivoinfarktin i.v. trombolyysi normaalin hoitokäytännön mukaisesti
 
 <div class="">
   <button class="solution-button"
@@ -271,13 +271,11 @@ d: TIA lisää aivoinfarktiriskiä 10-kertaiseksi verrattuna normaaliväestöön
   </button>
   <div class="solution-content">
 
-b
+a
 
 ---
 
-Oireiden alku on äkillinen, oireet kehittyvät alle 5 minuutin aikana ja menevät usein ohi tunnissa, yleensä 2-15 min aikana. Oireet muistuttavat aivoinfarktia, mutta ovat ohimeneviä.
-
-d: TIA lisää aivoinfarktiriskiä 10-kertaiseksi verrattuna normaaliväestöön.
+TIA-kohtaukselle on tyypillistä aivoinfarktioireet, joista tärkeimmät voi muistaa maallikoillekin opetettavast BE FAST-muistisäännöstä (balance, eyes, face, arms (and legs), speech, time). B-, c- ja d-vaihtoehdot ovat siis tyypillisiä oireita, kun taas a-kohdan positiivinen näköoire viittaa enemmänkin migreeniauraan.
   </div>
 </div>
 
@@ -321,7 +319,7 @@ d
 
 ---
 
-Sekundaaripreventiona on ASA+dipyridamoli tai vaihtoehtoisesti klopidogreeli, sydänperäisen etiologian ollessa kyseessä AK-hoito
+Sekundaaripreventiona on ASA+dipyridamoli tai vaihtoehtoisesti klopidogreeli tai jopa pelkkä ASA, sydänperäisen etiologian ollessa kyseessä AK-hoito
 
 ![](images/avhetiologioidenlääkehoito.png)
   </div>
@@ -375,7 +373,7 @@ b: Pysyvät vauriot kehittyvät tunneissa.
 
 c: Mitä aiemmin tukos saadaan poistettua, sitä pienempi infarktoituneen alueen koko on ("time is brain")
 
-d: Suurin osa tukoksista on karotiskierron alueella. 
+d: Suurin osa tukoksista on karotiskierron (etukierron) alueella. 
 
   </div>
 </div>
@@ -691,11 +689,13 @@ d: Takakierron iskemiaan voi hyvinkin liittyä tajunnanhäiriö, mikäli kyseess
   </button>
   <div class="solution-content">
 
-c
+b
 
 ---
 
-Ehkä yleisemmin kuitenkin klopidogreelia (Plavix).
+Ehkä yleisemmin kuitenkin klopidogreelia (Plavix); dipyridamoli aiheuttaa usein päänsärkyä, niin se on vaikeampi lääke. 
+
+a: Kyllä ASA käytetään aika usein monoterapiana; riippuu vähän kohtauksen vaikeusasteesta, potilaan vuororiskistä yms. 
 
 ![](images/avhetiologioidenlääkehoito.png)
   </div>
@@ -739,7 +739,7 @@ Kaikki näistä ovat tärkeitä riskitekijöitä, mutta verenpainetauti on tärk
   </button>
   <div class="solution-content">
 
-c
+b
 
 ---
 
@@ -789,7 +789,7 @@ Periaatteessa kaikki voivat embolisaation kautta aiheuttaa aivoinfarktin, mutta 
   </button>
   <div class="solution-content">
 
-c
+a
 
 ---
 
@@ -828,7 +828,7 @@ a: Liuotushoito on aivoverenvuodoissa kontraindikoitu tietysti. Sitä käytetä�
 
 c: FVIIa:sta ei ole näyttöä.
 
-d: Joskus leikkaushoito tarpeen, etenkin subkortikaalisessa vuodossa intrakraniaalisen massavaikutuksen vähentämiseksi. Yleensä kuitenkin ICH:t hoidetaan konservatiivisesti
+d: Joskus leikkaushoito tarpeen, etenkin subkortikaalisessa vuodossa tai pikkuaivovuodossa intrakraniaalisen massavaikutuksen vähentämiseksi. Yleensä kuitenkin ICH:t hoidetaan konservatiivisesti
 
   </div>
 </div>
@@ -917,7 +917,7 @@ a (oikeasti b)
 
 Primaarisen subaraknoidaalivuodon (ei-traumaattisen) selvästi yleisin aiheuttaja on aivovaltimoaneurysman puhkeaminen (n. 80% tapauksista). Mahdollisesti voi myös olla AV-malformaation tai muun verisuoniepämuodostaman (esim. kavernoottisen hemangiooman eli kavernooman tai arterivenoosin fistelin) vuoto (n. 5%). 
 
-Noin 10 %:ssa vuodoista ei ole neuroradiologisesti todettavaa syytä, jolloin angiografiatutkimus yleensä vielä uusitaan, mutta mikäli siinäkään ei syytä löydy, on kyseessä hyvän ennusteen perimesenkefaalinen vuoto. Non-aneurysmaattisen perimesenkefaalisen vuodon syy on toistaiseksi vielä tuntematon, mutta eri tutkimusten mukaan syyksi on epäilty muun muassa hyvin pienen aivovaltimon eli niin sanotun perforantin vuotoa tai laskimoperäistä vuotoa.
+Noin 10 %:ssa vuodoista ei ole neuroradiologisesti todettavaa syytä, jolloin angiografiatutkimus yleensä vielä uusitaan, mutta mikäli siinäkään ei syytä löydy, on kyseessä hyvän ennusteen perimesenkefaalinen vuoto (jos vuoto on sillä alueella; on myös kryptogeenisiä diffuusimpiakin vuotoja). Non-aneurysmaattisen perimesenkefaalisen vuodon syy on toistaiseksi vielä tuntematon, mutta eri tutkimusten mukaan syyksi on epäilty muun muassa hyvin pienen aivovaltimon eli niin sanotun perforantin vuotoa tai laskimoperäistä vuotoa.
 
 b: Monissa lähteissä SAV:n yleisin aiheuttaja on trauma, mutta yleensä tenteissä halutaan, että tietää primaaristen subaraknoidaalivuotojen yleisimmän etiologian 
   </div>
@@ -1060,7 +1060,7 @@ a: Ennuste on yleensä erinomainen. Kohtaukset reagoivat hyvin lääkitykseen (e
 
 b: Nuoruusiän myoklonusepilepsia vastaa yleensä hyvin lääkkeisiin, vaikka lääkitys on usein elinikäinen
 
-c: Myokloniset kohtaukset liittyvät yleisimmin nuoruusiän myoklonusepilepsiaan (JME) tai progressiiviseen myoklonusepilepsiaan (PME). Suomessa tavallisin progressiivinen myoklonusepilepsia (PME) on autosomissa peittyvästi periytyvä Unverricht–Lundborgin tyyppi. PME on juveniilia harvinaisempi ja vaikeammin kontrolloitavissam koska se on neurodegeneratiivinen ja etenevä; hoitovasteet täten yleensä huonompia. Kohtaushoidossa on kuitenkin saavutettu kohtalaisia tuloksia, eikä se yleensä aiheuta yhtä varhaista ja vaikeaa kognitiivista romahdusta kuin Lennox–Gastaut
+c: Myokloniset kohtaukset liittyvät yleisimmin nuoruusiän myoklonusepilepsiaan (JME) tai progressiiviseen myoklonusepilepsiaan (PME). Suomessa tavallisin progressiivinen myoklonusepilepsia (PME) on autosomissa peittyvästi periytyvä Unverricht–Lundborgin tyyppi. PME on juveniilia harvinaisempi ja vaikeammin kontrolloitavissa, koska se on neurodegeneratiivinen ja etenevä; hoitovasteet täten yleensä huonompia. Kohtaushoidossa on kuitenkin saavutettu kohtalaisia tuloksia, eikä se yleensä aiheuta yhtä varhaista ja vaikeaa kognitiivista romahdusta kuin Lennox–Gastaut
   </div>
 </div>
 
@@ -1700,7 +1700,7 @@ d
 
 ---
 
-Kroonisen tensionaalisen huimauksen hoitoon kuuluu säännöllinen liikunta ja tarvittaessa niska-hartiaseudun fysioterapia. Hoitoon kuuluu myös altistavien tekijöiden hoito kuten työergometrian tarkistus, purenta- ja näköongelmien hoito. Lääkehoitona voidaan käyttää estohoitona amitriptyliiniä tai nortriptyliiniä ja titsanidiinia kuuriluontoisesti/tarvittaessa.
+Kroonisen tensionaalisen huimauksen hoitoon kuuluu säännöllinen liikunta ja tarvittaessa niska-hartiaseudun fysioterapia. Hoitoon kuuluu myös altistavien tekijöiden hoito kuten työergometrian tarkistus, purenta- ja näköongelmien hoito. Lääkehoitona voidaan käyttää estohoitona amitriptyliiniä tai nortriptyliiniä (myös titsanidiinia voidaan miettiä) kuuriluontoisesti/tarvittaessa.
 
   </div>
 </div>
@@ -2119,7 +2119,7 @@ a: Tensionaalinen huimaus (proprioseptisen informaation häiriö) ilmenee useimm
 
 c: Asennonvaihtoihin liittyvä huimaus on usein hyvänlaatuista asentohuimausta.
 
-d. Rombergin testissä potilas voi huojua, mutta ei kaadu.
+d: Rombergin testissä potilas voi huojua, mutta ei kaadu.
 
   </div>
 </div>
@@ -2545,7 +2545,7 @@ Parkinson-dementia kehittyy yleensä vasta vuosien tai vuosikymmenten sairastami
 
 - a. Levodopahoito on stimulaattorihoitoa merkittävästi tehokkaampi hoito
 - b. Apomorfiinia voidaan annostella s.c. kerran kuukaudessa
-- c. Levofopainfuusio s.c. sopii edenneeseen tautiin, kun tilanvaihteluita ei saada hallintaan
+- c. Levodopainfuusio s.c. sopii edenneeseen tautiin, kun tilanvaihteluita ei saada hallintaan
 - d. Stimulaattorihoitoa aloitettaessa potilaalla tulee olla vielä levodopalle vastetta
 
 <div class="">
@@ -3724,7 +3724,7 @@ a
 
 ---
 
-Nykyisen työnjaon mukaan muistisairauksien tunnistaminen kuuluu PTH -> konsultoidaan ja tarvittaessa lähetetään ESH. Erikoislääkäri (neurologi, geriatri tai psykogeriatri) varmistaa diagnoosin ja laati ensivaiheen hoito-ohjeet ja mm. yhteenvedon tutkimuksista. Potilas yleensä palaa PTH:n huostaan seurantaan. 
+Nykyisen työnjaon mukaan muistisairauksien tunnistaminen kuuluu PTH -> konsultoidaan ja tarvittaessa lähetetään ESH / muistikeskus. Erikoislääkäri (neurologi, geriatri tai psykogeriatri) varmistaa diagnoosin ja laati ensivaiheen hoito-ohjeet ja mm. yhteenvedon tutkimuksista. Potilas yleensä palaa PTH:n huostaan seurantaan. 
   </div>
 </div>
 
@@ -3849,7 +3849,7 @@ a: Näköhallusinaatiot ovat tyypillisiä
 
 b: Persoonallisuuden muutos ja estottomuus ovat otsalohkodementian tyypillisiä ensioireita
 
-c: Afasia viittaa muistihäiriöiden kontekstissa usein otsa-ohimolohkorappeuman kielellisiin muotoihin (etenevä sujumaton afasia, semanttinen dementia, logopeeninen afasia)
+d: Afasia viittaa muistihäiriöiden kontekstissa usein otsa-ohimolohkorappeuman kielellisiin muotoihin (etenevä sujumaton afasia, semanttinen dementia, logopeeninen afasia)
   </div>
 </div>
 
@@ -4223,10 +4223,10 @@ Souvenaid on kliininen ravintolisä, joka sisältää tärkeitä ravintoaineita 
 
 ### Kuinka moni suomalainen kärsii eri tasoisista tiedonkäsittelyn ongelmista (lähimpänä tarkkaa lukua)?
 
-- a. >500 000
-- b. >300 000
-- c. >900 000
-- d. >100 000
+- a. > 500 000
+- b. > 300 000
+- c. > 900 000
+- d. > 100 000
 
 <div class="">
   <button class="solution-button"
@@ -4430,7 +4430,7 @@ Neurologin konsultaatiota tarvitaan, jos on kyseessä vaikeahoitoinen tai epäse
 
 ### Diagnosoit potilaalla terveyskeskuksessa trigeminusneuralgian. Mitä aloitat ensisijaisesti lääkehoidoksi?
 
-- a. Natriumvalpoaatti annosta vasteen mukaan nostaen
+- a. Natriumvalproaatti annosta vasteen mukaan nostaen
 - b. Tulehduskipulääke esim. ibuprofeeni/ketoprofeeni isolla annoksella
 - c. Karbamatsepiini annosta vasteen mukaan nostaen
 - d. Indometasiini kuuriluontoisesti 50 mg kahdesti päivässä
@@ -4491,10 +4491,10 @@ a: Opioideja ei tulisi käyttää migreenin hoidossa
 
 ### 35-vuotiaalla miehellä on alkanut pari viikkoa sitten oikean silmän seudun poraavat, erittäin kovat kipukohtaukset, jotka kestävät noin tunnin kerrallaan. Potilas kertoo heräävänsä lähes joka yö kovaan kipuun. Oikean silmän seudun kipukohtaus on nyt yöllä päivystyksessä parhaillaan päällä ja neurologisessa statuksessa havaitset potilaan oikeasta silmästä valuvan kyyneleitä, oikea sidekalvo verestää ja oikealla on ptoosi. Muuten neurologinen status on normaali. Potilas on rauhattoman ja kivuliaan oloinen ja ravaa odotushuoneessa levottomana edestakaisin. Mitä epäilet ja miten tutkit ja hoidat potilaan?
 
-- a. Epäilen Hornerin syndroomaa => määrään parasetamolia 100:0mg i.v. ja määrään tehtäväksi pään TT+ pään ja kaulasuonten TT-angiografiatutkimuksen
-- b. Epäilen silmäperäistä syytä taustalla, mahdollisesti avokulmaglaukoomakohtaus => määrään parasetamolia 100:0 mg i.v. ja teen päivystyslähetteen silmälääkärille arvioon
+- a. Epäilen Hornerin syndroomaa => määrään parasetamolia 1000mg i.v. ja määrään tehtäväksi pään TT+ pään ja kaulasuonten TT-angiografiatutkimuksen
+- b. Epäilen silmäperäistä syytä taustalla, mahdollisesti avokulmaglaukoomakohtaus => määrään parasetamolia 1000 mg i.v. ja teen päivystyslähetteen silmälääkärille arvioon
 - c. Kyseessä on migreenikohtaus => määrään potilaalle ibuprofeenia 800:mg p.o ja metoklopramidia
-- d. Kyseessä on sarjoittainen päänsärky => määrään potilaalle 100: %:sen hapen hengitystä sammakkomaskilla 15-20 min, virtaus 7-10 l/min
+- d. Kyseessä on sarjoittainen päänsärky => määrään potilaalle 100%:sen hapen hengitystä sammakkomaskilla 15-20 min, virtaus 7-10 l/min
 
 <div class="">
   <button class="solution-button"
@@ -4755,11 +4755,11 @@ d: Tensiopäänsärky on tyypillisesti puristavaa. Migreeniä kuvaillaan yleens�
   </button>
   <div class="solution-content">
 
-c
+a
 
 ---
 
-Estolääkityksen aloittamiselle ei ole mitään tarkkaa rajaa ja usein hoitoa mietitään, kun kohtausket häiritsevät potilasta ja potilas sitoutuisi estohoitoon. Esim. jo 2 tai 3 migreenipäivää kuukaudessa voi olla aihe tai jos migreeni hankaloittaa jokapäiväistä elämää. Migreenin kroonistumisriski kasvaa, jos kohtauksia on jatkuvasti 4 tai enemmän kuukaudessa -> yleensä viimeistään tässä vaiheessa. 
+Estolääkityksen aloittamiselle ei ole mitään tarkkaa rajaa ja usein hoitoa mietitään, kun kohtaukset häiritsevät potilasta ja potilas sitoutuisi estohoitoon. Esim. jo 2 tai 3 migreenipäivää kuukaudessa voi olla aihe tai jos migreeni hankaloittaa jokapäiväistä elämää. Migreenin kroonistumisriski kasvaa, jos kohtauksia on jatkuvasti 4 tai enemmän kuukaudessa -> yleensä viimeistään tässä vaiheessa. 
   </div>
 </div>
 
