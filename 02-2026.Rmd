@@ -578,7 +578,7 @@ Voidaan vielä mainita taudinkulussa levodopahoidon eri vaiheet:
 
 ---
 
-Parkinsonin taudin diagnoosi on kliininen (ei spesifisiä biomarkkereita) ja perustuu parkinsonismin diagnoosiin sekä sekundaaristen syiden poissulkemiseen (esim. PVK+T, TSH, Ca-ion, ALAT, Na, K, Krea, B12 ja erityisesti käytössä olevan lääkityksen (sekundaarista parkinsonismia voia aiheuttaa esim, neurolepti, metoklopramidi, litium, valproaatti) selvittäminen; joskus myös rakenteelliset syyt, kuten kasvaimet ja vammat). 
+Parkinsonin taudin diagnoosi on kliininen (ei spesifisiä biomarkkereita) ja perustuu parkinsonismin diagnoosiin sekä sekundaaristen syiden poissulkemiseen (esim. PVK+T, TSH, Ca-ion, ALAT, Na, K, Krea, B12 ja erityisesti käytössä olevan lääkityksen (sekundaarista parkinsonismia voi aiheuttaa esim, neurolepti, metoklopramidi, litium, valproaatti) selvittäminen; joskus myös rakenteelliset syyt, kuten kasvaimet ja vammat). 
 
 ![](images/parkinsontimeline.png)
   </div>
@@ -980,18 +980,26 @@ Potilaan lääkityksessä on myös riskitekijöitä. Amitriptyliini on tärkeä 
   </button>
   <div class="solution-content">
 
-Deliriumin ensisijainen hoitokeino on laukaisevan tekijän hoitaminen. Tässä tapauksessa siis keuhkokuumeen hoidon jatkaminen on tärkeää. Varmistetaan myös muut siihen liittyvät hoidot, kuten riittävä hapensaanti ja nesteytys. 
+Deliriumin ensisijainen hoitokeino on **laukaisevan tekijän hoitaminen. Tässä tapauksessa siis keuhkokuumeen hoidon jatkaminen on tärkeää. Varmistetaan myös muut siihen liittyvät hoidot, kuten riittävä hapensaanti ja nesteytys.**
 
-Normaaleista elintoiminnoista on tärkeää huolehtia myös. Esimerkiksi säännöllinen suolen ja rakon toiminta ovat keskeisiä (virtsaretentio ja ummetus voivat pahentaa deliriumia). Tarvittaessa siis tukena esimerkiksi laksatiivit. 
+Normaaleista elintoiminnoista on tärkeää huolehtia myös. Esimerkiksi **säännöllinen suolen ja rakon toiminta** ovat keskeisiä (virtsaretentio ja ummetus voivat pahentaa deliriumia). Tarvittaessa siis tukena esimerkiksi laksatiivit. 
 
-On tärkeää arvioida deliriumia provosoivien lääkkeiden tarpeellisuutta. Tässä tapauksessa amitriptyliini tulisi ensisijaisesti poistaa ja vaihtaa toiseen hermokipulääkkeeseen ja opiaattiannosta arvioida kriittisesti (huomioiden kuitenkin riittävä kivunhoito, sillä myös kipu itsessään aiheuttaa deliriumia).
+On tärkeää arvioida deliriumia provosoivien lääkkeiden tarpeellisuutta. Tässä tapauksessa **amitriptyliini tulisi ensisijaisesti poistaa ja vaihtaa toiseen hermokipulääkkeeseen ja opiaattiannosta arvioida kriittisesti (huomioiden kuitenkin riittävä kivunhoito, sillä myös kipu itsessään aiheuttaa deliriumia).**
 
-Lääkkeettömistä hoidoista turhien rajoitteiden purkaminen ja mobilisaation tukeminen on tärkeää. Jos ei ole tarvetta katetreille, kanyyleille yms. niin ne otetaan pois ja mahdollistetaan vapaa liikkuminen sairauden rajoissa. Potilaan todellisuudentajua tuetaan varmistamalla, että huoneessa on kello ja kalenteri, valaistus on päivisin hyvä ja öisin himmeä, ja että potilaalla on käytössään omat silmälasit sekä kuulolaite, jos on niitä normaalisti käyttänyt. Tuttujen omaisten läsnäolo ja hoitajien johdonmukainen toiminta sekä jatkuva orientoiminen ovat tärkeää deliriumin hoidossa. 
+Lääkkeettömistä hoidoista **turhien rajoitteiden purkaminen ja mobilisaation tukeminen** on tärkeää. Jos ei ole tarvetta katetreille, kanyyleille yms. niin ne otetaan pois ja mahdollistetaan vapaa liikkuminen sairauden rajoissa. Potilaan todellisuudentajua tuetaan varmistamalla, että huoneessa on kello ja kalenteri, valaistus on päivisin hyvä ja öisin himmeä, ja että potilaalla on käytössään omat silmälasit sekä kuulolaite, jos on niitä normaalisti käyttänyt. Tuttujen omaisten läsnäolo ja hoitajien johdonmukainen toiminta sekä jatkuva orientoiminen ovat tärkeää deliriumin hoidossa. 
 
-Myös potilaan alkoholitaustaa tulisi arvioida, mahdollisesti läheisiä haastattelemalla ja muita vieroitusoireita etsimällä. Melkein rutiinisti voisi antaa tiamiinia, koska siitä ei ole haittaa ja se on tärkeää Wernicke-Korsakoffin ehkäisemisessä/hoidossa. Tässä tapauksessa se tulisi vähän myöhään jo sekavuuden alettua, yleensä annostelu tapahtuisi heti sairaalahoidon alussa, jos on epäilyä runsaasta alkoholin käytöstä. Alkoholideliriumin hoito myös eroaa tyypillisestä deliriumista, sillä bentsodiatsepiinit ovat ensilinjan hoitoja. 
+Myös potilaan alkoholitaustaa tulisi arvioida, mahdollisesti läheisiä haastattelemalla ja muita vieroitusoireita etsimällä. **Melkein rutiinisti voisi antaa tiamiinia,** koska siitä ei ole haittaa ja se on tärkeää Wernicke-Korsakoffin ehkäisemisessä/hoidossa. Tässä tapauksessa se tulisi vähän myöhään jo sekavuuden alettua, yleensä annostelu tapahtuisi heti sairaalahoidon alussa, jos on epäilyä runsaasta alkoholin käytöstä. Alkoholideliriumin hoito myös eroaa tyypillisestä deliriumista, sillä bentsodiatsepiinit ovat ensilinjan hoitoja. 
 
-Tyypillisen (ei-alkoholideliriumin) hoidossa oireenmukainen lääkehoito on vasta viimeisen linjan vaihtoehtoja, sillä se ei vaikuta deliriumin kestoon eikä paranna ennustetta. Sen sijaan psyykenlääkkeet altistavat haittavaikutuksille, esimerkiksi kaatumisille. Oireita lievittävää lääkehoitoa tulisi määrätä vain kaikkein vaikeimmin oireileville potilaille. Oireenmukainen lääkehoito on siis aiheellista, jos oirekuva on vaikea (vaikea ahdistus tai agitaatio, aggressiivisuus ja epämiellyttävät harhat tai harhaluulot). Lääkevalinta tehdään oirekuvan ja potilaan yksilöllisen tilanteen mukaisesti. Ensisijainen lääkevalinta on psykoosilääke (yleensä risperidoni tai parenteraalista annostelua tarvittaessa haloperidoli). Lääkehoidonkin aikana tulee muistaa jatkaa lääkkeettömän hoidon keinoja ja taustasyyn hoitoa. Mahdollisesti aloitetut psyykenlääkkeet tulee lopettaa asteittain heti oireiden väistyttyä. 
+Tyypillisen (ei-alkoholideliriumin) hoidossa **oireenmukainen lääkehoito on vasta viimeisen linjan vaihtoehtoja,** sillä se ei vaikuta deliriumin kestoon eikä paranna ennustetta. Sen sijaan psyykenlääkkeet altistavat haittavaikutuksille, esimerkiksi kaatumisille. Oireita lievittävää lääkehoitoa tulisi määrätä vain kaikkein vaikeimmin oireileville potilaille. Oireenmukainen lääkehoito on siis aiheellista, jos oirekuva on vaikea (vaikea ahdistus tai agitaatio, aggressiivisuus ja epämiellyttävät harhat tai harhaluulot). Lääkevalinta tehdään oirekuvan ja potilaan yksilöllisen tilanteen mukaisesti. Ensisijainen lääkevalinta on psykoosilääke (yleensä risperidoni tai parenteraalista annostelua tarvittaessa haloperidoli). Lääkehoidonkin aikana tulee muistaa jatkaa lääkkeettömän hoidon keinoja ja taustasyyn hoitoa. Mahdollisesti aloitetut psyykenlääkkeet tulee lopettaa asteittain heti oireiden väistyttyä. 
 
+---
+
+Hoidon ja kotiutumisen jälkeen: 
+
+Mikäli tiedossa ei ole muistisairautta, ovat muistitutkimukset aiheellisia 3-6 kuukauden kuluttua. Seurannassa jopa kolmanneksella deliriumpotilaista on todettu aiemmin 
+diagnosoimaton muistihäiriö.
+
+Asetetaan potilaalle ajokielto, kunnes on toipunut deliriumista ja ajoterveyttä on arvioitu uudelleen. Kirjataan tilapäinen ajokielto potilasasiakirjoihin ja tulostetaan se potilaalle mukaan -> PTH:ssa ajokunnon arviointi uudestaan myöhemmin. 
   </div>
 </div>
 
