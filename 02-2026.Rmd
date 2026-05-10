@@ -1144,8 +1144,6 @@ Potilaan oirekuva (kuume, päänsärky, niskajäykkyys ja valonarkuus) viittaa v
 ---
 
 Kaksi yleisintä virusmeningiitin aiheuttajaa ovat enterovirukset (erityisesti coxsackie- ja ECHO-virukset) ja herpesvirukset (HSV-2, VZV vyöruusun yhteydessä). Enterovirukset ovat selkeästi yleisimpiä (n. 90%) ja aiheuttavat tapauksia eniten loppukesän ja alkusyksyn aikana; toistuvan aseptisen meningiitin yleisin aiheuttaja aikuisilla on HSV2. 
-
-(Riskialueilla tulee myös muistaa TBE-virus)
   </div>
 </div>
 
@@ -1232,7 +1230,14 @@ Pitkittynyt migreenikohtaus on yleinen syy päätyä ensiapuun. Lääkkeiden par
 
 ---
 
-Migreenin hoidossa yleensä pidetään päänsärkypäiväkirjaa, joka auttaa tilanteen kartoituksessa ja hoitovasteen seurannassa sekä altistavien tekijöiden tunnistamisessa. Estohoidon aloittamiselle ei ole ehdotonta kohtausmäärärajaa.  Kun potilas kokee migreenikohtauksista sen verran haittaa, että hän on itse halukas käyttämään säännöllistä lääkitystä niiden vähentämiseksi, niin voi kokeilla. Aloitetaan lähtökohtaisesti pth:ssa, jossa tarvittaessa kokeillaan ainakin 2-3 eri estolääkettä ennen lähettämistä neurologin arvioon. Ensisijaisia ovat beetasalpaajat (esim. propranololi,ATR-salpaajat (esim. kandesartaani) tai trisyklinen masennyslääke (esim. Amitriptyliini.) Myös joitakin epilepsialääkkeitä kuten topiramaattia tai valproaattia voidaan käyttää migreeniprofylaksiassa. Raskauden aikana vaihtoehtoina lähinnä metoprololi ja propranololi. Hoidon tavoitteena on migreenipäivien puolittuminen tai huomattava väheneminen. Vastetta voidaan arvioida 3 kk:n kuluttua, kun tavoiteannos on saavutettu. Jos ensimmäinen migreeniä ehkäisevä lääke on tehoton tai huonosti siedetty, suositellaan lääkevaihtoa. Neurologialla voidaan miettiä tarvittaessa vaikeahoitoiseen migreeniin CGRP-vasta-aineita tai gepantteja. Joskus harvoin myös onabotuliinitoksiinia mietitään. 
+Migreenin hoidossa yleensä pidetään päänsärkypäiväkirjaa, joka auttaa tilanteen kartoituksessa ja hoitovasteen seurannassa sekä altistavien tekijöiden tunnistamisessa. Estohoidon aloittamiselle ei ole ehdotonta kohtausmäärärajaa.  Kun potilas kokee migreenikohtauksista sen verran haittaa, että hän on itse halukas käyttämään säännöllistä lääkitystä niiden vähentämiseksi, niin voi kokeilla. Aloitetaan lähtökohtaisesti pth:ssa, jossa tarvittaessa kokeillaan ainakin 2-3 eri estolääkettä ennen lähettämistä neurologin arvioon. 
+
+Migreenin estohoitoon on tähän saakka käytetty PTH:ssa ensisijaisesti angiotensiinireseptorin salpaajia (pääasiassa kandesartaani), trisyklisiä masennuslääkkeitä (esim. amitriptyliini tai nortriptyliini), beetasalpaajia (esim. propranololi) sekä harvemmin eräitä epilepsialääkkeitä (esim. topiramaatti tai harvemmin valproaatti). Jos ensimmäinen migreeniä ehkäisevä lääke on tehoton tai huonosti siedetty, suositellaan lääkevaihtoa. Yhdistelmälääkityskin on mahdollista.
+
+Uutena lääkeryhmänä ovat ESH:n käyttöön tulleet CGRP-vasta-aineet (monoklonaalisia biologisia lääkkeitä, kuten fremanetsumabi tai erenumabi) ja gepantit (pienimolekyyliset CGRP-reseptoriantagonistit, kuten rimegepantti tai atogepantti). Kela-korvattavuus näille myönnetään, kun esiintyy keskimäärin vähintään 8 migreenipäivää kuukaudessa ja on kokeiltu vähintään kahta migreenin estohoitolääkettä (esim. kandesartaani ja amitriptyliini), eikä niillä ole saatu aikaan riittävää vastetta, ne ovat vasta-aiheisia tai ne eivät ole siedettyjä. Näiden kriteerien täyttymistä ennen ei siis yleensä kannata lähettää potilasta ESH:hon estolääkityksen tehostamista varten. Jatkokorvausoikeudet voi hyväksyttää hoitavan lääkärin toimesta, mutta ensimmäinen määräys tarvitsee yleensä neurologin lausunnon. Kroonisen migreenin hoitoon käytetään myös joskus onabotuliinitoksiini s.c. Raskauden aikana vaihtoehtoina lähinnä metoprololi ja propranololi.
+
+Hoidon tavoitteena on migreenipäivien puolittuminen tai huomattava väheneminen. Vastetta voidaan arvioida 3 kk:n kuluttua, kun tavoiteannos on saavutettu. Tehokasta ennaltaehkäisevää hoitoa suositellaan jatkettavaksi vähintään 6 kk suun kautta otettavien lääkkeiden osalta ennen kuin harkitaan hoidon lopettamista. Jos tilanne lopetuksen jälkeen voimistuu, suositellaan hoidon jatkamista. 
+
 
 Lääkkeetön hoito on myös tärkeää:
 
@@ -1266,7 +1271,7 @@ Kyseessä on todennäköisesti toiminnallinen neurologinen häiriö (FND) eli ai
 
 Toiminnallisille häiriöille on tyypillistä se, että anamneesissa on useita vaihtelevia oireita, joilla on epätyypillinen alku ja eteneminen sekä mahdollisia laukaisseita tekijöitä löydettävissä. Tällä potilaalla siis on vaihtelevan vahvuista vapinaa (joinain hetkinä ei edes ole vapinaa) ja paikkaansa vaihtavaa kohtausoireilua (joskus kädessä, joskus jalassa), jotka ovat alkaneet epätyypillisesti kesken työpäivää aikuisella ilman mitään selkeää rakenteellista (esim. trauma) laukaisevaa tekijää. Taustalla on myös merkittävä stressi elämässä, joka on yleinen toiminnallisten häiriöiden laukaiseva tekijä. Potilaalla on myös iso liuta muita toiminnallisia häiriöitä, kuten fibromyalgia, IBS ja samalla merkittäviä psykiatrisia sairauksia, kuten masennus ja PTSD, jotka ovat kaikki tietysti merkittäviä riskitekijöitä sille, että potilaalle kehittyy lisää toiminnallisia häiriöitä. 
 
-Myös statuksessa on usein osoitettavissa epäjohdonmukaisuuksia, kuten esimerkiksi tällä potilaalla vapinan loppuminen potilaan keskittyessä muuhun tehtävään (kuukausien luetteluun) -> distraktio eli harhautettavuuslöydös. Oireidein yleinen korostuminen vastaanottotilanteessa on myös yleistä. Kohtauksen aikainen raajojen asynkroninen liikehdintä ja välitön toipuminen myös puhuvat toiminnallisen kohtauksen puolesta. 
+Myös statuksessa on usein osoitettavissa epäjohdonmukaisuuksia, kuten esimerkiksi tällä potilaalla vapinan loppuminen potilaan keskittyessä muuhun tehtävään (kuukausien luetteluun) -> distraktio eli harhautettavuuslöydös. Oireiden yleinen korostuminen vastaanottotilanteessa on myös yleistä. Kohtauksen aikainen raajojen asynkroninen liikehdintä ja välitön toipuminen myös puhuvat toiminnallisen kohtauksen puolesta. 
 
 ---
 
@@ -1280,7 +1285,7 @@ Toiminnallisten neurologisten häiriöiden hoidossa keskeisintä on psykoedukaat
 <li>Tapaa potilasta säännöllisesti ja sovi käynnillä aina seuraava vastaanottoaika</li>
   <ul>
     <li>Lyhyet tapaamiset usein on parempi kuin harvemmat pitkät tapaamiset. Vrt. potilaalle vakuutetaan pitkän vastaanoton yhteydessä, ettei hänellä ole hoidettavaa sairautta ja hän jää taas oireineen tyhjän päälle. Kuitenkin tulee varata tarpeeksi aikaa, jotta potilaan huolia voidaan kuunnella riittävästi.</li>
-    <li>Älä vähättele, Kohtaa ja kuuntele, Ole empaattinen</li>
+    <li>Älä vähättele. Kohtaa ja kuuntele. Ole empaattinen.</li>
   </ul>
 <li>Tee kevyt somaattinen tutkimus jokaisella vastaanottokäynnillä -> vakuuttaa potilasta (ja myös mahdollistaa mahdollisten uusien "oikeiden" ongelmien löytämisen)</li>
 <li>Vältä turhia laboratoriokokeita, koneellisia tutkimuksia ja sairaalahoitoja sekä löyhällä perusteella määrättyjä lääkekokeiluja</li>
@@ -1357,7 +1362,7 @@ Oikein
 
 Aivoinfarktin sekundaaripreventiossa on tärkeää valita lääkehoito infarktin etiologian perusteella. Yleisimpiä etiologioita ovat sydänperäinen embolisaatio (tällöin antikoagulatiivinen hoito ensisijainen), pienten suonten tauti (antitromboottinen hoito) ja suurten suonten ateroskleroosi (antitromboottinen hoito). 
 
-AK-hoito tai antritrombootit eivät sinänsä vaikuta itse verenkiertoon, vaan veren hyytymiseen ja verihiutaleiden aggregoitumiseen. Tässä tapauksessa tentissä ei kuitenkaan yritetty mitään kompakysymystä, vaan nämä lääkkeet miellettiin "verenkiertoon vaikuttaviksi" -> vastaus on oikein. 
+AK-hoito tai antitrombootit eivät sinänsä vaikuta itse verenkiertoon, vaan veren hyytymiseen ja verihiutaleiden aggregoitumiseen. Tässä tapauksessa tentissä ei kuitenkaan yritetty mitään kompakysymystä, vaan nämä lääkkeet miellettiin "verenkiertoon vaikuttaviksi" -> vastaus on oikein. 
 
 ![](images/avhetiologioidenlääkehoito.png)
   </div>
@@ -1451,10 +1456,10 @@ Väärin
 Aivohalvauspotilaan (aivoinfarkti tai aivoverenvuoto) kuntoutus ja kotiuttaminen on moniammatillinen prosessi (lääkäri, sairaanhoitaja, fysioterapeutti, toimintaterapeutti, puheterapeutti, neuropsykologi, sosiaalityöntekijä), jossa tavoitteena on palauttaa potilaan toimintakyky sellaiseksi, että selviytyminen kotona on turvallista ja tuettua (tavoitteena siis aiemman toimintakyvyn palautuminen tai mahdollisimman hyvä toimintakyky). Kuntoutus alkaa heti, kun potilaan tila on neurologisesti ja hemodynaamisesti stabiili. Keskushermoston vaurioissa palauttava kuntoutus noudattaa usein tiettyä aikataulua:
 
 <li>Spontaani korjaantuminen: 1-2 vk</li>
-<li>Nopea toipuminen: 3 kk (akuutti–subakuutti vaihe (0–3 kk sairastumisesta) on kuntoutumisen kannalta tehokkain)</li>
+<li>Nopea toipuminen: 3 kk (akuutti–subakuutti vaihe (0–3 kk sairastumisesta)) on kuntoutumisen kannalta tehokkain)</li>
 <li>Kohtalainen toipuminen: 3-6 kk (toipuminen jatkuu edelleen merkittävänä, mutta tahti alkaa usein hidastua)</li>
 <li>Hidas toipuminen: 6-12 kk (toipuminen ei suinkaan lopu, mutta se muuttuu hitaammaksi)</li>
-<li>Toimintojen varmentuminen ja sujuvoituminen: 1-2 v (aktiivista kuntoutusta jatketaan yleensä niin kauan kuin oleellista toipumista tapahtuu; toimintakykyä voidaan parantaa avokuntoutuksella kotiutumisen jälkeen ainakin vuoden ajan)</li>
+<li>Toimintojen varmentuminen ja sujuvoituminen: 1-2 v (aktiivista kuntoutusta jatketaan yleensä niin kauan kuin oleellista toipumista tapahtuu; toimintakykyä voidaan yleensä parantaa avokuntoutuksella kotiutumisen jälkeen ainakin vuoden ajan)</li>
 
   </div>
 </div>
