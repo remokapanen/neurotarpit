@@ -813,7 +813,7 @@ Aivoverenkiertohäiriö (AVH)
 
 ---
 
-Aivoverenkiertohäiriöiden oireiden tunnistaminen opetetaan siivileillekkin BE FAST-muistisäännön (tai ehkä useammin pelkkä FAST) kautta. 
+Aivoverenkiertohäiriöiden oireiden tunnistaminen opetetaan siviileillekkin BE FAST-muistisäännön (tai ehkä useammin pelkkä FAST) kautta. 
 
 <li>B = Balance (Vaikea esim. pysyä pystyssä tai kävellä suoraan)</li>
 <li>E = Eyes (Näkömuutokset)</li>
@@ -867,7 +867,7 @@ Potilastiedoista:
       </ul>
   </ul>
 <li>Potilaan toimintakyky ja omatoimisuus (mRS) ja muut sairaudet (esim. mikä voisi olla taustalla (vaikka eteisvärinää?))</li>
-<li>Onko taustalla aiempi spontaani intrakraniaalinen verenvuoto, GI-kanavan vuoto (3vk sisällä) tai neurokirurginen leikkaus/vaikea aivovamma/laaja aivoinfarkti (3kk sisällä).</li>
+<li>Onko taustalla aiempi spontaani aivoverenvuoto (koskaan), GI-kanavan vuoto (3vk sisällä) tai neurokirurginen leikkaus/vaikea aivovamma/laaja aivoinfarkti (3kk sisällä).</li>
 <li>Onko tiedossa olevaa vakavaa sairautta, jonka takia elinajanodote lyhyt?</li>
 
 ![](images/avhvasta-aiheet.png)
@@ -909,7 +909,7 @@ Jos kyseessä on non-hemorraginen infarkti ja ei ole vasta-aiheita (esim. jo laa
 
 ---
 
-Aivoinfarktin akuuttihoito voidaan nykyään toteuttaa tyypillisen tPA-liuotushoidon sijaan DAPT-hoidolla, jos potilaalla on NIHSS < 5 pistettä ja oireet eivät ole invalidisoivia. Aluksi loudaus ASA 250mg ja klopidogreeli 300mg. Jatkohoito ASA 100mg 1x1 ja klopidogreeli 75mg 1x1 3 vko ajan, jonka jälkeen jatko ensisijaisesti klopidogreeli 75mg 1x1 pysyvästi. 
+Aivoinfarktin akuuttihoito voidaan nykyään toteuttaa tyypillisen tPA-liuotushoidon sijaan DAPT-hoidolla, jos potilaalla on NIHSS < 5 pistettä ja oireet eivät ole invalidisoivia. Aluksi loudaus ASA 250mg ja klopidogreeli 300mg. Jatkohoito ASA 100mg 1x1 ja klopidogreeli 75mg 1x1 3 vko ajan, jonka jälkeen jatko ensisijaisesti klopidogreeli 75mg 1x1 pysyvästi (tietysti jos etiologia on eteisvärinä, niin sekundaaripreventiona AK-hoito). 
 
 ---
 
@@ -943,7 +943,7 @@ Aivoinfarktipotilailta kuvataan useimmiten myös TT-angiografia (usein heti nati
   </button>
   <div class="solution-content">
 
-Tilanne vaikuttaa deliriumilta eli elimellisten tekijöiden aiheuttamaa äkillistä sekavuustilaa. Delirium ilmenee huomio- ja käsityskyvyn häiriönä (tarkkaavuuden häiriönä) ja loogisen ajattelun järjestäytymättömyytenä. Tietoisuus sumenee ja kognitiiviset funktiot heikkenevät äkillisesti. Deliriumiin liittyy usein aistiharhoja ja harha-ajatuksia, uni-valverytmin häiriöitä, psykomotorisen aktiivisuuden muutoksia, desorientaatiota, muistin huononemista ja mielialan vaihteluita. Oireet kehittyvät nopeasti, ja niillä on taipumus vaihdella päivän mittaan.
+Tilanne vaikuttaa deliriumilta, joka tarkoittaa elimellisten tekijöiden aiheuttamaa äkillistä sekavuustilaa. Delirium ilmenee huomio- ja käsityskyvyn häiriönä (tarkkaavuuden häiriönä) ja loogisen ajattelun järjestäytymättömyytenä. Tietoisuus sumenee ja kognitiiviset funktiot heikkenevät äkillisesti. Deliriumiin liittyy usein aistiharhoja ja harha-ajatuksia, uni-valverytmin häiriöitä, psykomotorisen aktiivisuuden muutoksia, desorientaatiota, muistin huononemista ja mielialan vaihteluita. Oireet kehittyvät nopeasti, ja niillä on taipumus vaihdella päivän mittaan.
 
 Deliriumin diagnostiset kriteerit ovat DSM-IV:n ja niiden mukaisen CAM-testin mukaan seuraavat: Potilaalla on delirium, jos alla olevista kriteereistä täyttyvät kohdat 1 ja 2 (pääkriteerit) sekä 3 tai 4.
 
