@@ -624,7 +624,7 @@ Ylemmän (UMN) ja alemman motoneurin (LMN) vaurioiden tärkeimpiä piirteitä ov
 <li>Lihastonus: Spastinen (UMN) / Alentunut (LMN)</li>
 <li>Lihasatrofia: vähäistä ja myöhäisempää (käyttämättömyydestä johtuvaa) (UMN) / enemmän ja aikaisempaa (denervaatiosta johtuvaa) (LMN)</li>
 <li>Lihasfaskikulaatiot: ei todeta (UMN) / yleisiä (LMN)</li>
-<li>Babinski: + eli fleksio eli epänormaali (UMN) / - eli ekstensio eli normaali (LMN)</li>
+<li>Babinski: + eli ekstensio eli epänormaali (UMN) / - eli fleksio eli normaali (LMN)</li>
 
 ---
 

@@ -1776,6 +1776,7 @@ Tajuttomuuden yleisimmät syyt voi muistaa yleisessä käytössä olevasta muist
 <li>I = Infektio (meningiitti, enkefaliitti)</li>
 <li>H = Hypoglykemia (muista mitata!)</li>
 <li>M = Matala verenpaine</li>
+<li>E = Epilepsia</li>
 <li>! = Simulaatio (poissulkudiagnoosi)</li>
   </div>
 </div>
