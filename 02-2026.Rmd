@@ -218,7 +218,7 @@ Muita vaihtoehtoja lihasheikkouksissa tulee aina miettiä mm. psykogeeniset syyt
 
 Anamnestisesti kiinnostaa:
 
-<li>Vaikutus toimintakykyyn? Tämä on tärkeää kysyä aina lihasheikkouspotilailta. Esim. Mihin oirekuva vaikuttaa? Työkyky? Uhreilusuoritukset? Kävelymatka? Portaiden nousu? Puhuminen, nieleminen? Kierrekorkkien avaaminen? Hiusten peseminen? Apuvälineiden tarve?</li>
+<li>Vaikutus toimintakykyyn? Tämä on tärkeää kysyä aina lihasheikkouspotilailta. Esim. Mihin oirekuva vaikuttaa? Työkyky? Urheilusuoritukset? Kävelymatka? Portaiden nousu? Puhuminen, nieleminen? Kierrekorkkien avaaminen? Hiusten peseminen? Apuvälineiden tarve?</li>
 <li>Yleisoireita (väsymys, ruokahaluttomuus, kuumeilu)? </li>
 <li>Onko ollut mitään kohtauksittaisia jaksoja, jolloin olisi ollut mitään merkittäviä heikkouksia tai muita neurologisia oireita?</li>
 <li>Ovatko lihakset pienentyneet etenevästi?</li>

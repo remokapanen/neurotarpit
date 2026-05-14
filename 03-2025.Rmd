@@ -60,7 +60,7 @@ Hoitona on yleensä rekanalisaatiohoidot eli liuotushoito ja/tai trombektomia. A
   </button>
   <div class="solution-content">
   
-AVH:n sekundaripreventio on todella tärkeää varsinkin alkuvaiheissa, koska AVH:n uusiutumisriski on suurimmillaan ensimmäisten päivien ja 
+AVH:n sekundaaripreventio on todella tärkeää varsinkin alkuvaiheissa, koska AVH:n uusiutumisriski on suurimmillaan ensimmäisten päivien ja 
 viikkojen aikana, pitkäaikaisuusintariski 6,4%/vuosi (vaihtelee tietysti etiologian mukaan). Kaikille AVH-potilaille tehdään etiologian mukainen arvio sekundaaripreventiivisestä verenkiertoon vaikuttavasta lääkityksestä ja sen aloitusajankohdasta. 
 
 <li>Jos potilaalla on eteisvärinä, niin AK-hoito on ensisijainen sekundaaripreventiivinen hoito. Nykyään ensisijaisesti käytetään NOAC-lääkitystä (varfariini jos läppäperäinen eteisvärinä). Eteisvärinää pitää aktiivisesti etsiä AVH-potilailta. </li>
@@ -387,6 +387,31 @@ Dopamiiniagonistien yksi tunnetuimmista haittavaikutuksista on impulssikontrolli
 Haittavaikutusten takia hoito dopamiiniagonistit aloitetaan pienellä annokselle hitaasti annosta suurentaen usean viikon kuluessa. 
 
 ![](images/parkinsonlääkkeethaittataulukko.png)
+  </div>
+</div>
+
+### O/V
+
+Jos vapina ei lievity levodopalla puhuu se Parkinsonin tautia vastaan
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+Väärin
+
+---
+
+Hieman nyanssisesti väärin. Vaikka levodopa auttaa monilla vapinaan erittäin hyvin, noin kolmasosa potilaista kärsii vapinasta, joka ei reagoi levodopaan kunnolla, vaikka lääkeannosta nostettaisiin -> levodoparesistentti lepovapina.
+
+Parkinsonin taudin motorisista pääoireista (lepovapina, rigiditeetti, bradykinesia) epävarmin vaste levodopa-hoidolle on juuri vapinalla. Vapinan syntymekanismi on monimutkaisempi ja siihen liittyy dopamiinin lisäksi myös muita aivojen välittäjäainejärjestelmiä (kuten asetyylikoliini ja serotoniini) sekä pikkuaivojen ratoja. 
+
+Tukena levodoparesistensissa vapinassa voidaan käyttää mm. antikolinergista lääkitystä (esim. biperideeni ’Akineton’), mutta huomioitava antikolinergien haitat; ei myöskään sovellu parkinson-dementiassa käytettäväksi. Laiteavusteisina hoitoina tarvittaessa DBS ja Neuro-HIFU, lääkepumpuista ei ole hyötyä, jos vapina on levodoparesistentti. 
+
   </div>
 </div>
 
