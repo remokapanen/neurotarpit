@@ -23,7 +23,7 @@ Toisaalta voidaan todeta tunnon heikentymistä eri ärsykkeille. Usein myös mot
 
 ---
 
-Diagnostinen ketju alkaa anamneesilla ja statuksella. Statuksessa voidaan testata painetuntoa, lämpötuntoa, värinätuntoa, asentotuntoa yms. sekä arvioida allodyniaa (esim. pistetään terävällä puutikulla). Tämä voi jo anamneesin ja mahdollisen altistavan tekijän (esim. leikkaus tai trauma; suurin osa (ehkä kaikki) pitkittyvästä postoperatiivisesta ja posttraumaattisesta kivusta on neuropaattista) kanssa tehdä diagnoosista aika varman. Normaali kliininen status ei kuitenkaan poissulje hermovauriota tai neuropaattista 
+Diagnostinen ketju alkaa anamneesilla ja statuksella. Statuksessa voidaan testata painetuntoa, lämpötuntoa, värinätuntoa, asentotuntoa yms. sekä arvioida allodyniaa (sattuuko normaali ärsyke) ja hyperalgesiaa (esim. pistetään terävällä puutikulla). Tämä voi jo anamneesin ja mahdollisen altistavan tekijän (esim. leikkaus tai trauma; suurin osa (ehkä kaikki) pitkittyvästä postoperatiivisesta ja posttraumaattisesta kivusta on neuropaattista) kanssa tehdä diagnoosista aika varman. Normaali kliininen status ei kuitenkaan poissulje hermovauriota tai neuropaattista 
 kipua. Usein tehdään kuitenkin varmistavia testejä, joista ensimmäinen on ENMG, joka osoittaa paksujen säikeiden vaurion. Jos se jää negatiiviseksi, niin voidaan osoittaa ohuiden säikeiden vaurio lämpökynnysmittauksilla (QST) ja ihobiopsian ohutsäietiheysmittauksella. Joskus on käytössä myös herätevastetutkimuksia, kuten CHEP ja LEP. 
 
 ---

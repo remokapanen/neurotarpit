@@ -175,7 +175,8 @@ Normaalipaineinen hydrokefalia (NPH)
 ALS 
 
 <li>Ala- ja ylämotoneuronin vauriokuva, ei yleensä sensorisia puutoksia. Usein alkaa distaalisista raajoista tai bulbaarisesti (puhe ja nielemisongelmat). Usein kognitiivistakin alentumaa (kuitenkin vain harovin dementiatasoista). </li>
-<li>Ensisijainen diagnostiikkaa tukeva tutkimus on ENMG (todetaan alemman motoneuronin degeneraatiolöydös eli esim. faskikulaatioita, fibrillaatioita) ja sen lisäksi tarvitaan pään ja selkäytimen MRI muiden sairauksien poissulkemiseksi (MRI on usein normaali ALS:ssa)</li>
+<li>Ensisijainen diagnostiikkaa tukeva tutkimus on ENMG (todetaan alemman motoneuronin degeneraatiolöydös eli esim. fibrillaatioita) ja sen lisäksi tarvitaan pään ja selkäytimen MRI muiden sairauksien poissulkemiseksi (MRI on usein normaali ALS:ssa)</li>
+<li>Kyseessä voisi myös olla esim. PLS (primaarinen lateraaliskleroosi), joka on motoneuronisairaus, jossa vain ylämotoneuronit vaurioituvat.</li>
 
 ---
 
