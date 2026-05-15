@@ -933,8 +933,8 @@ Amyotrofisen lateraaliskleroosin (ALS) ensisijainen diagnostiikkaa tukeva tutkim
 
 ENMG:ssä todetaan alemman motoneuronin degeneraatiolöydös. Usein tarvitaan kontrolli-ENMG (löydösten ollessa niukat, ENMG voidaan uusia 3–6 kuukauden kuluttua).
 
-<li>Faskikulaatioita, aaltojen polyfasiaa</li>
-<li>Denervoituneissa lihaksissa fibrillaatioita</li>
+<li>Aaltojen polyfasiaa</li>
+<li>Denervoituneissa lihaksissa fibrillaatioita ja suuriamplitudisia motorisen yksikön aktiopotentiaaleja (large amplitude MUAPs)</li>
 <li>Normaalit johtonopeudet (ei siis ole demyelinaatiohäiriö)</li>
 <li>Muutoksia usein oireettomissakin lihaksissa</li>
 
