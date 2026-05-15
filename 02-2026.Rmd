@@ -1483,3 +1483,404 @@ Väärin
 Vaikka kuntoutusprosessi ja siihen liittyvä arviointi alkavat jo erikoissairaanhoidossa (akuuttivaiheen neurologisella osastolla tai AVH-yksikössä), kuntoutussuunnitelman laatiminen ja päivittäminen eivät rajoitu vain sinne. Varsinkin jos potilas siirtyy jatkokuntoutukseen terveyskeskussairaalaan tai muuhun kuntoutusyksikköön, varsinainen pitkän aikavälin kuntoutussuunnitelma tehdään usein siellä.
   </div>
 </div>
+
+## Blokki 4 
+
+### Huimauksen selvittely
+
+Toimit keskussairaalan päivystäjänä. Illalla ensihoito tuo potilaan arvioon voimakkaan huimauksen, pahoinvoinnin ja tasapainovaikeuksien vuoksi. Potilas on 49-vuotias mies, jolla on jo vuosia ollut kohonneen verenpaineen hoitoon käytössä Losartan 50 mg x 1. Ei tiedossa muita pitkäaikaissairauksia. Oireisto on alkanut noin viisi tuntia sitten. Tuolloin potilas istui sohvalla paikallaan kännykkää selailemassa, kun hänelle alkoi varsin nopeasti, oman arvionsa mukaan minuutissa tai parissa, kehittyä voimakasta kiertohuimausta ja pahoinvointia. Ympäristöstä tukea ottaen hän on kaatumatta päässyt vessaan ja käynyt oksentamassa muutaman kerran. Muilta osin hän on lähinnä maannut paikallaan odottaen oireiston helpottamista, mutta sen jatkuessa samanlaisena päätynyt lopulta soittamaan hätänumeroon. Tapaat edelleen huimaavan ja pahoinvoivan potilaan makaamassa paikallaan oikealla kyljellään ja huomaat heti ensimmäisenä hänellä olevan jatkuva spontaani oikealle lyövä horisontaalistorsionaalinen nystagmus. 
+
+
+- a. Mitkä ovat kaksi keskeisintä diagnoosivaihtoehtoa tässä tilanteessa? (2 p) 
+- b. Mitkä ovat keskeisimmät kliiniset statustutkimukset, joilla jatkat tilanteen selvittelyä ja miten tulkitset niiden löydöksiä? (4 p) 
+
+<div class="">
+  <button class="solution-button"
+          data-label="a"
+          data-hide-label="a - Piilota vastaus">
+    a
+  </button>
+  <div class="solution-content">
+
+Jatkuva huimaus ja spontaani nystagmus -> kyseessä on akuutti vestibulaarisyndrooma (AVS), joka sisältää keskeisinä erotusdiagnostisina vaihtoehtoina sentraalisen syyn (pääasiassa akuutissa tilanteessa takakierron aivoverenkiertohäiriön) ja vestibulaarineuriitin. Molemmat niistä voivat aiheuttaa nopeasti kehittyvää ja jatkuvaa huimausta sekä jatkuvaa ja spontaania nystagmusta sekä pahoinvointia ja oksentelua, kuten tässäkin tapauksessa.
+  </div>
+</div>
+
+<div class="">
+  <button class="solution-button"
+          data-label="b"
+          data-hide-label="b - Piilota vastaus">
+    b
+  </button>
+  <div class="solution-content">
+
+Statuksessa on tärkeää selvitellä heti, voisiko ilmentyä jotain selkeitä sentraaliseen syyhyn viittaavia löydöksiä, kuten fokaalisia neurologisia puutoksia (esim. pareesit), merkittävää päänsärkyä/kaulasärkyä (aivoverenvuoto tai kaulavaltimodissekaatio), kaatavia kävelyongelmia, ns. takakierron deadly D's eli dysartria, dysfonia, dysfagia, dysdiadokokinesia, diplopia tai dyskonjugaatio. Jos ei ole selkeää viitettä näiden perusteella sentraalisesta syystä, niin tulee suorittaa HINTS plus-statustutkimuspatteristo, jonka perusteella voidaan yleensä tarkasti poissulkea sentraalinen syy. 
+
+HINTS plus koostuu sen nimensä mukaisesti HI-testistä eli head impulse -testistä (pään nykäisytesti), jossa normaali löydös (eli ei havaita silmien korjaavaa sakkadiliikettä) on AVS-potilaalla huolestuttava merkki ja viittaa mahdolliseen sentraaliseen etiologiaan. N-osa viittaa nystagmukseen, eli arvioidaan, onko nystagmus vertikaalista (viittaisi sentraaliseen) vai onko se bidirektionaalista (eli nystagmuksen suunta vaihtuu ääriasennoissa; viittaisi sentraaliseen; vestibulaarineuriitissa taas nystagmus on unidirektionaalista horisontaalista kohti tervettä puolta). Sitten TS-osa viittaa test of (vertical) skew-testiin eli piilotetaan potilaan toinen silmä käden alle ja arvioidaan se taas paljastaessa, nähdäänkö silmän vertikaalista virheasentoa ja paljastamista seuraavaa vertikaalista korjausliikettä (viittaisi sentraaliseen syyhyn; pelkästään horisontaalinen ei ole suoraan huolestuttava). Plus-osio tarkoittaa kuulon testaamista bedside (onko siis uutta kuulonalenemaa -> viittaisi sentraaliseen syyhyn). Kuulon testaaminen (Esim. sormien hankaaminen korvan lähellä -> kuuleeko normaaliin tapaan ja symmterisesti) on lisätty klassiseen patteristoon sen takia, että saataisiin paremmin kiinni AICA-infarkteja. 
+
+Jos HINTS plus on negatiivinen sentraalisen syyn puolesta (eli HI havaitaan sakkadi, nystagmus ei ole bidirektionaalista/vertikaalista, ei havaita vertikaalista virheasentoa/korjausta TS:ssä ja kuulossa ei ole muutosta), niin on sentraalinen syy luotettavasti poissuljettu AVS-potilaalta. 
+
+![](images/vertigoalgo.png)
+  </div>
+</div>
+
+### Aivoiskemia vai epileptinen kohtaus? 
+
+- a. Anna molemmille määritelmä. (1 p)
+- b. Kuvaile potilaan oirekuva, jossa aivoiskemian ja epileptisen kohtauksen erottaminen voi olla haastavaa. Perustele miksi, ja kerro mitä hyödynnät tilanteessa erotusdiagnostiikan apuna sairaalapäivystyksessä. (3 p)
+
+<div class="">
+  <button class="solution-button"
+          data-label="a"
+          data-hide-label="a - Piilota vastaus">
+    a
+  </button>
+  <div class="solution-content">
+
+Aivoiskemia tarkoittaa aivokudoksen hapen puutetta alueen heikosta verenkierrosta johtuen. Epileptinen kohtaus taas tarkoittaa poikkeuksellisen aivojen sähköisen purkaustoiminnan aiheuttamaa kohtausta, joka voi ilmentyä monella eri tavalla, kuten vaikka kouristeluina.
+  </div>
+</div>
+
+<div class="">
+  <button class="solution-button"
+          data-label="b"
+          data-hide-label="b - Piilota vastaus">
+    b
+  </button>
+  <div class="solution-content">
+
+Varsinkin ensikouristajilla voi aivoiskemian ja epileptisen kohtauksen erottaminen olla vaikeaa, koska ensikouristajalla ei ole tiedossa hänelle stereotyyppisiä kohtauksia, joiden avulla voitaisiin päätellä, että kyseessä on taas hänelle tyypillinen epileptinen kohtaus. Esimerkiksi vaikka epileptisen kohtauksen sairastaneella potilaalla voi olla kouristuksen jälkeinen ns. Toddin pareesi, jossa kouristanut raaja on heikko kouristuksen jäljiltä, kuten voisi hyvinkin tapahtua aivoiskemiankin aiheuttamana. 
+
+Erotusdiagnostiikassa on todella tärkeää kerätä hyvä anamneesi ja kohtauskuvaus (myös silminnäkijää hyödyntäen). Millaisia oireita oli ennen kohtausta (epileptisissä kohtauksissa voi olla mahdollisesti joitain auraoireita, kuten vaikka outoja aistimuksia tai deja-vu), kohtauksen aikana ja millaisia oireita sen jälkeen (post-iktaalinen tila viittaa vahvasti epileptiseen kohtaukseen); tämä auttaa myös synkopeekohtauksen erottelussa. Kuinka nopeasti oireet tulivat (epilepsiassa voi olla ns. marching-ilmiötä, kun taas AVH:ssa oireet yleensä heti vahvat).
+
+Tulee selvittää mahdolliset altistavat tekijät (epileptiselle kohtaukselle esimerkiksi runsas alkoholinkäyttö sekä vieroitus siitä, muut huumeet, kouristuskynnystä alentavat lääkkeet (Esim. bupropioni tai klotsapiini) merkittävät rasitustilat ja pitkä valvominen, sukuhistoria, infektio-oireisto, toiminnallisissa kohtauksissa psykiatrinen ja sosiaalinen tausta; aivoiskemiassa yleiset verisuoniriskitekijät, kuten alkoholi, tupakointi, ylipaino, kuorsaus, uniapnea, hyperlipidemia, diabetes, korkea verenpaine yms. sekä myös tietysti embolisia ongelmia ajatellen esim. eteisvärinä). 
+
+Neurologinen status ja yleisstatus (vamman merkit, esim. puremajäljet lateraalisesti kielessä viittaa epileptiseen kohtaukseen; samoin virtsainkontinenssin merkit) on myös tärkeä tietysti. Jos potilaalla on katsedeviaatiota, niin strokessa deviaatio on yleensä hemipareesin toiselle puolelle (katsoo vaurioon), kun taas epileptisen kohtauksen aikana se voi olla hemipareesin puolelle. 
+
+Epäselvissä tilanteissa ja muutenkin aina ensikouristajilta otetaan aina pään TT päivystyksessä (samoin tietysti, jos AVH-epäily). Se auttaa myös aivoiskemian ja aivoverenvuotojen tutkimisessa (iskeemisiä muutoksia ei akuuttivaiheessa aina tule heti esille eikä tulekaan, jos kyseessä oli TIA). Tarvittaessa sitten aivoiskemiaa epäiltäessä myös yleensä TT-angiografia. EKG ja telemetriaseuranta kuuluu myös aina päivystyksellisiin tutkimuksiin. Samoin labrat, kuten gluk (erityisen tärkeä ja otetaankin yleensä nopeasti), pvk, na, k, ca, krea, astrup, ck, alat, alkoholia epäiltäessä puhallus, peth, gt, alat, huumeita epäiltäessä u-huum. EEG voidaan ottaa myös päivystyksessä, jos potilas jatkaa kouristelua tai kouristaa uudestaan, mutta yleensä sitä tarvitaan vasta epileptisten kohtausten jatkoselvittelyssä polikliinisesti (yleensä siellä myös MRI). 
+
+
+  </div>
+</div>
+
+### Kaksoiskuvia ja puheen epäselvyyttä
+
+24v. nainen, jolla ei todettuja sairauksia, hakeutuu terveyskeskuksessa kiireettömälle vastaanotollesi. Hän kertoo, että edeltävän kahden kuukauden ajan on huomannut kaksoiskuvia ja puheen epäselvyyttä, joka esiintyvät iltaa kohdin. Aamuisin oireita ei ole esiinny. Oirekuva esiintyy lähes päivittäin. Potilas on myös huomannut, että aiemmin helposti onnistunut 10 km juoksulenkki ei enää samanlailla onnistu. Klo 9 vastaanotolla neurologinen status on normaali. Asiallinen potilas, puhe on selkeää, mimiikka intakti. Silmien liikkeet laajat, ei kaksoiskuvia, ei nystagmusta, ei kaksoiskuvia. Lihasvoimat kertatestauksissa normaalit, toistotestauksissa ylä- ja alaraajoissa ei poikkeavaa väsymistä. Sensoriikka normaalia. Jännevenytysheijasteet ovat normaalit, Babinski -/-. 
+
+- a. Työdiagnoosisi? (0,5p)
+- b. Vastaanottoaikasi on jo täynnä. Tee lyhyt yhteenveto potilaalle tilanteesta ja jatkosuunnitelmasta (ml. työdiagnoosin mekanismi oireiden taustalla ja tarvittavat jatkotutkimukset pth/esh). Mitä sanot? (1,5p)
+
+<div class="">
+  <button class="solution-button"
+          data-label="a"
+          data-hide-label="a - Piilota vastaus">
+    a
+  </button>
+  <div class="solution-content">
+
+Myastenia gravis. Sille on tyypillistä diurnaalinen eli päivän mittaa paheneminen oireissa ja se yleensä juuri alkaa potilaan tapaan okulaarisesti (diplopia ja ptoosi) ja usein myös bulbaarisesti (puheen epäselvyys ja väsyminen). Potilas voi olla oireeton aamuisin. Sensoriikka ja refleksit ovat normaalit tyypilliseen tapaan. 
+
+  </div>
+</div> 
+
+<div class="">
+  <button class="solution-button"
+          data-label="b"
+          data-hide-label="b - Piilota vastaus">
+    b
+  </button>
+  <div class="solution-content">
+
+Sanon potilaalle, että kyseessä voi olla monia syitä ja sen takia otetaan laajalti labroja (esim. PVK, CRP, TSH, Na, K, Ca, Krea, gluk, D-25, ALAT). Taustalla saattaa kuitenkin myös olla myasthenia gravis -niminen hermo-lihasliitoksen autoimmuunisairaus, jonka takia tehdään myös lähete neurologian poliklinikalle jatkoselvittelyihin. Siellä sitten otetaan mahdollisesti myasthenia-ENMG ja ACHRAb-vasta-ainemittaus jatkoselvittelyinä. Jos myasthenia todetaan, niin thx-tt tymooman selvittelynä yleensä jatkossa. Mahdollisesti ainakin aikaisemmin on käytetty edrofoni eli tensilon-testiä, jossa oireet paranevat sen annostelun jälkeen, mutta käyttö on vähentynyt. 
+
+Myasthenia gravis siis on autoimmuunisairaus, jossa on vasta-aineita hermo-lihasliitoksen synapsinjälkeisiä asetyylikoliinireseptoreita vastaan ja tämän takia lihas-hermoliitos väsyy toistossa. Tämä aiheuttaa oireiden pahenemisen päivän mittaan. Yleensä se alkaa juuri potilaan tavoin silmistä ja aiheuttaa siellä kaksoiskuvia ja riippuluomea. Se voi myös affisioida bulbaarisesti ja aiheuttaa puheen väsymistä, mikä aiheuttaa potilaan puheen epäselvyyden. Juoksulenkilläkin väsyy helpommin. Nyt ei statuksessa tule selkeää esiin, koska potilaan oirekuva ei ole vielä merkittävästi raajojen alueella (voitaisiin kylläkin tehdä testit, joissa potilas katsoo pitkään ylöspäin tai räpyttelee runsaasti ja näin indusoida okulaarisia oireita). 
+  </div>
+</div> 
+
+### Aivovammat
+
+- a. Luettele keskeiset esitiedot ja tutkimukset aivovammapotilaan päivystysarviossa. (2 p)
+- b. Mihin luokituksiin aivovamman vaikeusaste luokitellaan akuuttivaiheessa ja mitkä keskeiset tekijät vaikuttavat vaikeusasteen arviointiin ja miten? (2 p)
+- c. Mitkä ovat tavallisia lievän aivovamman oireita ja miten hoidat niitä? (2 p)
+
+<div class="">
+  <button class="solution-button"
+          data-label="a"
+          data-hide-label="a - Piilota vastaus">
+    a
+  </button>
+  <div class="solution-content">
+
+Aivovammapotilaalta tulee aina selvittää yleisesti mitä on tapahtunut. Miten satutti itsensä (vammaenergian ja mahdollisten liitännäisvammojen arvio)? Oliko päihtyneenä? Onko ennen ollut vammoja? Oliko mitään esioireita? Viitteitä kouristelusta? Mitä muistaa tapahtumasta? Mitä oireita vamman jälkeen? Mitä muita sairauksia potilaalla on? Mitä lääkityksiä, varsinkin antikoagulatiivisia tai antitromboottisia? Aikaisempi toimintataso?
+
+Tulisi myös mahdollisuuksien mukaan saada silminnäkijältä kuvaus tilanteesta, koska potilaat eivät usein muista tilannetta tarkasti. 
+
+Aivovammapotilailta tulee myös aina arvioida, onko kallon tai sen pohjan murtumia (pään palpaatio, brillen hematoomat, proc mastoideuksen mustelma, likvorvuoto, hemotympanum), muita vammoja, onko päihtymistila yllä vielä? Muita neurologisia oireita? 
+
+Aivovammapotilailta tulisi aina vähintään selvittää GCS, PTA (post-traumaattinen amnesia) ja tajuttomuuden kesto ja kirjata nämä. Tietysti ensimmäisenä aina ABC-arvio. PTA voidaan arvioida monella tavalla (esim. vaikka pyytää potilasta kuvailemaan tapahtumia kronologisessa järjestyksessä vamman jälkeen ja sitten vielä pyytää häntä muistamaan kolme sanaa; myöhemmin tulee testaamaan saman taas ja pyytää potilasta toistamaan annetut sanat), mutta se määritellään siten, että se on aika vammasta siihen saakka, kunnes potilas pystyy taas muodostamaan yhtenäisiä muistikuvia. Tajuttomuuden kestossa silminnäkijäarvio on tärkeä, koska tajuton potilas ei helposti tiedä kuinka kauan itse oli tajuttomana, varsinkaan jos vammaan liittyy retrogradista amnesiaa. 
+
+Usein potilaalta katotaan peruslabroja (pvk, na, k, krea, crp, gluk) ja tarvittaessa sitten muutakin (Esim. jos merkittävää infektio-oireilua ja epäilee CNS-infektiota niin likvor). EKG ja telemetriaseuranta yleensä myös. Pään TT:tä ei aina rutiinisti tarvita, jos ei ole siihen indikaatioita (voi seurata Käypä Hoidon aivovamma-ohjeistuksen algoritmia sen suhteen).
+
+  </div>
+</div> 
+
+<div class="">
+  <button class="solution-button"
+          data-label="b"
+          data-hide-label="b - Piilota vastaus">
+    b
+  </button>
+  <div class="solution-content">
+
+Aivovamman vaikeusaste voidaan määrittää kliinisesti GCS:n, PTA:n ja tajuttomuuden keston perusteella.
+
+Lievässä aivovammassa GCS on 13-15 puoli tuntia vammasta ja koko seurannan ajan, PTA on korkeintaan 24h ja tajuttomuus on korkeintaan 30 minuuttia. Jos kuvantaminen on tehty, niin pienet löydökset ovat mahdollisia.
+
+Keskivaikeassa aivovammassa GCS on 9-12 puoli tuntia vammasta, PTA on korkeintaan viikon ja tajuttomuus on korkeintaan 24h.
+
+Vaikeassa aivovammassa GCS on 8 puoli tuntia vammasta, PTA on yli viikon ja tajuttomuus on yli 24 tuntia. 
+
+![](images/aivovammaluokittelu.png)
+![](images/aivovammavaikeusaste.png)
+  </div>
+</div> 
+
+<div class="">
+  <button class="solution-button"
+          data-label="c"
+          data-hide-label="c - Piilota vastaus">
+    c
+  </button>
+  <div class="solution-content">
+
+Lievän aivovamman jälkeen voi olla oireita pitkäänkin, usein kuitenkin vain korkeintaan muutamia viikkoja, mutta joillain jopa monia kuukausia. Yleisimpiä oireita varsinkin akuuttivaiheessa ovat väsymys ja runsas unen määrä, päänsärky, epäspesifit kognitiiviset oireet (vaikea keskittyä yms) ja ärtyneisyys.
+
+Näiden hoidossa yleensä tärkeää on vain ohjeistaa potilasta palauttamaan toimintatasoaan hitaasti normaalille tasolleen ja levätä tarpeen mukaan runsaasti. Liiallista rasitusta kannattaa välttää. Omasta nesteytyksestä ja riittävästä ravinnosta kannattaa huolehtia. Päänsärkyyn parasetamolia ensisijaisesti.
+
+Usein työkuvasta riippuen kirjoitetaan muutama päivä - kaksi viikkoa sairaslomaa, mutta jos oireita on vielä 2 viikon kohdalla (eikä mitään uutta punaista lippua), niin voidaan kyllä jatkaa sairaslomaa 1kk asti, jonka jälkeen oireiden pitkittyessä potilas kyllä kuuluu neurologian aivovammapoliklinikan arvioon. Masennus voi olla mahdollinen jälkioire, tämän hoito mahdollisesti jopa lääkityksellinen oreiden pitkittyessä. 
+
+Ajokieltoa kannattaa antaa lievissä vammoissa R1 1kk ajan. 
+
+  </div>
+</div> 
+
+### Nopeasti pahentunut selkäkipu ja kävelyvaikeus
+
+62-vuotias työelämässä oleva nainen saapuu terveyskeskuksen vastaanotolle. Hänellä on anamneesissa lakunaarinen aivoinfarkti vasemmalla tyvitumakealueella, josta ei jäännösoireita, hyperkolesterolemia, verenpainetauti ja sepelvaltimotauti. Lääkitys atorvastatiini 20mg x1, klopidogreeli 75mg x1, bisoprololi 5mg x1 ja ramipriili 5mg x1. Nyt hakeutunut vastaanotolle kävelyvaikeuden vuoksi. Noin 2 viikkoa sitten alkanut pistely molemmissa jalkaterissä sekä kipu alaselässä, sittemmin myös käsissä. Nyt viimeisen parin päivän aikana kävely muuttunut vaikeaksi. Statuksessa toteat aivohermostatuksen normaaliksi, yläraajoissa voimat normaalirajoissa. Alaraajoissa heikkoutta: kyykystä ylös noustessa joutuu ottamaan tuolista tukea, kanta- ja päkiäkävely ei onnistu. Ei selviä sensorisia puutoksia. Jännevenytysheijasteet eivät tule esiin, babinskit fleksiot. Periferia lämmin ja pulssit palpoituvat normaalisti. 
+
+- a. Työdiagnoosi ja jatkosuunnitelma? Vastaa lyhyesti ja perustele. (2 p)
+- b. Kirjoita lähete ensisijaiseksi arvioimaasi RAD/KNF/KLF-tutkimukseen. (2 p)
+- c. Minkälaisia tuloksia odotat saavasi tästä tutkimuksesta? (2 p) 
+
+<div class="">
+  <button class="solution-button"
+          data-label="a"
+          data-hide-label="a - Piilota vastaus">
+    a
+  </button>
+  <div class="solution-content">
+
+Nopeasti alkanut ja nousevasti etenevä sensorimotorinen oireisto herättää epäilyn Guillain-Barrén oireyhtymästä (GBS). Sille on tyypillistä nopeasti alkava oireisto, johon kuuluu sensoristen oireiden (kuten juuri pistely) lisäksi pääoireena yleensä alaraajoista nouseva lihasheikkous. Usein mukana on myös selkäkipua. Jännevenytysheijasteet myös yleensä nousevasti muuttuvat negatiivisiksi, tyypillisesti akillesheijasteista alkaen. 
+
+Koska kyseessä on immuunivälitteinen polyradikuliitti (taustalla yleensä hengitysteiden ja GI-kanavan infektio pari viikkoa edeltävästi; yleisin on C. jejuni, muita mm. EBV, influenssa, CMV, mykoplasma), niin on ääreishermojen affisioitumista ja babinskit ovat fleksiot eli negatiiviset. Pulssistatus on normaali, koska kyseessä on ääreishermoston ongelma. 
+
+GBS-potilaat tulee lähettää päivystykseen, koska se voi nopeasti edetä hengityslihasten heikkouteen ja siten muodostua hengenvaaralliseksi. Päivystyksessä sitten otetaan yleensä peruslabroja (mahdollisesti myös etiologisia selvittelyjä), likvor (proteiinit merkittävästi koholla ja vain lievä valkosolujen kohoaminen (<50) eli albuminosytologinen dissosiaatio), ENMG (ääreishermoston vaurioitumisen merkit yleensä tässä 2-3vk kohdalla havaittavissa) ja usein myös MRI poissulkemaan muita aiheuttajia. Hengitystoimintaa seurataan vähintään parin tunnin välein PEF-mittauksilla. 
+
+Hoidossa yleensä IVIG tai vaikeissa tapauksissa plasmafereesi. 
+  </div>
+</div> 
+
+<div class="">
+  <button class="solution-button"
+          data-label="b"
+          data-hide-label="b - Piilota vastaus">
+    b
+  </button>
+  <div class="solution-content">
+
+62-vuotias työelämässä oleva nainen, anamneesissa lakunaarinen aivoinfarkti vasemmalla tyvitumakealueella, josta ei jäännösoireita, hyperkolesterolemia, verenpainetauti ja sepelvaltimotauti. Lääkitys atorvastatiini 20mg x1, klopidogreeli 75mg x1, bisoprololi 5mg x1 ja ramipriili 5mg x1.
+
+Nyt hakeutunut vastaanotolle kävelyvaikeuden vuoksi. Noin 2 viikkoa sitten alkanut pistely molemmissa jalkaterissä sekä kipu alaselässä, sittemmin myös käsissä. Nyt viimeisen parin päivän aikana kävely muuttunut vaikeaksi.
+
+Statuksessa aivohermostatus normaali, yläraajoissa voimat normaalirajoissa. Alaraajoissa heikkoutta: kyykystä ylös noustessa joutuu ottamaan tuolista tukea, kanta- ja päkiäkävely ei onnistu. Ei selviä sensorisia puutoksia. Jännevenytysheijasteet eivät tule esiin, babinskit fleksiot. Periferia lämmin ja pulssit palpoituvat normaalisti. 
+
+p.k. alaraajojen ENMG. Onko GBS viittaavaa? 
+
+  </div>
+</div> 
+
+<div class="">
+  <button class="solution-button"
+          data-label="c"
+          data-hide-label="c - Piilota vastaus">
+    c
+  </button>
+  <div class="solution-content">
+
+Potilaalla on jo ollut oireita 2vk, joten ENMG:ssä voitaisiin odottaa mahdollisesti jo näkyvän muutoksia. GBS vaurioittaa niin sensorisia kuin motorisia ääreishermoja demyelinoivasti, joten voidaan havaita neurografiassa impulssin hidastumista (aksonivauriossa taas olisi amplitudin alenemista). Mahdollisesti voi olla demyelinaatiosta johtuen johtumiskatkoksia. Vaikeimmissa tapauksissa jopa fibrillaatioita lihaksissa EMG:ssä. GBS:n akuuttivaiheessa nämä muutokset eivät aina tule esille (ENMG yleensä osoittaa vasta 2-3vk kohdalla), mutta ensimmäisiä piirteitä ennen muita voisi olla esim. F-vasteiden väheneminen ja pidentyminen. 
+
+  </div>
+</div> 
+
+### O/V
+
+Parkinsonin taudissa todetaan kiihtyneet refleksit
+
+- a. Oikein
+- b. Väärin
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+Väärin 
+
+---
+
+Parkinsonin taudissa jänneheijasteet ovat yleensä normaalit. Parkinsonin tauti on ekstrapyramidaalinen liikehäiriö, eikä siihen kuulu pyramidiradan vaurion merkkejä kuten kiihtyneitä refleksejä.
+
+  </div>
+</div> 
+
+### O/V
+
+Dopamiiniagonistit voivat aiheuttaa impulssikontrollihäiriöitä
+
+- a. Oikein
+- b. Väärin
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+Oikein 
+
+---
+
+Dopamiiniagonistien yksi tunnetuimmista haittavaikutuksista on impulssikontrollin häiriöt, esim. hallitsematon uhkapelaaminen tai hyperseksuaalisuus. Muita tunnetuimpia haittoja ovat: 
+
+<li>pahoinvointi, oksentelu</li>
+<li>ortostaattinen hypotensio</li>
+<li>perifeeriset turvotukset</li>
+<li>uneliaisuus (jopa äkilliset nukahtamiskohtaukset)</li>
+<li>muut psykiatriset oireet (hallusinaatiot, psykoosit)</li>
+
+---
+
+Haittavaikutusten takia hoito dopamiiniagonistit aloitetaan pienellä annokselle hitaasti annosta suurentaen usean viikon kuluessa. 
+
+![](images/parkinsonlääkkeethaittataulukko.png)
+
+  </div>
+</div> 
+
+### O/V
+
+Ummetus, REM-unen aikaiset käytöshäiriöt ja hajuaistin heikkeneminen ovat yleisiä prodromaalioireita Parkinsonin taudissa
+
+- a. Oikein
+- b. Väärin
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+Oikein 
+
+---
+
+Ennakko-oireina on voinut jopa 20 vuotta ennen motorisia oireita ilmentyä mm. ummetusta, hajuaistin heikentymistä, REM-unen käyttäytymishäiriötä, päiväaikaista väsymystä ja lihaskipuja.
+
+![](images/parkinsontimeline.png)
+  </div>
+</div> 
+
+### O/V
+
+Parkinsonin taudin näköharhojen hoidossa rauhoitetaan tilanne ensin neuroleptillä
+
+- a. Oikein
+- b. Väärin
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+Väärin 
+
+---
+
+Parkinsonlääkkeiden käyttöön liittyy usein psykoosioireita (kuten näköhäiriöitä), mutta näiden hoitoon ei saa koskaan antaa perinteisiä neuroleptejä.
+
+<li>Neuroleptit toimivat dopamiinireseptorien antagonisteina ja kumoavat Parkinson-lääkityksen vaikutuksen, joka nyt johtanut potilaalla lisääntyneisiin motorisiin oireisiin</li>
+<li>Pahimmillaan antipsykootit aiheuttavat malignin neuroleptioireyhtymän, jolle on tyypillistä vahva lihasjäykkyys, kuume, rabdomyolyysi ja enkefalopatia. Voi olla hengenvaarallinen. </li>
+<li>Ensisijaisesti parkinsonlääkkeiden käyttöön liittyviä psykoosioireita voi hoitaa vähentämällä lääkkeitä ja karsimisessa noudetaan yleensä tiettyä järjestystä (antikolinergit -> amantadiini -> dopamiiniagonistit (potilaalla pramipeksoli) -> MAO-B-estäjät -> vasta viimeisenä levodopan ja sen tukilääkkeiden (dopadekarboksylaasin estäjät / COMT-estäjät) muutokset). Voidaan siis miettiä pramipeksolin hidasta vähentämistä ja kompensatorista levodopan nostoa, mutta neurologin konsultaation perusteella vain.</li>
+<li>Joskus lääkitystä ei voida vähentää tarpeeksi ilman, että potilas jähmettyy täysin vuoteeseen. Tällöin joudutaan harkitsemaan 2. sukupolven psykoosilääkityksen aloittamista Parkinson-lääkityksen rinnalle. Käytännössä käytetään vain kahta lääkettä: ketiapiini (käytännössä ainoa sallittu PTH) ja klotsapiini (ESH:n käytössä) ja näitäkin yleensä pienillä annoksilla.</li>
+ 
+  </div>
+</div> 
+
+### O/V
+
+Syväaivostimulaatiohoitoa voidaan käyttää vaikeaoireisen Parkinsonin taudin ja essentiaalin vapinan hoidossa
+
+- a. Oikein
+- b. Väärin
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+Oikein 
+
+---
+
+Tarvittaessa lääkehoitojen ollessa riittämättömiä voidaan tukeutua neuromodulaatiohoitoihin, kuten juuri DBS tai neuro-HIFU. 
+
+  </div>
+</div> 
+
+### O/V
+
+Levottomien jalkojen diagnoosi tehdään yöpolygrafian perusteella
+
+- a. Oikein
+- b. Väärin
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+
+Väärin 
+
+---
+
+RLS:n diagnostiikka perustuu ensisijaisesti anamneesiin (Diagnostinen kysymys: "Kun illalla yrität rentoutua tai nukahtaa illalla tai yöllä, onko sinulla koskaan epämiellyttäviä, levottomia tuntemuksia jaloissasi, jotka helpottuvat, kun liikutat jalkojasi tai kävelet?”) ja sekundaaristen syiden poissulkuun (esim. ferrit, polyneuropatia, tsh). Kliinisessä tutkimuksessa neurologinen status on normaali. Jos taas olisi esim. polyneuropatiaa oireiden taustalla -> värinätunto poikkeava, akillesrefleksit uupuvat, sukkamaiset tuntemukset.
+
+Yöpolygrafiaa saatetaan tarvita samanaikaisen uniapnean poissulkemiseen tai jaksottaisen raajaliikehäiriön (PLMD) todentamiseen tarvittaessa. 
+  </div>
+</div> 
