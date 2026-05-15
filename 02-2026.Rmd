@@ -1704,7 +1704,7 @@ Nyt hakeutunut vastaanotolle kävelyvaikeuden vuoksi. Noin 2 viikkoa sitten alka
 
 Statuksessa aivohermostatus normaali, yläraajoissa voimat normaalirajoissa. Alaraajoissa heikkoutta: kyykystä ylös noustessa joutuu ottamaan tuolista tukea, kanta- ja päkiäkävely ei onnistu. Ei selviä sensorisia puutoksia. Jännevenytysheijasteet eivät tule esiin, babinskit fleksiot. Periferia lämmin ja pulssit palpoituvat normaalisti. 
 
-p.k. alaraajojen ENMG. Onko GBS viittaavaa? 
+p.k. ENMG. Onko GBS viittaavaa? 
 
   </div>
 </div> 
