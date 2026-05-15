@@ -1638,7 +1638,7 @@ Lievässä aivovammassa GCS on 13-15 puoli tuntia vammasta ja koko seurannan aja
 
 Keskivaikeassa aivovammassa GCS on 9-12 puoli tuntia vammasta, PTA on korkeintaan viikon ja tajuttomuus on korkeintaan 24h.
 
-Vaikeassa aivovammassa GCS on 8 puoli tuntia vammasta, PTA on yli viikon ja tajuttomuus on yli 24 tuntia. 
+Vaikeassa aivovammassa GCS on 8 tai alle puoli tuntia vammasta, PTA on yli viikon ja tajuttomuus on yli 24 tuntia. 
 
 ![](images/aivovammaluokittelu.png)
 ![](images/aivovammavaikeusaste.png)
